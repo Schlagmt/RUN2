@@ -1,0 +1,4090 @@
+[
+  {
+    "Latitude": 39.24912979826331,
+    "Longitude": -84.38657314516604,
+    "Elevation": 254.8000030517578,
+    "Time": "05/13/2022, 10:22:49",
+    "Speed": 1.9347851620363203,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.24912745133042,
+    "Longitude": -84.38658487983048,
+    "Elevation": 254.39999389648438,
+    "Time": "05/13/2022, 10:22:50",
+    "Speed": 3.4895994838253928,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.2491215839982,
+    "Longitude": -84.38660499639809,
+    "Elevation": 254.39999389648438,
+    "Time": "05/13/2022, 10:22:51",
+    "Speed": 4.4293329831924835,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.24910197034478,
+    "Longitude": -84.38668353483081,
+    "Elevation": 254.1999969482422,
+    "Time": "05/13/2022, 10:22:54",
+    "Speed": 5.047983489949119,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.24909585155547,
+    "Longitude": -84.38671412877738,
+    "Elevation": 254.1999969482422,
+    "Time": "05/13/2022, 10:22:55",
+    "Speed": 5.154082303046583,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.2490888107568,
+    "Longitude": -84.38674497418106,
+    "Elevation": 253.60000610351562,
+    "Time": "05/13/2022, 10:22:56",
+    "Speed": 5.012118144145499,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.249083027243614,
+    "Longitude": -84.3867754843086,
+    "Elevation": 254.1999969482422,
+    "Time": "05/13/2022, 10:22:57",
+    "Speed": 5.003111635261694,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.249079674482346,
+    "Longitude": -84.38680683262646,
+    "Elevation": 254.39999389648438,
+    "Time": "05/13/2022, 10:22:58",
+    "Speed": 5.118960379085935,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.249075734987855,
+    "Longitude": -84.38683876767755,
+    "Elevation": 254.0,
+    "Time": "05/13/2022, 10:22:59",
+    "Speed": 5.025597643548965,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.24907263368368,
+    "Longitude": -84.3868703674525,
+    "Elevation": 255.0,
+    "Time": "05/13/2022, 10:23:00",
+    "Speed": 4.897835119178791,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.24907271750271,
+    "Longitude": -84.38696374185383,
+    "Elevation": 254.60000610351562,
+    "Time": "05/13/2022, 10:23:03",
+    "Speed": 4.8063289272468825,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.249077159911394,
+    "Longitude": -84.38711629249156,
+    "Elevation": 254.39999389648438,
+    "Time": "05/13/2022, 10:23:08",
+    "Speed": 4.937576864945808,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.249092331156135,
+    "Longitude": -84.38720731996,
+    "Elevation": 254.39999389648438,
+    "Time": "05/13/2022, 10:23:11",
+    "Speed": 5.171553818586939,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.24910079687834,
+    "Longitude": -84.38723732717335,
+    "Elevation": 254.39999389648438,
+    "Time": "05/13/2022, 10:23:12",
+    "Speed": 5.231286860565753,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.2491287086159,
+    "Longitude": -84.38732676208019,
+    "Elevation": 254.60000610351562,
+    "Time": "05/13/2022, 10:23:15",
+    "Speed": 5.777407965812893,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.2491857893765,
+    "Longitude": -84.38748660497367,
+    "Elevation": 254.8000030517578,
+    "Time": "05/13/2022, 10:23:20",
+    "Speed": 5.790145544569826,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.249285366386175,
+    "Longitude": -84.3876904528588,
+    "Elevation": 255.0,
+    "Time": "05/13/2022, 10:23:27",
+    "Speed": 5.435185262157165,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.24930112436414,
+    "Longitude": -84.38771434128284,
+    "Elevation": 255.0,
+    "Time": "05/13/2022, 10:23:28",
+    "Speed": 5.300688448980995,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.24943749792874,
+    "Longitude": -84.38787602819502,
+    "Elevation": 255.39999389648438,
+    "Time": "05/13/2022, 10:23:36",
+    "Speed": 5.829433122598106,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.249609746038914,
+    "Longitude": -84.3879930395633,
+    "Elevation": 256.0,
+    "Time": "05/13/2022, 10:23:44",
+    "Speed": 5.171553818586939,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.249628437682986,
+    "Longitude": -84.38800737261772,
+    "Elevation": 256.20001220703125,
+    "Time": "05/13/2022, 10:23:45",
+    "Speed": 5.8835378604634245,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.24973790533841,
+    "Longitude": -84.38807811588049,
+    "Elevation": 256.3999938964844,
+    "Time": "05/13/2022, 10:23:50",
+    "Speed": 6.026727282856288,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.2498073913157,
+    "Longitude": -84.38811181113124,
+    "Elevation": 256.3999938964844,
+    "Time": "05/13/2022, 10:23:53",
+    "Speed": 6.113488447842835,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.24999606795609,
+    "Longitude": -84.38819923438132,
+    "Elevation": 256.6000061035156,
+    "Time": "05/13/2022, 10:24:01",
+    "Speed": 6.229100815611263,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25016948953271,
+    "Longitude": -84.3882396351546,
+    "Elevation": 256.79998779296875,
+    "Time": "05/13/2022, 10:24:08",
+    "Speed": 6.545691070563526,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.250195724889636,
+    "Longitude": -84.3882430717349,
+    "Elevation": 256.79998779296875,
+    "Time": "05/13/2022, 10:24:09",
+    "Speed": 6.035477157412865,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25036554224789,
+    "Longitude": -84.38824818469584,
+    "Elevation": 256.79998779296875,
+    "Time": "05/13/2022, 10:24:16",
+    "Speed": 6.0924730886909995,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25038984976709,
+    "Longitude": -84.38824349083006,
+    "Elevation": 257.0,
+    "Time": "05/13/2022, 10:24:17",
+    "Speed": 5.9185709716415404,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25048481673002,
+    "Longitude": -84.38825346529484,
+    "Elevation": 256.79998779296875,
+    "Time": "05/13/2022, 10:24:21",
+    "Speed": 5.491937667512715,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25052085891366,
+    "Longitude": -84.3882937822491,
+    "Elevation": 256.79998779296875,
+    "Time": "05/13/2022, 10:24:23",
+    "Speed": 5.126865836630792,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.250612054020166,
+    "Longitude": -84.38847047276795,
+    "Elevation": 257.0,
+    "Time": "05/13/2022, 10:24:30",
+    "Speed": 5.312441137578907,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25063703209162,
+    "Longitude": -84.38852520659566,
+    "Elevation": 257.0,
+    "Time": "05/13/2022, 10:24:32",
+    "Speed": 5.171553818586939,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25064935348928,
+    "Longitude": -84.38855169340968,
+    "Elevation": 257.20001220703125,
+    "Time": "05/13/2022, 10:24:33",
+    "Speed": 5.1155864582226895,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.250760581344366,
+    "Longitude": -84.38874330371618,
+    "Elevation": 257.20001220703125,
+    "Time": "05/13/2022, 10:24:41",
+    "Speed": 5.095987495676567,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25087851472199,
+    "Longitude": -84.38892317935824,
+    "Elevation": 257.3999938964844,
+    "Time": "05/13/2022, 10:24:49",
+    "Speed": 5.193310556715737,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25088840536773,
+    "Longitude": -84.38895218074322,
+    "Elevation": 257.3999938964844,
+    "Time": "05/13/2022, 10:24:50",
+    "Speed": 5.126297290374915,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25090340897441,
+    "Longitude": -84.38904698006809,
+    "Elevation": 257.3999938964844,
+    "Time": "05/13/2022, 10:24:53",
+    "Speed": 4.978511368789399,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.250909611582756,
+    "Longitude": -84.3891413602978,
+    "Elevation": 257.20001220703125,
+    "Time": "05/13/2022, 10:24:56",
+    "Speed": 4.7131397371870065,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25093073397875,
+    "Longitude": -84.3893483094871,
+    "Elevation": 257.20001220703125,
+    "Time": "05/13/2022, 10:25:03",
+    "Speed": 5.248491636591609,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.250949677079916,
+    "Longitude": -84.3895798176527,
+    "Elevation": 257.6000061035156,
+    "Time": "05/13/2022, 10:25:10",
+    "Speed": 5.570419738014962,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25095378421247,
+    "Longitude": -84.38961460255086,
+    "Elevation": 257.6000061035156,
+    "Time": "05/13/2022, 10:25:11",
+    "Speed": 5.123539844264785,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.250970212742686,
+    "Longitude": -84.38977528363466,
+    "Elevation": 257.79998779296875,
+    "Time": "05/13/2022, 10:25:16",
+    "Speed": 4.735534086490492,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.2509765829891,
+    "Longitude": -84.3898649699986,
+    "Elevation": 257.79998779296875,
+    "Time": "05/13/2022, 10:25:19",
+    "Speed": 4.795473286221442,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25098119303584,
+    "Longitude": -84.38995608128607,
+    "Elevation": 257.79998779296875,
+    "Time": "05/13/2022, 10:25:22",
+    "Speed": 5.28762148106039,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.2509987950325,
+    "Longitude": -84.39015573821962,
+    "Elevation": 258.20001220703125,
+    "Time": "05/13/2022, 10:25:28",
+    "Speed": 5.321983500370795,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.251000890508294,
+    "Longitude": -84.39018934965134,
+    "Elevation": 258.20001220703125,
+    "Time": "05/13/2022, 10:25:29",
+    "Speed": 4.937037660231117,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.251022934913635,
+    "Longitude": -84.39043787308037,
+    "Elevation": 258.6000061035156,
+    "Time": "05/13/2022, 10:25:37",
+    "Speed": 4.812424464163177,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25102620385587,
+    "Longitude": -84.39056008122861,
+    "Elevation": 258.79998779296875,
+    "Time": "05/13/2022, 10:25:41",
+    "Speed": 4.629282015184472,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25103936344385,
+    "Longitude": -84.3907056748867,
+    "Elevation": 258.79998779296875,
+    "Time": "05/13/2022, 10:25:46",
+    "Speed": 4.720164957652758,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.251046404242516,
+    "Longitude": -84.390764599666,
+    "Elevation": 259.0,
+    "Time": "05/13/2022, 10:25:48",
+    "Speed": 4.5961796339188234,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25107590854168,
+    "Longitude": -84.3909334950149,
+    "Elevation": 259.0,
+    "Time": "05/13/2022, 10:25:54",
+    "Speed": 4.47903093037546,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25109795294702,
+    "Longitude": -84.39112963154912,
+    "Elevation": 259.20001220703125,
+    "Time": "05/13/2022, 10:26:01",
+    "Speed": 4.753489783662948,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.251098707318306,
+    "Longitude": -84.39115980640054,
+    "Elevation": 259.20001220703125,
+    "Time": "05/13/2022, 10:26:02",
+    "Speed": 4.718671754313747,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.251109939068556,
+    "Longitude": -84.39127841033041,
+    "Elevation": 259.3999938964844,
+    "Time": "05/13/2022, 10:26:06",
+    "Speed": 4.730902109052229,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25112335011363,
+    "Longitude": -84.3913967628032,
+    "Elevation": 259.6000061035156,
+    "Time": "05/13/2022, 10:26:10",
+    "Speed": 4.84304575380439,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.2511404491961,
+    "Longitude": -84.3915794044733,
+    "Elevation": 259.6000061035156,
+    "Time": "05/13/2022, 10:26:16",
+    "Speed": 5.22025897627016,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.251151429489255,
+    "Longitude": -84.39167738892138,
+    "Elevation": 259.6000061035156,
+    "Time": "05/13/2022, 10:26:19",
+    "Speed": 4.909411846682403,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.251188058406115,
+    "Longitude": -84.39192012883723,
+    "Elevation": 259.79998779296875,
+    "Time": "05/13/2022, 10:26:27",
+    "Speed": 4.828797279990198,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25119375810027,
+    "Longitude": -84.39194946549833,
+    "Elevation": 259.79998779296875,
+    "Time": "05/13/2022, 10:26:28",
+    "Speed": 4.984201547032928,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.251219322904944,
+    "Longitude": -84.39219958148897,
+    "Elevation": 260.0,
+    "Time": "05/13/2022, 10:26:36",
+    "Speed": 5.283710649373395,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.251224184408784,
+    "Longitude": -84.39223227091134,
+    "Elevation": 260.0,
+    "Time": "05/13/2022, 10:26:37",
+    "Speed": 5.206055765061639,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25124019384384,
+    "Longitude": -84.39246243797243,
+    "Elevation": 260.20001220703125,
+    "Time": "05/13/2022, 10:26:44",
+    "Speed": 5.386213937459191,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.251230051741004,
+    "Longitude": -84.39252899028361,
+    "Elevation": 260.0,
+    "Time": "05/13/2022, 10:26:46",
+    "Speed": 5.025099047621913,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25119627267122,
+    "Longitude": -84.39271297305822,
+    "Elevation": 260.20001220703125,
+    "Time": "05/13/2022, 10:26:52",
+    "Speed": 5.140939700347164,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25120306201279,
+    "Longitude": -84.3927438184619,
+    "Elevation": 260.20001220703125,
+    "Time": "05/13/2022, 10:26:53",
+    "Speed": 5.501168683272961,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.251215886324644,
+    "Longitude": -84.39277231693268,
+    "Elevation": 260.3999938964844,
+    "Time": "05/13/2022, 10:26:54",
+    "Speed": 5.564344019350499,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25125486217439,
+    "Longitude": -84.39280710183084,
+    "Elevation": 260.20001220703125,
+    "Time": "05/13/2022, 10:26:56",
+    "Speed": 5.797876685691798,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.251392828300595,
+    "Longitude": -84.39284331165254,
+    "Elevation": 260.3999938964844,
+    "Time": "05/13/2022, 10:27:02",
+    "Speed": 6.028753728559147,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25158033147454,
+    "Longitude": -84.39292134717107,
+    "Elevation": 260.6000061035156,
+    "Time": "05/13/2022, 10:27:10",
+    "Speed": 5.22079225978623,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.2517567705363,
+    "Longitude": -84.39302796497941,
+    "Elevation": 261.3999938964844,
+    "Time": "05/13/2022, 10:27:19",
+    "Speed": 5.618788979269129,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.251777390018106,
+    "Longitude": -84.39304263330996,
+    "Elevation": 261.6000061035156,
+    "Time": "05/13/2022, 10:27:20",
+    "Speed": 6.369534539190993,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25184855237603,
+    "Longitude": -84.39308839850128,
+    "Elevation": 261.79998779296875,
+    "Time": "05/13/2022, 10:27:23",
+    "Speed": 5.72785863526975,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25194947049022,
+    "Longitude": -84.39317598938942,
+    "Elevation": 261.79998779296875,
+    "Time": "05/13/2022, 10:27:28",
+    "Speed": 5.732738433274527,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.252048125490546,
+    "Longitude": -84.39327011816204,
+    "Elevation": 262.6000061035156,
+    "Time": "05/13/2022, 10:27:33",
+    "Speed": 5.7101047903564455,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.252130100503564,
+    "Longitude": -84.39333549700677,
+    "Elevation": 263.20001220703125,
+    "Time": "05/13/2022, 10:27:37",
+    "Speed": 4.314913901754418,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.252207381650805,
+    "Longitude": -84.39348352141678,
+    "Elevation": 263.6000061035156,
+    "Time": "05/13/2022, 10:27:44",
+    "Speed": 3.3779557992476663,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25220989622176,
+    "Longitude": -84.39350464381278,
+    "Elevation": 263.79998779296875,
+    "Time": "05/13/2022, 10:27:45",
+    "Speed": 3.502500080442045,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.252213751897216,
+    "Longitude": -84.39357111230493,
+    "Elevation": 264.0,
+    "Time": "05/13/2022, 10:27:48",
+    "Speed": 4.330363353263634,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25226136110723,
+    "Longitude": -84.39371804706752,
+    "Elevation": 264.3999938964844,
+    "Time": "05/13/2022, 10:27:54",
+    "Speed": 4.989932939545773,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.2523146700114,
+    "Longitude": -84.39385232515633,
+    "Elevation": 264.6000061035156,
+    "Time": "05/13/2022, 10:27:59",
+    "Speed": 5.6187889792692385,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25233579240739,
+    "Longitude": -84.39391544088721,
+    "Elevation": 264.79998779296875,
+    "Time": "05/13/2022, 10:28:01",
+    "Speed": 5.304276775386334,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.252429166808724,
+    "Longitude": -84.39414108172059,
+    "Elevation": 265.20001220703125,
+    "Time": "05/13/2022, 10:28:09",
+    "Speed": 6.369833497482868,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25250317901373,
+    "Longitude": -84.39430620521307,
+    "Elevation": 265.3999938964844,
+    "Time": "05/13/2022, 10:28:14",
+    "Speed": 7.746967616640292,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25259621813893,
+    "Longitude": -84.39443713054061,
+    "Elevation": 265.3999938964844,
+    "Time": "05/13/2022, 10:28:18",
+    "Speed": 6.06604342215731,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25265028141439,
+    "Longitude": -84.39456545747817,
+    "Elevation": 265.3999938964844,
+    "Time": "05/13/2022, 10:28:22",
+    "Speed": 3.9560196426213086,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25264332443476,
+    "Longitude": -84.39458808861673,
+    "Elevation": 265.3999938964844,
+    "Time": "05/13/2022, 10:28:23",
+    "Speed": 5.088029821720392,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25262530334294,
+    "Longitude": -84.39460342749953,
+    "Elevation": 265.20001220703125,
+    "Time": "05/13/2022, 10:28:24",
+    "Speed": 5.44209586286613,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.252562103793025,
+    "Longitude": -84.39463142305613,
+    "Elevation": 265.0,
+    "Time": "05/13/2022, 10:28:27",
+    "Speed": 5.326336669356546,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.25243436358869,
+    "Longitude": -84.39465321600437,
+    "Elevation": 265.6000061035156,
+    "Time": "05/13/2022, 10:28:33",
+    "Speed": 6.125694939216383,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.252409720793366,
+    "Longitude": -84.3946532998234,
+    "Elevation": 265.6000061035156,
+    "Time": "05/13/2022, 10:28:34",
+    "Speed": 5.660994352203917,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.25234157592058,
+    "Longitude": -84.39466008916497,
+    "Elevation": 265.79998779296875,
+    "Time": "05/13/2022, 10:28:37",
+    "Speed": 5.582551338021447,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.252251805737615,
+    "Longitude": -84.39466075971723,
+    "Elevation": 265.79998779296875,
+    "Time": "05/13/2022, 10:28:41",
+    "Speed": 5.594880556709611,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.25211719237268,
+    "Longitude": -84.39467593096197,
+    "Elevation": 265.79998779296875,
+    "Time": "05/13/2022, 10:28:47",
+    "Speed": 6.235156159076135,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.25209229812026,
+    "Longitude": -84.39468037337065,
+    "Elevation": 265.79998779296875,
+    "Time": "05/13/2022, 10:28:48",
+    "Speed": 6.072081367412359,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.2520435154438,
+    "Longitude": -84.39468305557966,
+    "Elevation": 265.79998779296875,
+    "Time": "05/13/2022, 10:28:50",
+    "Speed": 5.491745189690871,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.25186766311526,
+    "Longitude": -84.39470912329853,
+    "Elevation": 265.20001220703125,
+    "Time": "05/13/2022, 10:28:58",
+    "Speed": 5.846694467522065,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.251680159941316,
+    "Longitude": -84.39473158679903,
+    "Elevation": 265.0,
+    "Time": "05/13/2022, 10:29:06",
+    "Speed": 6.734924399550497,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.25151813775301,
+    "Longitude": -84.39475036226213,
+    "Elevation": 264.6000061035156,
+    "Time": "05/13/2022, 10:29:12",
+    "Speed": 6.818210005310374,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.2514634039253,
+    "Longitude": -84.39475497230887,
+    "Elevation": 264.6000061035156,
+    "Time": "05/13/2022, 10:29:14",
+    "Speed": 6.205751531257126,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.25138872116804,
+    "Longitude": -84.39476276747882,
+    "Elevation": 264.3999938964844,
+    "Time": "05/13/2022, 10:29:17",
+    "Speed": 6.31924891862589,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.251211024820805,
+    "Longitude": -84.39477374777198,
+    "Elevation": 264.20001220703125,
+    "Time": "05/13/2022, 10:29:24",
+    "Speed": 6.791919467571277,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.25101991742849,
+    "Longitude": -84.39477902837098,
+    "Elevation": 263.79998779296875,
+    "Time": "05/13/2022, 10:29:31",
+    "Speed": 6.600582522710411,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.250967279076576,
+    "Longitude": -84.39478975720704,
+    "Elevation": 263.79998779296875,
+    "Time": "05/13/2022, 10:29:33",
+    "Speed": 6.587663288301676,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.250888573005795,
+    "Longitude": -84.39480694010854,
+    "Elevation": 263.6000061035156,
+    "Time": "05/13/2022, 10:29:36",
+    "Speed": 7.648868101209037,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.25073535181582,
+    "Longitude": -84.39482705667615,
+    "Elevation": 263.6000061035156,
+    "Time": "05/13/2022, 10:29:41",
+    "Speed": 6.931625221344401,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.25054038874805,
+    "Longitude": -84.39483711495996,
+    "Elevation": 263.3999938964844,
+    "Time": "05/13/2022, 10:29:48",
+    "Speed": 6.824433855876331,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.25034835934639,
+    "Longitude": -84.39484138973057,
+    "Elevation": 263.3999938964844,
+    "Time": "05/13/2022, 10:29:55",
+    "Speed": 6.803586629704427,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.25026663579047,
+    "Longitude": -84.39485304057598,
+    "Elevation": 263.20001220703125,
+    "Time": "05/13/2022, 10:29:58",
+    "Speed": 6.425104238263459,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.25013763830066,
+    "Longitude": -84.39486293122172,
+    "Elevation": 263.3999938964844,
+    "Time": "05/13/2022, 10:30:03",
+    "Speed": 6.34289526030545,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24993404187262,
+    "Longitude": -84.39488313160837,
+    "Elevation": 263.6000061035156,
+    "Time": "05/13/2022, 10:30:11",
+    "Speed": 5.92356966506175,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24988651648164,
+    "Longitude": -84.39488782547414,
+    "Elevation": 263.6000061035156,
+    "Time": "05/13/2022, 10:30:13",
+    "Speed": 6.542948477187883,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24970286898315,
+    "Longitude": -84.3949088640511,
+    "Elevation": 263.79998779296875,
+    "Time": "05/13/2022, 10:30:20",
+    "Speed": 6.408659718052282,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24949801526964,
+    "Longitude": -84.39494482241571,
+    "Elevation": 263.79998779296875,
+    "Time": "05/13/2022, 10:30:28",
+    "Speed": 6.506835944542463,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.249315122142434,
+    "Longitude": -84.39495898783207,
+    "Elevation": 263.6000061035156,
+    "Time": "05/13/2022, 10:30:35",
+    "Speed": 6.241877300777563,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.249114878475666,
+    "Longitude": -84.39498145133257,
+    "Elevation": 263.3999938964844,
+    "Time": "05/13/2022, 10:30:43",
+    "Speed": 6.0292212731480115,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.2490906547755,
+    "Longitude": -84.39497943967581,
+    "Elevation": 263.20001220703125,
+    "Time": "05/13/2022, 10:30:44",
+    "Speed": 6.251410033268142,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.248939864337444,
+    "Longitude": -84.39497876912355,
+    "Elevation": 263.0,
+    "Time": "05/13/2022, 10:30:50",
+    "Speed": 6.6163908226310815,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.248753702268004,
+    "Longitude": -84.39498455263674,
+    "Elevation": 263.20001220703125,
+    "Time": "05/13/2022, 10:30:57",
+    "Speed": 6.605705210732337,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24870064482093,
+    "Longitude": -84.39498078078032,
+    "Elevation": 263.20001220703125,
+    "Time": "05/13/2022, 10:30:59",
+    "Speed": 6.423138472808772,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.248571982607245,
+    "Longitude": -84.39499779604375,
+    "Elevation": 263.79998779296875,
+    "Time": "05/13/2022, 10:31:04",
+    "Speed": 5.7744114581229145,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.2484793625772,
+    "Longitude": -84.39500827342272,
+    "Elevation": 263.79998779296875,
+    "Time": "05/13/2022, 10:31:08",
+    "Speed": 6.2392800708269816,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24828004091978,
+    "Longitude": -84.39504490233958,
+    "Elevation": 263.79998779296875,
+    "Time": "05/13/2022, 10:31:16",
+    "Speed": 6.945156310019901,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.2480855807662,
+    "Longitude": -84.39507591538131,
+    "Elevation": 263.79998779296875,
+    "Time": "05/13/2022, 10:31:23",
+    "Speed": 6.97955797071059,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.248001761734486,
+    "Longitude": -84.39508815295994,
+    "Elevation": 263.79998779296875,
+    "Time": "05/13/2022, 10:31:26",
+    "Speed": 6.710362597209599,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.247866896912456,
+    "Longitude": -84.3950917571783,
+    "Elevation": 264.0,
+    "Time": "05/13/2022, 10:31:31",
+    "Speed": 6.365021416148068,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24766221083701,
+    "Longitude": -84.39509678632021,
+    "Elevation": 263.79998779296875,
+    "Time": "05/13/2022, 10:31:39",
+    "Speed": 7.116780643919183,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24763362854719,
+    "Longitude": -84.39509879797697,
+    "Elevation": 263.79998779296875,
+    "Time": "05/13/2022, 10:31:40",
+    "Speed": 6.538304544530262,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.2474499810487,
+    "Longitude": -84.39511673524976,
+    "Elevation": 263.3999938964844,
+    "Time": "05/13/2022, 10:31:47",
+    "Speed": 6.712378629279197,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24742307513952,
+    "Longitude": -84.39511958509684,
+    "Elevation": 263.3999938964844,
+    "Time": "05/13/2022, 10:31:48",
+    "Speed": 6.728197861703355,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24723381176591,
+    "Longitude": -84.39512805081904,
+    "Elevation": 263.6000061035156,
+    "Time": "05/13/2022, 10:31:55",
+    "Speed": 6.846265205528946,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.247178826481104,
+    "Longitude": -84.3951319064945,
+    "Elevation": 263.6000061035156,
+    "Time": "05/13/2022, 10:31:57",
+    "Speed": 6.361200592215935,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24697447568178,
+    "Longitude": -84.39514741301537,
+    "Elevation": 263.0,
+    "Time": "05/13/2022, 10:32:05",
+    "Speed": 7.67117654308324,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24678957089782,
+    "Longitude": -84.39515847712755,
+    "Elevation": 262.79998779296875,
+    "Time": "05/13/2022, 10:32:11",
+    "Speed": 7.230645186581015,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.246702482923865,
+    "Longitude": -84.39516585320234,
+    "Elevation": 262.6000061035156,
+    "Time": "05/13/2022, 10:32:14",
+    "Speed": 6.505759217888801,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24662402831018,
+    "Longitude": -84.39516820013523,
+    "Elevation": 262.6000061035156,
+    "Time": "05/13/2022, 10:32:17",
+    "Speed": 5.106003407674424,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24654196947813,
+    "Longitude": -84.395172894001,
+    "Elevation": 262.6000061035156,
+    "Time": "05/13/2022, 10:32:21",
+    "Speed": 5.773923280294278,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.246356980875134,
+    "Longitude": -84.39519854262471,
+    "Elevation": 262.3999938964844,
+    "Time": "05/13/2022, 10:32:29",
+    "Speed": 6.501027996988752,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24622957594693,
+    "Longitude": -84.39524447545409,
+    "Elevation": 262.3999938964844,
+    "Time": "05/13/2022, 10:32:34",
+    "Speed": 5.8140601501104205,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24618389457464,
+    "Longitude": -84.39526014961302,
+    "Elevation": 262.6000061035156,
+    "Time": "05/13/2022, 10:32:36",
+    "Speed": 6.194277999337922,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24598541110754,
+    "Longitude": -84.39528713934124,
+    "Elevation": 262.79998779296875,
+    "Time": "05/13/2022, 10:32:44",
+    "Speed": 6.299025111071048,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.245934784412384,
+    "Longitude": -84.39528906717896,
+    "Elevation": 262.79998779296875,
+    "Time": "05/13/2022, 10:32:46",
+    "Speed": 5.953710421266529,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24574342556298,
+    "Longitude": -84.39529987983406,
+    "Elevation": 262.6000061035156,
+    "Time": "05/13/2022, 10:32:54",
+    "Speed": 6.9427538153217645,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.245687602087855,
+    "Longitude": -84.39530063420534,
+    "Elevation": 262.6000061035156,
+    "Time": "05/13/2022, 10:32:56",
+    "Speed": 6.4450088347126515,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.245635801926255,
+    "Longitude": -84.39529845491052,
+    "Elevation": 262.3999938964844,
+    "Time": "05/13/2022, 10:32:58",
+    "Speed": 7.671829770529819,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.245605040341616,
+    "Longitude": -84.39530197530985,
+    "Elevation": 262.3999938964844,
+    "Time": "05/13/2022, 10:32:59",
+    "Speed": 7.552219143098222,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.245484340935946,
+    "Longitude": -84.39532318152487,
+    "Elevation": 262.20001220703125,
+    "Time": "05/13/2022, 10:33:03",
+    "Speed": 6.4502194037064005,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24530320800841,
+    "Longitude": -84.39534178934991,
+    "Elevation": 261.79998779296875,
+    "Time": "05/13/2022, 10:33:10",
+    "Speed": 6.473810561442791,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24525115638971,
+    "Longitude": -84.39534086734056,
+    "Elevation": 261.79998779296875,
+    "Time": "05/13/2022, 10:33:12",
+    "Speed": 7.25560753045552,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24510531127453,
+    "Longitude": -84.39534262754023,
+    "Elevation": 261.6000061035156,
+    "Time": "05/13/2022, 10:33:17",
+    "Speed": 7.773302787468934,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.2450428660959,
+    "Longitude": -84.39534681849182,
+    "Elevation": 261.6000061035156,
+    "Time": "05/13/2022, 10:33:19",
+    "Speed": 7.033913377765043,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24501461908221,
+    "Longitude": -84.3953494168818,
+    "Elevation": 261.3999938964844,
+    "Time": "05/13/2022, 10:33:20",
+    "Speed": 7.234629156588259,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24484052695334,
+    "Longitude": -84.395368443802,
+    "Elevation": 260.3999938964844,
+    "Time": "05/13/2022, 10:33:26",
+    "Speed": 7.390363049056282,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24478135071695,
+    "Longitude": -84.3953771609813,
+    "Elevation": 260.0,
+    "Time": "05/13/2022, 10:33:28",
+    "Speed": 6.765177191897995,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24469996243715,
+    "Longitude": -84.39538621343672,
+    "Elevation": 259.3999938964844,
+    "Time": "05/13/2022, 10:33:31",
+    "Speed": 6.309755996382414,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24459854140878,
+    "Longitude": -84.3953909073025,
+    "Elevation": 258.3999938964844,
+    "Time": "05/13/2022, 10:33:35",
+    "Speed": 6.289172381794524,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24457331188023,
+    "Longitude": -84.39539317041636,
+    "Elevation": 258.3999938964844,
+    "Time": "05/13/2022, 10:33:36",
+    "Speed": 6.0400166645559725,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.2445005569607,
+    "Longitude": -84.39539870247245,
+    "Elevation": 258.0,
+    "Time": "05/13/2022, 10:33:39",
+    "Speed": 6.1146410446051975,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24445160664618,
+    "Longitude": -84.39540599472821,
+    "Elevation": 257.79998779296875,
+    "Time": "05/13/2022, 10:33:41",
+    "Speed": 5.687929542349609,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24438304267824,
+    "Longitude": -84.39540976658463,
+    "Elevation": 257.6000061035156,
+    "Time": "05/13/2022, 10:33:44",
+    "Speed": 6.429439277401315,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.244305677711964,
+    "Longitude": -84.39541789703071,
+    "Elevation": 257.20001220703125,
+    "Time": "05/13/2022, 10:33:47",
+    "Speed": 6.241582500549424,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24423065967858,
+    "Longitude": -84.39542770385742,
+    "Elevation": 256.79998779296875,
+    "Time": "05/13/2022, 10:33:50",
+    "Speed": 6.781730993530759,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.244176261126995,
+    "Longitude": -84.39543390646577,
+    "Elevation": 256.79998779296875,
+    "Time": "05/13/2022, 10:33:52",
+    "Speed": 6.475143339739364,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.243994038552046,
+    "Longitude": -84.39543290063739,
+    "Elevation": 256.6000061035156,
+    "Time": "05/13/2022, 10:33:59",
+    "Speed": 6.8267263101335525,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.243801925331354,
+    "Longitude": -84.39543281681836,
+    "Elevation": 256.6000061035156,
+    "Time": "05/13/2022, 10:34:06",
+    "Speed": 7.161791522205516,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.243744341656566,
+    "Longitude": -84.3954339902848,
+    "Elevation": 256.6000061035156,
+    "Time": "05/13/2022, 10:34:08",
+    "Speed": 6.309855271160357,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24366873688996,
+    "Longitude": -84.39542032778263,
+    "Elevation": 256.3999938964844,
+    "Time": "05/13/2022, 10:34:11",
+    "Speed": 5.759503419326724,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24357678741217,
+    "Longitude": -84.395402809605,
+    "Elevation": 256.3999938964844,
+    "Time": "05/13/2022, 10:34:15",
+    "Speed": 5.15857716077697,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24345868639648,
+    "Longitude": -84.39534086734056,
+    "Elevation": 256.3999938964844,
+    "Time": "05/13/2022, 10:34:21",
+    "Speed": 5.646813038297956,
+    "Street": "Parkview Drive"
+  },
+  {
+    "Latitude": 39.243439910933375,
+    "Longitude": -84.39532066695392,
+    "Elevation": 256.3999938964844,
+    "Time": "05/13/2022, 10:34:22",
+    "Speed": 5.742729928715201,
+    "Street": "Parkview Drive"
+  },
+  {
+    "Latitude": 39.243379812687635,
+    "Longitude": -84.39526626840234,
+    "Elevation": 256.3999938964844,
+    "Time": "05/13/2022, 10:34:25",
+    "Speed": 5.901639271498443,
+    "Street": "Parkview Drive"
+  },
+  {
+    "Latitude": 39.24333589151502,
+    "Longitude": -84.39523785375059,
+    "Elevation": 256.3999938964844,
+    "Time": "05/13/2022, 10:34:27",
+    "Speed": 5.3851671560018355,
+    "Street": "Parkview Drive"
+  },
+  {
+    "Latitude": 39.243319630622864,
+    "Longitude": -84.39521522261202,
+    "Elevation": 256.3999938964844,
+    "Time": "05/13/2022, 10:34:28",
+    "Speed": 5.251842094407929,
+    "Street": "Parkview Drive"
+  },
+  {
+    "Latitude": 39.24329146742821,
+    "Longitude": -84.39512553624809,
+    "Elevation": 256.3999938964844,
+    "Time": "05/13/2022, 10:34:31",
+    "Speed": 4.869416118596752,
+    "Street": "Parkview Drive"
+  },
+  {
+    "Latitude": 39.24329792149365,
+    "Longitude": -84.3948781862855,
+    "Elevation": 257.20001220703125,
+    "Time": "05/13/2022, 10:34:39",
+    "Speed": 3.5956806668519565,
+    "Street": "Parkview Drive"
+  },
+  {
+    "Latitude": 39.24293632619083,
+    "Longitude": -84.39338427968323,
+    "Elevation": 260.79998779296875,
+    "Time": "05/13/2022, 10:35:49",
+    "Speed": 6.20467200426406,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.242784697562456,
+    "Longitude": -84.39324740320444,
+    "Elevation": 260.79998779296875,
+    "Time": "05/13/2022, 10:35:56",
+    "Speed": 5.492736022023354,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.24267313443124,
+    "Longitude": -84.39313441514969,
+    "Elevation": 260.79998779296875,
+    "Time": "05/13/2022, 10:36:02",
+    "Speed": 5.754974496730498,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.242509016767144,
+    "Longitude": -84.3929991312325,
+    "Elevation": 260.79998779296875,
+    "Time": "05/13/2022, 10:36:10",
+    "Speed": 5.618788979269129,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.24248940311372,
+    "Longitude": -84.39298144541681,
+    "Elevation": 260.6000061035156,
+    "Time": "05/13/2022, 10:36:11",
+    "Speed": 5.6408196033494775,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.242327297106385,
+    "Longitude": -84.3928526993841,
+    "Elevation": 260.6000061035156,
+    "Time": "05/13/2022, 10:36:19",
+    "Speed": 5.343127737399973,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.242307264357805,
+    "Longitude": -84.39284046180546,
+    "Elevation": 260.6000061035156,
+    "Time": "05/13/2022, 10:36:20",
+    "Speed": 6.007657410910117,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.242164604365826,
+    "Longitude": -84.3926970474422,
+    "Elevation": 260.20001220703125,
+    "Time": "05/13/2022, 10:36:27",
+    "Speed": 6.355341154788432,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.242008700966835,
+    "Longitude": -84.39255849458277,
+    "Elevation": 260.20001220703125,
+    "Time": "05/13/2022, 10:36:34",
+    "Speed": 5.775024112714969,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.24186629243195,
+    "Longitude": -84.39243469387293,
+    "Elevation": 260.0,
+    "Time": "05/13/2022, 10:36:41",
+    "Speed": 2.6374984324735755,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.241815749555826,
+    "Longitude": -84.39240938052535,
+    "Elevation": 260.0,
+    "Time": "05/13/2022, 10:36:46",
+    "Speed": 3.513648969712116,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.24171374179423,
+    "Longitude": -84.39233251847327,
+    "Elevation": 260.0,
+    "Time": "05/13/2022, 10:36:54",
+    "Speed": 3.6317453543835065,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.24167971126735,
+    "Longitude": -84.39228893257678,
+    "Elevation": 260.0,
+    "Time": "05/13/2022, 10:36:57",
+    "Speed": 5.30500743319515,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.24166143871844,
+    "Longitude": -84.39227149821818,
+    "Elevation": 260.0,
+    "Time": "05/13/2022, 10:36:58",
+    "Speed": 5.501168683272961,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.241642663255334,
+    "Longitude": -84.3922530580312,
+    "Elevation": 260.0,
+    "Time": "05/13/2022, 10:36:59",
+    "Speed": 5.777095698808186,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.24162179231644,
+    "Longitude": -84.39223696477711,
+    "Elevation": 260.0,
+    "Time": "05/13/2022, 10:37:00",
+    "Speed": 5.818015003389256,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.241516683250666,
+    "Longitude": -84.39215591177344,
+    "Elevation": 259.6000061035156,
+    "Time": "05/13/2022, 10:37:05",
+    "Speed": 5.750026829677227,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.24137729220092,
+    "Longitude": -84.39202599227428,
+    "Elevation": 259.6000061035156,
+    "Time": "05/13/2022, 10:37:12",
+    "Speed": 6.097817184058003,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.241310907527804,
+    "Longitude": -84.39197595231235,
+    "Elevation": 259.79998779296875,
+    "Time": "05/13/2022, 10:37:15",
+    "Speed": 5.932129054127116,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.24127050675452,
+    "Longitude": -84.39193588681519,
+    "Elevation": 260.0,
+    "Time": "05/13/2022, 10:37:17",
+    "Speed": 5.025597643548965,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.241254748776555,
+    "Longitude": -84.39191585406661,
+    "Elevation": 259.79998779296875,
+    "Time": "05/13/2022, 10:37:18",
+    "Speed": 5.01324282005879,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.24121879041195,
+    "Longitude": -84.3918870203197,
+    "Elevation": 260.0,
+    "Time": "05/13/2022, 10:37:20",
+    "Speed": 5.768414858895227,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.24115525558591,
+    "Longitude": -84.39184217713773,
+    "Elevation": 260.20001220703125,
+    "Time": "05/13/2022, 10:37:23",
+    "Speed": 6.009590605850087,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.24104645848274,
+    "Longitude": -84.39175919629633,
+    "Elevation": 260.6000061035156,
+    "Time": "05/13/2022, 10:37:28",
+    "Speed": 5.9591237183064925,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.24089893698692,
+    "Longitude": -84.39163313247263,
+    "Elevation": 261.6000061035156,
+    "Time": "05/13/2022, 10:37:35",
+    "Speed": 5.77693637240735,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.2407638207078,
+    "Longitude": -84.39149022102356,
+    "Elevation": 262.20001220703125,
+    "Time": "05/13/2022, 10:37:42",
+    "Speed": 6.1179183547936296,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.240698274225,
+    "Longitude": -84.3914366606623,
+    "Elevation": 262.6000061035156,
+    "Time": "05/13/2022, 10:37:45",
+    "Speed": 6.474245965860097,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.2405997030437,
+    "Longitude": -84.39138368703425,
+    "Elevation": 263.3999938964844,
+    "Time": "05/13/2022, 10:37:49",
+    "Speed": 6.401981764209521,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.24035386182368,
+    "Longitude": -84.39116173423827,
+    "Elevation": 264.20001220703125,
+    "Time": "05/13/2022, 10:38:00",
+    "Speed": 5.417176442823312,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.24029937945306,
+    "Longitude": -84.3911047372967,
+    "Elevation": 264.20001220703125,
+    "Time": "05/13/2022, 10:38:03",
+    "Speed": 5.759748124506603,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.24015378579497,
+    "Longitude": -84.3909236881882,
+    "Elevation": 264.79998779296875,
+    "Time": "05/13/2022, 10:38:11",
+    "Speed": 5.202872389971333,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.240069882944226,
+    "Longitude": -84.39073400571942,
+    "Elevation": 265.20001220703125,
+    "Time": "05/13/2022, 10:38:18",
+    "Speed": 5.343127737400443,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.239994110539556,
+    "Longitude": -84.39066996797919,
+    "Elevation": 265.20001220703125,
+    "Time": "05/13/2022, 10:38:22",
+    "Speed": 6.779236640110742,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.23996686935425,
+    "Longitude": -84.39066980034113,
+    "Elevation": 265.20001220703125,
+    "Time": "05/13/2022, 10:38:23",
+    "Speed": 6.207489916662828,
+    "Street": "Malsbary Road"
+  },
+  {
+    "Latitude": 39.239796632900834,
+    "Longitude": -84.39073174260557,
+    "Elevation": 265.3999938964844,
+    "Time": "05/13/2022, 10:38:30",
+    "Speed": 6.054473261950868,
+    "Street": "Reed Hartman Highway"
+  },
+  {
+    "Latitude": 39.23960988409817,
+    "Longitude": -84.39081891439855,
+    "Elevation": 265.79998779296875,
+    "Time": "05/13/2022, 10:38:38",
+    "Speed": 5.451755987379995,
+    "Street": "Reed Hartman Highway"
+  },
+  {
+    "Latitude": 39.2395893484354,
+    "Longitude": -84.39083098433912,
+    "Elevation": 265.79998779296875,
+    "Time": "05/13/2022, 10:38:39",
+    "Speed": 6.42713241529099,
+    "Street": "Reed Hartman Highway"
+  },
+  {
+    "Latitude": 39.239416010677814,
+    "Longitude": -84.39091262407601,
+    "Elevation": 266.0,
+    "Time": "05/13/2022, 10:38:46",
+    "Speed": 6.148660060394089,
+    "Street": "Reed Hartman Highway"
+  },
+  {
+    "Latitude": 39.23936949111521,
+    "Longitude": -84.39093911089003,
+    "Elevation": 266.20001220703125,
+    "Time": "05/13/2022, 10:38:48",
+    "Speed": 6.526962302364219,
+    "Street": "Reed Hartman Highway"
+  },
+  {
+    "Latitude": 39.239189280197024,
+    "Longitude": -84.39099526964128,
+    "Elevation": 266.6000061035156,
+    "Time": "05/13/2022, 10:38:55",
+    "Speed": 5.9501584409806965,
+    "Street": "Reed Hartman Highway"
+  },
+  {
+    "Latitude": 39.23916597850621,
+    "Longitude": -84.39100381918252,
+    "Elevation": 266.6000061035156,
+    "Time": "05/13/2022, 10:38:56",
+    "Speed": 6.206098500592154,
+    "Street": "Reed Hartman Highway"
+  },
+  {
+    "Latitude": 39.23897000961006,
+    "Longitude": -84.39106374979019,
+    "Elevation": 266.79998779296875,
+    "Time": "05/13/2022, 10:39:04",
+    "Speed": 6.266373365024888,
+    "Street": "Reed Hartman Highway"
+  },
+  {
+    "Latitude": 39.23880010843277,
+    "Longitude": -84.39113843254745,
+    "Elevation": 266.79998779296875,
+    "Time": "05/13/2022, 10:39:11",
+    "Speed": 5.558261659340472,
+    "Street": "Reed Hartman Highway"
+  },
+  {
+    "Latitude": 39.23878041096032,
+    "Longitude": -84.39115511253476,
+    "Elevation": 266.79998779296875,
+    "Time": "05/13/2022, 10:39:12",
+    "Speed": 5.839216793461325,
+    "Street": "Reed Hartman Highway"
+  },
+  {
+    "Latitude": 39.23875954002142,
+    "Longitude": -84.39117204397917,
+    "Elevation": 266.79998779296875,
+    "Time": "05/13/2022, 10:39:13",
+    "Speed": 5.852296452946046,
+    "Street": "Reed Hartman Highway"
+  },
+  {
+    "Latitude": 39.238586872816086,
+    "Longitude": -84.39129048027098,
+    "Elevation": 266.79998779296875,
+    "Time": "05/13/2022, 10:39:21",
+    "Speed": 6.100795511606592,
+    "Street": "Reed Hartman Highway"
+  },
+  {
+    "Latitude": 39.23839216120541,
+    "Longitude": -84.39132878556848,
+    "Elevation": 266.6000061035156,
+    "Time": "05/13/2022, 10:39:29",
+    "Speed": 6.714709340178666,
+    "Street": "Reed Hartman Highway"
+  },
+  {
+    "Latitude": 39.23820381984115,
+    "Longitude": -84.39135292544961,
+    "Elevation": 266.0,
+    "Time": "05/13/2022, 10:39:36",
+    "Speed": 7.164939562587085,
+    "Street": "Reed Hartman Highway"
+  },
+  {
+    "Latitude": 39.23814623616636,
+    "Longitude": -84.3913552723825,
+    "Elevation": 266.0,
+    "Time": "05/13/2022, 10:39:38",
+    "Speed": 6.9511175344057525,
+    "Street": "Reed Hartman Highway"
+  },
+  {
+    "Latitude": 39.23795093782246,
+    "Longitude": -84.39137287437916,
+    "Elevation": 266.0,
+    "Time": "05/13/2022, 10:39:45",
+    "Speed": 6.222817715508989,
+    "Street": "Reed Hartman Highway"
+  },
+  {
+    "Latitude": 39.237777600064874,
+    "Longitude": -84.39141226932406,
+    "Elevation": 266.0,
+    "Time": "05/13/2022, 10:39:52",
+    "Speed": 4.83346504065474,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23775949515402,
+    "Longitude": -84.39140112139285,
+    "Elevation": 266.0,
+    "Time": "05/13/2022, 10:39:53",
+    "Speed": 5.326219062919753,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.237744491547346,
+    "Longitude": -84.39137698151171,
+    "Elevation": 266.0,
+    "Time": "05/13/2022, 10:39:54",
+    "Speed": 5.66276451933638,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.237733259797096,
+    "Longitude": -84.39134571701288,
+    "Elevation": 266.20001220703125,
+    "Time": "05/13/2022, 10:39:55",
+    "Speed": 2.2363394130890653,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23765773884952,
+    "Longitude": -84.3912997841835,
+    "Elevation": 266.6000061035156,
+    "Time": "05/13/2022, 10:40:04",
+    "Speed": 3.547282721948111,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23764348961413,
+    "Longitude": -84.39130095764995,
+    "Elevation": 266.6000061035156,
+    "Time": "05/13/2022, 10:40:05",
+    "Speed": 5.60528319455466,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.2375154979527,
+    "Longitude": -84.39136985689402,
+    "Elevation": 266.6000061035156,
+    "Time": "05/13/2022, 10:40:11",
+    "Speed": 5.075826963633161,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23748029395938,
+    "Longitude": -84.39148628152907,
+    "Elevation": 266.6000061035156,
+    "Time": "05/13/2022, 10:40:15",
+    "Speed": 4.643365675652535,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23750049434602,
+    "Longitude": -84.39166045747697,
+    "Elevation": 266.6000061035156,
+    "Time": "05/13/2022, 10:40:21",
+    "Speed": 4.857639303506334,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23751876689494,
+    "Longitude": -84.39184343442321,
+    "Elevation": 266.79998779296875,
+    "Time": "05/13/2022, 10:40:27",
+    "Speed": 5.294239359862666,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23758523538709,
+    "Longitude": -84.39205423928797,
+    "Elevation": 266.79998779296875,
+    "Time": "05/13/2022, 10:40:34",
+    "Speed": 5.207877316177698,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23764290288091,
+    "Longitude": -84.39230284653604,
+    "Elevation": 267.0,
+    "Time": "05/13/2022, 10:40:42",
+    "Speed": 5.296498995588898,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23764877021313,
+    "Longitude": -84.39233520068228,
+    "Elevation": 267.0,
+    "Time": "05/13/2022, 10:40:43",
+    "Speed": 4.915078471927913,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23766268417239,
+    "Longitude": -84.39258414320648,
+    "Elevation": 267.3999938964844,
+    "Time": "05/13/2022, 10:40:51",
+    "Speed": 4.816452656608424,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.237661845982075,
+    "Longitude": -84.39273719675839,
+    "Elevation": 267.3999938964844,
+    "Time": "05/13/2022, 10:40:56",
+    "Speed": 6.168444268544541,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23762739636004,
+    "Longitude": -84.39300617203116,
+    "Elevation": 267.20001220703125,
+    "Time": "05/13/2022, 10:41:03",
+    "Speed": 6.2477014546906675,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23764307051897,
+    "Longitude": -84.39324312843382,
+    "Elevation": 266.79998779296875,
+    "Time": "05/13/2022, 10:41:09",
+    "Speed": 5.839216793461447,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23765338025987,
+    "Longitude": -84.39331554807723,
+    "Elevation": 266.6000061035156,
+    "Time": "05/13/2022, 10:41:11",
+    "Speed": 5.176154522883176,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23769042827189,
+    "Longitude": -84.39350405707955,
+    "Elevation": 265.79998779296875,
+    "Time": "05/13/2022, 10:41:17",
+    "Speed": 5.0423963454701966,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23770266585052,
+    "Longitude": -84.39356516115367,
+    "Elevation": 265.6000061035156,
+    "Time": "05/13/2022, 10:41:19",
+    "Speed": 5.094357432451447,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.237745413556695,
+    "Longitude": -84.39378149807453,
+    "Elevation": 265.0,
+    "Time": "05/13/2022, 10:41:26",
+    "Speed": 5.2663435981565,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23775346018374,
+    "Longitude": -84.39391477033496,
+    "Elevation": 264.6000061035156,
+    "Time": "05/13/2022, 10:41:30",
+    "Speed": 5.477804689506652,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23776821233332,
+    "Longitude": -84.39405206590891,
+    "Elevation": 263.6000061035156,
+    "Time": "05/13/2022, 10:41:34",
+    "Speed": 5.5025906818480035,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.237794280052185,
+    "Longitude": -84.39429338090122,
+    "Elevation": 262.79998779296875,
+    "Time": "05/13/2022, 10:41:41",
+    "Speed": 5.513197025801074,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.237812887877226,
+    "Longitude": -84.39443042501807,
+    "Elevation": 262.3999938964844,
+    "Time": "05/13/2022, 10:41:45",
+    "Speed": 5.159821665239047,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23781883902848,
+    "Longitude": -84.39456126652658,
+    "Elevation": 261.3999938964844,
+    "Time": "05/13/2022, 10:41:49",
+    "Speed": 5.171553818586939,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23781858757138,
+    "Longitude": -84.39459412358701,
+    "Elevation": 261.20001220703125,
+    "Time": "05/13/2022, 10:41:50",
+    "Speed": 5.099220832226586,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23783618956804,
+    "Longitude": -84.39478657208383,
+    "Elevation": 260.20001220703125,
+    "Time": "05/13/2022, 10:41:56",
+    "Speed": 6.786716950087272,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23783652484417,
+    "Longitude": -84.39487282186747,
+    "Elevation": 260.0,
+    "Time": "05/13/2022, 10:41:58",
+    "Speed": 5.7649040923390595,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23786058090627,
+    "Longitude": -84.39505202695727,
+    "Elevation": 259.20001220703125,
+    "Time": "05/13/2022, 10:42:03",
+    "Speed": 6.9904987073905716,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.237860245630145,
+    "Longitude": -84.39514087513089,
+    "Elevation": 259.0,
+    "Time": "05/13/2022, 10:42:05",
+    "Speed": 6.208879862755731,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.237871980294585,
+    "Longitude": -84.39521756954491,
+    "Elevation": 258.79998779296875,
+    "Time": "05/13/2022, 10:42:07",
+    "Speed": 5.158455729631654,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23788086511195,
+    "Longitude": -84.39528160728514,
+    "Elevation": 258.20001220703125,
+    "Time": "05/13/2022, 10:42:09",
+    "Speed": 5.732581085272429,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23789310269058,
+    "Longitude": -84.39546274021268,
+    "Elevation": 257.6000061035156,
+    "Time": "05/13/2022, 10:42:14",
+    "Speed": 6.443453571940591,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.237910620868206,
+    "Longitude": -84.39558243378997,
+    "Elevation": 257.0,
+    "Time": "05/13/2022, 10:42:17",
+    "Speed": 5.95652208657122,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23792202025652,
+    "Longitude": -84.39577085897326,
+    "Elevation": 256.20001220703125,
+    "Time": "05/13/2022, 10:42:22",
+    "Speed": 5.8224577748362485,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.23790944740176,
+    "Longitude": -84.39588007517159,
+    "Elevation": 256.0,
+    "Time": "05/13/2022, 10:42:25",
+    "Speed": 5.839216793461325,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.237903663888574,
+    "Longitude": -84.3959160335362,
+    "Elevation": 256.0,
+    "Time": "05/13/2022, 10:42:26",
+    "Speed": 4.974861202581357,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.23789117485285,
+    "Longitude": -84.39597613178194,
+    "Elevation": 255.60000610351562,
+    "Time": "05/13/2022, 10:42:28",
+    "Speed": 0.3683560597523331,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.237894946709275,
+    "Longitude": -84.39606020227075,
+    "Elevation": 254.39999389648438,
+    "Time": "05/13/2022, 10:43:04",
+    "Speed": 3.2831645694055327,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.237898886203766,
+    "Longitude": -84.3960801512003,
+    "Elevation": 254.39999389648438,
+    "Time": "05/13/2022, 10:43:05",
+    "Speed": 4.144866906699935,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.237913554534316,
+    "Longitude": -84.39620981924236,
+    "Elevation": 254.1999969482422,
+    "Time": "05/13/2022, 10:43:10",
+    "Speed": 5.2408574628962,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.23792654648423,
+    "Longitude": -84.39627318643034,
+    "Elevation": 254.1999969482422,
+    "Time": "05/13/2022, 10:43:12",
+    "Speed": 5.465984968483047,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.237947165966034,
+    "Longitude": -84.39637217670679,
+    "Elevation": 254.0,
+    "Time": "05/13/2022, 10:43:15",
+    "Speed": 5.575365428251991,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.23795202746987,
+    "Longitude": -84.39647820778191,
+    "Elevation": 254.0,
+    "Time": "05/13/2022, 10:43:18",
+    "Speed": 5.559275848138242,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.23794758506119,
+    "Longitude": -84.39654853194952,
+    "Elevation": 254.0,
+    "Time": "05/13/2022, 10:43:20",
+    "Speed": 5.665197596016276,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.237960409373045,
+    "Longitude": -84.3967636115849,
+    "Elevation": 253.8000030517578,
+    "Time": "05/13/2022, 10:43:26",
+    "Speed": 5.442200303666009,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.237962923943996,
+    "Longitude": -84.39755913801491,
+    "Elevation": 253.8000030517578,
+    "Time": "05/13/2022, 10:43:49",
+    "Speed": 5.492293799169124,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.237982369959354,
+    "Longitude": -84.39780154265463,
+    "Elevation": 253.60000610351562,
+    "Time": "05/13/2022, 10:43:56",
+    "Speed": 5.034563926580583,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23798262141645,
+    "Longitude": -84.39783356152475,
+    "Elevation": 253.60000610351562,
+    "Time": "05/13/2022, 10:43:57",
+    "Speed": 5.044911326208737,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23798161558807,
+    "Longitude": -84.39796180464327,
+    "Elevation": 253.60000610351562,
+    "Time": "05/13/2022, 10:44:01",
+    "Speed": 5.304210346956689,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23798555508256,
+    "Longitude": -84.39809650182724,
+    "Elevation": 253.8000030517578,
+    "Time": "05/13/2022, 10:44:05",
+    "Speed": 5.3536685401835395,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23799502663314,
+    "Longitude": -84.39816288650036,
+    "Elevation": 253.60000610351562,
+    "Time": "05/13/2022, 10:44:07",
+    "Speed": 4.996346099191746,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.238008772954345,
+    "Longitude": -84.39828802831471,
+    "Elevation": 253.39999389648438,
+    "Time": "05/13/2022, 10:44:11",
+    "Speed": 5.02110849781748,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23801137134433,
+    "Longitude": -84.39835173077881,
+    "Elevation": 253.39999389648438,
+    "Time": "05/13/2022, 10:44:13",
+    "Speed": 5.442377741813223,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23801916651428,
+    "Longitude": -84.39859354868531,
+    "Elevation": 253.1999969482422,
+    "Time": "05/13/2022, 10:44:20",
+    "Speed": 6.0292212731480115,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.238022016361356,
+    "Longitude": -84.39863160252571,
+    "Elevation": 253.1999969482422,
+    "Time": "05/13/2022, 10:44:21",
+    "Speed": 5.486545736012918,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23803978599608,
+    "Longitude": -84.39876822754741,
+    "Elevation": 253.0,
+    "Time": "05/13/2022, 10:44:25",
+    "Speed": 5.852477072874045,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.238056130707264,
+    "Longitude": -84.39891474321485,
+    "Elevation": 252.8000030517578,
+    "Time": "05/13/2022, 10:44:29",
+    "Speed": 6.101924841771431,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23806945793331,
+    "Longitude": -84.39902915619314,
+    "Elevation": 252.8000030517578,
+    "Time": "05/13/2022, 10:44:32",
+    "Speed": 5.726864457171358,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23807708546519,
+    "Longitude": -84.39917424693704,
+    "Elevation": 252.39999389648438,
+    "Time": "05/13/2022, 10:44:36",
+    "Speed": 5.458645609726635,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23807951621711,
+    "Longitude": -84.3992782663554,
+    "Elevation": 252.0,
+    "Time": "05/13/2022, 10:44:39",
+    "Speed": 5.973562479979992,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.238088987767696,
+    "Longitude": -84.39942939206958,
+    "Elevation": 251.1999969482422,
+    "Time": "05/13/2022, 10:44:43",
+    "Speed": 5.152623669282478,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23809024505317,
+    "Longitude": -84.39952762797475,
+    "Elevation": 250.8000030517578,
+    "Time": "05/13/2022, 10:44:46",
+    "Speed": 5.357879054826248,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23808974213898,
+    "Longitude": -84.39966383390129,
+    "Elevation": 250.0,
+    "Time": "05/13/2022, 10:44:50",
+    "Speed": 5.878783237779558,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.2380974534899,
+    "Longitude": -84.39985024742782,
+    "Elevation": 249.1999969482422,
+    "Time": "05/13/2022, 10:44:55",
+    "Speed": 6.021736203504679,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23809946514666,
+    "Longitude": -84.39988838508725,
+    "Elevation": 249.0,
+    "Time": "05/13/2022, 10:44:56",
+    "Speed": 5.867264181270979,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23809711821377,
+    "Longitude": -84.40007479861379,
+    "Elevation": 247.8000030517578,
+    "Time": "05/13/2022, 10:45:01",
+    "Speed": 5.862342495025942,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.238097202032804,
+    "Longitude": -84.40014931373298,
+    "Elevation": 247.39999389648438,
+    "Time": "05/13/2022, 10:45:03",
+    "Speed": 5.63748716399277,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.238099129870534,
+    "Longitude": -84.40025676973164,
+    "Elevation": 246.60000610351562,
+    "Time": "05/13/2022, 10:45:06",
+    "Speed": 5.884917515274383,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23810038715601,
+    "Longitude": -84.4004437699914,
+    "Elevation": 245.8000030517578,
+    "Time": "05/13/2022, 10:45:11",
+    "Speed": 5.403978198886495,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.238104578107595,
+    "Longitude": -84.40051216632128,
+    "Elevation": 245.0,
+    "Time": "05/13/2022, 10:45:13",
+    "Speed": 5.884525794322547,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23811212182045,
+    "Longitude": -84.40062372945249,
+    "Elevation": 244.0,
+    "Time": "05/13/2022, 10:45:16",
+    "Speed": 6.125694939216383,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23811421729624,
+    "Longitude": -84.40066253766418,
+    "Elevation": 243.8000030517578,
+    "Time": "05/13/2022, 10:45:17",
+    "Speed": 6.044163604051739,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23811790533364,
+    "Longitude": -84.40070050768554,
+    "Elevation": 243.8000030517578,
+    "Time": "05/13/2022, 10:45:18",
+    "Speed": 5.443974028714646,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.238122683018446,
+    "Longitude": -84.40087334252894,
+    "Elevation": 242.60000610351562,
+    "Time": "05/13/2022, 10:45:23",
+    "Speed": 5.305538757492921,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.238118240609765,
+    "Longitude": -84.4010080397129,
+    "Elevation": 241.60000610351562,
+    "Time": "05/13/2022, 10:45:27",
+    "Speed": 4.657643456037903,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23811472021043,
+    "Longitude": -84.4010669644922,
+    "Elevation": 241.39999389648438,
+    "Time": "05/13/2022, 10:45:29",
+    "Speed": 4.916217383987848,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.238099129870534,
+    "Longitude": -84.40115740522742,
+    "Elevation": 240.39999389648438,
+    "Time": "05/13/2022, 10:45:32",
+    "Speed": 4.770064891734329,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23809292726219,
+    "Longitude": -84.40121725201607,
+    "Elevation": 239.8000030517578,
+    "Time": "05/13/2022, 10:45:34",
+    "Speed": 4.861377486595368,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23809166997671,
+    "Longitude": -84.40124809741974,
+    "Elevation": 239.39999389648438,
+    "Time": "05/13/2022, 10:45:35",
+    "Speed": 4.884387771054586,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23807507380843,
+    "Longitude": -84.40143249928951,
+    "Elevation": 238.1999969482422,
+    "Time": "05/13/2022, 10:45:41",
+    "Speed": 4.743992292089693,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23808102495968,
+    "Longitude": -84.40146116539836,
+    "Elevation": 238.0,
+    "Time": "05/13/2022, 10:45:42",
+    "Speed": 5.047983489949119,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23809410072863,
+    "Longitude": -84.40148572437465,
+    "Elevation": 237.60000610351562,
+    "Time": "05/13/2022, 10:45:43",
+    "Speed": 5.848863614499759,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.23813458532095,
+    "Longitude": -84.40152352675796,
+    "Elevation": 237.1999969482422,
+    "Time": "05/13/2022, 10:45:45",
+    "Speed": 6.514611380530532,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.238159814849496,
+    "Longitude": -84.40153467468917,
+    "Elevation": 237.0,
+    "Time": "05/13/2022, 10:45:46",
+    "Speed": 6.90856487964696,
+    "Street": "Cooper Road"
+  },
+  {
+    "Latitude": 39.2383252736181,
+    "Longitude": -84.40156602300704,
+    "Elevation": 235.8000030517578,
+    "Time": "05/13/2022, 10:45:52",
+    "Speed": 6.542948477187883,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.23850590363145,
+    "Longitude": -84.40162251703441,
+    "Elevation": 234.60000610351562,
+    "Time": "05/13/2022, 10:45:59",
+    "Speed": 6.551047923917899,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.23858310095966,
+    "Longitude": -84.4016491714865,
+    "Elevation": 234.39999389648438,
+    "Time": "05/13/2022, 10:46:02",
+    "Speed": 6.498668806040035,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.23870933242142,
+    "Longitude": -84.4017023127526,
+    "Elevation": 233.60000610351562,
+    "Time": "05/13/2022, 10:46:07",
+    "Speed": 5.618788979269129,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.238730538636446,
+    "Longitude": -84.4017147179693,
+    "Elevation": 233.60000610351562,
+    "Time": "05/13/2022, 10:46:08",
+    "Speed": 6.205246813958558,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.23877521418035,
+    "Longitude": -84.40174983814359,
+    "Elevation": 233.60000610351562,
+    "Time": "05/13/2022, 10:46:10",
+    "Speed": 6.384673543278725,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.23893447034061,
+    "Longitude": -84.40188135020435,
+    "Elevation": 233.0,
+    "Time": "05/13/2022, 10:46:17",
+    "Speed": 5.684845101111329,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.23899406567216,
+    "Longitude": -84.40193499438465,
+    "Elevation": 233.0,
+    "Time": "05/13/2022, 10:46:20",
+    "Speed": 5.773068869758633,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.239141000434756,
+    "Longitude": -84.40211445093155,
+    "Elevation": 233.0,
+    "Time": "05/13/2022, 10:46:28",
+    "Speed": 5.529788854717577,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.239159943535924,
+    "Longitude": -84.40213289111853,
+    "Elevation": 233.1999969482422,
+    "Time": "05/13/2022, 10:46:29",
+    "Speed": 5.689519303974199,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.23931224271655,
+    "Longitude": -84.4022932369262,
+    "Elevation": 234.0,
+    "Time": "05/13/2022, 10:46:37",
+    "Speed": 4.9758130211888565,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.23939094878733,
+    "Longitude": -84.40239080227911,
+    "Elevation": 235.0,
+    "Time": "05/13/2022, 10:46:42",
+    "Speed": 5.337380103735605,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.239501003175974,
+    "Longitude": -84.40249641425908,
+    "Elevation": 236.0,
+    "Time": "05/13/2022, 10:46:48",
+    "Speed": 4.709536335839345,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.23960301093757,
+    "Longitude": -84.40257545560598,
+    "Elevation": 237.0,
+    "Time": "05/13/2022, 10:46:54",
+    "Speed": 5.4185638615788525,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.23964089713991,
+    "Longitude": -84.40260948613286,
+    "Elevation": 237.39999389648438,
+    "Time": "05/13/2022, 10:46:56",
+    "Speed": 5.106555437883905,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.2397188488394,
+    "Longitude": -84.4026503060013,
+    "Elevation": 238.0,
+    "Time": "05/13/2022, 10:47:00",
+    "Speed": 6.1385659918516575,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.23981641419232,
+    "Longitude": -84.40267402678728,
+    "Elevation": 238.8000030517578,
+    "Time": "05/13/2022, 10:47:04",
+    "Speed": 5.99546487010515,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.239862682297826,
+    "Longitude": -84.40269540064037,
+    "Elevation": 239.1999969482422,
+    "Time": "05/13/2022, 10:47:06",
+    "Speed": 5.577948930216904,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.239986315369606,
+    "Longitude": -84.40277930349112,
+    "Elevation": 240.1999969482422,
+    "Time": "05/13/2022, 10:47:12",
+    "Speed": 5.393535719179256,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24000618048012,
+    "Longitude": -84.40279296599329,
+    "Elevation": 240.39999389648438,
+    "Time": "05/13/2022, 10:47:13",
+    "Speed": 5.50565039215049,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24016728065908,
+    "Longitude": -84.40290913917124,
+    "Elevation": 241.39999389648438,
+    "Time": "05/13/2022, 10:47:21",
+    "Speed": 5.920832808070722,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.240347407758236,
+    "Longitude": -84.40300678834319,
+    "Elevation": 242.60000610351562,
+    "Time": "05/13/2022, 10:47:29",
+    "Speed": 5.253750120663067,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24038579687476,
+    "Longitude": -84.40303470008075,
+    "Elevation": 243.0,
+    "Time": "05/13/2022, 10:47:31",
+    "Speed": 5.957201136663447,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24056910909712,
+    "Longitude": -84.40312279388309,
+    "Elevation": 243.8000030517578,
+    "Time": "05/13/2022, 10:47:39",
+    "Speed": 6.216030757025608,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.240682516247034,
+    "Longitude": -84.40320569090545,
+    "Elevation": 244.60000610351562,
+    "Time": "05/13/2022, 10:47:44",
+    "Speed": 6.670815513682772,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.240757785737514,
+    "Longitude": -84.40325061790645,
+    "Elevation": 245.0,
+    "Time": "05/13/2022, 10:47:47",
+    "Speed": 6.362182043072536,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.240879910066724,
+    "Longitude": -84.40331063233316,
+    "Elevation": 245.60000610351562,
+    "Time": "05/13/2022, 10:47:52",
+    "Speed": 6.221075393575473,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.240952245891094,
+    "Longitude": -84.40334214828908,
+    "Elevation": 246.39999389648438,
+    "Time": "05/13/2022, 10:47:55",
+    "Speed": 5.542009397477803,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24099340103567,
+    "Longitude": -84.4033691380173,
+    "Elevation": 246.60000610351562,
+    "Time": "05/13/2022, 10:47:57",
+    "Speed": 5.784030990260932,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24110806547105,
+    "Longitude": -84.40349478274584,
+    "Elevation": 247.39999389648438,
+    "Time": "05/13/2022, 10:48:03",
+    "Speed": 5.863063703431089,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.241179060190916,
+    "Longitude": -84.40359285101295,
+    "Elevation": 247.60000610351562,
+    "Time": "05/13/2022, 10:48:07",
+    "Speed": 5.099253113174927,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24128492362797,
+    "Longitude": -84.40451762638986,
+    "Elevation": 249.1999969482422,
+    "Time": "05/13/2022, 10:48:36",
+    "Speed": 5.4723988328600095,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24127989448607,
+    "Longitude": -84.40455148927867,
+    "Elevation": 249.1999969482422,
+    "Time": "05/13/2022, 10:48:37",
+    "Speed": 5.598685913105168,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24127318896353,
+    "Longitude": -84.40458543598652,
+    "Elevation": 249.1999969482422,
+    "Time": "05/13/2022, 10:48:38",
+    "Speed": 5.245158536630201,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.241267908364534,
+    "Longitude": -84.40461770631373,
+    "Elevation": 249.1999969482422,
+    "Time": "05/13/2022, 10:48:39",
+    "Speed": 5.088029821720392,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24126572906971,
+    "Longitude": -84.40464989282191,
+    "Elevation": 249.1999969482422,
+    "Time": "05/13/2022, 10:48:40",
+    "Speed": 4.767700547156921,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24126371741295,
+    "Longitude": -84.40468006767333,
+    "Elevation": 249.1999969482422,
+    "Time": "05/13/2022, 10:48:41",
+    "Speed": 5.212813982337621,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.241270842030644,
+    "Longitude": -84.40474536269903,
+    "Elevation": 249.1999969482422,
+    "Time": "05/13/2022, 10:48:43",
+    "Speed": 5.233322078031401,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24127930775285,
+    "Longitude": -84.40481049008667,
+    "Elevation": 249.1999969482422,
+    "Time": "05/13/2022, 10:48:45",
+    "Speed": 5.208486199123869,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24129464663565,
+    "Longitude": -84.40487209707499,
+    "Elevation": 249.1999969482422,
+    "Time": "05/13/2022, 10:48:47",
+    "Speed": 5.523043531596934,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24138508737087,
+    "Longitude": -84.4050719216466,
+    "Elevation": 249.1999969482422,
+    "Time": "05/13/2022, 10:48:54",
+    "Speed": 6.370024232606611,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.241526406258345,
+    "Longitude": -84.40524626523256,
+    "Elevation": 249.1999969482422,
+    "Time": "05/13/2022, 10:49:01",
+    "Speed": 6.039974334173797,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24168985337019,
+    "Longitude": -84.40532002598047,
+    "Elevation": 249.39999389648438,
+    "Time": "05/13/2022, 10:49:08",
+    "Speed": 5.572319622464763,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24184517003596,
+    "Longitude": -84.40535422414541,
+    "Elevation": 249.39999389648438,
+    "Time": "05/13/2022, 10:49:15",
+    "Speed": 5.517541245319749,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.241995038464665,
+    "Longitude": -84.40529001876712,
+    "Elevation": 249.39999389648438,
+    "Time": "05/13/2022, 10:49:22",
+    "Speed": 5.781241619384812,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.242167957127094,
+    "Longitude": -84.40518197603524,
+    "Elevation": 249.60000610351562,
+    "Time": "05/13/2022, 10:49:30",
+    "Speed": 5.355774211273785,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24218782223761,
+    "Longitude": -84.40516881644726,
+    "Elevation": 249.60000610351562,
+    "Time": "05/13/2022, 10:49:31",
+    "Speed": 5.905459103142064,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.242230486124754,
+    "Longitude": -84.4051358755678,
+    "Elevation": 249.8000030517578,
+    "Time": "05/13/2022, 10:49:33",
+    "Speed": 6.529824377616547,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24235294573009,
+    "Longitude": -84.40506119281054,
+    "Elevation": 249.8000030517578,
+    "Time": "05/13/2022, 10:49:38",
+    "Speed": 5.239781642817475,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24246643669903,
+    "Longitude": -84.40497326664627,
+    "Elevation": 249.8000030517578,
+    "Time": "05/13/2022, 10:49:44",
+    "Speed": 5.622487634130339,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24263290129602,
+    "Longitude": -84.40486161969602,
+    "Elevation": 249.8000030517578,
+    "Time": "05/13/2022, 10:49:52",
+    "Speed": 5.812120513642606,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24265427514911,
+    "Longitude": -84.40484661608934,
+    "Elevation": 249.8000030517578,
+    "Time": "05/13/2022, 10:49:53",
+    "Speed": 6.900883204518582,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24283658154309,
+    "Longitude": -84.40474083647132,
+    "Elevation": 250.0,
+    "Time": "05/13/2022, 10:50:00",
+    "Speed": 6.187960703186852,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24285979941487,
+    "Longitude": -84.40472667105496,
+    "Elevation": 250.1999969482422,
+    "Time": "05/13/2022, 10:50:01",
+    "Speed": 6.20393435681916,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.243000196292996,
+    "Longitude": -84.40464477986097,
+    "Elevation": 250.0,
+    "Time": "05/13/2022, 10:50:07",
+    "Speed": 6.498668806040035,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24311469309032,
+    "Longitude": -84.40454537048936,
+    "Elevation": 250.0,
+    "Time": "05/13/2022, 10:50:12",
+    "Speed": 6.247470234882049,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24327487125993,
+    "Longitude": -84.404430789873,
+    "Elevation": 250.0,
+    "Time": "05/13/2022, 10:50:19",
+    "Speed": 6.401158879082902,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24344644881785,
+    "Longitude": -84.40434403717518,
+    "Elevation": 250.1999969482422,
+    "Time": "05/13/2022, 10:50:26",
+    "Speed": 6.290416248395418,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.243609476834536,
+    "Longitude": -84.40423498861492,
+    "Elevation": 250.1999969482422,
+    "Time": "05/13/2022, 10:50:33",
+    "Speed": 6.262222511856148,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.243655828759074,
+    "Longitude": -84.40420389175415,
+    "Elevation": 250.1999969482422,
+    "Time": "05/13/2022, 10:50:35",
+    "Speed": 6.580908611520727,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24381039105356,
+    "Longitude": -84.40414672717452,
+    "Elevation": 250.39999389648438,
+    "Time": "05/13/2022, 10:50:41",
+    "Speed": 5.70075295259587,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.243962187319994,
+    "Longitude": -84.40406466834247,
+    "Elevation": 250.39999389648438,
+    "Time": "05/13/2022, 10:50:48",
+    "Speed": 5.5981824115179375,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24413653090596,
+    "Longitude": -84.40399358980358,
+    "Elevation": 250.39999389648438,
+    "Time": "05/13/2022, 10:50:56",
+    "Speed": 5.578510402755226,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.244158240035176,
+    "Longitude": -84.40398470498621,
+    "Elevation": 250.39999389648438,
+    "Time": "05/13/2022, 10:50:57",
+    "Speed": 6.24791220511605,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.244320346042514,
+    "Longitude": -84.40387708134949,
+    "Elevation": 250.1999969482422,
+    "Time": "05/13/2022, 10:51:04",
+    "Speed": 6.917668513353721,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.2444884032011,
+    "Longitude": -84.40372176468372,
+    "Elevation": 249.39999389648438,
+    "Time": "05/13/2022, 10:51:11",
+    "Speed": 6.4399369768289185,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24464078620076,
+    "Longitude": -84.40356669947505,
+    "Elevation": 249.1999969482422,
+    "Time": "05/13/2022, 10:51:18",
+    "Speed": 5.82858684923434,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24467800185084,
+    "Longitude": -84.40352168865502,
+    "Elevation": 249.1999969482422,
+    "Time": "05/13/2022, 10:51:20",
+    "Speed": 6.402165339307529,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24480725079775,
+    "Longitude": -84.40332328900695,
+    "Elevation": 249.0,
+    "Time": "05/13/2022, 10:51:27",
+    "Speed": 5.862188625750414,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24488830380142,
+    "Longitude": -84.40318808890879,
+    "Elevation": 248.60000610351562,
+    "Time": "05/13/2022, 10:51:32",
+    "Speed": 5.850791070019043,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24491663463414,
+    "Longitude": -84.40312874503434,
+    "Elevation": 248.60000610351562,
+    "Time": "05/13/2022, 10:51:34",
+    "Speed": 5.755066959347007,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.245006488636136,
+    "Longitude": -84.40291576087475,
+    "Elevation": 248.39999389648438,
+    "Time": "05/13/2022, 10:51:41",
+    "Speed": 5.7457832964063025,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24501755274832,
+    "Longitude": -84.40288374200463,
+    "Elevation": 248.60000610351562,
+    "Time": "05/13/2022, 10:51:42",
+    "Speed": 5.608459259409533,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.245098773390055,
+    "Longitude": -84.4026698358357,
+    "Elevation": 248.60000610351562,
+    "Time": "05/13/2022, 10:51:49",
+    "Speed": 5.61678191045033,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.245125176385045,
+    "Longitude": -84.40261191688478,
+    "Elevation": 248.60000610351562,
+    "Time": "05/13/2022, 10:51:51",
+    "Speed": 5.3186964562063785,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.245197428390384,
+    "Longitude": -84.40240471623838,
+    "Elevation": 248.8000030517578,
+    "Time": "05/13/2022, 10:51:58",
+    "Speed": 5.068364025986359,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.245241349563,
+    "Longitude": -84.40219022333622,
+    "Elevation": 249.39999389648438,
+    "Time": "05/13/2022, 10:52:05",
+    "Speed": 5.206851304731383,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24528376199305,
+    "Longitude": -84.40196852199733,
+    "Elevation": 249.8000030517578,
+    "Time": "05/13/2022, 10:52:12",
+    "Speed": 5.033444014671226,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.245303459465504,
+    "Longitude": -84.40191261470318,
+    "Elevation": 250.0,
+    "Time": "05/13/2022, 10:52:14",
+    "Speed": 4.958854655866942,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.245336232706904,
+    "Longitude": -84.40169820562005,
+    "Elevation": 250.60000610351562,
+    "Time": "05/13/2022, 10:52:21",
+    "Speed": 5.50936104623811,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24534687772393,
+    "Longitude": -84.40163022838533,
+    "Elevation": 250.8000030517578,
+    "Time": "05/13/2022, 10:52:23",
+    "Speed": 5.680656394943707,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.245355762541294,
+    "Longitude": -84.40155940130353,
+    "Elevation": 250.8000030517578,
+    "Time": "05/13/2022, 10:52:25",
+    "Speed": 5.3431277374002235,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24537076614797,
+    "Longitude": -84.40146032720804,
+    "Elevation": 251.0,
+    "Time": "05/13/2022, 10:52:28",
+    "Speed": 5.371990217399928,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24539566040039,
+    "Longitude": -84.40122462809086,
+    "Elevation": 251.1999969482422,
+    "Time": "05/13/2022, 10:52:35",
+    "Speed": 5.525709334536275,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24544444307685,
+    "Longitude": -84.40102857537568,
+    "Elevation": 251.8000030517578,
+    "Time": "05/13/2022, 10:52:41",
+    "Speed": 6.378182926797952,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24545290879905,
+    "Longitude": -84.40099035389721,
+    "Elevation": 251.8000030517578,
+    "Time": "05/13/2022, 10:52:42",
+    "Speed": 5.829040842059167,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24551183357835,
+    "Longitude": -84.40074836835265,
+    "Elevation": 252.0,
+    "Time": "05/13/2022, 10:52:49",
+    "Speed": 5.486802614807325,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.245533123612404,
+    "Longitude": -84.40068726427853,
+    "Elevation": 252.0,
+    "Time": "05/13/2022, 10:52:51",
+    "Speed": 5.46743482321276,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24562968313694,
+    "Longitude": -84.40049791708589,
+    "Elevation": 252.0,
+    "Time": "05/13/2022, 10:52:58",
+    "Speed": 5.251603542384985,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24573311582208,
+    "Longitude": -84.40028686076403,
+    "Elevation": 252.1999969482422,
+    "Time": "05/13/2022, 10:53:06",
+    "Speed": 4.762968337011028,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24574552103877,
+    "Longitude": -84.4002638105303,
+    "Elevation": 252.1999969482422,
+    "Time": "05/13/2022, 10:53:07",
+    "Speed": 5.398351164001413,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24605833366513,
+    "Longitude": -84.3999546021223,
+    "Elevation": 253.8000030517578,
+    "Time": "05/13/2022, 10:53:24",
+    "Speed": 5.6724274620580335,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.246195210143924,
+    "Longitude": -84.39982476644218,
+    "Elevation": 254.1999969482422,
+    "Time": "05/13/2022, 10:53:31",
+    "Speed": 6.229801173284226,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24630300141871,
+    "Longitude": -84.39972401596606,
+    "Elevation": 254.8000030517578,
+    "Time": "05/13/2022, 10:53:36",
+    "Speed": 6.083006649530299,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.246364273130894,
+    "Longitude": -84.39966022968292,
+    "Elevation": 255.0,
+    "Time": "05/13/2022, 10:53:39",
+    "Speed": 5.859637172931228,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24652738496661,
+    "Longitude": -84.39951103180647,
+    "Elevation": 255.8000030517578,
+    "Time": "05/13/2022, 10:53:47",
+    "Speed": 6.682074282053957,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24655118957162,
+    "Longitude": -84.39949133433402,
+    "Elevation": 255.8000030517578,
+    "Time": "05/13/2022, 10:53:48",
+    "Speed": 5.561303670875073,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24658941105008,
+    "Longitude": -84.39945462159812,
+    "Elevation": 256.0,
+    "Time": "05/13/2022, 10:53:50",
+    "Speed": 5.668336932527234,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24667373299599,
+    "Longitude": -84.3993335030973,
+    "Elevation": 256.3999938964844,
+    "Time": "05/13/2022, 10:53:55",
+    "Speed": 5.963138260314304,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24682435579598,
+    "Longitude": -84.39921657554805,
+    "Elevation": 256.6000061035156,
+    "Time": "05/13/2022, 10:54:02",
+    "Speed": 5.575365428251991,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.246883280575275,
+    "Longitude": -84.39916536211967,
+    "Elevation": 257.0,
+    "Time": "05/13/2022, 10:54:05",
+    "Speed": 5.835199018708937,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.2469821870327,
+    "Longitude": -84.39906570129097,
+    "Elevation": 257.3999938964844,
+    "Time": "05/13/2022, 10:54:10",
+    "Speed": 5.475173350220094,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24710934050381,
+    "Longitude": -84.39892815425992,
+    "Elevation": 258.20001220703125,
+    "Time": "05/13/2022, 10:54:17",
+    "Speed": 7.39951142852183,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.247136414051056,
+    "Longitude": -84.39890870824456,
+    "Elevation": 258.20001220703125,
+    "Time": "05/13/2022, 10:54:18",
+    "Speed": 6.081283131157035,
+    "Street": "Carpenters Run"
+  },
+  {
+    "Latitude": 39.24728125333786,
+    "Longitude": -84.39876462332904,
+    "Elevation": 258.6000061035156,
+    "Time": "05/13/2022, 10:54:25",
+    "Speed": 4.9247468541083865,
+    "Street": "Carpenters Run Drive"
+  },
+  {
+    "Latitude": 39.24730966798961,
+    "Longitude": -84.39872103743255,
+    "Elevation": 258.79998779296875,
+    "Time": "05/13/2022, 10:54:27",
+    "Speed": 5.603718440785984,
+    "Street": "Carpenters Run Drive"
+  },
+  {
+    "Latitude": 39.24740237183869,
+    "Longitude": -84.39856555312872,
+    "Elevation": 259.20001220703125,
+    "Time": "05/13/2022, 10:54:33",
+    "Speed": 6.260421728925498,
+    "Street": "Carpenters Run Drive"
+  },
+  {
+    "Latitude": 39.24744235351682,
+    "Longitude": -84.39851718954742,
+    "Elevation": 259.3999938964844,
+    "Time": "05/13/2022, 10:54:35",
+    "Speed": 5.6734820804947885,
+    "Street": "Carpenters Run Drive"
+  },
+  {
+    "Latitude": 39.24754939042032,
+    "Longitude": -84.39832993783057,
+    "Elevation": 259.79998779296875,
+    "Time": "05/13/2022, 10:54:42",
+    "Speed": 6.012366762318313,
+    "Street": "Carpenters Run Drive"
+  },
+  {
+    "Latitude": 39.24761342816055,
+    "Longitude": -84.39821544103324,
+    "Elevation": 260.20001220703125,
+    "Time": "05/13/2022, 10:54:46",
+    "Speed": 5.768188982807335,
+    "Street": "Carpenters Run Drive"
+  },
+  {
+    "Latitude": 39.24768391996622,
+    "Longitude": -84.39806993119419,
+    "Elevation": 260.3999938964844,
+    "Time": "05/13/2022, 10:54:51",
+    "Speed": 5.640370858907805,
+    "Street": "Carpenters Run Drive"
+  },
+  {
+    "Latitude": 39.247781820595264,
+    "Longitude": -84.39787245355546,
+    "Elevation": 260.3999938964844,
+    "Time": "05/13/2022, 10:54:58",
+    "Speed": 5.765373476993112,
+    "Street": "Carpenters Run Drive"
+  },
+  {
+    "Latitude": 39.24778978340328,
+    "Longitude": -84.39783808775246,
+    "Elevation": 260.3999938964844,
+    "Time": "05/13/2022, 10:54:59",
+    "Speed": 5.341280958225097,
+    "Street": "Carpenters Run Drive"
+  },
+  {
+    "Latitude": 39.247868321835995,
+    "Longitude": -84.39759660512209,
+    "Elevation": 260.79998779296875,
+    "Time": "05/13/2022, 10:55:07",
+    "Speed": 5.867362402068987,
+    "Street": "Carpenters Run Drive"
+  },
+  {
+    "Latitude": 39.24792867153883,
+    "Longitude": -84.39739426597953,
+    "Elevation": 261.20001220703125,
+    "Time": "05/13/2022, 10:55:13",
+    "Speed": 6.140402511261326,
+    "Street": "Carpenters Run Drive"
+  },
+  {
+    "Latitude": 39.24794367514551,
+    "Longitude": -84.3973632529378,
+    "Elevation": 261.3999938964844,
+    "Time": "05/13/2022, 10:55:14",
+    "Speed": 6.014165296818805,
+    "Street": "Carpenters Run Drive"
+  },
+  {
+    "Latitude": 39.24801282584667,
+    "Longitude": -84.3971190880984,
+    "Elevation": 262.0,
+    "Time": "05/13/2022, 10:55:21",
+    "Speed": 5.7140526638142255,
+    "Street": "Carpenters Run Drive"
+  },
+  {
+    "Latitude": 39.24803134985268,
+    "Longitude": -84.39697684720159,
+    "Elevation": 262.20001220703125,
+    "Time": "05/13/2022, 10:55:25",
+    "Speed": 6.320914629929369,
+    "Street": "Carpenters Run Drive"
+  },
+  {
+    "Latitude": 39.24804509617388,
+    "Longitude": -84.39681767486036,
+    "Elevation": 262.3999938964844,
+    "Time": "05/13/2022, 10:55:29",
+    "Speed": 5.558758427995771,
+    "Street": "Carpenters Run Drive"
+  },
+  {
+    "Latitude": 39.24808298237622,
+    "Longitude": -84.39657778479159,
+    "Elevation": 262.3999938964844,
+    "Time": "05/13/2022, 10:55:36",
+    "Speed": 5.9428835544330445,
+    "Street": "Carpenters Run Drive"
+  },
+  {
+    "Latitude": 39.248097985982895,
+    "Longitude": -84.39631450921297,
+    "Elevation": 262.3999938964844,
+    "Time": "05/13/2022, 10:55:43",
+    "Speed": 5.676077229528071,
+    "Street": "Carpenters Run Drive"
+  },
+  {
+    "Latitude": 39.24809907563031,
+    "Longitude": -84.39606204628944,
+    "Elevation": 262.3999938964844,
+    "Time": "05/13/2022, 10:55:50",
+    "Speed": 6.253213411360519,
+    "Street": "Carpenters Run Drive"
+  },
+  {
+    "Latitude": 39.2480993270874,
+    "Longitude": -84.39602231606841,
+    "Elevation": 262.6000061035156,
+    "Time": "05/13/2022, 10:55:51",
+    "Speed": 6.439466496552951,
+    "Street": "Carpenters Run Drive"
+  },
+  {
+    "Latitude": 39.24808859825134,
+    "Longitude": -84.39577739685774,
+    "Elevation": 262.6000061035156,
+    "Time": "05/13/2022, 10:55:57",
+    "Speed": 6.002446021946897,
+    "Street": "Carpenters Run Drive"
+  },
+  {
+    "Latitude": 39.24809496849775,
+    "Longitude": -84.39551060087979,
+    "Elevation": 262.20001220703125,
+    "Time": "05/13/2022, 10:56:04",
+    "Speed": 5.598685913105168,
+    "Street": "Carpenters Run Drive"
+  },
+  {
+    "Latitude": 39.24809178337455,
+    "Longitude": -84.39547539688647,
+    "Elevation": 262.20001220703125,
+    "Time": "05/13/2022, 10:56:05",
+    "Speed": 5.463577828160273,
+    "Street": "Carpenters Run Drive"
+  },
+  {
+    "Latitude": 39.24803922884166,
+    "Longitude": -84.39528437331319,
+    "Elevation": 261.79998779296875,
+    "Time": "05/13/2022, 10:56:11",
+    "Speed": 2.690321359979726,
+    "Street": "Carpenters Run Drive"
+  },
+  {
+    "Latitude": 39.2479959782213,
+    "Longitude": -84.39523307606578,
+    "Elevation": 261.6000061035156,
+    "Time": "05/13/2022, 10:56:16",
+    "Speed": 4.6130809911794195,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24798080697656,
+    "Longitude": -84.39508848823607,
+    "Elevation": 261.79998779296875,
+    "Time": "05/13/2022, 10:56:21",
+    "Speed": 5.519292567771509,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24794099293649,
+    "Longitude": -84.39485119655728,
+    "Elevation": 261.6000061035156,
+    "Time": "05/13/2022, 10:56:28",
+    "Speed": 5.158865548290264,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24792238511145,
+    "Longitude": -84.39459060318768,
+    "Elevation": 261.20001220703125,
+    "Time": "05/13/2022, 10:56:36",
+    "Speed": 4.9213113832653015,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24792414531112,
+    "Longitude": -84.39455942250788,
+    "Elevation": 261.0,
+    "Time": "05/13/2022, 10:56:37",
+    "Speed": 5.2551514944211695,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.247937723994255,
+    "Longitude": -84.39432665705681,
+    "Elevation": 260.6000061035156,
+    "Time": "05/13/2022, 10:56:44",
+    "Speed": 5.169373108467469,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24793420359492,
+    "Longitude": -84.39426119439304,
+    "Elevation": 260.6000061035156,
+    "Time": "05/13/2022, 10:56:46",
+    "Speed": 5.30919017262918,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24790034070611,
+    "Longitude": -84.39399666152894,
+    "Elevation": 260.3999938964844,
+    "Time": "05/13/2022, 10:56:54",
+    "Speed": 4.852091179192195,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.2478989996016,
+    "Longitude": -84.3939658999443,
+    "Elevation": 260.3999938964844,
+    "Time": "05/13/2022, 10:56:55",
+    "Speed": 4.719634095034345,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24790947698057,
+    "Longitude": -84.39387747086585,
+    "Elevation": 260.20001220703125,
+    "Time": "05/13/2022, 10:56:58",
+    "Speed": 5.631205715428589,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.248028164729476,
+    "Longitude": -84.3934912327677,
+    "Elevation": 259.79998779296875,
+    "Time": "05/13/2022, 10:57:10",
+    "Speed": 5.689581233745955,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.248048113659024,
+    "Longitude": -84.39342618919909,
+    "Elevation": 259.6000061035156,
+    "Time": "05/13/2022, 10:57:12",
+    "Speed": 4.757861150324563,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.2481096368283,
+    "Longitude": -84.3932047393173,
+    "Elevation": 259.3999938964844,
+    "Time": "05/13/2022, 10:57:20",
+    "Speed": 5.732767935543773,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.248194210231304,
+    "Longitude": -84.39314673654735,
+    "Elevation": 259.20001220703125,
+    "Time": "05/13/2022, 10:57:24",
+    "Speed": 7.307512267598413,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24822296015918,
+    "Longitude": -84.39313718117774,
+    "Elevation": 259.20001220703125,
+    "Time": "05/13/2022, 10:57:25",
+    "Speed": 6.913731179009658,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24838699400425,
+    "Longitude": -84.39308965578675,
+    "Elevation": 259.0,
+    "Time": "05/13/2022, 10:57:31",
+    "Speed": 6.9665928454345,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.248580196872354,
+    "Longitude": -84.39303701743484,
+    "Elevation": 258.79998779296875,
+    "Time": "05/13/2022, 10:57:38",
+    "Speed": 6.245996774898099,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24860483966768,
+    "Longitude": -84.39302955754101,
+    "Elevation": 258.79998779296875,
+    "Time": "05/13/2022, 10:57:39",
+    "Speed": 6.381573294521764,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24878387711942,
+    "Longitude": -84.39300734549761,
+    "Elevation": 258.79998779296875,
+    "Time": "05/13/2022, 10:57:46",
+    "Speed": 6.722449720658121,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.248810866847634,
+    "Longitude": -84.39300525002182,
+    "Elevation": 258.6000061035156,
+    "Time": "05/13/2022, 10:57:47",
+    "Speed": 6.5378118127352565,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.248994598165154,
+    "Longitude": -84.39298999495804,
+    "Elevation": 258.6000061035156,
+    "Time": "05/13/2022, 10:57:54",
+    "Speed": 6.236964236875368,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24904472194612,
+    "Longitude": -84.39298748038709,
+    "Elevation": 258.6000061035156,
+    "Time": "05/13/2022, 10:57:56",
+    "Speed": 6.544987951055094,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.249228704720736,
+    "Longitude": -84.39297373406589,
+    "Elevation": 258.3999938964844,
+    "Time": "05/13/2022, 10:58:03",
+    "Speed": 7.148074975663355,
+    "Street": "Plainfield Road"
+  },
+  {
+    "Latitude": 39.24942727200687,
+    "Longitude": -84.39292285591364,
+    "Elevation": 258.3999938964844,
+    "Time": "05/13/2022, 10:58:10",
+    "Speed": 7.020356696847274,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.24962365999818,
+    "Longitude": -84.39288882538676,
+    "Elevation": 258.20001220703125,
+    "Time": "05/13/2022, 10:58:17",
+    "Speed": 6.088770582674121,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.249696750193834,
+    "Longitude": -84.39287767745554,
+    "Elevation": 258.20001220703125,
+    "Time": "05/13/2022, 10:58:20",
+    "Speed": 6.115083584035585,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.24981904216111,
+    "Longitude": -84.39285806380212,
+    "Elevation": 258.0,
+    "Time": "05/13/2022, 10:58:25",
+    "Speed": 6.672881043301428,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.24997947178781,
+    "Longitude": -84.39283744432032,
+    "Elevation": 257.6000061035156,
+    "Time": "05/13/2022, 10:58:31",
+    "Speed": 6.5291477440146615,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25016135908663,
+    "Longitude": -84.39279628917575,
+    "Elevation": 257.6000061035156,
+    "Time": "05/13/2022, 10:58:38",
+    "Speed": 5.30500743319515,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.250182481482625,
+    "Longitude": -84.39279134385288,
+    "Elevation": 257.6000061035156,
+    "Time": "05/13/2022, 10:58:39",
+    "Speed": 6.323908165944353,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25035959109664,
+    "Longitude": -84.39276376739144,
+    "Elevation": 257.6000061035156,
+    "Time": "05/13/2022, 10:58:46",
+    "Speed": 6.322921092610712,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.250561594963074,
+    "Longitude": -84.39272671937943,
+    "Elevation": 257.6000061035156,
+    "Time": "05/13/2022, 10:58:54",
+    "Speed": 6.949329704019585,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25075261853635,
+    "Longitude": -84.39266050234437,
+    "Elevation": 257.6000061035156,
+    "Time": "05/13/2022, 10:59:01",
+    "Speed": 7.798886428393027,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25093802623451,
+    "Longitude": -84.39261021092534,
+    "Elevation": 257.20001220703125,
+    "Time": "05/13/2022, 10:59:07",
+    "Speed": 7.949714183359468,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25100164487958,
+    "Longitude": -84.3926005717367,
+    "Elevation": 257.3999938964844,
+    "Time": "05/13/2022, 10:59:09",
+    "Speed": 6.854243099534476,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.251190489158034,
+    "Longitude": -84.39253846183419,
+    "Elevation": 257.0,
+    "Time": "05/13/2022, 10:59:16",
+    "Speed": 5.9501584409806965,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25121119245887,
+    "Longitude": -84.39251951873302,
+    "Elevation": 257.20001220703125,
+    "Time": "05/13/2022, 10:59:17",
+    "Speed": 5.914521316037981,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25124488770962,
+    "Longitude": -84.39237895421684,
+    "Elevation": 256.79998779296875,
+    "Time": "05/13/2022, 10:59:21",
+    "Speed": 6.033064154946572,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.251232482492924,
+    "Longitude": -84.39214979298413,
+    "Elevation": 256.79998779296875,
+    "Time": "05/13/2022, 10:59:27",
+    "Speed": 5.83598449985439,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25121756270528,
+    "Longitude": -84.39189129509032,
+    "Elevation": 256.79998779296875,
+    "Time": "05/13/2022, 10:59:34",
+    "Speed": 6.047208522939279,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25118889659643,
+    "Longitude": -84.391626175493,
+    "Elevation": 256.3999938964844,
+    "Time": "05/13/2022, 10:59:41",
+    "Speed": 5.31350224637549,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.2511835321784,
+    "Longitude": -84.39159348607063,
+    "Elevation": 256.3999938964844,
+    "Time": "05/13/2022, 10:59:42",
+    "Speed": 5.632614176702069,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25116777420044,
+    "Longitude": -84.39134420827031,
+    "Elevation": 256.20001220703125,
+    "Time": "05/13/2022, 10:59:49",
+    "Speed": 5.626810095386001,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.251166600733995,
+    "Longitude": -84.3913085013628,
+    "Elevation": 256.20001220703125,
+    "Time": "05/13/2022, 10:59:50",
+    "Speed": 5.758769241403752,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25116190686822,
+    "Longitude": -84.39116232097149,
+    "Elevation": 256.0,
+    "Time": "05/13/2022, 10:59:54",
+    "Speed": 5.870030816356164,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25115897320211,
+    "Longitude": -84.39105050638318,
+    "Elevation": 256.0,
+    "Time": "05/13/2022, 10:59:57",
+    "Speed": 6.229326560685119,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.251131899654865,
+    "Longitude": -84.39081690274179,
+    "Elevation": 255.60000610351562,
+    "Time": "05/13/2022, 11:00:03",
+    "Speed": 6.044163604051739,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25113131292164,
+    "Longitude": -84.39077851362526,
+    "Elevation": 255.60000610351562,
+    "Time": "05/13/2022, 11:00:04",
+    "Speed": 6.203631442662321,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.251088397577405,
+    "Longitude": -84.39055195078254,
+    "Elevation": 255.1999969482422,
+    "Time": "05/13/2022, 11:00:10",
+    "Speed": 5.737928496703325,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25108244642615,
+    "Longitude": -84.39051674678922,
+    "Elevation": 255.1999969482422,
+    "Time": "05/13/2022, 11:00:11",
+    "Speed": 5.873018001001544,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25104673951864,
+    "Longitude": -84.39030007459223,
+    "Elevation": 255.1999969482422,
+    "Time": "05/13/2022, 11:00:17",
+    "Speed": 5.56273098015906,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25102821551263,
+    "Longitude": -84.39005440101027,
+    "Elevation": 255.1999969482422,
+    "Time": "05/13/2022, 11:00:24",
+    "Speed": 5.51572447172769,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25102058798075,
+    "Longitude": -84.38994996249676,
+    "Elevation": 255.1999969482422,
+    "Time": "05/13/2022, 11:00:27",
+    "Speed": 5.967424852416629,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.250999465584755,
+    "Longitude": -84.38980202190578,
+    "Elevation": 255.0,
+    "Time": "05/13/2022, 11:00:31",
+    "Speed": 6.084139281644791,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25097046419978,
+    "Longitude": -84.3896543327719,
+    "Elevation": 255.0,
+    "Time": "05/13/2022, 11:00:35",
+    "Speed": 5.6214912454464345,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25095219165087,
+    "Longitude": -84.38940597698092,
+    "Elevation": 254.60000610351562,
+    "Time": "05/13/2022, 11:00:42",
+    "Speed": 5.977321912812283,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25092344172299,
+    "Longitude": -84.38914404250681,
+    "Elevation": 254.39999389648438,
+    "Time": "05/13/2022, 11:00:49",
+    "Speed": 5.946367323398763,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25091380253434,
+    "Longitude": -84.38907003030181,
+    "Elevation": 254.39999389648438,
+    "Time": "05/13/2022, 11:00:51",
+    "Speed": 5.915950922790367,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25090039148927,
+    "Longitude": -84.38892116770148,
+    "Elevation": 254.0,
+    "Time": "05/13/2022, 11:00:55",
+    "Speed": 6.111394776297033,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25088580697775,
+    "Longitude": -84.38872838392854,
+    "Elevation": 253.8000030517578,
+    "Time": "05/13/2022, 11:01:00",
+    "Speed": 6.267046058512646,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25081891939044,
+    "Longitude": -84.3885596562177,
+    "Elevation": 253.39999389648438,
+    "Time": "05/13/2022, 11:01:05",
+    "Speed": 6.282363340964411,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.250724371522665,
+    "Longitude": -84.38832353800535,
+    "Elevation": 253.39999389648438,
+    "Time": "05/13/2022, 11:01:12",
+    "Speed": 6.129900703489756,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25060191191733,
+    "Longitude": -84.38813150860369,
+    "Elevation": 253.60000610351562,
+    "Time": "05/13/2022, 11:01:19",
+    "Speed": 6.197101798404033,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25047115422785,
+    "Longitude": -84.38794911839068,
+    "Elevation": 253.60000610351562,
+    "Time": "05/13/2022, 11:01:26",
+    "Speed": 6.238771790669688,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.250450199469924,
+    "Longitude": -84.3879272416234,
+    "Elevation": 253.60000610351562,
+    "Time": "05/13/2022, 11:01:27",
+    "Speed": 6.122238042899714,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25030443817377,
+    "Longitude": -84.38778206706047,
+    "Elevation": 253.39999389648438,
+    "Time": "05/13/2022, 11:01:34",
+    "Speed": 5.903231168399049,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25024140626192,
+    "Longitude": -84.38772976398468,
+    "Elevation": 253.0,
+    "Time": "05/13/2022, 11:01:37",
+    "Speed": 6.666024778902548,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.25014216452837,
+    "Longitude": -84.38766572624445,
+    "Elevation": 252.60000610351562,
+    "Time": "05/13/2022, 11:01:41",
+    "Speed": 6.306379724067343,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.250002689659595,
+    "Longitude": -84.38756975345314,
+    "Elevation": 252.39999389648438,
+    "Time": "05/13/2022, 11:01:47",
+    "Speed": 6.972127330491977,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.249900598078966,
+    "Longitude": -84.38749649561942,
+    "Elevation": 252.0,
+    "Time": "05/13/2022, 11:01:51",
+    "Speed": 6.4368395128522335,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.24982599914074,
+    "Longitude": -84.38746254891157,
+    "Elevation": 251.8000030517578,
+    "Time": "05/13/2022, 11:01:54",
+    "Speed": 5.595643662692666,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.249679148197174,
+    "Longitude": -84.38737269490957,
+    "Elevation": 251.8000030517578,
+    "Time": "05/13/2022, 11:02:01",
+    "Speed": 5.115992683107558,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.24962667748332,
+    "Longitude": -84.3871608003974,
+    "Elevation": 251.8000030517578,
+    "Time": "05/13/2022, 11:02:08",
+    "Speed": 4.786582603415884,
+    "Street": "Summit Parkway"
+  },
+  {
+    "Latitude": 39.24962533637881,
+    "Longitude": -84.38713045790792,
+    "Elevation": 251.8000030517578,
+    "Time": "05/13/2022, 11:02:09",
+    "Speed": 4.786582603415884,
+    "Street": "Summit Parkway"
+  }
+]
