@@ -2,10 +2,9 @@ import React, { Component } from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faRunning } from '@fortawesome/free-solid-svg-icons';
-import { HomePage } from './components/HomePage';
-import { AllRuns } from './components/AllRuns';
-import { SingleRun } from './components/SingleRun';
-import _ from 'lodash';
+import { HomePage } from './components/HomePage/HomePage';
+import { AllRuns } from './components/AllRuns/AllRuns';
+import { SingleRun } from './components/SingleRun/SingleRun';
 import './App.css';
 
 export class App extends Component {
@@ -30,7 +29,7 @@ export class App extends Component {
 
         return this.state.runs.map((run) =>(
             <Row className='navbar-links' key={run[0]}>
-                <a href='javascript:void(0)'><span onClick={() => this.changeMainContent(run)}>{run[0]}</span></a>
+                <button className='link-button'><span onClick={() => this.changeMainContent(run)}>{run[0]}</span></button>
             </Row>
         ))
     }
@@ -41,12 +40,12 @@ export class App extends Component {
     }
 
     mainPage(){
-        if (this.state.selectedRun == null){
+        if (this.state.selectedRun === null){
             return (
                 <HomePage></HomePage>
             )
         }
-        else if (this.state.selectedRun == 'All'){
+        else if (this.state.selectedRun === 'All'){
             return (
                 <AllRuns runs={this.state.runs}></AllRuns>
             )
@@ -63,11 +62,11 @@ export class App extends Component {
             <Container fluid>
                 <Row>
                     <Col md={2} className='d-flex flex-column vertical-navbar'>
-                        <Row style={{textAlign: 'center'}}>
-                            <a href='javascript:void(0)'><h1 onClick={() => this.changeMainContent(null)}>RUN2 <FontAwesomeIcon icon={faRunning} style={{color: 'white'}}/></h1></a>
+                        <Row style={{marginTop: '1em'}}>
+                            <button className='link-button' style={{textAlign: 'center'}}><h1 onClick={() => this.changeMainContent(null)}>RUN2 <FontAwesomeIcon icon={faRunning} style={{color: 'white'}}/></h1></button>
                         </Row>
                         <Row className='navbar-links'>
-                            <a href='javascript:void(0)'><span onClick={() => this.changeMainContent('All')}>All</span></a>
+                            <button className='link-button'><span onClick={() => this.changeMainContent('All')}>All</span></button>
                         </Row>
                         {this.getAllRunningFiles()}
                     </Col>

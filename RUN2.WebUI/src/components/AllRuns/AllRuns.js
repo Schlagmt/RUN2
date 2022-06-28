@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import { Col, Container, Row } from 'react-bootstrap';
-import _ from 'lodash';
+import { Container } from 'react-bootstrap';
 
 export class AllRuns extends Component {
     constructor(props){
