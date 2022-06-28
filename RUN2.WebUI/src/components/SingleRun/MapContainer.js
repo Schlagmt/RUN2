@@ -3,7 +3,7 @@ import { Map, GoogleApiWrapper, Polyline} from 'google-maps-react';
 import _ from 'lodash';
 
 const mapStyles = {
-    width: '80%',
+    width: '30em',
     height: '30em',
   }
 
@@ -32,7 +32,7 @@ export class MapContainer extends Component {
         return (
             <Map 
                 google={this.props.google} 
-                zoom={14} 
+                zoom={13} 
                 initialCenter={{lat: this.state.initialX, lng: this.state.initialY}}
                 center={{lat: this.state.initialX, lng: this.state.initialY}}
                 style={mapStyles}>     

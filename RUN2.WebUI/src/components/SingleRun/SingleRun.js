@@ -29,10 +29,12 @@ export class SingleRun extends Component {
             }
         })
 
+        var speedAverage = _.sumBy(this.props.run[1], (point) => { return point.Speed }) / this.props.run[1].length
+
         return streetBreakdown.map((street) => {
             return ( 
                 <Row>
-                    <StreetCard streetData={street}></StreetCard>
+                    <StreetCard streetData={street} speedAverage={speedAverage}></StreetCard>
                 </Row>
             )
         })
