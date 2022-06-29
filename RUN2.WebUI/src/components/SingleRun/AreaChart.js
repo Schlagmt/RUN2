@@ -2,7 +2,7 @@ import { useD3 } from './hooks/useD3';
 import React from 'react';
 import * as d3 from 'd3';
 
-function AreaChart({ data, h, w }) {
+function AreaChart({ data, h, w, minmax }) {
   const ref = useD3(
     (svg) => {
         // Compute values.
@@ -20,7 +20,7 @@ function AreaChart({ data, h, w }) {
 
         // Compute default domains.
         const xDomain = d3.extent(X);
-        const yDomain = [d3.min(Y), d3.max(Y)];
+        const yDomain = minmax;
 
         // Construct scales and axes.
         const xScale = d3.scaleLinear(xDomain, [margin.left, width - margin.right]);

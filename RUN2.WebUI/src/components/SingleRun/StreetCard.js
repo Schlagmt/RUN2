@@ -6,63 +6,6 @@ import _ from 'lodash'
 export class StreetCard extends Component {
     constructor(props){
         super()
-
-        var speed = []
-        var elevation = []
-        var coordinates = []
-        var index = 0
-        _.forEach(props.streetData, (point) => {
-            speed.push({
-                y: point.Speed,
-                x: index
-            })
-            elevation.push({
-                y: point.Elevation,
-                x: index
-            })
-            coordinates.push({
-                x: point.Latitude,
-                y: point.Longitude
-            })
-            index += 1
-        })        
-
-        this.state = {
-            timeTaken: Math.round((Math.abs(Date.parse(props.streetData[0].Time) - Date.parse(props.streetData[props.streetData.length - 1].Time)) / 60000) * 100) / 100,
-            speedData: speed,
-            elevationData: elevation,
-            coordinates: coordinates
-        }
-    }
-
-    componentDidUpdate(prevProps){
-        if (prevProps.streetData[0].Time !== this.props.streetData[0].Time){
-            var speed = []
-            var elevation = []
-            var coordinates = []
-            var index = 0
-            _.forEach(this.props.streetData, (point) => {
-                speed.push({
-                    y: point.Speed,
-                    x: index
-                })
-                elevation.push({
-                    y: point.Elevation,
-                    x: index
-                })
-                coordinates.push({
-                    y: point.Latitude,
-                    x: point.Longitude
-                })
-                index += 1
-            })   
-            this.setState({
-                timeTaken: Math.round((Math.abs(Date.parse(this.props.streetData[0].Time) - Date.parse(this.props.streetData[this.props.streetData.length - 1].Time)) / 60000) * 100) / 100,
-                speedData: speed,
-                elevationData: elevation,
-                coordinates: coordinates
-            })
-        }
     }
 
     averageElevation() {
@@ -104,6 +47,32 @@ export class StreetCard extends Component {
         }
     }
 
+    elevationData () {
+        return _.map(this.props.streetData, (point, index) => {
+            return {
+                y: point.Elevation,
+                x: index
+            }
+        })
+    }
+
+    speedData () {
+        return _.map(this.props.streetData, (point, index) => {
+            return {
+                y: point.Speed,
+                x: index
+            }
+        })
+    }
+
+    timeTaken () {
+        return Math.round(
+            (Math.abs(
+                Date.parse(this.props.streetData[0].Time) - Date.parse(this.props.streetData[this.props.streetData.length - 1].Time)
+            ) / 60000) * 100
+        ) / 100
+    }
+
     render () {
         return (
             <Card className='street-card'>
@@ -115,17 +84,17 @@ export class StreetCard extends Component {
                                     <h5>{this.props.streetData[0].Street}</h5>
                                 </Row>
                                 <Row>
-                                    <p>Time: {this.state.timeTaken} min</p>
+                                    <p>Time: {this.timeTaken()} min</p>
                                 </Row>
                             </Col>
                             <Col>
-                                <AreaChart data={this.state.speedData} h={100} w={500}/>
+                                <AreaChart data={this.speedData()} minmax={this.props.speedMinMax} h={100} w={500}/>
                             </Col>
                             <Col auto>
                                 {this.averageSpeed()}
                             </Col>
                             <Col>
-                                <AreaChart data={this.state.elevationData} h={100} w={500}/>
+                                <AreaChart data={this.elevationData()} minmax={this.props.elevationMinMax} h={100} w={500}/>
                             </Col>
                             <Col auto>
                                 {this.averageElevation()}

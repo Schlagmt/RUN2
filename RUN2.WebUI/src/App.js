@@ -26,7 +26,6 @@ export class App extends Component {
     }
 
     getAllRunningFiles() {
-
         return this.state.runs.map((run) =>(
             <Row className='navbar-links' key={run[0]}>
                 <button className='link-button'><span onClick={() => this.changeMainContent(run)}>{run[0]}</span></button>
@@ -52,7 +51,9 @@ export class App extends Component {
         }
         else {
             return (
-                <SingleRun run={this.state.selectedRun}></SingleRun>
+                <div key={this.state.selectedRun[0]}>
+                    <SingleRun run={this.state.selectedRun}></SingleRun>
+                </div>
             )
         }
     }
@@ -63,7 +64,7 @@ export class App extends Component {
                 <Row>
                     <Col md={2} className='d-flex flex-column vertical-navbar'>
                         <Row style={{marginTop: '1em'}}>
-                            <button className='link-button' style={{textAlign: 'center'}}><h1 onClick={() => this.changeMainContent(null)}>RUN2 <FontAwesomeIcon icon={faRunning} style={{color: 'white'}}/></h1></button>
+                            <button className='link-button header-button'><h1 onClick={() => this.changeMainContent(null)}>RUN2 <FontAwesomeIcon icon={faRunning} style={{color: 'white'}}/></h1></button>
                         </Row>
                         <Row className='navbar-links'>
                             <button className='link-button'><span onClick={() => this.changeMainContent('All')}>All</span></button>

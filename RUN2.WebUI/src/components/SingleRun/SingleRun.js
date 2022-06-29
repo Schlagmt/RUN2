@@ -12,7 +12,6 @@ export class SingleRun extends Component {
     streetBreakdown() {
         var streetBreakdown = []
         var tempStreet = []
-
         _.forEach(this.props.run[1], (point) => {
             if (tempStreet.length === 0){
                 tempStreet.push(point)
@@ -30,20 +29,27 @@ export class SingleRun extends Component {
         })
 
         var speedAverage = _.sumBy(this.props.run[1], (point) => { return point.Speed }) / this.props.run[1].length
+        var speedMinMax = [
+            _.minBy(this.props.run[1], (point) => { return point.Speed }).Speed,
+            _.maxBy(this.props.run[1], (point) => { return point.Speed }).Speed,
+        ]
+        var elevationMinMax = [
+            _.minBy(this.props.run[1], (point) => { return point.Elevation }).Elevation,
+            _.maxBy(this.props.run[1], (point) => { return point.Elevation }).Elevation,
+        ]
 
         return streetBreakdown.map((street) => {
             return ( 
                 <Row>
-                    <StreetCard streetData={street} speedAverage={speedAverage}></StreetCard>
+                    <StreetCard streetData={street} speedAverage={speedAverage} speedMinMax={speedMinMax} elevationMinMax={elevationMinMax}></StreetCard>
                 </Row>
             )
         })
     }
 
     render () {
-        var coordinates = []
-        _.forEach(this.props.run[1], (point) => {
-            coordinates.push({lat: point.Latitude, lng: point.Longitude})
+        var coordinates = _.map(this.props.run[1], (point) => {
+            return {lat: point.Latitude, lng: point.Longitude}
         })
 
         return (
@@ -52,7 +58,7 @@ export class SingleRun extends Component {
                     <h1>{this.props.run[0]}</h1>
                 </Row>
                 <Row style={{height: '31em'}}>
-                    <MapContainer coordinates={coordinates}></MapContainer>
+                    <MapContainer coordinates={coordinates} />
                 </Row>
                 {this.streetBreakdown()}
             </Container>
