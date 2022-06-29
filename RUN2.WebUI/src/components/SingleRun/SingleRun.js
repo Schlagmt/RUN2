@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Container, Row } from 'react-bootstrap';
+import { Container, Row, Col } from 'react-bootstrap';
 import MapContainer from './MapContainer';
 import { StreetCard } from './StreetCard';
 import _ from 'lodash'
@@ -7,6 +7,14 @@ import _ from 'lodash'
 export class SingleRun extends Component {
     constructor(props){
         super()
+
+        this.state = {
+            highlightedCoordinates: null
+        }
+    }
+
+    handleHighlightSection = (coordinates) => {
+        this.setState({highlightedCoordinates: coordinates})
     }
 
     streetBreakdown() {
@@ -40,8 +48,8 @@ export class SingleRun extends Component {
 
         return streetBreakdown.map((street) => {
             return ( 
-                <Row>
-                    <StreetCard streetData={street} speedAverage={speedAverage} speedMinMax={speedMinMax} elevationMinMax={elevationMinMax}></StreetCard>
+                <Row key={speedAverage}>
+                    <StreetCard handleHighlightSection={this.handleHighlightSection} streetData={street} speedAverage={speedAverage} speedMinMax={speedMinMax} elevationMinMax={elevationMinMax}></StreetCard>
                 </Row>
             )
         })
@@ -57,10 +65,14 @@ export class SingleRun extends Component {
                 <Row>
                     <h1>{this.props.run[0]}</h1>
                 </Row>
-                <Row style={{height: '31em'}}>
-                    <MapContainer coordinates={coordinates} />
+                <Row style={{height: '100%'}}>
+                    <Col>
+                        <MapContainer coordinates={coordinates} highlight={this.state.highlightedCoordinates} />
+                    </Col>
+                    <Col className='street-card-container'>
+                        {this.streetBreakdown()}
+                    </Col>
                 </Row>
-                {this.streetBreakdown()}
             </Container>
         );
     }

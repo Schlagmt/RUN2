@@ -11,18 +11,18 @@ export class StreetCard extends Component {
     averageElevation() {
         var start = this.props.streetData[0].Elevation
         var end = this.props.streetData[this.props.streetData.length - 1].Elevation
-        var clean = Math.round(Math.abs(end - start) * 100) / 100
+        var cleanValue = Math.round(Math.abs(end - start) * 100) / 100
         if (end > start){
             return (
-                <p>
-                    + {clean}
+                <p className='positive-value'>
+                    + {cleanValue}
                 </p>
             )
         }
         else {
             return (
-                <p>
-                    - {clean}
+                <p className='negative-value'>
+                    - {cleanValue}
                 </p>
             )
         }
@@ -33,14 +33,14 @@ export class StreetCard extends Component {
         var cleanValue = Math.round(Math.abs(streetAverage - this.props.speedAverage) * 100) / 100
         if (streetAverage > this.props.speedAverage){
             return (
-                <p>
+                <p className='positive-value'>
                     + {cleanValue}
                 </p>
             )
         }
         else {
             return (
-                <p>
+                <p className='negative-value'>
                     - {cleanValue}
                 </p>
             )
@@ -73,30 +73,33 @@ export class StreetCard extends Component {
         ) / 100
     }
 
+    highlightSection () {
+        this.props.handleHighlightSection(_.map(this.props.streetData, (point) => {
+            return {lat: point.Latitude, lng: point.Longitude}
+        }))
+    }
+
     render () {
         return (
             <Card className='street-card'>
                 <Card.Body>
+                    <Card.Header>
+                        <button className='link-button' onClick={() => this.highlightSection()}>{this.props.streetData[0].Street} - Time: {this.timeTaken()} min</button>
+                    </Card.Header>
                     <Card.Text>
                         <Row>
-                            <Col md={2}>
-                                <Row>
-                                    <h5>{this.props.streetData[0].Street}</h5>
-                                </Row>
-                                <Row>
-                                    <p>Time: {this.timeTaken()} min</p>
-                                </Row>
+                            <Col className='area-chart-container'>
+                                <AreaChart data={this.speedData()} minmax={this.props.speedMinMax} h={100} w={625}/>
                             </Col>
-                            <Col>
-                                <AreaChart data={this.speedData()} minmax={this.props.speedMinMax} h={100} w={500}/>
-                            </Col>
-                            <Col auto>
+                            <Col auto className='align-self-center'>
                                 {this.averageSpeed()}
                             </Col>
-                            <Col>
-                                <AreaChart data={this.elevationData()} minmax={this.props.elevationMinMax} h={100} w={500}/>
+                        </Row>
+                        <Row>
+                            <Col className='area-chart-container'>
+                                <AreaChart data={this.elevationData()} minmax={this.props.elevationMinMax} h={100} w={625}/>
                             </Col>
-                            <Col auto>
+                            <Col auto className='align-self-center'>
                                 {this.averageElevation()}
                             </Col>
                         </Row>

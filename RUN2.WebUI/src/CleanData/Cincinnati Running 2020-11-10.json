@@ -1,0 +1,4306 @@
+[
+  {
+    "Latitude": 39.13259167224169,
+    "Longitude": -84.51117265038192,
+    "Elevation": 241.39999389648438,
+    "Time": "11/10/2020, 22:35:07",
+    "Speed": 3.8344449044156232,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1326065082103,
+    "Longitude": -84.51116611249745,
+    "Elevation": 241.60000610351562,
+    "Time": "11/10/2020, 22:35:08",
+    "Speed": 5.086059626169552,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13272854872048,
+    "Longitude": -84.51114624738693,
+    "Elevation": 241.8000030517578,
+    "Time": "11/10/2020, 22:35:14",
+    "Speed": 7.577185224889393,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13275897502899,
+    "Longitude": -84.51114876195788,
+    "Elevation": 241.60000610351562,
+    "Time": "11/10/2020, 22:35:15",
+    "Speed": 8.574079462251122,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132793340831995,
+    "Longitude": -84.51115295290947,
+    "Elevation": 241.1999969482422,
+    "Time": "11/10/2020, 22:35:16",
+    "Speed": 8.817203035778473,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132864167913795,
+    "Longitude": -84.51115773059428,
+    "Elevation": 241.39999389648438,
+    "Time": "11/10/2020, 22:35:18",
+    "Speed": 8.321148162836328,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1329310555011,
+    "Longitude": -84.51116041280329,
+    "Elevation": 242.0,
+    "Time": "11/10/2020, 22:35:20",
+    "Speed": 8.595094394416089,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132965337485075,
+    "Longitude": -84.51115345582366,
+    "Elevation": 241.39999389648438,
+    "Time": "11/10/2020, 22:35:21",
+    "Speed": 8.194162818513067,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13303105160594,
+    "Longitude": -84.51114582829177,
+    "Elevation": 242.0,
+    "Time": "11/10/2020, 22:35:23",
+    "Speed": 7.3941457515788,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13317966274917,
+    "Longitude": -84.51114205643535,
+    "Elevation": 241.8000030517578,
+    "Time": "11/10/2020, 22:35:28",
+    "Speed": 7.266508487246586,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13323808461428,
+    "Longitude": -84.51114205643535,
+    "Elevation": 241.8000030517578,
+    "Time": "11/10/2020, 22:35:30",
+    "Speed": 7.304511429401849,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13341418839991,
+    "Longitude": -84.51113317161798,
+    "Elevation": 242.39999389648438,
+    "Time": "11/10/2020, 22:35:36",
+    "Speed": 7.074051676657227,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133499348536134,
+    "Longitude": -84.51112520880997,
+    "Elevation": 242.60000610351562,
+    "Time": "11/10/2020, 22:35:39",
+    "Speed": 7.93764926178657,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133531199768186,
+    "Longitude": -84.51112269423902,
+    "Elevation": 242.8000030517578,
+    "Time": "11/10/2020, 22:35:40",
+    "Speed": 7.700230577519944,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13368567824364,
+    "Longitude": -84.51110735535622,
+    "Elevation": 243.1999969482422,
+    "Time": "11/10/2020, 22:35:45",
+    "Speed": 7.268297446872388,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13389011286199,
+    "Longitude": -84.51109679415822,
+    "Elevation": 243.39999389648438,
+    "Time": "11/10/2020, 22:35:52",
+    "Speed": 7.627611363207075,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1339207906276,
+    "Longitude": -84.51109612360597,
+    "Elevation": 243.39999389648438,
+    "Time": "11/10/2020, 22:35:53",
+    "Speed": 6.732040521656421,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13408256135881,
+    "Longitude": -84.5110737439245,
+    "Elevation": 243.60000610351562,
+    "Time": "11/10/2020, 22:35:59",
+    "Speed": 7.627611363207075,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.134113071486354,
+    "Longitude": -84.51106879860163,
+    "Elevation": 243.60000610351562,
+    "Time": "11/10/2020, 22:36:00",
+    "Speed": 6.669406831266918,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13427299819887,
+    "Longitude": -84.51104113832116,
+    "Elevation": 244.1999969482422,
+    "Time": "11/10/2020, 22:36:06",
+    "Speed": 7.08034493570711,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13446963764727,
+    "Longitude": -84.51099017634988,
+    "Elevation": 244.39999389648438,
+    "Time": "11/10/2020, 22:36:13",
+    "Speed": 6.418658404566336,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.134671641513705,
+    "Longitude": -84.51092278584838,
+    "Elevation": 244.60000610351562,
+    "Time": "11/10/2020, 22:36:21",
+    "Speed": 7.481343451320869,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13485067896545,
+    "Longitude": -84.51088699512184,
+    "Elevation": 244.60000610351562,
+    "Time": "11/10/2020, 22:36:27",
+    "Speed": 7.645329415798554,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13491119630635,
+    "Longitude": -84.51086989603937,
+    "Elevation": 244.60000610351562,
+    "Time": "11/10/2020, 22:36:29",
+    "Speed": 6.475552003454503,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.134962912648916,
+    "Longitude": -84.51086042448878,
+    "Elevation": 244.60000610351562,
+    "Time": "11/10/2020, 22:36:31",
+    "Speed": 6.845029900698064,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13507296703756,
+    "Longitude": -84.51085723936558,
+    "Elevation": 244.39999389648438,
+    "Time": "11/10/2020, 22:36:35",
+    "Speed": 7.559390317578205,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13523968309164,
+    "Longitude": -84.51097425073385,
+    "Elevation": 244.1999969482422,
+    "Time": "11/10/2020, 22:36:41",
+    "Speed": 5.891600430267039,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.135305397212505,
+    "Longitude": -84.51108237728477,
+    "Elevation": 243.60000610351562,
+    "Time": "11/10/2020, 22:36:45",
+    "Speed": 5.1101421806707945,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13531822152436,
+    "Longitude": -84.51114423573017,
+    "Elevation": 243.39999389648438,
+    "Time": "11/10/2020, 22:36:47",
+    "Speed": 5.4834622518412965,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.135320987552404,
+    "Longitude": -84.51128387823701,
+    "Elevation": 242.60000610351562,
+    "Time": "11/10/2020, 22:36:51",
+    "Speed": 5.87600366704948,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13532618433237,
+    "Longitude": -84.51139586046338,
+    "Elevation": 241.60000610351562,
+    "Time": "11/10/2020, 22:36:54",
+    "Speed": 5.184618817474775,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13532869890332,
+    "Longitude": -84.51142863370478,
+    "Elevation": 241.39999389648438,
+    "Time": "11/10/2020, 22:36:55",
+    "Speed": 5.613769961760898,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.135338421911,
+    "Longitude": -84.5114984549582,
+    "Elevation": 241.1999969482422,
+    "Time": "11/10/2020, 22:36:57",
+    "Speed": 5.12143776171796,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13535987958312,
+    "Longitude": -84.51162443496287,
+    "Elevation": 240.1999969482422,
+    "Time": "11/10/2020, 22:37:01",
+    "Speed": 5.613488764094764,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.135372284799814,
+    "Longitude": -84.5118021313101,
+    "Elevation": 239.1999969482422,
+    "Time": "11/10/2020, 22:37:06",
+    "Speed": 5.065820943022174,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13537630811334,
+    "Longitude": -84.51183373108506,
+    "Elevation": 239.0,
+    "Time": "11/10/2020, 22:37:07",
+    "Speed": 5.172038295970643,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13537999615073,
+    "Longitude": -84.51193238608539,
+    "Elevation": 238.39999389648438,
+    "Time": "11/10/2020, 22:37:10",
+    "Speed": 6.073009749249053,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13537153042853,
+    "Longitude": -84.51200857758522,
+    "Elevation": 237.8000030517578,
+    "Time": "11/10/2020, 22:37:12",
+    "Speed": 6.07393798918544,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13537396118045,
+    "Longitude": -84.51204705052078,
+    "Elevation": 237.60000610351562,
+    "Time": "11/10/2020, 22:37:13",
+    "Speed": 6.949538970153761,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1353904735297,
+    "Longitude": -84.51226682402194,
+    "Elevation": 236.60000610351562,
+    "Time": "11/10/2020, 22:37:18",
+    "Speed": 7.032310206604205,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.135395754128695,
+    "Longitude": -84.51235600747168,
+    "Elevation": 236.39999389648438,
+    "Time": "11/10/2020, 22:37:20",
+    "Speed": 6.319799653181895,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13539910688996,
+    "Longitude": -84.51251694001257,
+    "Elevation": 235.60000610351562,
+    "Time": "11/10/2020, 22:37:24",
+    "Speed": 5.641929979060133,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13541352376342,
+    "Longitude": -84.51262230053544,
+    "Elevation": 234.60000610351562,
+    "Time": "11/10/2020, 22:37:27",
+    "Speed": 5.789748118129525,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1354438662529,
+    "Longitude": -84.51287593692541,
+    "Elevation": 233.60000610351562,
+    "Time": "11/10/2020, 22:37:34",
+    "Speed": 6.081358808066801,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13544847629964,
+    "Longitude": -84.51291399076581,
+    "Elevation": 233.39999389648438,
+    "Time": "11/10/2020, 22:37:35",
+    "Speed": 5.912748123618697,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13547068834305,
+    "Longitude": -84.5130989793688,
+    "Elevation": 232.1999969482422,
+    "Time": "11/10/2020, 22:37:40",
+    "Speed": 6.281997054436378,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13546867668629,
+    "Longitude": -84.51317894272506,
+    "Elevation": 232.0,
+    "Time": "11/10/2020, 22:37:42",
+    "Speed": 5.706648160685892,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13547119125724,
+    "Longitude": -84.51332428492606,
+    "Elevation": 231.1999969482422,
+    "Time": "11/10/2020, 22:37:46",
+    "Speed": 6.017287538012284,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13547680713236,
+    "Longitude": -84.51347733847797,
+    "Elevation": 230.39999389648438,
+    "Time": "11/10/2020, 22:37:50",
+    "Speed": 5.938777827870094,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.135475968942046,
+    "Longitude": -84.51351514086127,
+    "Elevation": 230.1999969482422,
+    "Time": "11/10/2020, 22:37:51",
+    "Speed": 5.257525969788992,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13548233918846,
+    "Longitude": -84.51368227601051,
+    "Elevation": 229.1999969482422,
+    "Time": "11/10/2020, 22:37:56",
+    "Speed": 6.017990177510108,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.135484769940376,
+    "Longitude": -84.51372041366994,
+    "Elevation": 229.0,
+    "Time": "11/10/2020, 22:37:57",
+    "Speed": 6.45287660020734,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13549130782485,
+    "Longitude": -84.5138019695878,
+    "Elevation": 228.60000610351562,
+    "Time": "11/10/2020, 22:37:59",
+    "Speed": 6.438007193498653,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13549172692001,
+    "Longitude": -84.51384295709431,
+    "Elevation": 228.0,
+    "Time": "11/10/2020, 22:38:00",
+    "Speed": 6.198883855030592,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13549130782485,
+    "Longitude": -84.51392191462219,
+    "Elevation": 227.60000610351562,
+    "Time": "11/10/2020, 22:38:02",
+    "Speed": 6.211603254887319,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13549088872969,
+    "Longitude": -84.51400103978813,
+    "Elevation": 227.39999389648438,
+    "Time": "11/10/2020, 22:38:04",
+    "Speed": 6.081358808066801,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13549315184355,
+    "Longitude": -84.51403959654272,
+    "Elevation": 227.1999969482422,
+    "Time": "11/10/2020, 22:38:05",
+    "Speed": 6.187960703186852,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13549918681383,
+    "Longitude": -84.51407781802118,
+    "Elevation": 227.0,
+    "Time": "11/10/2020, 22:38:06",
+    "Speed": 5.837980849582769,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13551419042051,
+    "Longitude": -84.51426221989095,
+    "Elevation": 225.8000030517578,
+    "Time": "11/10/2020, 22:38:11",
+    "Speed": 4.930467319335787,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.135515531525016,
+    "Longitude": -84.51429356820881,
+    "Elevation": 225.60000610351562,
+    "Time": "11/10/2020, 22:38:12",
+    "Speed": 5.706648160685892,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13552357815206,
+    "Longitude": -84.51443840749562,
+    "Elevation": 224.60000610351562,
+    "Time": "11/10/2020, 22:38:16",
+    "Speed": 6.060929693413705,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13552693091333,
+    "Longitude": -84.51451543718576,
+    "Elevation": 224.1999969482422,
+    "Time": "11/10/2020, 22:38:18",
+    "Speed": 6.291861019914698,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13551930338144,
+    "Longitude": -84.51459464617074,
+    "Elevation": 224.0,
+    "Time": "11/10/2020, 22:38:20",
+    "Speed": 5.9151037901280645,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13553824648261,
+    "Longitude": -84.51481869444251,
+    "Elevation": 223.60000610351562,
+    "Time": "11/10/2020, 22:38:26",
+    "Speed": 6.047893418417234,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13553774356842,
+    "Longitude": -84.51485716737807,
+    "Elevation": 223.39999389648438,
+    "Time": "11/10/2020, 22:38:27",
+    "Speed": 5.431034680977434,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13554017432034,
+    "Longitude": -84.51489153318107,
+    "Elevation": 223.39999389648438,
+    "Time": "11/10/2020, 22:38:28",
+    "Speed": 0.6324385221428784,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1355699300766,
+    "Longitude": -84.51496177352965,
+    "Elevation": 223.60000610351562,
+    "Time": "11/10/2020, 22:38:49",
+    "Speed": 3.5726207777197367,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13558325730264,
+    "Longitude": -84.51497040688992,
+    "Elevation": 223.60000610351562,
+    "Time": "11/10/2020, 22:38:50",
+    "Speed": 6.04183130081912,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13567688316107,
+    "Longitude": -84.51501156203449,
+    "Elevation": 223.39999389648438,
+    "Time": "11/10/2020, 22:38:54",
+    "Speed": 6.223692801661174,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13582700304687,
+    "Longitude": -84.5150108076632,
+    "Elevation": 223.39999389648438,
+    "Time": "11/10/2020, 22:39:00",
+    "Speed": 7.455510353452896,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1359135042876,
+    "Longitude": -84.51504969969392,
+    "Elevation": 223.1999969482422,
+    "Time": "11/10/2020, 22:39:03",
+    "Speed": 7.729097595582655,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.136002101004124,
+    "Longitude": -84.5150956325233,
+    "Elevation": 223.0,
+    "Time": "11/10/2020, 22:39:06",
+    "Speed": 6.906116336282528,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13605658337474,
+    "Longitude": -84.51511264778674,
+    "Elevation": 222.8000030517578,
+    "Time": "11/10/2020, 22:39:08",
+    "Speed": 7.318305096746966,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13611483760178,
+    "Longitude": -84.51512589119375,
+    "Elevation": 222.8000030517578,
+    "Time": "11/10/2020, 22:39:10",
+    "Speed": 7.688712734517983,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13617627695203,
+    "Longitude": -84.51513670384884,
+    "Elevation": 222.8000030517578,
+    "Time": "11/10/2020, 22:39:12",
+    "Speed": 7.336578046782591,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.136291947215796,
+    "Longitude": -84.51509990729392,
+    "Elevation": 222.39999389648438,
+    "Time": "11/10/2020, 22:39:16",
+    "Speed": 5.180267479051902,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13630980066955,
+    "Longitude": -84.51508297584951,
+    "Elevation": 222.1999969482422,
+    "Time": "11/10/2020, 22:39:17",
+    "Speed": 5.8021966897824795,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13642907515168,
+    "Longitude": -84.51496697030962,
+    "Elevation": 221.8000030517578,
+    "Time": "11/10/2020, 22:39:23",
+    "Speed": 5.777095698808186,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.136450700461864,
+    "Longitude": -84.51495355926454,
+    "Elevation": 221.60000610351562,
+    "Time": "11/10/2020, 22:39:24",
+    "Speed": 6.298130045331386,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13649990223348,
+    "Longitude": -84.51493461616337,
+    "Elevation": 221.1999969482422,
+    "Time": "11/10/2020, 22:39:26",
+    "Speed": 6.888133756418805,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13652756251395,
+    "Longitude": -84.51493260450661,
+    "Elevation": 221.0,
+    "Time": "11/10/2020, 22:39:27",
+    "Speed": 8.097965182601218,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13659260608256,
+    "Longitude": -84.51493713073432,
+    "Elevation": 220.8000030517578,
+    "Time": "11/10/2020, 22:39:29",
+    "Speed": 7.67770631660063,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.1366233676672,
+    "Longitude": -84.51494090259075,
+    "Elevation": 220.60000610351562,
+    "Time": "11/10/2020, 22:39:30",
+    "Speed": 7.261012201484763,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13682729937136,
+    "Longitude": -84.51496127061546,
+    "Elevation": 220.39999389648438,
+    "Time": "11/10/2020, 22:39:37",
+    "Speed": 8.172806773340954,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.136860156431794,
+    "Longitude": -84.51496294699609,
+    "Elevation": 220.39999389648438,
+    "Time": "11/10/2020, 22:39:38",
+    "Speed": 7.234802322907537,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13694741204381,
+    "Longitude": -84.51496118679643,
+    "Elevation": 220.0,
+    "Time": "11/10/2020, 22:39:41",
+    "Speed": 7.706553664475022,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13710230961442,
+    "Longitude": -84.51496395282447,
+    "Elevation": 219.60000610351562,
+    "Time": "11/10/2020, 22:39:46",
+    "Speed": 7.823425663409565,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.137289226055145,
+    "Longitude": -84.51500510796905,
+    "Elevation": 219.39999389648438,
+    "Time": "11/10/2020, 22:39:52",
+    "Speed": 7.6556460095828935,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.137350330129266,
+    "Longitude": -84.51501692645252,
+    "Elevation": 219.1999969482422,
+    "Time": "11/10/2020, 22:39:54",
+    "Speed": 7.95404677495751,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13744538091123,
+    "Longitude": -84.51503746211529,
+    "Elevation": 218.8000030517578,
+    "Time": "11/10/2020, 22:39:57",
+    "Speed": 7.562849116162941,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13756356574595,
+    "Longitude": -84.51508289203048,
+    "Elevation": 218.60000610351562,
+    "Time": "11/10/2020, 22:40:01",
+    "Speed": 8.126150098548584,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13775308057666,
+    "Longitude": -84.51516218483448,
+    "Elevation": 218.1999969482422,
+    "Time": "11/10/2020, 22:40:07",
+    "Speed": 8.691627545205922,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.137786189094186,
+    "Longitude": -84.51517987065017,
+    "Elevation": 218.0,
+    "Time": "11/10/2020, 22:40:08",
+    "Speed": 8.217750441061456,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.137879898771644,
+    "Longitude": -84.51523100025952,
+    "Elevation": 217.8000030517578,
+    "Time": "11/10/2020, 22:40:11",
+    "Speed": 6.923321046379541,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138066563755274,
+    "Longitude": -84.51531942933798,
+    "Elevation": 217.1999969482422,
+    "Time": "11/10/2020, 22:40:18",
+    "Speed": 6.842604394529239,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13822355680168,
+    "Longitude": -84.51540014706552,
+    "Elevation": 217.1999969482422,
+    "Time": "11/10/2020, 22:40:24",
+    "Speed": 7.496023468183062,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13833662867546,
+    "Longitude": -84.51546636410058,
+    "Elevation": 217.39999389648438,
+    "Time": "11/10/2020, 22:40:28",
+    "Speed": 7.763465303213224,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138516169041395,
+    "Longitude": -84.51555068604648,
+    "Elevation": 217.39999389648438,
+    "Time": "11/10/2020, 22:40:34",
+    "Speed": 7.565271404273808,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138576770201325,
+    "Longitude": -84.51555881649256,
+    "Elevation": 217.39999389648438,
+    "Time": "11/10/2020, 22:40:36",
+    "Speed": 7.178463610515434,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13877877406776,
+    "Longitude": -84.51556149870157,
+    "Elevation": 217.0,
+    "Time": "11/10/2020, 22:40:43",
+    "Speed": 6.177018235379764,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13882755674422,
+    "Longitude": -84.51554674655199,
+    "Elevation": 217.0,
+    "Time": "11/10/2020, 22:40:45",
+    "Speed": 6.225504208771197,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13889964111149,
+    "Longitude": -84.5155134703964,
+    "Elevation": 216.8000030517578,
+    "Time": "11/10/2020, 22:40:48",
+    "Speed": 7.071387602584007,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13904037326574,
+    "Longitude": -84.51548187062144,
+    "Elevation": 215.39999389648438,
+    "Time": "11/10/2020, 22:40:53",
+    "Speed": 8.202338378244523,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13923617452383,
+    "Longitude": -84.51543685980141,
+    "Elevation": 214.39999389648438,
+    "Time": "11/10/2020, 22:40:59",
+    "Speed": 7.663006501629451,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13926660083234,
+    "Longitude": -84.5154291484505,
+    "Elevation": 214.39999389648438,
+    "Time": "11/10/2020, 22:41:00",
+    "Speed": 7.466257040621002,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.139296524226665,
+    "Longitude": -84.5154254604131,
+    "Elevation": 214.1999969482422,
+    "Time": "11/10/2020, 22:41:01",
+    "Speed": 7.281898137207187,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13950104266405,
+    "Longitude": -84.51540509238839,
+    "Elevation": 213.60000610351562,
+    "Time": "11/10/2020, 22:41:08",
+    "Speed": 8.304193199698934,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13953406736255,
+    "Longitude": -84.51539729721844,
+    "Elevation": 213.39999389648438,
+    "Time": "11/10/2020, 22:41:09",
+    "Speed": 8.03015178840968,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.1397265996784,
+    "Longitude": -84.51536368578672,
+    "Elevation": 213.1999969482422,
+    "Time": "11/10/2020, 22:41:15",
+    "Speed": 7.949004988997307,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13975853472948,
+    "Longitude": -84.51536301523447,
+    "Elevation": 213.1999969482422,
+    "Time": "11/10/2020, 22:41:16",
+    "Speed": 7.756603943719518,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13982089608908,
+    "Longitude": -84.51536410488188,
+    "Elevation": 213.1999969482422,
+    "Time": "11/10/2020, 22:41:18",
+    "Speed": 7.344450222922806,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13985040038824,
+    "Longitude": -84.51536569744349,
+    "Elevation": 213.1999969482422,
+    "Time": "11/10/2020, 22:41:19",
+    "Speed": 7.547962962151066,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.140002112835646,
+    "Longitude": -84.5153633505106,
+    "Elevation": 213.0,
+    "Time": "11/10/2020, 22:41:24",
+    "Speed": 7.8631186713028605,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14019154384732,
+    "Longitude": -84.51537827029824,
+    "Elevation": 213.0,
+    "Time": "11/10/2020, 22:41:30",
+    "Speed": 7.638689962165983,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14025289937854,
+    "Longitude": -84.51538254506886,
+    "Elevation": 213.0,
+    "Time": "11/10/2020, 22:41:32",
+    "Speed": 6.731548677252544,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14043956436217,
+    "Longitude": -84.5154336746782,
+    "Elevation": 213.39999389648438,
+    "Time": "11/10/2020, 22:41:39",
+    "Speed": 6.297581983115331,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14061550050974,
+    "Longitude": -84.51546745374799,
+    "Elevation": 213.8000030517578,
+    "Time": "11/10/2020, 22:41:46",
+    "Speed": 6.5605794715246395,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.1407988127321,
+    "Longitude": -84.51550223864615,
+    "Elevation": 214.1999969482422,
+    "Time": "11/10/2020, 22:41:53",
+    "Speed": 6.855317306033929,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14082613773644,
+    "Longitude": -84.51550802215934,
+    "Elevation": 214.1999969482422,
+    "Time": "11/10/2020, 22:41:54",
+    "Speed": 7.628439121078207,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14097717963159,
+    "Longitude": -84.5155499316752,
+    "Elevation": 214.8000030517578,
+    "Time": "11/10/2020, 22:41:59",
+    "Speed": 7.176732415625364,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.141005761921406,
+    "Longitude": -84.5155563019216,
+    "Elevation": 214.8000030517578,
+    "Time": "11/10/2020, 22:42:00",
+    "Speed": 6.877301563450276,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14119712077081,
+    "Longitude": -84.51560215093195,
+    "Elevation": 215.1999969482422,
+    "Time": "11/10/2020, 22:42:07",
+    "Speed": 6.361366762712446,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.141247579827905,
+    "Longitude": -84.515615478158,
+    "Elevation": 215.39999389648438,
+    "Time": "11/10/2020, 22:42:09",
+    "Speed": 5.689691329457789,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14131614379585,
+    "Longitude": -84.51562017202377,
+    "Elevation": 215.60000610351562,
+    "Time": "11/10/2020, 22:42:12",
+    "Speed": 7.020274753308745,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14137255400419,
+    "Longitude": -84.51562344096601,
+    "Elevation": 216.1999969482422,
+    "Time": "11/10/2020, 22:42:14",
+    "Speed": 6.992111465217191,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14140063337982,
+    "Longitude": -84.51562461443245,
+    "Elevation": 216.39999389648438,
+    "Time": "11/10/2020, 22:42:15",
+    "Speed": 7.040322411785677,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.141485542058945,
+    "Longitude": -84.51562436297536,
+    "Elevation": 216.8000030517578,
+    "Time": "11/10/2020, 22:42:18",
+    "Speed": 5.796580056649094,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14150884374976,
+    "Longitude": -84.51562377624214,
+    "Elevation": 216.8000030517578,
+    "Time": "11/10/2020, 22:42:19",
+    "Speed": 5.997345210396574,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.141605235636234,
+    "Longitude": -84.5156189147383,
+    "Elevation": 217.1999969482422,
+    "Time": "11/10/2020, 22:42:23",
+    "Speed": 5.363254346499223,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14166969247162,
+    "Longitude": -84.5156273804605,
+    "Elevation": 217.60000610351562,
+    "Time": "11/10/2020, 22:42:26",
+    "Speed": 6.346505031613002,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14177002385259,
+    "Longitude": -84.5156569685787,
+    "Elevation": 218.0,
+    "Time": "11/10/2020, 22:42:30",
+    "Speed": 6.1467159475985715,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14189315401018,
+    "Longitude": -84.51567314565182,
+    "Elevation": 218.60000610351562,
+    "Time": "11/10/2020, 22:42:35",
+    "Speed": 6.296339532133619,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14191838353872,
+    "Longitude": -84.51567616313696,
+    "Elevation": 218.60000610351562,
+    "Time": "11/10/2020, 22:42:36",
+    "Speed": 6.694507235067068,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14202516898513,
+    "Longitude": -84.51565453782678,
+    "Elevation": 218.8000030517578,
+    "Time": "11/10/2020, 22:42:40",
+    "Speed": 1.4386311337380187,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14243219420314,
+    "Longitude": -84.5155684556812,
+    "Elevation": 220.1999969482422,
+    "Time": "11/10/2020, 22:43:51",
+    "Speed": 3.1320113885485568,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14245717227459,
+    "Longitude": -84.51557365246117,
+    "Elevation": 220.0,
+    "Time": "11/10/2020, 22:43:53",
+    "Speed": 4.819448196138138,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14247619919479,
+    "Longitude": -84.51557935215533,
+    "Elevation": 220.0,
+    "Time": "11/10/2020, 22:43:54",
+    "Speed": 4.374260343200318,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.142511151731014,
+    "Longitude": -84.51558538712561,
+    "Elevation": 219.8000030517578,
+    "Time": "11/10/2020, 22:43:56",
+    "Speed": 5.654794403466265,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.142533112317324,
+    "Longitude": -84.51559469103813,
+    "Elevation": 219.8000030517578,
+    "Time": "11/10/2020, 22:43:57",
+    "Speed": 4.3678114817498725,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.142550295218825,
+    "Longitude": -84.51560039073229,
+    "Elevation": 219.60000610351562,
+    "Time": "11/10/2020, 22:43:58",
+    "Speed": 4.8324281501483775,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.1426070407033,
+    "Longitude": -84.51562151312828,
+    "Elevation": 219.39999389648438,
+    "Time": "11/10/2020, 22:44:01",
+    "Speed": 5.383305708606001,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.142670994624496,
+    "Longitude": -84.515639282763,
+    "Elevation": 219.39999389648438,
+    "Time": "11/10/2020, 22:44:04",
+    "Speed": 7.1892901372424145,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14269949309528,
+    "Longitude": -84.51563182286918,
+    "Elevation": 219.39999389648438,
+    "Time": "11/10/2020, 22:44:05",
+    "Speed": 8.84196243793437,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14280032739043,
+    "Longitude": -84.51557683758438,
+    "Elevation": 219.39999389648438,
+    "Time": "11/10/2020, 22:44:08",
+    "Speed": 8.449264723808952,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.142901580780745,
+    "Longitude": -84.51559502631426,
+    "Elevation": 219.1999969482422,
+    "Time": "11/10/2020, 22:44:11",
+    "Speed": 10.060725942662204,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14298229850829,
+    "Longitude": -84.51560349203646,
+    "Elevation": 219.1999969482422,
+    "Time": "11/10/2020, 22:44:13",
+    "Speed": 9.750732582474292,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14317751303315,
+    "Longitude": -84.51557574793696,
+    "Elevation": 218.60000610351562,
+    "Time": "11/10/2020, 22:44:18",
+    "Speed": 9.983661295319411,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.143217243254185,
+    "Longitude": -84.51556669548154,
+    "Elevation": 218.39999389648438,
+    "Time": "11/10/2020, 22:44:19",
+    "Speed": 9.19467587350366,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.143364848569036,
+    "Longitude": -84.51555294916034,
+    "Elevation": 218.1999969482422,
+    "Time": "11/10/2020, 22:44:23",
+    "Speed": 7.938359470642752,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14342796429992,
+    "Longitude": -84.51553786173463,
+    "Elevation": 218.0,
+    "Time": "11/10/2020, 22:44:25",
+    "Speed": 8.26619923353616,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.143658047541976,
+    "Longitude": -84.51548354700208,
+    "Elevation": 217.60000610351562,
+    "Time": "11/10/2020, 22:44:32",
+    "Speed": 6.229125442743578,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.143807077780366,
+    "Longitude": -84.51551388949156,
+    "Elevation": 217.1999969482422,
+    "Time": "11/10/2020, 22:44:38",
+    "Speed": 6.472939664746487,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.143832894042134,
+    "Longitude": -84.51551883481443,
+    "Elevation": 216.8000030517578,
+    "Time": "11/10/2020, 22:44:39",
+    "Speed": 6.193222403398254,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.143907241523266,
+    "Longitude": -84.51553006656468,
+    "Elevation": 216.0,
+    "Time": "11/10/2020, 22:44:42",
+    "Speed": 7.025492647846213,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14401989430189,
+    "Longitude": -84.51554356142879,
+    "Elevation": 215.1999969482422,
+    "Time": "11/10/2020, 22:44:46",
+    "Speed": 7.744966121795339,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.144050823524594,
+    "Longitude": -84.51554917730391,
+    "Elevation": 214.8000030517578,
+    "Time": "11/10/2020, 22:44:47",
+    "Speed": 7.0991331660442585,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14416498504579,
+    "Longitude": -84.51554859057069,
+    "Elevation": 213.8000030517578,
+    "Time": "11/10/2020, 22:44:51",
+    "Speed": 8.758825190192065,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.144199937582016,
+    "Longitude": -84.51555554755032,
+    "Elevation": 213.60000610351562,
+    "Time": "11/10/2020, 22:44:52",
+    "Speed": 8.48949954527892,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14423380047083,
+    "Longitude": -84.51556233689189,
+    "Elevation": 213.39999389648438,
+    "Time": "11/10/2020, 22:44:53",
+    "Speed": 7.583795926919542,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14432457648218,
+    "Longitude": -84.51558010652661,
+    "Elevation": 212.60000610351562,
+    "Time": "11/10/2020, 22:44:56",
+    "Speed": 6.2366026632515466,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14444829337299,
+    "Longitude": -84.51561220921576,
+    "Elevation": 211.39999389648438,
+    "Time": "11/10/2020, 22:45:01",
+    "Speed": 6.238771790669688,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14447226561606,
+    "Longitude": -84.51562386006117,
+    "Elevation": 211.1999969482422,
+    "Time": "11/10/2020, 22:45:02",
+    "Speed": 6.899255791859529,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.1446031909436,
+    "Longitude": -84.51569627970457,
+    "Elevation": 210.60000610351562,
+    "Time": "11/10/2020, 22:45:07",
+    "Speed": 5.492964101998262,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14462515152991,
+    "Longitude": -84.51569996774197,
+    "Elevation": 210.1999969482422,
+    "Time": "11/10/2020, 22:45:08",
+    "Speed": 7.195560779635778,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14465365000069,
+    "Longitude": -84.51569208875299,
+    "Elevation": 210.0,
+    "Time": "11/10/2020, 22:45:09",
+    "Speed": 7.827267974728893,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14483880624175,
+    "Longitude": -84.51575059443712,
+    "Elevation": 209.60000610351562,
+    "Time": "11/10/2020, 22:45:15",
+    "Speed": 7.340227178093425,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14495120756328,
+    "Longitude": -84.51580767519772,
+    "Elevation": 209.1999969482422,
+    "Time": "11/10/2020, 22:45:19",
+    "Speed": 7.192774502366528,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14502823725343,
+    "Longitude": -84.51587087474763,
+    "Elevation": 208.8000030517578,
+    "Time": "11/10/2020, 22:45:22",
+    "Speed": 7.202521757156303,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14510409347713,
+    "Longitude": -84.515937929973,
+    "Elevation": 208.1999969482422,
+    "Time": "11/10/2020, 22:45:25",
+    "Speed": 6.79895855040156,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.145203502848744,
+    "Longitude": -84.51601001434028,
+    "Elevation": 208.0,
+    "Time": "11/10/2020, 22:45:29",
+    "Speed": 6.472939664746487,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14522764272988,
+    "Longitude": -84.51602543704212,
+    "Elevation": 207.8000030517578,
+    "Time": "11/10/2020, 22:45:30",
+    "Speed": 6.225202344189273,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.14531171321869,
+    "Longitude": -84.51611151918769,
+    "Elevation": 207.39999389648438,
+    "Time": "11/10/2020, 22:45:34",
+    "Speed": 6.2396753712076585,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.1453455761075,
+    "Longitude": -84.51617019250989,
+    "Elevation": 207.1999969482422,
+    "Time": "11/10/2020, 22:45:36",
+    "Speed": 4.948728371915497,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.145356053486466,
+    "Longitude": -84.516196930781,
+    "Elevation": 207.1999969482422,
+    "Time": "11/10/2020, 22:45:37",
+    "Speed": 4.44401651926788,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.145376002416015,
+    "Longitude": -84.51627572067082,
+    "Elevation": 207.1999969482422,
+    "Time": "11/10/2020, 22:45:40",
+    "Speed": 4.874984680042876,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.14539628662169,
+    "Longitude": -84.5163956657052,
+    "Elevation": 207.60000610351562,
+    "Time": "11/10/2020, 22:45:44",
+    "Speed": 5.455725472273463,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.14547365158796,
+    "Longitude": -84.5165187958628,
+    "Elevation": 208.39999389648438,
+    "Time": "11/10/2020, 22:45:49",
+    "Speed": 4.753489783662948,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.145486894994974,
+    "Longitude": -84.51654067263007,
+    "Elevation": 208.60000610351562,
+    "Time": "11/10/2020, 22:45:50",
+    "Speed": 4.828984077046198,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.14552922360599,
+    "Longitude": -84.51667905785143,
+    "Elevation": 209.39999389648438,
+    "Time": "11/10/2020, 22:45:55",
+    "Speed": 4.5349878019463565,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.14553517475724,
+    "Longitude": -84.51670638285577,
+    "Elevation": 209.60000610351562,
+    "Time": "11/10/2020, 22:45:56",
+    "Speed": 5.330105900400341,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.145576329901814,
+    "Longitude": -84.51693487353623,
+    "Elevation": 209.8000030517578,
+    "Time": "11/10/2020, 22:46:03",
+    "Speed": 5.01661533495078,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.145581778138876,
+    "Longitude": -84.51696563512087,
+    "Elevation": 209.8000030517578,
+    "Time": "11/10/2020, 22:46:04",
+    "Speed": 5.637376048755626,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.145614970475435,
+    "Longitude": -84.5171745121479,
+    "Elevation": 209.60000610351562,
+    "Time": "11/10/2020, 22:46:10",
+    "Speed": 5.45175598738159,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.145622346550226,
+    "Longitude": -84.51741725206375,
+    "Elevation": 209.0,
+    "Time": "11/10/2020, 22:46:17",
+    "Speed": 5.107689979281743,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.14561379700899,
+    "Longitude": -84.51751389540732,
+    "Elevation": 208.39999389648438,
+    "Time": "11/10/2020, 22:46:20",
+    "Speed": 5.05244875706739,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.145600805059075,
+    "Longitude": -84.517608191818,
+    "Elevation": 207.60000610351562,
+    "Time": "11/10/2020, 22:46:23",
+    "Speed": 5.602712296878743,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.14557088166475,
+    "Longitude": -84.51770416460931,
+    "Elevation": 207.39999389648438,
+    "Time": "11/10/2020, 22:46:26",
+    "Speed": 5.762439195620541,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.14556040428579,
+    "Longitude": -84.51777566224337,
+    "Elevation": 207.1999969482422,
+    "Time": "11/10/2020, 22:46:28",
+    "Speed": 5.215096642208137,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.14553492330015,
+    "Longitude": -84.5179707929492,
+    "Elevation": 206.1999969482422,
+    "Time": "11/10/2020, 22:46:34",
+    "Speed": 4.859855168579485,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.14546015672386,
+    "Longitude": -84.51818821951747,
+    "Elevation": 205.1999969482422,
+    "Time": "11/10/2020, 22:46:42",
+    "Speed": 5.01661533495078,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.14545060135424,
+    "Longitude": -84.51821638271213,
+    "Elevation": 205.0,
+    "Time": "11/10/2020, 22:46:43",
+    "Speed": 5.066355096331825,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.145436100661755,
+    "Longitude": -84.51837605796754,
+    "Elevation": 204.0,
+    "Time": "11/10/2020, 22:46:48",
+    "Speed": 5.343127737399973,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.145433669909835,
+    "Longitude": -84.51840983703732,
+    "Elevation": 204.0,
+    "Time": "11/10/2020, 22:46:49",
+    "Speed": 5.529788854717577,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.14542897604406,
+    "Longitude": -84.51844428665936,
+    "Elevation": 204.0,
+    "Time": "11/10/2020, 22:46:50",
+    "Speed": 5.601424168963255,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.14539142511785,
+    "Longitude": -84.51861242763698,
+    "Elevation": 204.0,
+    "Time": "11/10/2020, 22:46:55",
+    "Speed": 4.971460362806424,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.14539008401334,
+    "Longitude": -84.51864402741194,
+    "Elevation": 204.0,
+    "Time": "11/10/2020, 22:46:56",
+    "Speed": 3.5393273795233036,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.14540475234389,
+    "Longitude": -84.51868266798556,
+    "Elevation": 204.0,
+    "Time": "11/10/2020, 22:46:58",
+    "Speed": 4.786582603415884,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.14542235434055,
+    "Longitude": -84.51869490556419,
+    "Elevation": 204.0,
+    "Time": "11/10/2020, 22:46:59",
+    "Speed": 6.6166885194365355,
+    "Street": "Loraine Avenue"
+  },
+  {
+    "Latitude": 39.145527463406324,
+    "Longitude": -84.51882398687303,
+    "Elevation": 204.1999969482422,
+    "Time": "11/10/2020, 22:47:04",
+    "Speed": 6.737835502822944,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14569686166942,
+    "Longitude": -84.51895893551409,
+    "Elevation": 204.1999969482422,
+    "Time": "11/10/2020, 22:47:11",
+    "Speed": 7.315631972962237,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14589953608811,
+    "Longitude": -84.51901618391275,
+    "Elevation": 204.0,
+    "Time": "11/10/2020, 22:47:18",
+    "Speed": 6.1660563487726865,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.145924262702465,
+    "Longitude": -84.5190186984837,
+    "Elevation": 204.0,
+    "Time": "11/10/2020, 22:47:19",
+    "Speed": 6.8141406860369695,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14606122300029,
+    "Longitude": -84.51902121305466,
+    "Elevation": 203.8000030517578,
+    "Time": "11/10/2020, 22:47:24",
+    "Speed": 8.018207901450527,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.146125596016645,
+    "Longitude": -84.51901568099856,
+    "Elevation": 204.1999969482422,
+    "Time": "11/10/2020, 22:47:26",
+    "Speed": 7.276587404903024,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.146154848858714,
+    "Longitude": -84.51901702210307,
+    "Elevation": 204.39999389648438,
+    "Time": "11/10/2020, 22:47:27",
+    "Speed": 6.990070770412891,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14635148830712,
+    "Longitude": -84.51900855638087,
+    "Elevation": 204.39999389648438,
+    "Time": "11/10/2020, 22:47:34",
+    "Speed": 6.2640227770971135,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.1463765501976,
+    "Longitude": -84.51900461688638,
+    "Elevation": 204.39999389648438,
+    "Time": "11/10/2020, 22:47:35",
+    "Speed": 6.153242799392935,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.146475372835994,
+    "Longitude": -84.51899665407836,
+    "Elevation": 204.60000610351562,
+    "Time": "11/10/2020, 22:47:39",
+    "Speed": 6.620197967210441,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.146528262645006,
+    "Longitude": -84.51898709870875,
+    "Elevation": 205.0,
+    "Time": "11/10/2020, 22:47:41",
+    "Speed": 6.088770582674446,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14662616327405,
+    "Longitude": -84.51898475177586,
+    "Elevation": 206.1999969482422,
+    "Time": "11/10/2020, 22:47:45",
+    "Speed": 5.6910123118683735,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14669472724199,
+    "Longitude": -84.51898969709873,
+    "Elevation": 206.8000030517578,
+    "Time": "11/10/2020, 22:47:48",
+    "Speed": 4.9278939317468105,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14677360095084,
+    "Longitude": -84.51897762715816,
+    "Elevation": 207.1999969482422,
+    "Time": "11/10/2020, 22:47:52",
+    "Speed": 6.142238481555526,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.146822802722454,
+    "Longitude": -84.5189708378166,
+    "Elevation": 207.39999389648438,
+    "Time": "11/10/2020, 22:47:54",
+    "Speed": 7.167299685482356,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.1468514688313,
+    "Longitude": -84.51896614395082,
+    "Elevation": 207.39999389648438,
+    "Time": "11/10/2020, 22:47:55",
+    "Speed": 6.9166226210787665,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.146990440785885,
+    "Longitude": -84.51895943842828,
+    "Elevation": 207.8000030517578,
+    "Time": "11/10/2020, 22:48:00",
+    "Speed": 6.572844016048211,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14717501029372,
+    "Longitude": -84.51894016005099,
+    "Elevation": 208.39999389648438,
+    "Time": "11/10/2020, 22:48:07",
+    "Speed": 5.897485322609493,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14734097197652,
+    "Longitude": -84.51893823221326,
+    "Elevation": 208.60000610351562,
+    "Time": "11/10/2020, 22:48:14",
+    "Speed": 6.281697904598342,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.147491259500384,
+    "Longitude": -84.51890763826668,
+    "Elevation": 208.60000610351562,
+    "Time": "11/10/2020, 22:48:20",
+    "Speed": 6.091264354591368,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14766166359186,
+    "Longitude": -84.51887813396752,
+    "Elevation": 208.39999389648438,
+    "Time": "11/10/2020, 22:48:27",
+    "Speed": 6.34561666304571,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14786542765796,
+    "Longitude": -84.51886002905667,
+    "Elevation": 208.39999389648438,
+    "Time": "11/10/2020, 22:48:35",
+    "Speed": 8.068284465065636,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14805779233575,
+    "Longitude": -84.51881325803697,
+    "Elevation": 208.39999389648438,
+    "Time": "11/10/2020, 22:48:41",
+    "Speed": 7.153915360664943,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14811487309635,
+    "Longitude": -84.51880202628672,
+    "Elevation": 208.0,
+    "Time": "11/10/2020, 22:48:43",
+    "Speed": 7.035548890139094,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14831251837313,
+    "Longitude": -84.51878358609974,
+    "Elevation": 207.39999389648438,
+    "Time": "11/10/2020, 22:48:50",
+    "Speed": 7.814533082631145,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14834378287196,
+    "Longitude": -84.51877864077687,
+    "Elevation": 207.39999389648438,
+    "Time": "11/10/2020, 22:48:51",
+    "Speed": 9.484418789659804,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.148419639095664,
+    "Longitude": -84.51876615174115,
+    "Elevation": 207.1999969482422,
+    "Time": "11/10/2020, 22:48:53",
+    "Speed": 7.082034708991759,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14861845783889,
+    "Longitude": -84.51874427497387,
+    "Elevation": 206.8000030517578,
+    "Time": "11/10/2020, 22:49:00",
+    "Speed": 6.552577649081059,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14864469319582,
+    "Longitude": -84.51874058693647,
+    "Elevation": 206.8000030517578,
+    "Time": "11/10/2020, 22:49:01",
+    "Speed": 6.890471808068198,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.148838398978114,
+    "Longitude": -84.51872650533915,
+    "Elevation": 206.8000030517578,
+    "Time": "11/10/2020, 22:49:08",
+    "Speed": 7.523424461536635,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.1488684900105,
+    "Longitude": -84.5187216438353,
+    "Elevation": 206.8000030517578,
+    "Time": "11/10/2020, 22:49:09",
+    "Speed": 6.910479801926118,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14906236343086,
+    "Longitude": -84.51869750395417,
+    "Elevation": 207.1999969482422,
+    "Time": "11/10/2020, 22:49:16",
+    "Speed": 7.172563010431725,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14926419965923,
+    "Longitude": -84.51870060525835,
+    "Elevation": 207.39999389648438,
+    "Time": "11/10/2020, 22:49:23",
+    "Speed": 6.3664605520836695,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14936654269695,
+    "Longitude": -84.51869658194482,
+    "Elevation": 208.60000610351562,
+    "Time": "11/10/2020, 22:49:27",
+    "Speed": 6.58233623342273,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14944591931999,
+    "Longitude": -84.51869482174516,
+    "Elevation": 209.0,
+    "Time": "11/10/2020, 22:49:30",
+    "Speed": 6.26270018368427,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.149621771648526,
+    "Longitude": -84.51867629773915,
+    "Elevation": 209.39999389648438,
+    "Time": "11/10/2020, 22:49:37",
+    "Speed": 5.614774124180369,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14964431896806,
+    "Longitude": -84.51867411844432,
+    "Elevation": 209.60000610351562,
+    "Time": "11/10/2020, 22:49:38",
+    "Speed": 5.423763521025616,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14977423846722,
+    "Longitude": -84.5186497271061,
+    "Elevation": 210.8000030517578,
+    "Time": "11/10/2020, 22:49:44",
+    "Speed": 5.355774211273785,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14979577995837,
+    "Longitude": -84.51864880509675,
+    "Elevation": 211.1999969482422,
+    "Time": "11/10/2020, 22:49:45",
+    "Speed": 4.569663254523008,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14981413632631,
+    "Longitude": -84.51864729635417,
+    "Elevation": 211.39999389648438,
+    "Time": "11/10/2020, 22:49:46",
+    "Speed": 1.329553930992271,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.149843975901604,
+    "Longitude": -84.5186286047101,
+    "Elevation": 212.60000610351562,
+    "Time": "11/10/2020, 22:49:52",
+    "Speed": 2.83138225966819,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.149866523221135,
+    "Longitude": -84.51862340793014,
+    "Elevation": 212.8000030517578,
+    "Time": "11/10/2020, 22:49:54",
+    "Speed": 4.816457858812552,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14998202584684,
+    "Longitude": -84.51860354281962,
+    "Elevation": 213.1999969482422,
+    "Time": "11/10/2020, 22:50:00",
+    "Speed": 6.172844573935565,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.150155279785395,
+    "Longitude": -84.51858351007104,
+    "Elevation": 213.60000610351562,
+    "Time": "11/10/2020, 22:50:07",
+    "Speed": 6.861893151484499,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.15018285624683,
+    "Longitude": -84.5185818336904,
+    "Elevation": 213.8000030517578,
+    "Time": "11/10/2020, 22:50:08",
+    "Speed": 6.458989347529715,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.15031244046986,
+    "Longitude": -84.51856900937855,
+    "Elevation": 214.8000030517578,
+    "Time": "11/10/2020, 22:50:13",
+    "Speed": 5.81890641264237,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.15035887621343,
+    "Longitude": -84.51855995692313,
+    "Elevation": 215.1999969482422,
+    "Time": "11/10/2020, 22:50:15",
+    "Speed": 5.657452356329418,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.15042609907687,
+    "Longitude": -84.51854143291712,
+    "Elevation": 215.60000610351562,
+    "Time": "11/10/2020, 22:50:18",
+    "Speed": 5.968605655572897,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.150521820411086,
+    "Longitude": -84.5185302849859,
+    "Elevation": 215.8000030517578,
+    "Time": "11/10/2020, 22:50:22",
+    "Speed": 7.341379158509906,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.15058074519038,
+    "Longitude": -84.51853573322296,
+    "Elevation": 215.8000030517578,
+    "Time": "11/10/2020, 22:50:24",
+    "Speed": 6.925680444420212,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.15069197304547,
+    "Longitude": -84.51852676458657,
+    "Elevation": 216.0,
+    "Time": "11/10/2020, 22:50:28",
+    "Speed": 6.424912273097283,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.15087268687785,
+    "Longitude": -84.51851762831211,
+    "Elevation": 217.0,
+    "Time": "11/10/2020, 22:50:35",
+    "Speed": 7.335233172368719,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.15090210735798,
+    "Longitude": -84.51851477846503,
+    "Elevation": 217.0,
+    "Time": "11/10/2020, 22:50:36",
+    "Speed": 6.404249646613708,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.151082234457135,
+    "Longitude": -84.51850530691445,
+    "Elevation": 217.1999969482422,
+    "Time": "11/10/2020, 22:50:43",
+    "Speed": 5.112003535313605,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.15124576538801,
+    "Longitude": -84.51847840100527,
+    "Elevation": 218.1999969482422,
+    "Time": "11/10/2020, 22:50:51",
+    "Speed": 5.655728982401179,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.15142388083041,
+    "Longitude": -84.51841997914016,
+    "Elevation": 219.0,
+    "Time": "11/10/2020, 22:50:59",
+    "Speed": 6.809108574148292,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.15147811174393,
+    "Longitude": -84.51840824447572,
+    "Elevation": 219.1999969482422,
+    "Time": "11/10/2020, 22:51:01",
+    "Speed": 8.466964966890666,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.15168212726712,
+    "Longitude": -84.51839324086905,
+    "Elevation": 219.60000610351562,
+    "Time": "11/10/2020, 22:51:07",
+    "Speed": 7.025009520633832,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.151879688724875,
+    "Longitude": -84.51840480789542,
+    "Elevation": 220.1999969482422,
+    "Time": "11/10/2020, 22:51:14",
+    "Speed": 6.4607347844889595,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.15203534066677,
+    "Longitude": -84.51839265413582,
+    "Elevation": 220.8000030517578,
+    "Time": "11/10/2020, 22:51:20",
+    "Speed": 6.563371182310961,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.15219317190349,
+    "Longitude": -84.51837295666337,
+    "Elevation": 221.0,
+    "Time": "11/10/2020, 22:51:26",
+    "Speed": 6.281398740511753,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.1523446328938,
+    "Longitude": -84.51836625114083,
+    "Elevation": 221.1999969482422,
+    "Time": "11/10/2020, 22:51:32",
+    "Speed": 5.29632868741757,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.15245099924505,
+    "Longitude": -84.51837345957756,
+    "Elevation": 221.1999969482422,
+    "Time": "11/10/2020, 22:51:37",
+    "Speed": 5.184618817474775,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.152471870183945,
+    "Longitude": -84.51837195083499,
+    "Elevation": 221.1999969482422,
+    "Time": "11/10/2020, 22:51:38",
+    "Speed": 4.864855281832142,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.152510929852724,
+    "Longitude": -84.51836843043566,
+    "Elevation": 221.1999969482422,
+    "Time": "11/10/2020, 22:51:40",
+    "Speed": 6.469383768513706,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.152692230418324,
+    "Longitude": -84.51834219507873,
+    "Elevation": 222.0,
+    "Time": "11/10/2020, 22:51:47",
+    "Speed": 8.35023016890969,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.15272567421198,
+    "Longitude": -84.51834672130644,
+    "Elevation": 221.8000030517578,
+    "Time": "11/10/2020, 22:51:48",
+    "Speed": 3.8399044787718375,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.15284553542733,
+    "Longitude": -84.518953403458,
+    "Elevation": 225.60000610351562,
+    "Time": "11/10/2020, 22:52:14",
+    "Speed": 4.297547197208044,
+    "Street": "Warren Avenue"
+  },
+  {
+    "Latitude": 39.15284352377057,
+    "Longitude": -84.51900805346668,
+    "Elevation": 226.0,
+    "Time": "11/10/2020, 22:52:16",
+    "Speed": 4.1788642232331235,
+    "Street": "Warren Avenue"
+  },
+  {
+    "Latitude": 39.15284981019795,
+    "Longitude": -84.51916739344597,
+    "Elevation": 226.60000610351562,
+    "Time": "11/10/2020, 22:52:22",
+    "Speed": 4.461987134387407,
+    "Street": "Warren Avenue"
+  },
+  {
+    "Latitude": 39.152867244556546,
+    "Longitude": -84.51927761547267,
+    "Elevation": 227.0,
+    "Time": "11/10/2020, 22:52:26",
+    "Speed": 4.976719345857344,
+    "Street": "Warren Avenue"
+  },
+  {
+    "Latitude": 39.152884762734175,
+    "Longitude": -84.5194336026907,
+    "Elevation": 228.1999969482422,
+    "Time": "11/10/2020, 22:52:31",
+    "Speed": 4.971460362806424,
+    "Street": "Warren Avenue"
+  },
+  {
+    "Latitude": 39.152885684743524,
+    "Longitude": -84.51946520246565,
+    "Elevation": 228.1999969482422,
+    "Time": "11/10/2020, 22:52:32",
+    "Speed": 4.568969239732893,
+    "Street": "Warren Avenue"
+  },
+  {
+    "Latitude": 39.15289322845638,
+    "Longitude": -84.5196976326406,
+    "Elevation": 228.60000610351562,
+    "Time": "11/10/2020, 22:52:40",
+    "Speed": 5.154355750925195,
+    "Street": "Warren Avenue"
+  },
+  {
+    "Latitude": 39.15291342884302,
+    "Longitude": -84.5199582260102,
+    "Elevation": 228.0,
+    "Time": "11/10/2020, 22:52:48",
+    "Speed": 5.02120015315563,
+    "Street": "Warren Avenue"
+  },
+  {
+    "Latitude": 39.152927342802286,
+    "Longitude": -84.52018093317747,
+    "Elevation": 226.8000030517578,
+    "Time": "11/10/2020, 22:52:55",
+    "Speed": 6.036697061851134,
+    "Street": "Warren Avenue"
+  },
+  {
+    "Latitude": 39.152938071638346,
+    "Longitude": -84.5202153827995,
+    "Elevation": 226.60000610351562,
+    "Time": "11/10/2020, 22:52:56",
+    "Speed": 5.815999139709619,
+    "Street": "Warren Avenue"
+  },
+  {
+    "Latitude": 39.15297629311681,
+    "Longitude": -84.52035058289766,
+    "Elevation": 225.8000030517578,
+    "Time": "11/10/2020, 22:53:00",
+    "Speed": 5.326219062919753,
+    "Street": "Warren Avenue"
+  },
+  {
+    "Latitude": 39.15298274718225,
+    "Longitude": -84.5203829370439,
+    "Elevation": 225.39999389648438,
+    "Time": "11/10/2020, 22:53:01",
+    "Speed": 4.997192292118331,
+    "Street": "Warren Avenue"
+  },
+  {
+    "Latitude": 39.15298827923834,
+    "Longitude": -84.52050992287695,
+    "Elevation": 224.60000610351562,
+    "Time": "11/10/2020, 22:53:05",
+    "Speed": 4.977127138113374,
+    "Street": "Warren Avenue"
+  },
+  {
+    "Latitude": 39.15298903360963,
+    "Longitude": -84.52057329006493,
+    "Elevation": 223.8000030517578,
+    "Time": "11/10/2020, 22:53:07",
+    "Speed": 5.598685913105168,
+    "Street": "Warren Avenue"
+  },
+  {
+    "Latitude": 39.15298517793417,
+    "Longitude": -84.52060841023922,
+    "Elevation": 223.39999389648438,
+    "Time": "11/10/2020, 22:53:08",
+    "Speed": 5.315388138980417,
+    "Street": "Warren Avenue"
+  },
+  {
+    "Latitude": 39.152976796031,
+    "Longitude": -84.52070907689631,
+    "Elevation": 223.0,
+    "Time": "11/10/2020, 22:53:11",
+    "Speed": 4.751117190660872,
+    "Street": "Warren Avenue"
+  },
+  {
+    "Latitude": 39.15297629311681,
+    "Longitude": -84.52076959423721,
+    "Elevation": 222.0,
+    "Time": "11/10/2020, 22:53:13",
+    "Speed": 4.827629634638898,
+    "Street": "Warren Avenue"
+  },
+  {
+    "Latitude": 39.152979562059045,
+    "Longitude": -84.52083086594939,
+    "Elevation": 221.1999969482422,
+    "Time": "11/10/2020, 22:53:15",
+    "Speed": 4.884516015648866,
+    "Street": "Warren Avenue"
+  },
+  {
+    "Latitude": 39.15298651903868,
+    "Longitude": -84.5208599511534,
+    "Elevation": 221.0,
+    "Time": "11/10/2020, 22:53:16",
+    "Speed": 4.674859926462211,
+    "Street": "Warren Avenue"
+  },
+  {
+    "Latitude": 39.15300923399627,
+    "Longitude": -84.52097344212234,
+    "Elevation": 219.8000030517578,
+    "Time": "11/10/2020, 22:53:20",
+    "Speed": 5.162825451490643,
+    "Street": "Warren Avenue"
+  },
+  {
+    "Latitude": 39.15301552042365,
+    "Longitude": -84.5210047904402,
+    "Elevation": 219.1999969482422,
+    "Time": "11/10/2020, 22:53:21",
+    "Speed": 5.724375520835223,
+    "Street": "Warren Avenue"
+  },
+  {
+    "Latitude": 39.15302298031747,
+    "Longitude": -84.52111350372434,
+    "Elevation": 218.60000610351562,
+    "Time": "11/10/2020, 22:53:24",
+    "Speed": 5.520350389176917,
+    "Street": "Warren Avenue"
+  },
+  {
+    "Latitude": 39.15303957648575,
+    "Longitude": -84.5212516374886,
+    "Elevation": 217.8000030517578,
+    "Time": "11/10/2020, 22:53:28",
+    "Speed": 4.58061644198766,
+    "Street": "Warren Avenue"
+  },
+  {
+    "Latitude": 39.153037229552865,
+    "Longitude": -84.52133906073868,
+    "Elevation": 217.39999389648438,
+    "Time": "11/10/2020, 22:53:31",
+    "Speed": 4.919019736396872,
+    "Street": "Warren Avenue"
+  },
+  {
+    "Latitude": 39.15301929228008,
+    "Longitude": -84.5213948842138,
+    "Elevation": 217.39999389648438,
+    "Time": "11/10/2020, 22:53:33",
+    "Speed": 5.596107507160473,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.152911584824324,
+    "Longitude": -84.52144626528025,
+    "Elevation": 216.60000610351562,
+    "Time": "11/10/2020, 22:53:38",
+    "Speed": 6.163312830795516,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.15286204777658,
+    "Longitude": -84.52144827693701,
+    "Elevation": 216.1999969482422,
+    "Time": "11/10/2020, 22:53:40",
+    "Speed": 4.881340971663432,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.152783676981926,
+    "Longitude": -84.52144115231931,
+    "Elevation": 215.39999389648438,
+    "Time": "11/10/2020, 22:53:44",
+    "Speed": 4.962380062326397,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.15274377912283,
+    "Longitude": -84.52144224196672,
+    "Elevation": 215.0,
+    "Time": "11/10/2020, 22:53:46",
+    "Speed": 5.265272985500965,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.1526591219008,
+    "Longitude": -84.52143972739577,
+    "Elevation": 214.39999389648438,
+    "Time": "11/10/2020, 22:53:50",
+    "Speed": 5.5873461527933035,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.152569603174925,
+    "Longitude": -84.52142748981714,
+    "Elevation": 213.8000030517578,
+    "Time": "11/10/2020, 22:53:54",
+    "Speed": 7.961937842735699,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.15244186297059,
+    "Longitude": -84.52141374349594,
+    "Elevation": 213.1999969482422,
+    "Time": "11/10/2020, 22:53:58",
+    "Speed": 6.632864957613513,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.15228344500065,
+    "Longitude": -84.52144919894636,
+    "Elevation": 213.0,
+    "Time": "11/10/2020, 22:54:04",
+    "Speed": 6.712378629279197,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.15225704200566,
+    "Longitude": -84.52145783230662,
+    "Elevation": 212.8000030517578,
+    "Time": "11/10/2020, 22:54:05",
+    "Speed": 7.068179665039731,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.152058558538556,
+    "Longitude": -84.5214783679694,
+    "Elevation": 212.1999969482422,
+    "Time": "11/10/2020, 22:54:12",
+    "Speed": 6.7213314557052515,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.15197775699198,
+    "Longitude": -84.52148876152933,
+    "Elevation": 211.8000030517578,
+    "Time": "11/10/2020, 22:54:15",
+    "Speed": 5.90535303007154,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.15190676227212,
+    "Longitude": -84.52149789780378,
+    "Elevation": 211.1999969482422,
+    "Time": "11/10/2020, 22:54:18",
+    "Speed": 5.482691109836261,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.15177550166845,
+    "Longitude": -84.52152346260846,
+    "Elevation": 210.8000030517578,
+    "Time": "11/10/2020, 22:54:24",
+    "Speed": 4.83346504065474,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.15175622329116,
+    "Longitude": -84.52152748592198,
+    "Elevation": 210.60000610351562,
+    "Time": "11/10/2020, 22:54:25",
+    "Speed": 5.954893943872038,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.15170844644308,
+    "Longitude": -84.52153259888291,
+    "Elevation": 210.1999969482422,
+    "Time": "11/10/2020, 22:54:27",
+    "Speed": 7.207890164598307,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.15159302763641,
+    "Longitude": -84.52154944650829,
+    "Elevation": 209.8000030517578,
+    "Time": "11/10/2020, 22:54:31",
+    "Speed": 7.036584518021717,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.15142505429685,
+    "Longitude": -84.52158800326288,
+    "Elevation": 209.60000610351562,
+    "Time": "11/10/2020, 22:54:37",
+    "Speed": 7.577185224889393,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.15139462798834,
+    "Longitude": -84.52158959582448,
+    "Elevation": 209.39999389648438,
+    "Time": "11/10/2020, 22:54:38",
+    "Speed": 7.059070929259019,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.151224894449115,
+    "Longitude": -84.5216110534966,
+    "Elevation": 208.8000030517578,
+    "Time": "11/10/2020, 22:54:44",
+    "Speed": 6.43779273742358,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.15104476734996,
+    "Longitude": -84.52164181508124,
+    "Elevation": 208.39999389648438,
+    "Time": "11/10/2020, 22:54:51",
+    "Speed": 7.957511149792784,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.15101291611791,
+    "Longitude": -84.5216372050345,
+    "Elevation": 208.39999389648438,
+    "Time": "11/10/2020, 22:54:52",
+    "Speed": 6.49678480335732,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.15083035826683,
+    "Longitude": -84.52165296301246,
+    "Elevation": 208.60000610351562,
+    "Time": "11/10/2020, 22:54:59",
+    "Speed": 5.932652697177752,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.150663474574685,
+    "Longitude": -84.52164525166154,
+    "Elevation": 208.39999389648438,
+    "Time": "11/10/2020, 22:55:06",
+    "Speed": 6.349267063504893,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.150030137971044,
+    "Longitude": -84.52176896855235,
+    "Elevation": 208.1999969482422,
+    "Time": "11/10/2020, 22:55:31",
+    "Speed": 5.746882111641915,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.149914886802435,
+    "Longitude": -84.52175647951663,
+    "Elevation": 208.8000030517578,
+    "Time": "11/10/2020, 22:55:36",
+    "Speed": 5.648559925591126,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.14982427842915,
+    "Longitude": -84.52176662161946,
+    "Elevation": 209.39999389648438,
+    "Time": "11/10/2020, 22:55:40",
+    "Speed": 6.052034960653575,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.14975135587156,
+    "Longitude": -84.52176184393466,
+    "Elevation": 209.8000030517578,
+    "Time": "11/10/2020, 22:55:43",
+    "Speed": 4.5125557379210495,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.14971514604986,
+    "Longitude": -84.52176578342915,
+    "Elevation": 210.0,
+    "Time": "11/10/2020, 22:55:45",
+    "Speed": 4.94264885073604,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.14965563453734,
+    "Longitude": -84.52176025137305,
+    "Elevation": 210.39999389648438,
+    "Time": "11/10/2020, 22:55:48",
+    "Speed": 5.866187915245839,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.14963216520846,
+    "Longitude": -84.5217563956976,
+    "Elevation": 210.60000610351562,
+    "Time": "11/10/2020, 22:55:49",
+    "Speed": 5.274633478197907,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.149547507986426,
+    "Longitude": -84.5217646099627,
+    "Elevation": 211.60000610351562,
+    "Time": "11/10/2020, 22:55:53",
+    "Speed": 5.209688721754293,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.14948531426489,
+    "Longitude": -84.52177869156003,
+    "Elevation": 212.0,
+    "Time": "11/10/2020, 22:55:56",
+    "Speed": 5.906652293929837,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.149391101673245,
+    "Longitude": -84.52179780229926,
+    "Elevation": 212.8000030517578,
+    "Time": "11/10/2020, 22:56:00",
+    "Speed": 5.67116526772791,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.14932387880981,
+    "Longitude": -84.52181783504784,
+    "Elevation": 213.39999389648438,
+    "Time": "11/10/2020, 22:56:03",
+    "Speed": 6.907748794959254,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.149296218529344,
+    "Longitude": -84.5218214392662,
+    "Elevation": 213.8000030517578,
+    "Time": "11/10/2020, 22:56:04",
+    "Speed": 5.720787243605646,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.14899832569063,
+    "Longitude": -84.52186184003949,
+    "Elevation": 215.39999389648438,
+    "Time": "11/10/2020, 22:56:17",
+    "Speed": 5.832273285067513,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.14881266653538,
+    "Longitude": -84.52190416865051,
+    "Elevation": 215.60000610351562,
+    "Time": "11/10/2020, 22:56:25",
+    "Speed": 6.221880867184543,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.1487389896065,
+    "Longitude": -84.52192671597004,
+    "Elevation": 215.8000030517578,
+    "Time": "11/10/2020, 22:56:28",
+    "Speed": 4.711663978294644,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.14868316613138,
+    "Longitude": -84.52194347977638,
+    "Elevation": 216.0,
+    "Time": "11/10/2020, 22:56:31",
+    "Speed": 6.094545509561191,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.14856129325926,
+    "Longitude": -84.5219630934298,
+    "Elevation": 216.1999969482422,
+    "Time": "11/10/2020, 22:56:36",
+    "Speed": 5.747980716821105,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.14844579063356,
+    "Longitude": -84.52195865102112,
+    "Elevation": 216.1999969482422,
+    "Time": "11/10/2020, 22:56:41",
+    "Speed": 6.535347596515636,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.14841955527663,
+    "Longitude": -84.52196024358273,
+    "Elevation": 216.39999389648438,
+    "Time": "11/10/2020, 22:56:42",
+    "Speed": 6.376162276369057,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.14824026636779,
+    "Longitude": -84.5219718106091,
+    "Elevation": 216.1999969482422,
+    "Time": "11/10/2020, 22:56:49",
+    "Speed": 5.755586721547545,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.1481017973274,
+    "Longitude": -84.52198782004416,
+    "Elevation": 215.60000610351562,
+    "Time": "11/10/2020, 22:56:55",
+    "Speed": 5.816860705405283,
+    "Street": "Middleton Avenue"
+  },
+  {
+    "Latitude": 39.14775428362191,
+    "Longitude": -84.52191221527755,
+    "Elevation": 214.8000030517578,
+    "Time": "11/10/2020, 22:57:10",
+    "Speed": 7.860569021857729,
+    "Street": "Resor Avenue"
+  },
+  {
+    "Latitude": 39.14773634634912,
+    "Longitude": -84.52187106013298,
+    "Elevation": 214.8000030517578,
+    "Time": "11/10/2020, 22:57:11",
+    "Speed": 5.858802479282401,
+    "Street": "Resor Avenue"
+  },
+  {
+    "Latitude": 39.147687731310725,
+    "Longitude": -84.5217011589557,
+    "Elevation": 214.39999389648438,
+    "Time": "11/10/2020, 22:57:16",
+    "Speed": 5.718244292905075,
+    "Street": "Resor Avenue"
+  },
+  {
+    "Latitude": 39.14759662002325,
+    "Longitude": -84.52153712511063,
+    "Elevation": 213.8000030517578,
+    "Time": "11/10/2020, 22:57:22",
+    "Speed": 6.940317333823565,
+    "Street": "Resor Avenue"
+  },
+  {
+    "Latitude": 39.14756275713444,
+    "Longitude": -84.52146688476205,
+    "Elevation": 213.60000610351562,
+    "Time": "11/10/2020, 22:57:24",
+    "Speed": 5.939964325760402,
+    "Street": "Resor Avenue"
+  },
+  {
+    "Latitude": 39.14751397445798,
+    "Longitude": -84.52133679762483,
+    "Elevation": 212.60000610351562,
+    "Time": "11/10/2020, 22:57:28",
+    "Speed": 5.031633422111565,
+    "Street": "Resor Avenue"
+  },
+  {
+    "Latitude": 39.14741238579154,
+    "Longitude": -84.52061763033271,
+    "Elevation": 211.39999389648438,
+    "Time": "11/10/2020, 22:57:51",
+    "Speed": 5.5995078592191,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14739771746099,
+    "Longitude": -84.52036910690367,
+    "Elevation": 211.60000610351562,
+    "Time": "11/10/2020, 22:57:58",
+    "Speed": 5.757545403488717,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14739872328937,
+    "Longitude": -84.52033247798681,
+    "Elevation": 211.60000610351562,
+    "Time": "11/10/2020, 22:57:59",
+    "Speed": 5.9362975237899205,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.1474059317261,
+    "Longitude": -84.52006811276078,
+    "Elevation": 211.60000610351562,
+    "Time": "11/10/2020, 22:58:06",
+    "Speed": 5.244680813733446,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.147410709410906,
+    "Longitude": -84.51996820047498,
+    "Elevation": 211.60000610351562,
+    "Time": "11/10/2020, 22:58:09",
+    "Speed": 5.596923459375902,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.1473800316453,
+    "Longitude": -84.51983417384326,
+    "Elevation": 211.60000610351562,
+    "Time": "11/10/2020, 22:58:13",
+    "Speed": 6.004975643201328,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14732010103762,
+    "Longitude": -84.51958389021456,
+    "Elevation": 211.8000030517578,
+    "Time": "11/10/2020, 22:58:20",
+    "Speed": 5.346571917175385,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.147301241755486,
+    "Longitude": -84.5193474367261,
+    "Elevation": 211.60000610351562,
+    "Time": "11/10/2020, 22:58:27",
+    "Speed": 5.01661533495078,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14730375632644,
+    "Longitude": -84.5193157531321,
+    "Elevation": 211.60000610351562,
+    "Time": "11/10/2020, 22:58:28",
+    "Speed": 5.3913167541249605,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.147305097430944,
+    "Longitude": -84.51907544396818,
+    "Elevation": 211.1999969482422,
+    "Time": "11/10/2020, 22:58:35",
+    "Speed": 5.590624446125912,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14730333723128,
+    "Longitude": -84.51903998851776,
+    "Elevation": 211.1999969482422,
+    "Time": "11/10/2020, 22:58:36",
+    "Speed": 4.419564101509561,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14728129282594,
+    "Longitude": -84.51887478120625,
+    "Elevation": 210.60000610351562,
+    "Time": "11/10/2020, 22:58:42",
+    "Speed": 2.6778871056368803,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14727106690407,
+    "Longitude": -84.51886941678822,
+    "Elevation": 210.39999389648438,
+    "Time": "11/10/2020, 22:58:43",
+    "Speed": 3.889108431936618,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14717727340758,
+    "Longitude": -84.51887243427336,
+    "Elevation": 209.60000610351562,
+    "Time": "11/10/2020, 22:58:49",
+    "Speed": 5.754607130573061,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14713201113045,
+    "Longitude": -84.5188876055181,
+    "Elevation": 209.39999389648438,
+    "Time": "11/10/2020, 22:58:51",
+    "Speed": 5.726864457171358,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.147040229290724,
+    "Longitude": -84.51889967545867,
+    "Elevation": 209.39999389648438,
+    "Time": "11/10/2020, 22:58:55",
+    "Speed": 5.930525109674387,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14684954099357,
+    "Longitude": -84.51890654861927,
+    "Elevation": 209.39999389648438,
+    "Time": "11/10/2020, 22:59:03",
+    "Speed": 5.05604290992609,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14673512801528,
+    "Longitude": -84.51883966103196,
+    "Elevation": 209.0,
+    "Time": "11/10/2020, 22:59:09",
+    "Speed": 4.946868087521992,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.146598586812615,
+    "Longitude": -84.51879666186869,
+    "Elevation": 208.60000610351562,
+    "Time": "11/10/2020, 22:59:16",
+    "Speed": 7.248642225222566,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14654058404267,
+    "Longitude": -84.5187876932323,
+    "Elevation": 208.39999389648438,
+    "Time": "11/10/2020, 22:59:18",
+    "Speed": 5.887505624553691,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.146469589322805,
+    "Longitude": -84.51878593303263,
+    "Elevation": 208.1999969482422,
+    "Time": "11/10/2020, 22:59:21",
+    "Speed": 6.645886755789542,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14628267288208,
+    "Longitude": -84.5187959074974,
+    "Elevation": 207.60000610351562,
+    "Time": "11/10/2020, 22:59:28",
+    "Speed": 7.843337209341736,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14625124074519,
+    "Longitude": -84.51879180036485,
+    "Elevation": 207.39999389648438,
+    "Time": "11/10/2020, 22:59:29",
+    "Speed": 6.963024672518729,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.146223245188594,
+    "Longitude": -84.51879289001226,
+    "Elevation": 207.1999969482422,
+    "Time": "11/10/2020, 22:59:30",
+    "Speed": 7.015454790673928,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14605493657291,
+    "Longitude": -84.5188207179308,
+    "Elevation": 206.1999969482422,
+    "Time": "11/10/2020, 22:59:36",
+    "Speed": 6.465580748164012,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14597715251148,
+    "Longitude": -84.51882951892912,
+    "Elevation": 205.8000030517578,
+    "Time": "11/10/2020, 22:59:39",
+    "Speed": 6.210695590200533,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14587824605405,
+    "Longitude": -84.51885147951543,
+    "Elevation": 205.1999969482422,
+    "Time": "11/10/2020, 22:59:43",
+    "Speed": 7.671829770529819,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14584740065038,
+    "Longitude": -84.51885223388672,
+    "Elevation": 205.0,
+    "Time": "11/10/2020, 22:59:44",
+    "Speed": 6.257747421892536,
+    "Street": "Clifton Avenue"
+  },
+  {
+    "Latitude": 39.14388888515532,
+    "Longitude": -84.51904476620257,
+    "Elevation": 209.8000030517578,
+    "Time": "11/10/2020, 23:01:02",
+    "Speed": 4.3678114817498725,
+    "Street": "Hosea Avenue"
+  },
+  {
+    "Latitude": 39.143878910690546,
+    "Longitude": -84.51902188360691,
+    "Elevation": 209.8000030517578,
+    "Time": "11/10/2020, 23:01:03",
+    "Speed": 5.003479565226306,
+    "Street": "Hosea Avenue"
+  },
+  {
+    "Latitude": 39.14383574388921,
+    "Longitude": -84.51880956999958,
+    "Elevation": 210.1999969482422,
+    "Time": "11/10/2020, 23:01:10",
+    "Speed": 6.053716652852889,
+    "Street": "Hosea Avenue"
+  },
+  {
+    "Latitude": 39.143793331459165,
+    "Longitude": -84.51867076568305,
+    "Elevation": 210.39999389648438,
+    "Time": "11/10/2020, 23:01:14",
+    "Speed": 5.721871270055645,
+    "Street": "Hosea Avenue"
+  },
+  {
+    "Latitude": 39.14374438114464,
+    "Longitude": -84.51850589364767,
+    "Elevation": 210.8000030517578,
+    "Time": "11/10/2020, 23:01:19",
+    "Speed": 5.557247285456199,
+    "Street": "Hosea Avenue"
+  },
+  {
+    "Latitude": 39.14369962178171,
+    "Longitude": -84.51830573379993,
+    "Elevation": 211.39999389648438,
+    "Time": "11/10/2020, 23:01:25",
+    "Speed": 6.235156159076135,
+    "Street": "Hosea Avenue"
+  },
+  {
+    "Latitude": 39.14369048550725,
+    "Longitude": -84.51826876960695,
+    "Elevation": 211.60000610351562,
+    "Time": "11/10/2020, 23:01:26",
+    "Speed": 4.484370691278917,
+    "Street": "Hosea Avenue"
+  },
+  {
+    "Latitude": 39.143667770549655,
+    "Longitude": -84.51807213015854,
+    "Elevation": 212.39999389648438,
+    "Time": "11/10/2020, 23:01:33",
+    "Speed": 3.947816933612849,
+    "Street": "Hosea Avenue"
+  },
+  {
+    "Latitude": 39.143646731972694,
+    "Longitude": -84.51797724701464,
+    "Elevation": 212.60000610351562,
+    "Time": "11/10/2020, 23:01:37",
+    "Speed": 4.2703500345536405,
+    "Street": "Hosea Avenue"
+  },
+  {
+    "Latitude": 39.143618484959006,
+    "Longitude": -84.51790901832283,
+    "Elevation": 213.0,
+    "Time": "11/10/2020, 23:01:40",
+    "Speed": 4.93122954664573,
+    "Street": "Hosea Avenue"
+  },
+  {
+    "Latitude": 39.143575485795736,
+    "Longitude": -84.51773333363235,
+    "Elevation": 213.8000030517578,
+    "Time": "11/10/2020, 23:01:46",
+    "Speed": 4.651117511466603,
+    "Street": "Hosea Avenue"
+  },
+  {
+    "Latitude": 39.1435325704515,
+    "Longitude": -84.51753744855523,
+    "Elevation": 214.8000030517578,
+    "Time": "11/10/2020, 23:01:53",
+    "Speed": 4.73235836192197,
+    "Street": "Hosea Avenue"
+  },
+  {
+    "Latitude": 39.14351371116936,
+    "Longitude": -84.51745212078094,
+    "Elevation": 215.0,
+    "Time": "11/10/2020, 23:01:56",
+    "Speed": 4.058717408078481,
+    "Street": "Hosea Avenue"
+  },
+  {
+    "Latitude": 39.14350130595267,
+    "Longitude": -84.51735061593354,
+    "Elevation": 216.0,
+    "Time": "11/10/2020, 23:02:00",
+    "Speed": 3.6906016654767653,
+    "Street": "Hosea Avenue"
+  },
+  {
+    "Latitude": 39.1434945166111,
+    "Longitude": -84.51732974499464,
+    "Elevation": 216.1999969482422,
+    "Time": "11/10/2020, 23:02:01",
+    "Speed": 3.8783613035051414,
+    "Street": "Hosea Avenue"
+  },
+  {
+    "Latitude": 39.143459564074874,
+    "Longitude": -84.51716596260667,
+    "Elevation": 217.0,
+    "Time": "11/10/2020, 23:02:08",
+    "Speed": 3.435102294297521,
+    "Street": "Hosea Avenue"
+  },
+  {
+    "Latitude": 39.143453277647495,
+    "Longitude": -84.51701316051185,
+    "Elevation": 218.1999969482422,
+    "Time": "11/10/2020, 23:02:15",
+    "Speed": 4.7131397371870065,
+    "Street": "Hosea Avenue"
+  },
+  {
+    "Latitude": 39.14345017634332,
+    "Longitude": -84.51680311001837,
+    "Elevation": 219.0,
+    "Time": "11/10/2020, 23:02:22",
+    "Speed": 4.9623800623263215,
+    "Street": "Hosea Avenue"
+  },
+  {
+    "Latitude": 39.143444979563355,
+    "Longitude": -84.51677259989083,
+    "Elevation": 219.1999969482422,
+    "Time": "11/10/2020, 23:02:23",
+    "Speed": 5.792688428109284,
+    "Street": "Hosea Avenue"
+  },
+  {
+    "Latitude": 39.14343575946987,
+    "Longitude": -84.51673873700202,
+    "Elevation": 219.39999389648438,
+    "Time": "11/10/2020, 23:02:24",
+    "Speed": 4.5935894302978255,
+    "Street": "Hosea Avenue"
+  },
+  {
+    "Latitude": 39.143436178565025,
+    "Longitude": -84.5165632199496,
+    "Elevation": 220.1999969482422,
+    "Time": "11/10/2020, 23:02:30",
+    "Speed": 4.990701146423919,
+    "Street": "Hosea Avenue"
+  },
+  {
+    "Latitude": 39.1434548702091,
+    "Longitude": -84.51650697737932,
+    "Elevation": 220.39999389648438,
+    "Time": "11/10/2020, 23:02:32",
+    "Speed": 4.396756871269611,
+    "Street": "Hosea Avenue"
+  },
+  {
+    "Latitude": 39.14345151744783,
+    "Longitude": -84.51639507897198,
+    "Elevation": 220.8000030517578,
+    "Time": "11/10/2020, 23:02:36",
+    "Speed": 5.319907708770058,
+    "Street": "Hosea Avenue"
+  },
+  {
+    "Latitude": 39.143405416980386,
+    "Longitude": -84.5161694381386,
+    "Elevation": 220.8000030517578,
+    "Time": "11/10/2020, 23:02:43",
+    "Speed": 5.784817761866678,
+    "Street": "Hosea Avenue"
+  },
+  {
+    "Latitude": 39.143352108076215,
+    "Longitude": -84.51592577621341,
+    "Elevation": 220.8000030517578,
+    "Time": "11/10/2020, 23:02:50",
+    "Speed": 5.896861002338676,
+    "Street": "Hosea Avenue"
+  },
+  {
+    "Latitude": 39.14335135370493,
+    "Longitude": -84.5158882252872,
+    "Elevation": 220.60000610351562,
+    "Time": "11/10/2020, 23:02:51",
+    "Speed": 5.064185429609809,
+    "Street": "Hosea Avenue"
+  },
+  {
+    "Latitude": 39.14334657602012,
+    "Longitude": -84.51566258445382,
+    "Elevation": 219.8000030517578,
+    "Time": "11/10/2020, 23:02:58",
+    "Speed": 4.159783580805105,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.143347162753344,
+    "Longitude": -84.51558312401175,
+    "Elevation": 219.39999389648438,
+    "Time": "11/10/2020, 23:03:01",
+    "Speed": 1.8605137928253745,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14335152134299,
+    "Longitude": -84.51556049287319,
+    "Elevation": 219.39999389648438,
+    "Time": "11/10/2020, 23:03:03",
+    "Speed": 3.292500149769688,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14328061044216,
+    "Longitude": -84.51561715453863,
+    "Elevation": 219.1999969482422,
+    "Time": "11/10/2020, 23:03:09",
+    "Speed": 4.8830730697621805,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14320609532297,
+    "Longitude": -84.51565638184547,
+    "Elevation": 219.1999969482422,
+    "Time": "11/10/2020, 23:03:13",
+    "Speed": 4.789199223413284,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14314859546721,
+    "Longitude": -84.51566501520574,
+    "Elevation": 219.39999389648438,
+    "Time": "11/10/2020, 23:03:16",
+    "Speed": 3.377547051948062,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.143058406189084,
+    "Longitude": -84.51561748981476,
+    "Elevation": 219.60000610351562,
+    "Time": "11/10/2020, 23:03:23",
+    "Speed": 4.43503144739122,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14297458715737,
+    "Longitude": -84.51556937769055,
+    "Elevation": 220.39999389648438,
+    "Time": "11/10/2020, 23:03:28",
+    "Speed": 4.770064891734329,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.142938293516636,
+    "Longitude": -84.5155496802181,
+    "Elevation": 220.8000030517578,
+    "Time": "11/10/2020, 23:03:30",
+    "Speed": 4.119353019437175,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.142826814204454,
+    "Longitude": -84.51549930498004,
+    "Elevation": 220.8000030517578,
+    "Time": "11/10/2020, 23:03:37",
+    "Speed": 7.595020915061849,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14280493743718,
+    "Longitude": -84.51546552591026,
+    "Elevation": 220.8000030517578,
+    "Time": "11/10/2020, 23:03:38",
+    "Speed": 6.422225591459109,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14275364018977,
+    "Longitude": -84.51532353647053,
+    "Elevation": 220.8000030517578,
+    "Time": "11/10/2020, 23:03:42",
+    "Speed": 5.80229363255388,
+    "Street": "Wentworth Avenue"
+  },
+  {
+    "Latitude": 39.142680801451206,
+    "Longitude": -84.51509202830493,
+    "Elevation": 220.8000030517578,
+    "Time": "11/10/2020, 23:03:49",
+    "Speed": 5.670833895165884,
+    "Street": "Wentworth Avenue"
+  },
+  {
+    "Latitude": 39.14267518557608,
+    "Longitude": -84.51487552374601,
+    "Elevation": 221.0,
+    "Time": "11/10/2020, 23:03:55",
+    "Speed": 5.9353671425407635,
+    "Street": "Wentworth Avenue"
+  },
+  {
+    "Latitude": 39.14264593273401,
+    "Longitude": -84.51461501419544,
+    "Elevation": 220.8000030517578,
+    "Time": "11/10/2020, 23:04:02",
+    "Speed": 5.110142180670712,
+    "Street": "Wentworth Avenue"
+  },
+  {
+    "Latitude": 39.14264434017241,
+    "Longitude": -84.51458257623017,
+    "Elevation": 220.8000030517578,
+    "Time": "11/10/2020, 23:04:03",
+    "Speed": 4.924532207396999,
+    "Street": "Wentworth Avenue"
+  },
+  {
+    "Latitude": 39.14263805374503,
+    "Longitude": -84.51433187350631,
+    "Elevation": 220.60000610351562,
+    "Time": "11/10/2020, 23:04:11",
+    "Speed": 5.344182753253453,
+    "Street": "Wentworth Avenue"
+  },
+  {
+    "Latitude": 39.14263034239411,
+    "Longitude": -84.51426490209997,
+    "Elevation": 220.39999389648438,
+    "Time": "11/10/2020, 23:04:13",
+    "Speed": 5.256114722143667,
+    "Street": "Wentworth Avenue"
+  },
+  {
+    "Latitude": 39.142641155049205,
+    "Longitude": -84.51403121463954,
+    "Elevation": 220.39999389648438,
+    "Time": "11/10/2020, 23:04:20",
+    "Speed": 4.761453036460362,
+    "Street": "Wentworth Avenue"
+  },
+  {
+    "Latitude": 39.1426569968462,
+    "Longitude": -84.51388168148696,
+    "Elevation": 220.60000610351562,
+    "Time": "11/10/2020, 23:04:25",
+    "Speed": 4.083643235469591,
+    "Street": "Wentworth Avenue"
+  },
+  {
+    "Latitude": 39.14266780950129,
+    "Longitude": -84.51383256353438,
+    "Elevation": 220.8000030517578,
+    "Time": "11/10/2020, 23:04:27",
+    "Speed": 4.74124337888278,
+    "Street": "Wentworth Avenue"
+  },
+  {
+    "Latitude": 39.14269798435271,
+    "Longitude": -84.51359577476978,
+    "Elevation": 221.0,
+    "Time": "11/10/2020, 23:04:35",
+    "Speed": 5.393535719179256,
+    "Street": "Wentworth Avenue"
+  },
+  {
+    "Latitude": 39.1426950506866,
+    "Longitude": -84.5135617442429,
+    "Elevation": 221.1999969482422,
+    "Time": "11/10/2020, 23:04:36",
+    "Speed": 4.2826540115825535,
+    "Street": "Wentworth Avenue"
+  },
+  {
+    "Latitude": 39.142679208889604,
+    "Longitude": -84.51348387636244,
+    "Elevation": 221.39999389648438,
+    "Time": "11/10/2020, 23:04:39",
+    "Speed": 3.739164301972598,
+    "Street": "Wentworth Avenue"
+  },
+  {
+    "Latitude": 39.14266537874937,
+    "Longitude": -84.51347448863089,
+    "Elevation": 221.39999389648438,
+    "Time": "11/10/2020, 23:04:40",
+    "Speed": 4.315873707628396,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.1426482796669,
+    "Longitude": -84.51346979476511,
+    "Elevation": 221.39999389648438,
+    "Time": "11/10/2020, 23:04:41",
+    "Speed": 4.492738985303543,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.14248743094504,
+    "Longitude": -84.51343257911503,
+    "Elevation": 222.0,
+    "Time": "11/10/2020, 23:04:50",
+    "Speed": 4.6745584295781875,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.142455998808146,
+    "Longitude": -84.51339988969266,
+    "Elevation": 222.1999969482422,
+    "Time": "11/10/2020, 23:04:52",
+    "Speed": 4.980524108458564,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.142440324649215,
+    "Longitude": -84.51338010840118,
+    "Elevation": 222.39999389648438,
+    "Time": "11/10/2020, 23:04:53",
+    "Speed": 5.410697117975825,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.14239514619112,
+    "Longitude": -84.51330550946295,
+    "Elevation": 223.39999389648438,
+    "Time": "11/10/2020, 23:04:56",
+    "Speed": 6.021736203504679,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.142376789823174,
+    "Longitude": -84.5132805313915,
+    "Elevation": 223.39999389648438,
+    "Time": "11/10/2020, 23:04:57",
+    "Speed": 6.3830915631270315,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.14226405322552,
+    "Longitude": -84.51311440207064,
+    "Elevation": 224.0,
+    "Time": "11/10/2020, 23:05:03",
+    "Speed": 4.725735414738699,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.14219037629664,
+    "Longitude": -84.5129766035825,
+    "Elevation": 224.60000610351562,
+    "Time": "11/10/2020, 23:05:09",
+    "Speed": 3.185553923249252,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.1421871073544,
+    "Longitude": -84.51295690611005,
+    "Elevation": 224.60000610351562,
+    "Time": "11/10/2020, 23:05:10",
+    "Speed": 2.6151644185710894,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.142137402668595,
+    "Longitude": -84.51289538294077,
+    "Elevation": 225.0,
+    "Time": "11/10/2020, 23:05:16",
+    "Speed": 5.308784583859966,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.14194621145725,
+    "Longitude": -84.5128661300987,
+    "Elevation": 225.39999389648438,
+    "Time": "11/10/2020, 23:05:25",
+    "Speed": 6.448506804486819,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.14192031137645,
+    "Longitude": -84.51286663301289,
+    "Elevation": 225.60000610351562,
+    "Time": "11/10/2020, 23:05:26",
+    "Speed": 6.436720349857643,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.141739178448915,
+    "Longitude": -84.51286747120321,
+    "Elevation": 225.8000030517578,
+    "Time": "11/10/2020, 23:05:33",
+    "Speed": 6.301541801857779,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.141537845134735,
+    "Longitude": -84.51290426775813,
+    "Elevation": 226.1999969482422,
+    "Time": "11/10/2020, 23:05:41",
+    "Speed": 5.860850734878218,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.14137330837548,
+    "Longitude": -84.51292237266898,
+    "Elevation": 226.39999389648438,
+    "Time": "11/10/2020, 23:05:48",
+    "Speed": 5.592416621011364,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.14049471728504,
+    "Longitude": -84.51336418278515,
+    "Elevation": 228.8000030517578,
+    "Time": "11/10/2020, 23:06:29",
+    "Speed": 5.594656631609545,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.14044987410307,
+    "Longitude": -84.51336971484125,
+    "Elevation": 229.0,
+    "Time": "11/10/2020, 23:06:31",
+    "Speed": 6.367928722879546,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.14027142338455,
+    "Longitude": -84.51339578256011,
+    "Elevation": 230.0,
+    "Time": "11/10/2020, 23:06:38",
+    "Speed": 5.225708401099368,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.140105126425624,
+    "Longitude": -84.5134343393147,
+    "Elevation": 230.8000030517578,
+    "Time": "11/10/2020, 23:06:46",
+    "Speed": 4.729710295930824,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.14008643478155,
+    "Longitude": -84.51343987137079,
+    "Elevation": 231.1999969482422,
+    "Time": "11/10/2020, 23:06:47",
+    "Speed": 4.959504261143208,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13995299488306,
+    "Longitude": -84.51350466348231,
+    "Elevation": 231.8000030517578,
+    "Time": "11/10/2020, 23:06:54",
+    "Speed": 5.4291889597074094,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.139887699857354,
+    "Longitude": -84.51351254247129,
+    "Elevation": 232.1999969482422,
+    "Time": "11/10/2020, 23:06:57",
+    "Speed": 7.512426027976937,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13979943841696,
+    "Longitude": -84.51348010450602,
+    "Elevation": 232.39999389648438,
+    "Time": "11/10/2020, 23:07:00",
+    "Speed": 6.747527583578781,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13960992358625,
+    "Longitude": -84.51346132904291,
+    "Elevation": 232.8000030517578,
+    "Time": "11/10/2020, 23:07:07",
+    "Speed": 5.788237648792431,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.139447063207626,
+    "Longitude": -84.51345646753907,
+    "Elevation": 232.8000030517578,
+    "Time": "11/10/2020, 23:07:14",
+    "Speed": 6.02066614819789,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13927766494453,
+    "Longitude": -84.51345135457814,
+    "Elevation": 232.39999389648438,
+    "Time": "11/10/2020, 23:07:21",
+    "Speed": 4.973818525591441,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13917808793485,
+    "Longitude": -84.51343718916178,
+    "Elevation": 231.60000610351562,
+    "Time": "11/10/2020, 23:07:26",
+    "Speed": 5.625251329674099,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.139042468741536,
+    "Longitude": -84.51344397850335,
+    "Elevation": 231.1999969482422,
+    "Time": "11/10/2020, 23:07:32",
+    "Speed": 5.85432309030585,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13890148513019,
+    "Longitude": -84.51345671899617,
+    "Elevation": 231.0,
+    "Time": "11/10/2020, 23:07:38",
+    "Speed": 6.235382197473849,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13880123756826,
+    "Longitude": -84.51346007175744,
+    "Elevation": 230.1999969482422,
+    "Time": "11/10/2020, 23:07:42",
+    "Speed": 5.943522398274568,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13875346072018,
+    "Longitude": -84.51346149668097,
+    "Elevation": 230.0,
+    "Time": "11/10/2020, 23:07:44",
+    "Speed": 5.351562040579022,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13862437941134,
+    "Longitude": -84.51346300542355,
+    "Elevation": 229.1999969482422,
+    "Time": "11/10/2020, 23:07:50",
+    "Speed": 6.260421728925348,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13859956897795,
+    "Longitude": -84.51345638372004,
+    "Elevation": 229.1999969482422,
+    "Time": "11/10/2020, 23:07:51",
+    "Speed": 5.634411411107804,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13844207301736,
+    "Longitude": -84.51348546892405,
+    "Elevation": 228.1999969482422,
+    "Time": "11/10/2020, 23:07:58",
+    "Speed": 5.600941044618019,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.138335371389985,
+    "Longitude": -84.51354238204658,
+    "Elevation": 227.60000610351562,
+    "Time": "11/10/2020, 23:08:03",
+    "Speed": 7.027899600231517,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13822565227747,
+    "Longitude": -84.51358529739082,
+    "Elevation": 227.1999969482422,
+    "Time": "11/10/2020, 23:08:07",
+    "Speed": 7.718716867189802,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.138194639235735,
+    "Longitude": -84.5135860517621,
+    "Elevation": 227.0,
+    "Time": "11/10/2020, 23:08:08",
+    "Speed": 6.673942300565287,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13800688460469,
+    "Longitude": -84.51359367929399,
+    "Elevation": 227.0,
+    "Time": "11/10/2020, 23:08:15",
+    "Speed": 7.207738078548725,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13792138919234,
+    "Longitude": -84.51356870122254,
+    "Elevation": 227.0,
+    "Time": "11/10/2020, 23:08:18",
+    "Speed": 5.522647716790923,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.137877048924565,
+    "Longitude": -84.5135651808232,
+    "Elevation": 227.0,
+    "Time": "11/10/2020, 23:08:20",
+    "Speed": 6.633998135006339,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13771703839302,
+    "Longitude": -84.51356811448932,
+    "Elevation": 227.1999969482422,
+    "Time": "11/10/2020, 23:08:26",
+    "Speed": 6.260421728925348,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13769206032157,
+    "Longitude": -84.51357314363122,
+    "Elevation": 227.1999969482422,
+    "Time": "11/10/2020, 23:08:27",
+    "Speed": 5.295552769767283,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.1376281902194,
+    "Longitude": -84.51357222162187,
+    "Elevation": 227.1999969482422,
+    "Time": "11/10/2020, 23:08:30",
+    "Speed": 5.374950353129644,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.137541856616735,
+    "Longitude": -84.51356559991837,
+    "Elevation": 227.39999389648438,
+    "Time": "11/10/2020, 23:08:34",
+    "Speed": 6.856861183053947,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13735049776733,
+    "Longitude": -84.51352628879249,
+    "Elevation": 227.1999969482422,
+    "Time": "11/10/2020, 23:08:41",
+    "Speed": 6.017990177510108,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13732669316232,
+    "Longitude": -84.51351949945092,
+    "Elevation": 227.1999969482422,
+    "Time": "11/10/2020, 23:08:42",
+    "Speed": 6.3489474042392375,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13717380724847,
+    "Longitude": -84.51353366486728,
+    "Elevation": 227.1999969482422,
+    "Time": "11/10/2020, 23:08:48",
+    "Speed": 7.222453831863659,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13683752529323,
+    "Longitude": -84.51367816887796,
+    "Elevation": 227.1999969482422,
+    "Time": "11/10/2020, 23:09:00",
+    "Speed": 5.096886277198818,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13681707344949,
+    "Longitude": -84.51368043199182,
+    "Elevation": 227.1999969482422,
+    "Time": "11/10/2020, 23:09:01",
+    "Speed": 5.976039350397033,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13662504404783,
+    "Longitude": -84.51369325630367,
+    "Elevation": 226.39999389648438,
+    "Time": "11/10/2020, 23:09:09",
+    "Speed": 6.958367604448059,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13651339709759,
+    "Longitude": -84.51370507478714,
+    "Elevation": 226.0,
+    "Time": "11/10/2020, 23:09:13",
+    "Speed": 6.8903159626380095,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13643050007522,
+    "Longitude": -84.51371429488063,
+    "Elevation": 226.0,
+    "Time": "11/10/2020, 23:09:16",
+    "Speed": 6.587671050545865,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13624534383416,
+    "Longitude": -84.51372896321118,
+    "Elevation": 226.39999389648438,
+    "Time": "11/10/2020, 23:09:23",
+    "Speed": 6.111403812832728,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.136073514819145,
+    "Longitude": -84.51374061405659,
+    "Elevation": 227.1999969482422,
+    "Time": "11/10/2020, 23:09:30",
+    "Speed": 5.6905720184697195,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13605063222349,
+    "Longitude": -84.5137414522469,
+    "Elevation": 227.1999969482422,
+    "Time": "11/10/2020, 23:09:31",
+    "Speed": 6.014970848841424,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13590621203184,
+    "Longitude": -84.51376349665225,
+    "Elevation": 228.0,
+    "Time": "11/10/2020, 23:09:37",
+    "Speed": 4.759810916487204,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13586555980146,
+    "Longitude": -84.51369929127395,
+    "Elevation": 228.1999969482422,
+    "Time": "11/10/2020, 23:09:40",
+    "Speed": 6.070224177777892,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13585474714637,
+    "Longitude": -84.51366467401385,
+    "Elevation": 228.39999389648438,
+    "Time": "11/10/2020, 23:09:41",
+    "Speed": 5.599916504184306,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13581426255405,
+    "Longitude": -84.5134604908526,
+    "Elevation": 229.39999389648438,
+    "Time": "11/10/2020, 23:09:47",
+    "Speed": 5.003111635261694,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13580956868827,
+    "Longitude": -84.51342947781086,
+    "Elevation": 229.60000610351562,
+    "Time": "11/10/2020, 23:09:48",
+    "Speed": 4.958718021703558,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13576606661081,
+    "Longitude": -84.51325295493007,
+    "Elevation": 230.39999389648438,
+    "Time": "11/10/2020, 23:09:54",
+    "Speed": 4.720164957652693,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13575919345021,
+    "Longitude": -84.51322495937347,
+    "Elevation": 230.60000610351562,
+    "Time": "11/10/2020, 23:09:55",
+    "Speed": 4.333833659699608,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13573949597776,
+    "Longitude": -84.51314826495945,
+    "Elevation": 231.39999389648438,
+    "Time": "11/10/2020, 23:09:58",
+    "Speed": 4.686603176237399,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13571988232434,
+    "Longitude": -84.51306427828968,
+    "Elevation": 231.60000610351562,
+    "Time": "11/10/2020, 23:10:01",
+    "Speed": 4.244085648443666,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13570982404053,
+    "Longitude": -84.5129573252052,
+    "Elevation": 232.1999969482422,
+    "Time": "11/10/2020, 23:10:05",
+    "Speed": 0.4102516045197485,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.135682666674256,
+    "Longitude": -84.51286495663226,
+    "Elevation": 234.1999969482422,
+    "Time": "11/10/2020, 23:10:44",
+    "Speed": 4.2400248514342005,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13558476604521,
+    "Longitude": -84.51291181147099,
+    "Elevation": 234.0,
+    "Time": "11/10/2020, 23:10:50",
+    "Speed": 5.325880341875738,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13548451848328,
+    "Longitude": -84.51285229995847,
+    "Elevation": 233.8000030517578,
+    "Time": "11/10/2020, 23:10:55",
+    "Speed": 4.98360202684532,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13544051349163,
+    "Longitude": -84.51270972378552,
+    "Elevation": 234.0,
+    "Time": "11/10/2020, 23:11:00",
+    "Speed": 5.366173442316544,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.135406566783786,
+    "Longitude": -84.51251182705164,
+    "Elevation": 234.60000610351562,
+    "Time": "11/10/2020, 23:11:06",
+    "Speed": 5.393274398134057,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13537974469364,
+    "Longitude": -84.5123811531812,
+    "Elevation": 235.39999389648438,
+    "Time": "11/10/2020, 23:11:10",
+    "Speed": 5.4618577927012915,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.135346384719014,
+    "Longitude": -84.51229113154113,
+    "Elevation": 236.0,
+    "Time": "11/10/2020, 23:11:13",
+    "Speed": 5.057088452450338,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13531797006726,
+    "Longitude": -84.51213648542762,
+    "Elevation": 236.39999389648438,
+    "Time": "11/10/2020, 23:11:18",
+    "Speed": 5.624137661089083,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13530070334673,
+    "Longitude": -84.51203254982829,
+    "Elevation": 237.0,
+    "Time": "11/10/2020, 23:11:21",
+    "Speed": 4.812424464163177,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13530455902219,
+    "Longitude": -84.51191009022295,
+    "Elevation": 237.60000610351562,
+    "Time": "11/10/2020, 23:11:25",
+    "Speed": 5.513452662878016,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.135311683639884,
+    "Longitude": -84.51184077188373,
+    "Elevation": 238.0,
+    "Time": "11/10/2020, 23:11:27",
+    "Speed": 5.320099945719809,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13530430756509,
+    "Longitude": -84.51173976995051,
+    "Elevation": 238.60000610351562,
+    "Time": "11/10/2020, 23:11:30",
+    "Speed": 5.034563926580583,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13529735058546,
+    "Longitude": -84.51170967891812,
+    "Elevation": 238.8000030517578,
+    "Time": "11/10/2020, 23:11:31",
+    "Speed": 4.77360921288594,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13528720848262,
+    "Longitude": -84.51165100559592,
+    "Elevation": 239.1999969482422,
+    "Time": "11/10/2020, 23:11:33",
+    "Speed": 5.295552769767283,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13528025150299,
+    "Longitude": -84.51155042275786,
+    "Elevation": 239.8000030517578,
+    "Time": "11/10/2020, 23:11:36",
+    "Speed": 4.912505630054793,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13527136668563,
+    "Longitude": -84.5113946031779,
+    "Elevation": 240.39999389648438,
+    "Time": "11/10/2020, 23:11:41",
+    "Speed": 4.963834026630706,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13528058677912,
+    "Longitude": -84.51123719103634,
+    "Elevation": 241.0,
+    "Time": "11/10/2020, 23:11:46",
+    "Speed": 5.118960379086154,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13527966476977,
+    "Longitude": -84.51113937422633,
+    "Elevation": 241.39999389648438,
+    "Time": "11/10/2020, 23:11:49",
+    "Speed": 5.28892444899547,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13527036085725,
+    "Longitude": -84.5110393781215,
+    "Elevation": 242.0,
+    "Time": "11/10/2020, 23:11:52",
+    "Speed": 5.05958498768243,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.135239850729704,
+    "Longitude": -84.51088565401733,
+    "Elevation": 242.8000030517578,
+    "Time": "11/10/2020, 23:11:57",
+    "Speed": 4.939606284211304,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13522317074239,
+    "Longitude": -84.51086847111583,
+    "Elevation": 243.1999969482422,
+    "Time": "11/10/2020, 23:11:58",
+    "Speed": 4.092744670240715,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13514790125191,
+    "Longitude": -84.51081583276391,
+    "Elevation": 244.39999389648438,
+    "Time": "11/10/2020, 23:12:03",
+    "Speed": 5.380977993831453,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.135041953995824,
+    "Longitude": -84.51085036620498,
+    "Elevation": 244.8000030517578,
+    "Time": "11/10/2020, 23:12:08",
+    "Speed": 5.972854614061738,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.135018568485975,
+    "Longitude": -84.51085908338428,
+    "Elevation": 245.39999389648438,
+    "Time": "11/10/2020, 23:12:09",
+    "Speed": 6.371009526176216,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13486668840051,
+    "Longitude": -84.51089621521533,
+    "Elevation": 246.1999969482422,
+    "Time": "11/10/2020, 23:12:15",
+    "Speed": 6.297682464757557,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.134766859933734,
+    "Longitude": -84.51092328876257,
+    "Elevation": 246.1999969482422,
+    "Time": "11/10/2020, 23:12:19",
+    "Speed": 6.217852455711927,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.134692680090666,
+    "Longitude": -84.51094072312117,
+    "Elevation": 246.1999969482422,
+    "Time": "11/10/2020, 23:12:22",
+    "Speed": 6.9442285485171364,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13449805229902,
+    "Longitude": -84.5109685510397,
+    "Elevation": 246.1999969482422,
+    "Time": "11/10/2020, 23:12:29",
+    "Speed": 7.157476459074807,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13435463793576,
+    "Longitude": -84.51098673976958,
+    "Elevation": 246.39999389648438,
+    "Time": "11/10/2020, 23:12:34",
+    "Speed": 7.407697257739342,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13423653692007,
+    "Longitude": -84.5110113825649,
+    "Elevation": 246.39999389648438,
+    "Time": "11/10/2020, 23:12:38",
+    "Speed": 6.895145532954816,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13404299877584,
+    "Longitude": -84.51103351078928,
+    "Elevation": 246.1999969482422,
+    "Time": "11/10/2020, 23:12:45",
+    "Speed": 6.705656165269919,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13401617668569,
+    "Longitude": -84.51103770174086,
+    "Elevation": 246.0,
+    "Time": "11/10/2020, 23:12:46",
+    "Speed": 7.0562543088173175,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133817944675684,
+    "Longitude": -84.51105614192784,
+    "Elevation": 245.8000030517578,
+    "Time": "11/10/2020, 23:12:53",
+    "Speed": 6.934612289986711,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133622981607914,
+    "Longitude": -84.51106963679194,
+    "Elevation": 245.60000610351562,
+    "Time": "11/10/2020, 23:13:00",
+    "Speed": 6.213418186483209,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133598087355494,
+    "Longitude": -84.51107282191515,
+    "Elevation": 245.60000610351562,
+    "Time": "11/10/2020, 23:13:01",
+    "Speed": 6.14676868518739,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13340287283063,
+    "Longitude": -84.51112227514386,
+    "Elevation": 245.39999389648438,
+    "Time": "11/10/2020, 23:13:09",
+    "Speed": 6.399361234970383,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133377308025956,
+    "Longitude": -84.51112705282867,
+    "Elevation": 245.39999389648438,
+    "Time": "11/10/2020, 23:13:10",
+    "Speed": 5.980754361072054,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13318594917655,
+    "Longitude": -84.51115798205137,
+    "Elevation": 245.0,
+    "Time": "11/10/2020, 23:13:18",
+    "Speed": 5.756566145823195,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133140267804265,
+    "Longitude": -84.51116963289678,
+    "Elevation": 244.60000610351562,
+    "Time": "11/10/2020, 23:13:20",
+    "Speed": 1.2401254738237972,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13308922201395,
+    "Longitude": -84.5112014003098,
+    "Elevation": 244.0,
+    "Time": "11/10/2020, 23:13:31",
+    "Speed": 3.699755714260915,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13306038826704,
+    "Longitude": -84.51118991710246,
+    "Elevation": 244.0,
+    "Time": "11/10/2020, 23:13:33",
+    "Speed": 8.37536186601464,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132892079651356,
+    "Longitude": -84.51118379831314,
+    "Elevation": 244.0,
+    "Time": "11/10/2020, 23:13:38",
+    "Speed": 8.461192388777539,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13268898613751,
+    "Longitude": -84.51121581718326,
+    "Elevation": 243.8000030517578,
+    "Time": "11/10/2020, 23:13:44",
+    "Speed": 8.418143937682663,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13262142799795,
+    "Longitude": -84.51122218742967,
+    "Elevation": 243.8000030517578,
+    "Time": "11/10/2020, 23:13:46",
+    "Speed": 7.783610716878767,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132433757185936,
+    "Longitude": -84.51123090460896,
+    "Elevation": 243.39999389648438,
+    "Time": "11/10/2020, 23:13:52",
+    "Speed": 7.718716867189802,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1324027441442,
+    "Longitude": -84.51122906059027,
+    "Elevation": 243.39999389648438,
+    "Time": "11/10/2020, 23:13:53",
+    "Speed": 8.266845649776611,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1322042606771,
+    "Longitude": -84.51125940307975,
+    "Elevation": 243.39999389648438,
+    "Time": "11/10/2020, 23:13:59",
+    "Speed": 7.135964708581657,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132091691717505,
+    "Longitude": -84.5112946908921,
+    "Elevation": 243.0,
+    "Time": "11/10/2020, 23:14:03",
+    "Speed": 7.668889808831316,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132060930132866,
+    "Longitude": -84.51129804365337,
+    "Elevation": 243.0,
+    "Time": "11/10/2020, 23:14:04",
+    "Speed": 7.322925725490822,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13203176110983,
+    "Longitude": -84.51130441389978,
+    "Elevation": 243.0,
+    "Time": "11/10/2020, 23:14:05",
+    "Speed": 7.275296016284886,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13185632787645,
+    "Longitude": -84.51129745692015,
+    "Elevation": 243.1999969482422,
+    "Time": "11/10/2020, 23:14:11",
+    "Speed": 5.741611772035631,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.131764294579625,
+    "Longitude": -84.51128563843668,
+    "Elevation": 243.0,
+    "Time": "11/10/2020, 23:14:15",
+    "Speed": 4.842787064822603,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13174979388714,
+    "Longitude": -84.51126501895487,
+    "Elevation": 242.8000030517578,
+    "Time": "11/10/2020, 23:14:16",
+    "Speed": 5.808744002260681,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13168835453689,
+    "Longitude": -84.5109080336988,
+    "Elevation": 243.1999969482422,
+    "Time": "11/10/2020, 23:14:26",
+    "Speed": 5.808744002260681,
+    "Street": "West Daniels Street"
+  }
+]

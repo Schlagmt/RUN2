@@ -5,11 +5,17 @@ body {
 .vertical-navbar {
     background-color: #282c34;
     color: white;
-    
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 100vh;
+}
+
+.main-content {
+    max-height: 100vh;
 }
 
 .navbar-links {
-    margin: .5em;
+    margin: 1em;
     font-size: small;
 }
 
@@ -28,11 +34,38 @@ body {
 }
 
 .header-button {
-    text-align: center;
+    text-align: center !important;
+}
+
+.street-card-container {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    max-height: 90vh;
 }
 
 .street-card {
+    width: 99%;
     margin-bottom: 1em;
     padding-left: 0;
     padding-right: 0;
+}
+
+.card-body{
+    padding: 0;
+}
+
+.area-chart-container {
+    margin: .25em;
+}
+
+.positive-value {
+    color: green;
+    font-weight: 700;
+    font-size: x-large;
+}
+
+.negative-value {
+    color: red;
+    font-weight: 700;
+    font-size: x-large;
 }

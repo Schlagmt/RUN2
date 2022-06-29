@@ -2,7 +2,7 @@ import { useD3 } from './hooks/useD3';
 import React from 'react';
 import * as d3 from 'd3';
 
-function AreaChart({ data, h, w, minmax }) {
+function AreaChart({ data, h, w, minmax, yLabel }) {
   const ref = useD3(
     (svg) => {
         // Compute values.
@@ -31,7 +31,7 @@ function AreaChart({ data, h, w, minmax }) {
         // Construct an area generator.
         const area = d3.area()
             .defined(i => D[i])
-            .curve(d3.curveLinear)
+            .curve(d3.curveBasis)
             .x(i => xScale(X[i]))
             .y0(yScale(0))
             .y1(i => yScale(Y[i]));
@@ -47,12 +47,14 @@ function AreaChart({ data, h, w, minmax }) {
                 .attr("text-anchor", "start"));
       
         svg.append("path")
-            .attr("fill", 'grey')
+            .attr("fill", '#484a4e')
             .attr("d", area(I));
       
         svg.append("g")
             .attr("transform", `translate(0,${height - margin.bottom})`)
             .call(xAxis);
+
+        
     },
     [data.length]
   );
