@@ -73,18 +73,16 @@ export class StreetCard extends Component {
         ) / 100
     }
 
-    highlightSection () {
-        this.props.handleHighlightSection(_.map(this.props.streetData, (point) => {
-            return {lat: point.Latitude, lng: point.Longitude}
-        }))
+    handleHighlightedSection () {
+        this.props.handleHighlightedSection(this.props.streetData)
     }
 
     render () {
         return (
-            <Card className='street-card'>
+            <Card className='street-card' key={window.getRandomKey()}>
                 <Card.Body>
                     <Card.Header>
-                        <button className='link-button' onClick={() => this.highlightSection()}>{this.props.streetData[0].Street} - Time: {this.timeTaken()} min</button>
+                        <button className='link-button' onClick={() => this.handleHighlightedSection()}>{this.props.streetData[0].Street} - Time: {this.timeTaken()} min</button>
                     </Card.Header>
                     <Card.Text>
                         <Row>

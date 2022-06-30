@@ -1,0 +1,4052 @@
+[
+  {
+    "Latitude": 39.13198767229915,
+    "Longitude": -84.51132360845804,
+    "Elevation": 250.60000610351562,
+    "Time": "07/11/2021, 18:25:53",
+    "Speed": 3.4243675733785506,
+    "Distance": 0.0009513894861571715,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132001334801316,
+    "Longitude": -84.51132101006806,
+    "Elevation": 251.0,
+    "Time": "07/11/2021, 18:25:54",
+    "Speed": 4.829731193021434,
+    "Distance": 0.006709203056540523,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132098061963916,
+    "Longitude": -84.51133416965604,
+    "Elevation": 251.1999969482422,
+    "Time": "07/11/2021, 18:25:59",
+    "Speed": 5.866187915245839,
+    "Distance": 0.0016297986085882688,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132121531292796,
+    "Longitude": -84.5113380253315,
+    "Elevation": 251.39999389648438,
+    "Time": "07/11/2021, 18:26:00",
+    "Speed": 5.321983500370795,
+    "Distance": 0.0014786027023259017,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13214265368879,
+    "Longitude": -84.51133266091347,
+    "Elevation": 252.0,
+    "Time": "07/11/2021, 18:26:01",
+    "Speed": 6.036697061851134,
+    "Distance": 0.0016771710374814263,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13216612301767,
+    "Longitude": -84.51132302172482,
+    "Elevation": 251.60000610351562,
+    "Time": "07/11/2021, 18:26:02",
+    "Speed": 6.140810552098822,
+    "Distance": 0.010236580864452645,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13231364451349,
+    "Longitude": -84.5113018155098,
+    "Elevation": 252.8000030517578,
+    "Time": "07/11/2021, 18:26:08",
+    "Speed": 7.971667914497595,
+    "Distance": 0.0022147625447541514,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13234557956457,
+    "Longitude": -84.51129720546305,
+    "Elevation": 252.0,
+    "Time": "07/11/2021, 18:26:09",
+    "Speed": 6.728317562419513,
+    "Distance": 0.0037386468895317625,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13239964284003,
+    "Longitude": -84.51130064204335,
+    "Elevation": 250.8000030517578,
+    "Time": "07/11/2021, 18:26:11",
+    "Speed": 5.59516045048007,
+    "Distance": 0.0062179970016445485,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13248865865171,
+    "Longitude": -84.51127993874252,
+    "Elevation": 251.39999389648438,
+    "Time": "07/11/2021, 18:26:15",
+    "Speed": 5.737928496703325,
+    "Distance": 0.0015941643900976444,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132511457428336,
+    "Longitude": -84.51127440668643,
+    "Elevation": 251.39999389648438,
+    "Time": "07/11/2021, 18:26:16",
+    "Speed": 6.340357935411352,
+    "Distance": 0.005284610733775968,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1325877327472,
+    "Longitude": -84.51126585714519,
+    "Elevation": 251.39999389648438,
+    "Time": "07/11/2021, 18:26:19",
+    "Speed": 7.921217804611603,
+    "Distance": 0.006602238085177117,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13268278352916,
+    "Longitude": -84.51128102838993,
+    "Elevation": 251.39999389648438,
+    "Time": "07/11/2021, 18:26:22",
+    "Speed": 6.003921763867702,
+    "Distance": 0.0033361302018277837,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13273106329143,
+    "Longitude": -84.51128236949444,
+    "Elevation": 251.39999389648438,
+    "Time": "07/11/2021, 18:26:24",
+    "Speed": 7.554333896360203,
+    "Distance": 0.006296444838274371,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132822174578905,
+    "Longitude": -84.5112809445709,
+    "Elevation": 251.39999389648438,
+    "Time": "07/11/2021, 18:26:27",
+    "Speed": 7.820622787986514,
+    "Distance": 0.0065183933700937195,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132916470989585,
+    "Longitude": -84.5112772565335,
+    "Elevation": 251.39999389648438,
+    "Time": "07/11/2021, 18:26:30",
+    "Speed": 7.02856805183572,
+    "Distance": 0.011716450884376166,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1330729611218,
+    "Longitude": -84.51138060539961,
+    "Elevation": 251.39999389648438,
+    "Time": "07/11/2021, 18:26:36",
+    "Speed": 5.796336906413354,
+    "Distance": 0.006441567819830346,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13310690782964,
+    "Longitude": -84.51151815243065,
+    "Elevation": 251.1999969482422,
+    "Time": "07/11/2021, 18:26:40",
+    "Speed": 5.371540433815224,
+    "Distance": 0.0029847421362875974,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13311378099024,
+    "Longitude": -84.51158571057022,
+    "Elevation": 251.1999969482422,
+    "Time": "07/11/2021, 18:26:42",
+    "Speed": 5.2354761518333905,
+    "Distance": 0.008727410581627302,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133164156228304,
+    "Longitude": -84.51176919043064,
+    "Elevation": 250.39999389648438,
+    "Time": "07/11/2021, 18:26:48",
+    "Speed": 5.149431467462411,
+    "Distance": 0.005722650799425794,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13319290615618,
+    "Longitude": -84.5118922367692,
+    "Elevation": 249.60000610351562,
+    "Time": "07/11/2021, 18:26:52",
+    "Speed": 5.17264382888864,
+    "Distance": 0.002874223545800647,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133195923641324,
+    "Longitude": -84.51195795089006,
+    "Elevation": 248.8000030517578,
+    "Time": "07/11/2021, 18:26:54",
+    "Speed": 5.845006796662292,
+    "Distance": 0.003247827748453556,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133198438212276,
+    "Longitude": -84.5120322983712,
+    "Elevation": 248.60000610351562,
+    "Time": "07/11/2021, 18:26:56",
+    "Speed": 4.566372175050859,
+    "Distance": 0.0038060153159356403,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133204305544496,
+    "Longitude": -84.51211905106902,
+    "Elevation": 247.39999389648438,
+    "Time": "07/11/2021, 18:26:59",
+    "Speed": 5.448652815140786,
+    "Distance": 0.0030275902869452676,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133209669962525,
+    "Longitude": -84.51218795031309,
+    "Elevation": 246.60000610351562,
+    "Time": "07/11/2021, 18:27:01",
+    "Speed": 6.319576634225645,
+    "Distance": 0.0035115265157325782,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13322391919792,
+    "Longitude": -84.51226523146033,
+    "Elevation": 246.1999969482422,
+    "Time": "07/11/2021, 18:27:03",
+    "Speed": 6.55730797646682,
+    "Distance": 0.007287247916729927,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13327010348439,
+    "Longitude": -84.51241543516517,
+    "Elevation": 245.39999389648438,
+    "Time": "07/11/2021, 18:27:07",
+    "Speed": 6.209787792841999,
+    "Distance": 0.0017252607060369235,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13327152840793,
+    "Longitude": -84.5124549139291,
+    "Elevation": 245.1999969482422,
+    "Time": "07/11/2021, 18:27:08",
+    "Speed": 6.044396784878648,
+    "Distance": 0.006717240983125094,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13322299718857,
+    "Longitude": -84.5125883538276,
+    "Elevation": 245.0,
+    "Time": "07/11/2021, 18:27:12",
+    "Speed": 5.800002529808504,
+    "Distance": 0.008057051861842881,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13315778598189,
+    "Longitude": -84.51274149119854,
+    "Elevation": 244.60000610351562,
+    "Time": "07/11/2021, 18:27:17",
+    "Speed": 6.0588364694894805,
+    "Distance": 0.006733288050302076,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133160719648004,
+    "Longitude": -84.51289580203593,
+    "Elevation": 244.60000610351562,
+    "Time": "07/11/2021, 18:27:21",
+    "Speed": 6.270819114880592,
+    "Distance": 0.010453301956024506,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133163234218955,
+    "Longitude": -84.5131354406476,
+    "Elevation": 244.60000610351562,
+    "Time": "07/11/2021, 18:27:27",
+    "Speed": 5.521626800298725,
+    "Distance": 0.0015340694512840922,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133165162056684,
+    "Longitude": -84.51317047700286,
+    "Elevation": 244.8000030517578,
+    "Time": "07/11/2021, 18:27:28",
+    "Speed": 5.895612163464512,
+    "Distance": 0.01146581467851171,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13316298276186,
+    "Longitude": -84.51343333348632,
+    "Elevation": 244.39999389648438,
+    "Time": "07/11/2021, 18:27:35",
+    "Speed": 6.060516274384406,
+    "Distance": 0.010102732269091643,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13316549733281,
+    "Longitude": -84.51366492547095,
+    "Elevation": 244.39999389648438,
+    "Time": "07/11/2021, 18:27:41",
+    "Speed": 5.877282773910849,
+    "Distance": 0.004898643254662057,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133158288896084,
+    "Longitude": -84.51377665624022,
+    "Elevation": 244.1999969482422,
+    "Time": "07/11/2021, 18:27:44",
+    "Speed": 6.423981017373831,
+    "Distance": 0.0035695396993686503,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13315703161061,
+    "Longitude": -84.51385846361518,
+    "Elevation": 244.0,
+    "Time": "07/11/2021, 18:27:46",
+    "Speed": 5.481138004920865,
+    "Distance": 0.01065974335646245,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13318242877722,
+    "Longitude": -84.51409952715039,
+    "Elevation": 243.8000030517578,
+    "Time": "07/11/2021, 18:27:53",
+    "Speed": 5.753387406712187,
+    "Distance": 0.011189215292662643,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13321176543832,
+    "Longitude": -84.51435182243586,
+    "Elevation": 243.39999389648438,
+    "Time": "07/11/2021, 18:28:00",
+    "Speed": 5.767094227212045,
+    "Distance": 0.008011337416143552,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133235486224294,
+    "Longitude": -84.51453161425889,
+    "Elevation": 243.39999389648438,
+    "Time": "07/11/2021, 18:28:05",
+    "Speed": 5.127763412895841,
+    "Distance": 0.0014246426804343584,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133236492052674,
+    "Longitude": -84.51456421986222,
+    "Elevation": 243.60000610351562,
+    "Time": "07/11/2021, 18:28:06",
+    "Speed": 5.622048937892207,
+    "Distance": 0.006247878635171802,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13326666690409,
+    "Longitude": -84.51469925232232,
+    "Elevation": 243.60000610351562,
+    "Time": "07/11/2021, 18:28:10",
+    "Speed": 5.143570907395654,
+    "Distance": 0.00714517232414402,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1333092469722,
+    "Longitude": -84.5148485340178,
+    "Elevation": 243.8000030517578,
+    "Time": "07/11/2021, 18:28:15",
+    "Speed": 4.91787351251171,
+    "Distance": 0.002732658252243796,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13333414122462,
+    "Longitude": -84.51489723287523,
+    "Elevation": 243.8000030517578,
+    "Time": "07/11/2021, 18:28:17",
+    "Speed": 5.401891317866741,
+    "Distance": 0.0015008034315987825,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133348893374205,
+    "Longitude": -84.51492246240377,
+    "Elevation": 243.8000030517578,
+    "Time": "07/11/2021, 18:28:18",
+    "Speed": 6.024132437664864,
+    "Distance": 0.008368401086624748,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13345727138221,
+    "Longitude": -84.51500804163516,
+    "Elevation": 244.0,
+    "Time": "07/11/2021, 18:28:23",
+    "Speed": 5.491231882509968,
+    "Distance": 0.012204998831750144,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13363203406334,
+    "Longitude": -84.51504835858941,
+    "Elevation": 244.0,
+    "Time": "07/11/2021, 18:28:31",
+    "Speed": 6.865835635667424,
+    "Distance": 0.009537649941902326,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13376983255148,
+    "Longitude": -84.51506042852998,
+    "Elevation": 244.0,
+    "Time": "07/11/2021, 18:28:36",
+    "Speed": 7.271146208093235,
+    "Distance": 0.014140959854687699,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13397275842726,
+    "Longitude": -84.51501877047122,
+    "Elevation": 243.39999389648438,
+    "Time": "07/11/2021, 18:28:43",
+    "Speed": 7.800813864051937,
+    "Distance": 0.004334588582969087,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13403486832976,
+    "Longitude": -84.51500494033098,
+    "Elevation": 243.1999969482422,
+    "Time": "07/11/2021, 18:28:45",
+    "Speed": 7.557069757412003,
+    "Distance": 0.012597450289948724,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13421692326665,
+    "Longitude": -84.51499035581946,
+    "Elevation": 242.1999969482422,
+    "Time": "07/11/2021, 18:28:51",
+    "Speed": 5.742839005515936,
+    "Distance": 0.006382114692378767,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13430443033576,
+    "Longitude": -84.51494358479977,
+    "Elevation": 241.0,
+    "Time": "07/11/2021, 18:28:55",
+    "Speed": 6.2640227770971135,
+    "Distance": 0.0017403287712187544,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.134327564388514,
+    "Longitude": -84.51492774300277,
+    "Elevation": 240.8000030517578,
+    "Time": "07/11/2021, 18:28:56",
+    "Speed": 4.954421147721562,
+    "Distance": 0.0027529662566489746,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.134360421448946,
+    "Longitude": -84.51489203609526,
+    "Elevation": 240.60000610351562,
+    "Time": "07/11/2021, 18:28:58",
+    "Speed": 5.965771335355023,
+    "Distance": 0.006629863183378723,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13445555604994,
+    "Longitude": -84.51487250626087,
+    "Elevation": 239.8000030517578,
+    "Time": "07/11/2021, 18:29:02",
+    "Speed": 9.127392850850905,
+    "Distance": 0.015215140445495158,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13467524573207,
+    "Longitude": -84.51489538885653,
+    "Elevation": 239.1999969482422,
+    "Time": "07/11/2021, 18:29:08",
+    "Speed": 8.114656299964963,
+    "Distance": 0.0022544889011283376,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.134707851335406,
+    "Longitude": -84.51489614322782,
+    "Elevation": 239.0,
+    "Time": "07/11/2021, 18:29:09",
+    "Speed": 10.019736069753735,
+    "Distance": 0.0055675515823369135,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13478806614876,
+    "Longitude": -84.51490787789226,
+    "Elevation": 238.8000030517578,
+    "Time": "07/11/2021, 18:29:11",
+    "Speed": 10.22538550790284,
+    "Distance": 0.01136364488409696,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13495134562254,
+    "Longitude": -84.51493872329593,
+    "Elevation": 238.1999969482422,
+    "Time": "07/11/2021, 18:29:15",
+    "Speed": 9.196991895643862,
+    "Distance": 0.007665580174696697,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.135061567649245,
+    "Longitude": -84.51495850458741,
+    "Elevation": 237.60000610351562,
+    "Time": "07/11/2021, 18:29:18",
+    "Speed": 9.390632593388625,
+    "Distance": 0.005217984884081926,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.135134406387806,
+    "Longitude": -84.51499002054334,
+    "Elevation": 237.1999969482422,
+    "Time": "07/11/2021, 18:29:20",
+    "Speed": 8.476846180042767,
+    "Distance": 0.011775579225432552,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13529324345291,
+    "Longitude": -84.51508775353432,
+    "Elevation": 236.39999389648438,
+    "Time": "07/11/2021, 18:29:25",
+    "Speed": 8.161762434819572,
+    "Distance": 0.009070305453615514,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13541888818145,
+    "Longitude": -84.51514785178006,
+    "Elevation": 235.8000030517578,
+    "Time": "07/11/2021, 18:29:29",
+    "Speed": 8.161071667398366,
+    "Distance": 0.004534768896013993,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1354835126549,
+    "Longitude": -84.51516578905284,
+    "Elevation": 235.39999389648438,
+    "Time": "07/11/2021, 18:29:31",
+    "Speed": 7.764594827915999,
+    "Distance": 0.004314463167434632,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13554553873837,
+    "Longitude": -84.51515464112163,
+    "Elevation": 235.0,
+    "Time": "07/11/2021, 18:29:33",
+    "Speed": 1.155035372743024,
+    "Distance": 0.007380760150030452,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13564628921449,
+    "Longitude": -84.51509848237038,
+    "Elevation": 233.1999969482422,
+    "Time": "07/11/2021, 18:29:56",
+    "Speed": 1.3389435528184401,
+    "Distance": 0.0007439953751533632,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13565685041249,
+    "Longitude": -84.51509462669492,
+    "Elevation": 233.0,
+    "Time": "07/11/2021, 18:29:58",
+    "Speed": 5.105236600025314,
+    "Distance": 0.004255152218501579,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13571720011532,
+    "Longitude": -84.51511398889124,
+    "Elevation": 232.8000030517578,
+    "Time": "07/11/2021, 18:30:01",
+    "Speed": 6.752572872520045,
+    "Distance": 0.001876062279461235,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.135744106024504,
+    "Longitude": -84.51511960476637,
+    "Elevation": 232.8000030517578,
+    "Time": "07/11/2021, 18:30:02",
+    "Speed": 6.458989347528554,
+    "Distance": 0.0035889923758254953,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13579573854804,
+    "Longitude": -84.5151284057647,
+    "Elevation": 232.8000030517578,
+    "Time": "07/11/2021, 18:30:04",
+    "Speed": 5.8218122337536435,
+    "Distance": 0.0032349394922635073,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13584225811064,
+    "Longitude": -84.51513678766787,
+    "Elevation": 232.8000030517578,
+    "Time": "07/11/2021, 18:30:06",
+    "Speed": 6.497280646500488,
+    "Distance": 0.005415403892749424,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.135920042172074,
+    "Longitude": -84.51515179127455,
+    "Elevation": 232.8000030517578,
+    "Time": "07/11/2021, 18:30:09",
+    "Speed": 7.028525272836511,
+    "Distance": 0.009763649644026422,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13605993613601,
+    "Longitude": -84.51518305577338,
+    "Elevation": 232.8000030517578,
+    "Time": "07/11/2021, 18:30:14",
+    "Speed": 7.298248567781786,
+    "Distance": 0.0020276669504549275,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.136089188978076,
+    "Longitude": -84.51518624089658,
+    "Elevation": 232.60000610351562,
+    "Time": "07/11/2021, 18:30:15",
+    "Speed": 6.580242281968929,
+    "Distance": 0.010969102800939391,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13624509237707,
+    "Longitude": -84.51513905078173,
+    "Elevation": 232.1999969482422,
+    "Time": "07/11/2021, 18:30:21",
+    "Speed": 6.724685692688075,
+    "Distance": 0.005604943215330236,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.136321702972054,
+    "Longitude": -84.51509688980877,
+    "Elevation": 232.1999969482422,
+    "Time": "07/11/2021, 18:30:24",
+    "Speed": 6.0362819831518015,
+    "Distance": 0.00503116714942891,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13638808764517,
+    "Longitude": -84.51504953205585,
+    "Elevation": 231.8000030517578,
+    "Time": "07/11/2021, 18:30:27",
+    "Speed": 6.952581300010305,
+    "Distance": 0.00579489141461235,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13646989502013,
+    "Longitude": -84.51502036303282,
+    "Elevation": 231.8000030517578,
+    "Time": "07/11/2021, 18:30:30",
+    "Speed": 5.576264173390132,
+    "Distance": 0.004647747935567616,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.136534351855516,
+    "Longitude": -84.5149899367243,
+    "Elevation": 231.39999389648438,
+    "Time": "07/11/2021, 18:30:33",
+    "Speed": 5.364188629991205,
+    "Distance": 0.00149032852197649,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13655505515635,
+    "Longitude": -84.51498046517372,
+    "Elevation": 231.39999389648438,
+    "Time": "07/11/2021, 18:30:34",
+    "Speed": 5.789227006570698,
+    "Distance": 0.0048252498503784155,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13661892525852,
+    "Longitude": -84.51493578962982,
+    "Elevation": 231.0,
+    "Time": "07/11/2021, 18:30:37",
+    "Speed": 7.101912080293697,
+    "Distance": 0.007892475722911657,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13673208095133,
+    "Longitude": -84.51491131447256,
+    "Elevation": 230.60000610351562,
+    "Time": "07/11/2021, 18:30:41",
+    "Speed": 5.75384511118267,
+    "Distance": 0.009591518947287183,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13687038235366,
+    "Longitude": -84.51489279046655,
+    "Elevation": 230.0,
+    "Time": "07/11/2021, 18:30:47",
+    "Speed": 4.762968337011028,
+    "Distance": 0.0013232919368702557,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13688915781677,
+    "Longitude": -84.51488692313433,
+    "Elevation": 230.0,
+    "Time": "07/11/2021, 18:30:48",
+    "Speed": 6.715737337835278,
+    "Distance": 0.001865828290362486,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13691606372595,
+    "Longitude": -84.51488348655403,
+    "Elevation": 230.0,
+    "Time": "07/11/2021, 18:30:49",
+    "Speed": 6.383287830067293,
+    "Distance": 0.010640784551027582,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13707003928721,
+    "Longitude": -84.51488466002047,
+    "Elevation": 229.1999969482422,
+    "Time": "07/11/2021, 18:30:55",
+    "Speed": 5.514986236501212,
+    "Distance": 0.006128898033609239,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.137158216908574,
+    "Longitude": -84.51489974744618,
+    "Elevation": 229.1999969482422,
+    "Time": "07/11/2021, 18:30:59",
+    "Speed": 6.482513093347767,
+    "Distance": 0.003602063545300069,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.137209095060825,
+    "Longitude": -84.51491768471897,
+    "Elevation": 229.1999969482422,
+    "Time": "07/11/2021, 18:31:01",
+    "Speed": 5.823748642333182,
+    "Distance": 0.0016180077370816154,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13723222911358,
+    "Longitude": -84.51492371968925,
+    "Elevation": 229.0,
+    "Time": "07/11/2021, 18:31:02",
+    "Speed": 6.296339532133772,
+    "Distance": 0.003498614622283502,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.137282436713576,
+    "Longitude": -84.51493402943015,
+    "Elevation": 228.39999389648438,
+    "Time": "07/11/2021, 18:31:04",
+    "Speed": 7.224666881812318,
+    "Distance": 0.014050566639065135,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13747941143811,
+    "Longitude": -84.51501382514834,
+    "Elevation": 228.0,
+    "Time": "07/11/2021, 18:31:11",
+    "Speed": 6.526715512974956,
+    "Distance": 0.0036266249957839164,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.137530121952295,
+    "Longitude": -84.51503519900143,
+    "Elevation": 228.0,
+    "Time": "07/11/2021, 18:31:13",
+    "Speed": 7.632044732580912,
+    "Distance": 0.004240810579393966,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.137588711455464,
+    "Longitude": -84.51506411656737,
+    "Elevation": 228.0,
+    "Time": "07/11/2021, 18:31:15",
+    "Speed": 6.68153429463832,
+    "Distance": 0.009281628422041416,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13771896623075,
+    "Longitude": -84.515116000548,
+    "Elevation": 227.8000030517578,
+    "Time": "07/11/2021, 18:31:20",
+    "Speed": 8.776186605028874,
+    "Distance": 0.004876562743724392,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13778786547482,
+    "Longitude": -84.51514014042914,
+    "Elevation": 227.60000610351562,
+    "Time": "07/11/2021, 18:31:22",
+    "Speed": 8.013988161892406,
+    "Distance": 0.013359122084940302,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13796816021204,
+    "Longitude": -84.51525061391294,
+    "Elevation": 227.1999969482422,
+    "Time": "07/11/2021, 18:31:28",
+    "Speed": 6.078577062640585,
+    "Distance": 0.003377613053663323,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138013338670135,
+    "Longitude": -84.5152801182121,
+    "Elevation": 227.1999969482422,
+    "Time": "07/11/2021, 18:31:30",
+    "Speed": 5.907854981107623,
+    "Distance": 0.011489624568705746,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13817133754492,
+    "Longitude": -84.51536209322512,
+    "Elevation": 227.39999389648438,
+    "Time": "07/11/2021, 18:31:37",
+    "Speed": 6.590674351770842,
+    "Distance": 0.012817574940244731,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13834199309349,
+    "Longitude": -84.51547717675567,
+    "Elevation": 227.60000610351562,
+    "Time": "07/11/2021, 18:31:44",
+    "Speed": 5.174866737977049,
+    "Distance": 0.007188646810363264,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138405779376626,
+    "Longitude": -84.51560734771192,
+    "Elevation": 228.1999969482422,
+    "Time": "07/11/2021, 18:31:49",
+    "Speed": 5.30500743319515,
+    "Distance": 0.0014738862542574276,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13841675966978,
+    "Longitude": -84.51563626527786,
+    "Elevation": 228.1999969482422,
+    "Time": "07/11/2021, 18:31:50",
+    "Speed": 6.316998955118779,
+    "Distance": 0.005265141309613847,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13846503943205,
+    "Longitude": -84.5157296396792,
+    "Elevation": 228.1999969482422,
+    "Time": "07/11/2021, 18:31:53",
+    "Speed": 5.689581233745955,
+    "Distance": 0.0031614642122559673,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13848599418998,
+    "Longitude": -84.51579409651458,
+    "Elevation": 228.1999969482422,
+    "Time": "07/11/2021, 18:31:55",
+    "Speed": 5.713312645334485,
+    "Distance": 0.0031746507729818185,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13851197808981,
+    "Longitude": -84.51585411094129,
+    "Elevation": 228.1999969482422,
+    "Time": "07/11/2021, 18:31:57",
+    "Speed": 6.034828982876677,
+    "Distance": 0.0033533040609894536,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13853888399899,
+    "Longitude": -84.51591806486249,
+    "Elevation": 228.1999969482422,
+    "Time": "07/11/2021, 18:31:59",
+    "Speed": 6.562893967695125,
+    "Distance": 0.001823363930954742,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138554306700826,
+    "Longitude": -84.51595201157033,
+    "Elevation": 228.60000610351562,
+    "Time": "07/11/2021, 18:32:00",
+    "Speed": 7.481825714161352,
+    "Distance": 0.010393350259841687,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13864642381668,
+    "Longitude": -84.5161403529346,
+    "Elevation": 228.8000030517578,
+    "Time": "07/11/2021, 18:32:05",
+    "Speed": 6.826473503683397,
+    "Distance": 0.0037931880732810204,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138677353039384,
+    "Longitude": -84.51621218584478,
+    "Elevation": 229.0,
+    "Time": "07/11/2021, 18:32:07",
+    "Speed": 5.910230420962619,
+    "Distance": 0.0032840698101357217,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13870316930115,
+    "Longitude": -84.51627538539469,
+    "Elevation": 229.1999969482422,
+    "Time": "07/11/2021, 18:32:09",
+    "Speed": 6.177018235379764,
+    "Distance": 0.0034323127287082156,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13871574215591,
+    "Longitude": -84.51635149307549,
+    "Elevation": 229.60000610351562,
+    "Time": "07/11/2021, 18:32:11",
+    "Speed": 5.646813038297956,
+    "Distance": 0.0015688498503189218,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13872261531651,
+    "Longitude": -84.51638577505946,
+    "Elevation": 229.8000030517578,
+    "Time": "07/11/2021, 18:32:12",
+    "Speed": 5.710351612409214,
+    "Distance": 0.0015865027249240941,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13872932083905,
+    "Longitude": -84.51642055995762,
+    "Elevation": 230.0,
+    "Time": "07/11/2021, 18:32:13",
+    "Speed": 6.552577649081925,
+    "Distance": 0.007281991023427868,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138789251446724,
+    "Longitude": -84.51655785553157,
+    "Elevation": 231.1999969482422,
+    "Time": "07/11/2021, 18:32:17",
+    "Speed": 6.109311665859658,
+    "Distance": 0.005092036496089407,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13883158005774,
+    "Longitude": -84.51665340922773,
+    "Elevation": 232.0,
+    "Time": "07/11/2021, 18:32:20",
+    "Speed": 7.446599013286958,
+    "Distance": 0.004137766087931824,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138862593099475,
+    "Longitude": -84.51673454605043,
+    "Elevation": 232.39999389648438,
+    "Time": "07/11/2021, 18:32:22",
+    "Speed": 6.947721588118721,
+    "Distance": 0.009651401507055225,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138918248936534,
+    "Longitude": -84.51693747192621,
+    "Elevation": 233.39999389648438,
+    "Time": "07/11/2021, 18:32:27",
+    "Speed": 6.238771790669688,
+    "Distance": 0.0017333133085129073,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13891900330782,
+    "Longitude": -84.51697720214725,
+    "Elevation": 233.39999389648438,
+    "Time": "07/11/2021, 18:32:28",
+    "Speed": 7.825166944482768,
+    "Distance": 0.008696241158551062,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13897315040231,
+    "Longitude": -84.51715716160834,
+    "Elevation": 234.39999389648438,
+    "Time": "07/11/2021, 18:32:32",
+    "Speed": 7.671829770530098,
+    "Distance": 0.004262917474170963,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138994021341205,
+    "Longitude": -84.51724911108613,
+    "Elevation": 234.8000030517578,
+    "Time": "07/11/2021, 18:32:34",
+    "Speed": 6.357820850083135,
+    "Distance": 0.0035327772396069683,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13900173269212,
+    "Longitude": -84.51732915826142,
+    "Elevation": 235.39999389648438,
+    "Time": "07/11/2021, 18:32:36",
+    "Speed": 6.421786660003075,
+    "Distance": 0.007136640772057573,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.139017490670085,
+    "Longitude": -84.5174908451736,
+    "Elevation": 236.1999969482422,
+    "Time": "07/11/2021, 18:32:40",
+    "Speed": 7.435234201739767,
+    "Distance": 0.0041314511337182565,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.139026794582605,
+    "Longitude": -84.51758438721299,
+    "Elevation": 236.8000030517578,
+    "Time": "07/11/2021, 18:32:42",
+    "Speed": 6.915709664711286,
+    "Distance": 0.009606932263159987,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13904322311282,
+    "Longitude": -84.51780307106674,
+    "Elevation": 237.39999389648438,
+    "Time": "07/11/2021, 18:32:47",
+    "Speed": 7.724557743445379,
+    "Distance": 0.0021461081104319547,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.139054622501135,
+    "Longitude": -84.51784883625805,
+    "Elevation": 238.0,
+    "Time": "07/11/2021, 18:32:48",
+    "Speed": 7.300472927784217,
+    "Distance": 0.010141424713668083,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13910969160497,
+    "Longitude": -84.5180643349886,
+    "Elevation": 239.0,
+    "Time": "07/11/2021, 18:32:53",
+    "Speed": 7.5578157294515975,
+    "Distance": 0.004199564602359158,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13914288394153,
+    "Longitude": -84.5181449688971,
+    "Elevation": 239.1999969482422,
+    "Time": "07/11/2021, 18:32:55",
+    "Speed": 7.89811826618638,
+    "Distance": 0.010971641504393146,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.139255452901125,
+    "Longitude": -84.51832232996821,
+    "Elevation": 240.1999969482422,
+    "Time": "07/11/2021, 18:33:00",
+    "Speed": 7.562207183307282,
+    "Distance": 0.01260601425315293,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13942510262132,
+    "Longitude": -84.5184285286814,
+    "Elevation": 240.60000610351562,
+    "Time": "07/11/2021, 18:33:06",
+    "Speed": 8.142706514601079,
+    "Distance": 0.006786846213952207,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.139520823955536,
+    "Longitude": -84.51846331357956,
+    "Elevation": 241.1999969482422,
+    "Time": "07/11/2021, 18:33:09",
+    "Speed": 7.413381824445263,
+    "Distance": 0.006178963011573474,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13960992358625,
+    "Longitude": -84.518475048244,
+    "Elevation": 241.8000030517578,
+    "Time": "07/11/2021, 18:33:12",
+    "Speed": 6.245996774898249,
+    "Distance": 0.003470641240973396,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13966013118625,
+    "Longitude": -84.51847747899592,
+    "Elevation": 242.0,
+    "Time": "07/11/2021, 18:33:14",
+    "Speed": 5.935891275245922,
+    "Distance": 0.008245821205270424,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13977907039225,
+    "Longitude": -84.51846239157021,
+    "Elevation": 242.1999969482422,
+    "Time": "07/11/2021, 18:33:19",
+    "Speed": 7.106475080355123,
+    "Distance": 0.00789754666251233,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13989281281829,
+    "Longitude": -84.51844487339258,
+    "Elevation": 241.8000030517578,
+    "Time": "07/11/2021, 18:33:23",
+    "Speed": 6.673819709067524,
+    "Distance": 0.005562547040577399,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13997109979391,
+    "Longitude": -84.51841520145535,
+    "Elevation": 241.8000030517578,
+    "Time": "07/11/2021, 18:33:26",
+    "Speed": 5.765999263762098,
+    "Distance": 0.008009816351754753,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140061624348164,
+    "Longitude": -84.51830053701997,
+    "Elevation": 241.39999389648438,
+    "Time": "07/11/2021, 18:33:31",
+    "Speed": 6.110951969733666,
+    "Distance": 0.008489006115485377,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140144772827625,
+    "Longitude": -84.51815729029477,
+    "Elevation": 240.60000610351562,
+    "Time": "07/11/2021, 18:33:36",
+    "Speed": 6.227918598704023,
+    "Distance": 0.0017302979742924655,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140158016234636,
+    "Longitude": -84.51812359504402,
+    "Elevation": 240.60000610351562,
+    "Time": "07/11/2021, 18:33:37",
+    "Speed": 5.769283530665468,
+    "Distance": 0.0032057514715451265,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140175115317106,
+    "Longitude": -84.51805528253317,
+    "Elevation": 240.1999969482422,
+    "Time": "07/11/2021, 18:33:39",
+    "Speed": 5.6117610978710095,
+    "Distance": 0.006236445583524514,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140208307653666,
+    "Longitude": -84.51792234554887,
+    "Elevation": 240.0,
+    "Time": "07/11/2021, 18:33:43",
+    "Speed": 5.489185876621321,
+    "Distance": 0.007625282068401729,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14026320911944,
+    "Longitude": -84.5177707169205,
+    "Elevation": 239.39999389648438,
+    "Time": "07/11/2021, 18:33:48",
+    "Speed": 5.3767855677997165,
+    "Distance": 0.0014938283198025067,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14027309976518,
+    "Longitude": -84.51774029061198,
+    "Elevation": 239.1999969482422,
+    "Time": "07/11/2021, 18:33:49",
+    "Speed": 5.7241566614929065,
+    "Distance": 0.0031806763428073514,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140295311808586,
+    "Longitude": -84.51767642050982,
+    "Elevation": 238.8000030517578,
+    "Time": "07/11/2021, 18:33:51",
+    "Speed": 5.635597906993532,
+    "Distance": 0.009394403752573376,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14037971757352,
+    "Longitude": -84.51750760897994,
+    "Elevation": 238.0,
+    "Time": "07/11/2021, 18:33:57",
+    "Speed": 5.583561114883401,
+    "Distance": 0.0031025532313255825,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14041416719556,
+    "Longitude": -84.51746201142669,
+    "Elevation": 237.60000610351562,
+    "Time": "07/11/2021, 18:33:59",
+    "Speed": 6.330272681317214,
+    "Distance": 0.0070349397305747635,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14049932733178,
+    "Longitude": -84.51737366616726,
+    "Elevation": 237.39999389648438,
+    "Time": "07/11/2021, 18:34:03",
+    "Speed": 6.3213605655623,
+    "Distance": 0.003512517772355211,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14054282940924,
+    "Longitude": -84.5173320081085,
+    "Elevation": 237.1999969482422,
+    "Time": "07/11/2021, 18:34:05",
+    "Speed": 5.911290190811396,
+    "Distance": 0.004926988020401054,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14060468785465,
+    "Longitude": -84.51727584935725,
+    "Elevation": 236.8000030517578,
+    "Time": "07/11/2021, 18:34:08",
+    "Speed": 6.036230096307748,
+    "Distance": 0.0067081652031726405,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140695463865995,
+    "Longitude": -84.51722136698663,
+    "Elevation": 236.60000610351562,
+    "Time": "07/11/2021, 18:34:12",
+    "Speed": 5.341017080499673,
+    "Distance": 0.00890334472609176,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14082429371774,
+    "Longitude": -84.51722111552954,
+    "Elevation": 236.39999389648438,
+    "Time": "07/11/2021, 18:34:18",
+    "Speed": 5.401390346447252,
+    "Distance": 0.007503321235416745,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14090937003493,
+    "Longitude": -84.51732798479497,
+    "Elevation": 236.39999389648438,
+    "Time": "07/11/2021, 18:34:23",
+    "Speed": 3.903096051598649,
+    "Distance": 0.006506365570952144,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140907442197204,
+    "Longitude": -84.5174770988524,
+    "Elevation": 236.60000610351562,
+    "Time": "07/11/2021, 18:34:29",
+    "Speed": 5.3437212094492486,
+    "Distance": 0.011877136590472175,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14079688489437,
+    "Longitude": -84.51768555678427,
+    "Elevation": 236.60000610351562,
+    "Time": "07/11/2021, 18:34:37",
+    "Speed": 5.729324979072846,
+    "Distance": 0.012734192649744486,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14064777083695,
+    "Longitude": -84.51785705052316,
+    "Elevation": 236.60000610351562,
+    "Time": "07/11/2021, 18:34:45",
+    "Speed": 5.309610477388203,
+    "Distance": 0.008850990687532721,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14053444750607,
+    "Longitude": -84.51795159839094,
+    "Elevation": 236.8000030517578,
+    "Time": "07/11/2021, 18:34:51",
+    "Speed": 4.694158341242319,
+    "Distance": 0.009129221549852773,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14042590186,
+    "Longitude": -84.51807087287307,
+    "Elevation": 237.60000610351562,
+    "Time": "07/11/2021, 18:34:58",
+    "Speed": 5.8507910700189205,
+    "Distance": 0.001625520914574706,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140405198559165,
+    "Longitude": -84.51808855868876,
+    "Elevation": 237.8000030517578,
+    "Time": "07/11/2021, 18:34:59",
+    "Speed": 5.292239647095015,
+    "Distance": 0.002940677979556221,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140366055071354,
+    "Longitude": -84.51811496168375,
+    "Elevation": 238.0,
+    "Time": "07/11/2021, 18:35:01",
+    "Speed": 5.090290585646011,
+    "Distance": 0.009899621429726583,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14024074561894,
+    "Longitude": -84.51822493225336,
+    "Elevation": 238.8000030517578,
+    "Time": "07/11/2021, 18:35:08",
+    "Speed": 5.928326406906781,
+    "Distance": 0.0032941249986632418,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14019917137921,
+    "Longitude": -84.51826189644635,
+    "Elevation": 239.1999969482422,
+    "Time": "07/11/2021, 18:35:10",
+    "Speed": 5.858374261753466,
+    "Distance": 0.013021021976579474,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140030946582556,
+    "Longitude": -84.51839634217322,
+    "Elevation": 240.0,
+    "Time": "07/11/2021, 18:35:18",
+    "Speed": 4.963894599234158,
+    "Distance": 0.004137345390855049,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13997788913548,
+    "Longitude": -84.51844026334584,
+    "Elevation": 240.39999389648438,
+    "Time": "07/11/2021, 18:35:21",
+    "Speed": 6.062789730190395,
+    "Distance": 0.005053261032133227,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13990689441562,
+    "Longitude": -84.51846800744534,
+    "Elevation": 240.60000610351562,
+    "Time": "07/11/2021, 18:35:24",
+    "Speed": 5.124531402581244,
+    "Distance": 0.009966213133952516,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13976540789008,
+    "Longitude": -84.51851218007505,
+    "Elevation": 241.39999389648438,
+    "Time": "07/11/2021, 18:35:31",
+    "Speed": 4.279142199584224,
+    "Distance": 0.0011888708823507646,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13974830880761,
+    "Longitude": -84.51851477846503,
+    "Elevation": 241.39999389648438,
+    "Time": "07/11/2021, 18:35:32",
+    "Speed": 4.4343417886842555,
+    "Distance": 0.009855918946503157,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.139605732634664,
+    "Longitude": -84.51852039434016,
+    "Elevation": 241.8000030517578,
+    "Time": "07/11/2021, 18:35:40",
+    "Speed": 5.623469354075517,
+    "Distance": 0.009374185751763757,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13947111926973,
+    "Longitude": -84.51849390752614,
+    "Elevation": 242.0,
+    "Time": "07/11/2021, 18:35:46",
+    "Speed": 5.94605128782694,
+    "Distance": 0.009911921938581853,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13933591917157,
+    "Longitude": -84.51841805130243,
+    "Elevation": 242.0,
+    "Time": "07/11/2021, 18:35:52",
+    "Speed": 6.3461408155410535,
+    "Distance": 0.008815717822636935,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13922594860196,
+    "Longitude": -84.51831562444568,
+    "Elevation": 241.8000030517578,
+    "Time": "07/11/2021, 18:35:57",
+    "Speed": 5.641263779860286,
+    "Distance": 0.009403848623942746,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13914078846574,
+    "Longitude": -84.51814748346806,
+    "Elevation": 241.1999969482422,
+    "Time": "07/11/2021, 18:36:03",
+    "Speed": 5.340456970288303,
+    "Distance": 0.010386146208760933,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13908848538995,
+    "Longitude": -84.5179242733866,
+    "Elevation": 240.39999389648438,
+    "Time": "07/11/2021, 18:36:10",
+    "Speed": 5.431034680977434,
+    "Distance": 0.0015089003104123552,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13908069022,
+    "Longitude": -84.51789200305939,
+    "Elevation": 240.39999389648438,
+    "Time": "07/11/2021, 18:36:11",
+    "Speed": 5.499244217583085,
+    "Distance": 0.010694956405278866,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13904749788344,
+    "Longitude": -84.51765253208578,
+    "Elevation": 239.1999969482422,
+    "Time": "07/11/2021, 18:36:18",
+    "Speed": 4.9623800623263215,
+    "Distance": 0.0013786943476267188,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13904464803636,
+    "Longitude": -84.51762126758695,
+    "Elevation": 239.1999969482422,
+    "Time": "07/11/2021, 18:36:19",
+    "Speed": 4.89892209900352,
+    "Distance": 0.005444255476226867,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13903350010514,
+    "Longitude": -84.5174977183342,
+    "Elevation": 238.1999969482422,
+    "Time": "07/11/2021, 18:36:23",
+    "Speed": 4.821527336958135,
+    "Distance": 0.004018684020309986,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.139015981927514,
+    "Longitude": -84.51740987598896,
+    "Elevation": 237.8000030517578,
+    "Time": "07/11/2021, 18:36:26",
+    "Speed": 4.9213113832653015,
+    "Distance": 0.0013672842671865319,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.139009611681104,
+    "Longitude": -84.51738020405173,
+    "Elevation": 237.60000610351562,
+    "Time": "07/11/2021, 18:36:27",
+    "Speed": 4.562946934347868,
+    "Distance": 0.006338600699557205,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138971054926515,
+    "Longitude": -84.51724835671484,
+    "Elevation": 237.1999969482422,
+    "Time": "07/11/2021, 18:36:32",
+    "Speed": 4.254036624937148,
+    "Distance": 0.002363791638582564,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138958314433694,
+    "Longitude": -84.51719806529582,
+    "Elevation": 237.0,
+    "Time": "07/11/2021, 18:36:34",
+    "Speed": 5.0270333235227564,
+    "Distance": 0.0069832845745625045,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13889804854989,
+    "Longitude": -84.5170695707202,
+    "Elevation": 236.0,
+    "Time": "07/11/2021, 18:36:39",
+    "Speed": 4.825293496280646,
+    "Distance": 0.002681215378671907,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13887416012585,
+    "Longitude": -84.51702112331986,
+    "Elevation": 235.60000610351562,
+    "Time": "07/11/2021, 18:36:41",
+    "Speed": 5.02643891202779,
+    "Distance": 0.005585967080042652,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13882898166776,
+    "Longitude": -84.51691492460668,
+    "Elevation": 235.0,
+    "Time": "07/11/2021, 18:36:45",
+    "Speed": 4.654156180385804,
+    "Distance": 0.0064653036831904724,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13878405466676,
+    "Longitude": -84.51678492128849,
+    "Elevation": 234.39999389648438,
+    "Time": "07/11/2021, 18:36:50",
+    "Speed": 4.657865770261378,
+    "Distance": 0.018117279169129193,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13863368332386,
+    "Longitude": -84.51644469983876,
+    "Elevation": 231.8000030517578,
+    "Time": "07/11/2021, 18:37:04",
+    "Speed": 4.265947156762016,
+    "Distance": 0.0023704098269107174,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138611890375614,
+    "Longitude": -84.51640270650387,
+    "Elevation": 231.0,
+    "Time": "07/11/2021, 18:37:06",
+    "Speed": 4.268589428403876,
+    "Distance": 0.002371878027625605,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13859311491251,
+    "Longitude": -84.51635719276965,
+    "Elevation": 230.60000610351562,
+    "Time": "07/11/2021, 18:37:08",
+    "Speed": 2.9503419636075283,
+    "Distance": 0.0024590739147565908,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13857350125909,
+    "Longitude": -84.51631017029285,
+    "Elevation": 230.39999389648438,
+    "Time": "07/11/2021, 18:37:11",
+    "Speed": 2.896344214054628,
+    "Distance": 0.0008046891504772211,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13856780156493,
+    "Longitude": -84.5162941608578,
+    "Elevation": 230.1999969482422,
+    "Time": "07/11/2021, 18:37:12",
+    "Speed": 3.320726696635744,
+    "Distance": 0.0018451900375073625,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.1385867446661,
+    "Longitude": -84.5162643212825,
+    "Elevation": 229.8000030517578,
+    "Time": "07/11/2021, 18:37:14",
+    "Speed": 2.3553001385954353,
+    "Distance": 0.0006543712789551384,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13859621621668,
+    "Longitude": -84.51626448892057,
+    "Elevation": 229.60000610351562,
+    "Time": "07/11/2021, 18:37:15",
+    "Speed": 4.238547233388756,
+    "Distance": 0.0035327772396069683,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13863561116159,
+    "Longitude": -84.5163161214441,
+    "Elevation": 229.60000610351562,
+    "Time": "07/11/2021, 18:37:18",
+    "Speed": 5.232850756189724,
+    "Distance": 0.011630712148478007,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138752203434706,
+    "Longitude": -84.51650840230286,
+    "Elevation": 230.8000030517578,
+    "Time": "07/11/2021, 18:37:26",
+    "Speed": 4.594271204412271,
+    "Distance": 0.0012764229384756207,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13876326754689,
+    "Longitude": -84.51653178781271,
+    "Elevation": 232.0,
+    "Time": "07/11/2021, 18:37:27",
+    "Speed": 5.160641053063904,
+    "Distance": 0.005735108202618545,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13882026448846,
+    "Longitude": -84.51662734150887,
+    "Elevation": 233.60000610351562,
+    "Time": "07/11/2021, 18:37:31",
+    "Speed": 5.536128799799523,
+    "Distance": 0.004614295592933072,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138862593099475,
+    "Longitude": -84.51670914888382,
+    "Elevation": 233.1999969482422,
+    "Time": "07/11/2021, 18:37:34",
+    "Speed": 5.91690380206201,
+    "Distance": 0.003287777931112242,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13888153620064,
+    "Longitude": -84.51677829958498,
+    "Elevation": 235.0,
+    "Time": "07/11/2021, 18:37:36",
+    "Speed": 5.923569665061622,
+    "Distance": 0.001645740937296333,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138895701617,
+    "Longitude": -84.51680864207447,
+    "Elevation": 234.0,
+    "Time": "07/11/2021, 18:37:37",
+    "Speed": 6.371304482597004,
+    "Distance": 0.01062080860414472,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13894792087376,
+    "Longitude": -84.51703763566911,
+    "Elevation": 234.39999389648438,
+    "Time": "07/11/2021, 18:37:43",
+    "Speed": 7.126016537332733,
+    "Distance": 0.01187889512417895,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13903291337192,
+    "Longitude": -84.51727434061468,
+    "Elevation": 233.1999969482422,
+    "Time": "07/11/2021, 18:37:49",
+    "Speed": 6.465968268362359,
+    "Distance": 0.0035928702725545867,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13905344903469,
+    "Longitude": -84.51735002920032,
+    "Elevation": 234.39999389648438,
+    "Time": "07/11/2021, 18:37:51",
+    "Speed": 5.768414858895227,
+    "Distance": 0.004807903180029655,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.1390666924417,
+    "Longitude": -84.51745823957026,
+    "Elevation": 236.39999389648438,
+    "Time": "07/11/2021, 18:37:54",
+    "Speed": 5.34987624370567,
+    "Distance": 0.007431760611904581,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.139077086001635,
+    "Longitude": -84.51762780547142,
+    "Elevation": 238.39999389648438,
+    "Time": "07/11/2021, 18:37:59",
+    "Speed": 6.339172267717461,
+    "Distance": 0.0017612074980885239,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13908127695322,
+    "Longitude": -84.51766761951149,
+    "Elevation": 237.0,
+    "Time": "07/11/2021, 18:38:00",
+    "Speed": 6.5853960116949075,
+    "Distance": 0.009148078285191878,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.139102064073086,
+    "Longitude": -84.51787473633885,
+    "Elevation": 236.0,
+    "Time": "07/11/2021, 18:38:05",
+    "Speed": 8.149165929605237,
+    "Distance": 0.006792230057295535,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.139143554493785,
+    "Longitude": -84.51801588758826,
+    "Elevation": 236.1999969482422,
+    "Time": "07/11/2021, 18:38:08",
+    "Speed": 7.341037849825198,
+    "Distance": 0.006118665194211147,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.139182697981596,
+    "Longitude": -84.51814169995487,
+    "Elevation": 237.0,
+    "Time": "07/11/2021, 18:38:11",
+    "Speed": 6.961225208818856,
+    "Distance": 0.0058020960068036415,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13923332467675,
+    "Longitude": -84.51824781484902,
+    "Elevation": 237.39999389648438,
+    "Time": "07/11/2021, 18:38:14",
+    "Speed": 6.992240469775397,
+    "Distance": 0.009713244745311697,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13934849202633,
+    "Longitude": -84.51837547123432,
+    "Elevation": 237.8000030517578,
+    "Time": "07/11/2021, 18:38:19",
+    "Speed": 7.682110776079691,
+    "Distance": 0.004268630202362321,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.139406997710466,
+    "Longitude": -84.51840681955218,
+    "Elevation": 237.8000030517578,
+    "Time": "07/11/2021, 18:38:21",
+    "Speed": 7.136820525342241,
+    "Distance": 0.005948452553855596,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13948972709477,
+    "Longitude": -84.51844445429742,
+    "Elevation": 238.1999969482422,
+    "Time": "07/11/2021, 18:38:24",
+    "Speed": 6.6550212386563405,
+    "Distance": 0.005546878745581202,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.139565750956535,
+    "Longitude": -84.51848527416587,
+    "Elevation": 238.60000610351562,
+    "Time": "07/11/2021, 18:38:27",
+    "Speed": 6.019863481892459,
+    "Distance": 0.01003496505918034,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.139710841700435,
+    "Longitude": -84.51849449425936,
+    "Elevation": 238.8000030517578,
+    "Time": "07/11/2021, 18:38:33",
+    "Speed": 6.128966338617699,
+    "Distance": 0.010216836850523749,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13985853083432,
+    "Longitude": -84.51848384924233,
+    "Elevation": 239.1999969482422,
+    "Time": "07/11/2021, 18:38:39",
+    "Speed": 7.097743300917631,
+    "Distance": 0.003943921443732842,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.139914605766535,
+    "Longitude": -84.51846700161695,
+    "Elevation": 239.0,
+    "Time": "07/11/2021, 18:38:41",
+    "Speed": 5.395542242954495,
+    "Distance": 0.007495197364281792,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14001686498523,
+    "Longitude": -84.5184097532183,
+    "Elevation": 238.1999969482422,
+    "Time": "07/11/2021, 18:38:46",
+    "Speed": 5.352732420481607,
+    "Distance": 0.00892287391105231,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.1401029471308,
+    "Longitude": -84.5182572863996,
+    "Elevation": 236.8000030517578,
+    "Time": "07/11/2021, 18:38:52",
+    "Speed": 4.994088883761417,
+    "Distance": 0.0013875039858110977,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14011308923364,
+    "Longitude": -84.5182297937572,
+    "Elevation": 237.1999969482422,
+    "Time": "07/11/2021, 18:38:53",
+    "Speed": 5.209943915341597,
+    "Distance": 0.010132323796489843,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14019137620926,
+    "Longitude": -84.51803340576589,
+    "Elevation": 237.0,
+    "Time": "07/11/2021, 18:39:00",
+    "Speed": 4.668524403015833,
+    "Distance": 0.005188210596814279,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14021635428071,
+    "Longitude": -84.51792125590146,
+    "Elevation": 237.1999969482422,
+    "Time": "07/11/2021, 18:39:04",
+    "Speed": 4.939606284211304,
+    "Distance": 0.001372367125856736,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14022473618388,
+    "Longitude": -84.51789275743067,
+    "Elevation": 237.0,
+    "Time": "07/11/2021, 18:39:05",
+    "Speed": 4.6370208938079855,
+    "Distance": 0.0025766001055239876,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14024175144732,
+    "Longitude": -84.51784020289779,
+    "Elevation": 236.8000030517578,
+    "Time": "07/11/2021, 18:39:07",
+    "Speed": 4.685400094924636,
+    "Distance": 0.0026034824201732016,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14025826379657,
+    "Longitude": -84.51778655871749,
+    "Elevation": 236.60000610351562,
+    "Time": "07/11/2021, 18:39:09",
+    "Speed": 4.502550058784754,
+    "Distance": 0.0025018802421363923,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14027703925967,
+    "Longitude": -84.51773752458394,
+    "Elevation": 236.39999389648438,
+    "Time": "07/11/2021, 18:39:11",
+    "Speed": 4.753489783663014,
+    "Distance": 0.0026413170349412034,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14029078558087,
+    "Longitude": -84.51768103055656,
+    "Elevation": 236.1999969482422,
+    "Time": "07/11/2021, 18:39:13",
+    "Speed": 5.498321257808143,
+    "Distance": 0.00916556693888808,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140380220487714,
+    "Longitude": -84.51752588152885,
+    "Elevation": 235.60000610351562,
+    "Time": "07/11/2021, 18:39:19",
+    "Speed": 5.451755987379995,
+    "Distance": 0.0015146572954989146,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14039765484631,
+    "Longitude": -84.5175048429519,
+    "Elevation": 235.60000610351562,
+    "Time": "07/11/2021, 18:39:20",
+    "Speed": 6.245702041190684,
+    "Distance": 0.01214667114388549,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.1405432485044,
+    "Longitude": -84.51734885573387,
+    "Elevation": 234.8000030517578,
+    "Time": "07/11/2021, 18:39:27",
+    "Speed": 5.262327677591718,
+    "Distance": 0.0014620285696243492,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140560515224934,
+    "Longitude": -84.51732949353755,
+    "Elevation": 234.60000610351562,
+    "Time": "07/11/2021, 18:39:28",
+    "Speed": 5.414400538750017,
+    "Distance": 0.001504278859096954,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14058004505932,
+    "Longitude": -84.51731423847377,
+    "Elevation": 234.60000610351562,
+    "Time": "07/11/2021, 18:39:29",
+    "Speed": 5.104132194628961,
+    "Distance": 0.008508463420243074,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14069512858987,
+    "Longitude": -84.51724492013454,
+    "Elevation": 234.39999389648438,
+    "Time": "07/11/2021, 18:39:35",
+    "Speed": 5.477442364545196,
+    "Distance": 0.01065255605741852,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14084927178919,
+    "Longitude": -84.51724676415324,
+    "Elevation": 234.0,
+    "Time": "07/11/2021, 18:39:42",
+    "Speed": 5.819390816923622,
+    "Distance": 0.0064671880228071394,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14093066006899,
+    "Longitude": -84.51731993816793,
+    "Elevation": 233.60000610351562,
+    "Time": "07/11/2021, 18:39:46",
+    "Speed": 4.6370208938079855,
+    "Distance": 0.0025766001055239876,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140942227095366,
+    "Longitude": -84.51737609691918,
+    "Elevation": 233.60000610351562,
+    "Time": "07/11/2021, 18:39:48",
+    "Speed": 3.8492821868615885,
+    "Distance": 0.006416659175788829,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14092378690839,
+    "Longitude": -84.51752026565373,
+    "Elevation": 233.8000030517578,
+    "Time": "07/11/2021, 18:39:54",
+    "Speed": 5.301818369227114,
+    "Distance": 0.00883800143397754,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140847427770495,
+    "Longitude": -84.51768279075623,
+    "Elevation": 233.8000030517578,
+    "Time": "07/11/2021, 18:40:00",
+    "Speed": 5.05691008134221,
+    "Distance": 0.0014049575522304299,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140834268182516,
+    "Longitude": -84.51770734973252,
+    "Elevation": 233.8000030517578,
+    "Time": "07/11/2021, 18:40:01",
+    "Speed": 5.0740912227350705,
+    "Distance": 0.011277847807324458,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14070317521691,
+    "Longitude": -84.51786132529378,
+    "Elevation": 234.0,
+    "Time": "07/11/2021, 18:40:09",
+    "Speed": 4.661890293054021,
+    "Distance": 0.009066466495702995,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140587504953146,
+    "Longitude": -84.51795939356089,
+    "Elevation": 234.60000610351562,
+    "Time": "07/11/2021, 18:40:16",
+    "Speed": 4.414032996254465,
+    "Distance": 0.0012263474916753925,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14057141169906,
+    "Longitude": -84.51797121204436,
+    "Elevation": 234.8000030517578,
+    "Time": "07/11/2021, 18:40:17",
+    "Speed": 5.529955301821536,
+    "Distance": 0.010754683468506734,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14042824879289,
+    "Longitude": -84.51806785538793,
+    "Elevation": 235.39999389648438,
+    "Time": "07/11/2021, 18:40:24",
+    "Speed": 6.011741613705725,
+    "Distance": 0.005010713051867436,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14035960100591,
+    "Longitude": -84.51810481958091,
+    "Elevation": 235.8000030517578,
+    "Time": "07/11/2021, 18:40:27",
+    "Speed": 5.286644044363144,
+    "Distance": 0.005875137470595962,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14028164930642,
+    "Longitude": -84.51815854758024,
+    "Elevation": 236.1999969482422,
+    "Time": "07/11/2021, 18:40:31",
+    "Speed": 5.664506487325906,
+    "Distance": 0.006295062432207196,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140201015397906,
+    "Longitude": -84.51822568662465,
+    "Elevation": 236.8000030517578,
+    "Time": "07/11/2021, 18:40:35",
+    "Speed": 5.415788668638166,
+    "Distance": 0.004513993566562054,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140143347904086,
+    "Longitude": -84.51827430166304,
+    "Elevation": 237.0,
+    "Time": "07/11/2021, 18:40:38",
+    "Speed": 5.234997545364538,
+    "Distance": 0.008726612756359923,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140026504173875,
+    "Longitude": -84.51835015788674,
+    "Elevation": 237.8000030517578,
+    "Time": "07/11/2021, 18:40:44",
+    "Speed": 5.923569665061622,
+    "Distance": 0.001645740937296333,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140004543587565,
+    "Longitude": -84.5183648262173,
+    "Elevation": 237.60000610351562,
+    "Time": "07/11/2021, 18:40:45",
+    "Speed": 6.017990177510108,
+    "Distance": 0.0016719737177721837,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.139983002096415,
+    "Longitude": -84.51838226057589,
+    "Elevation": 239.8000030517578,
+    "Time": "07/11/2021, 18:40:46",
+    "Speed": 6.036697061851134,
+    "Distance": 0.0016771710374814263,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13996028713882,
+    "Longitude": -84.51839567162097,
+    "Elevation": 238.8000030517578,
+    "Time": "07/11/2021, 18:40:47",
+    "Speed": 4.632459439878854,
+    "Distance": 0.005148130989690428,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13988753221929,
+    "Longitude": -84.51842098496854,
+    "Elevation": 238.1999969482422,
+    "Time": "07/11/2021, 18:40:51",
+    "Speed": 3.57738384510063,
+    "Distance": 0.006957313178776293,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13978896103799,
+    "Longitude": -84.51845342293382,
+    "Elevation": 238.1999969482422,
+    "Time": "07/11/2021, 18:40:58",
+    "Speed": 3.9340480363230443,
+    "Distance": 0.00874394902905187,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13966549560428,
+    "Longitude": -84.5184972602874,
+    "Elevation": 238.8000030517578,
+    "Time": "07/11/2021, 18:41:06",
+    "Speed": 5.468047388207964,
+    "Distance": 0.00911510113936326,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.139534486457705,
+    "Longitude": -84.51847312040627,
+    "Elevation": 238.8000030517578,
+    "Time": "07/11/2021, 18:41:12",
+    "Speed": 5.696946070069292,
+    "Distance": 0.012662226184838785,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13935544900596,
+    "Longitude": -84.51841142959893,
+    "Elevation": 238.60000610351562,
+    "Time": "07/11/2021, 18:41:20",
+    "Speed": 5.8789678387112785,
+    "Distance": 0.013066793961461811,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.139188481494784,
+    "Longitude": -84.51827086508274,
+    "Elevation": 238.0,
+    "Time": "07/11/2021, 18:41:28",
+    "Speed": 4.636075183368135,
+    "Distance": 0.007728223840419547,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13911832496524,
+    "Longitude": -84.51813289895654,
+    "Elevation": 237.60000610351562,
+    "Time": "07/11/2021, 18:41:34",
+    "Speed": 4.155744036253636,
+    "Distance": 0.00923669810212867,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13907532580197,
+    "Longitude": -84.51793240383267,
+    "Elevation": 236.39999389648438,
+    "Time": "07/11/2021, 18:41:42",
+    "Speed": 4.61752728824082,
+    "Distance": 0.002565768317763774,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13906652480364,
+    "Longitude": -84.51787523925304,
+    "Elevation": 238.8000030517578,
+    "Time": "07/11/2021, 18:41:44",
+    "Speed": 4.702614849722074,
+    "Distance": 0.00783914383535295,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13904313929379,
+    "Longitude": -84.5176993869245,
+    "Elevation": 238.0,
+    "Time": "07/11/2021, 18:41:50",
+    "Speed": 4.148700756801906,
+    "Distance": 0.00461052173477909,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13904900662601,
+    "Longitude": -84.51759411022067,
+    "Elevation": 237.1999969482422,
+    "Time": "07/11/2021, 18:41:54",
+    "Speed": 4.614473973559349,
+    "Distance": 0.005128143434974589,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13903048262,
+    "Longitude": -84.5174802839756,
+    "Elevation": 236.1999969482422,
+    "Time": "07/11/2021, 18:41:58",
+    "Speed": 4.852091179192382,
+    "Distance": 0.004044158608713655,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13900877349079,
+    "Longitude": -84.51739420183003,
+    "Elevation": 236.0,
+    "Time": "07/11/2021, 18:42:01",
+    "Speed": 5.062481207942384,
+    "Distance": 0.0028130107483483103,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138994021341205,
+    "Longitude": -84.51733410358429,
+    "Elevation": 237.1999969482422,
+    "Time": "07/11/2021, 18:42:03",
+    "Speed": 5.101308739008968,
+    "Distance": 0.0028345855962807376,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.139003744348884,
+    "Longitude": -84.51727098785341,
+    "Elevation": 237.0,
+    "Time": "07/11/2021, 18:42:05",
+    "Speed": 3.918632576774453,
+    "Distance": 0.006532264578088974,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13898496888578,
+    "Longitude": -84.51712422072887,
+    "Elevation": 236.1999969482422,
+    "Time": "07/11/2021, 18:42:11",
+    "Speed": 4.594271204412271,
+    "Distance": 0.0012764229384756207,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13897658698261,
+    "Longitude": -84.51709815301001,
+    "Elevation": 234.0,
+    "Time": "07/11/2021, 18:42:12",
+    "Speed": 4.3692568539680785,
+    "Distance": 0.006069536847477128,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13893224671483,
+    "Longitude": -84.51697804033756,
+    "Elevation": 232.60000610351562,
+    "Time": "07/11/2021, 18:42:17",
+    "Speed": 4.021038968314046,
+    "Distance": 0.0022343245086320416,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13891372270882,
+    "Longitude": -84.51693604700267,
+    "Elevation": 232.39999389648438,
+    "Time": "07/11/2021, 18:42:19",
+    "Speed": 3.649124283890893,
+    "Distance": 0.0020276669504549275,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138896372169256,
+    "Longitude": -84.5168985798955,
+    "Elevation": 231.39999389648438,
+    "Time": "07/11/2021, 18:42:21",
+    "Speed": 4.894892669417082,
+    "Distance": 0.005439777502572929,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13885781541467,
+    "Longitude": -84.51678986661136,
+    "Elevation": 231.8000030517578,
+    "Time": "07/11/2021, 18:42:25",
+    "Speed": 5.034563926580583,
+    "Distance": 0.0013987491367374407,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138847421854734,
+    "Longitude": -84.51676237396896,
+    "Elevation": 231.8000030517578,
+    "Time": "07/11/2021, 18:42:26",
+    "Speed": 4.249874792149024,
+    "Distance": 0.014168874484741557,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138731164857745,
+    "Longitude": -84.51649482361972,
+    "Elevation": 231.0,
+    "Time": "07/11/2021, 18:42:38",
+    "Speed": 3.840321451778623,
+    "Distance": 0.004267814566508431,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13868489675224,
+    "Longitude": -84.51643003150821,
+    "Elevation": 230.39999389648438,
+    "Time": "07/11/2021, 18:42:42",
+    "Speed": 4.2580105040146785,
+    "Distance": 0.0011829998791483528,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13867341354489,
+    "Longitude": -84.51640999875963,
+    "Elevation": 230.39999389648438,
+    "Time": "07/11/2021, 18:42:43",
+    "Speed": 3.9837903830798878,
+    "Distance": 0.006640881046149196,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13860820233822,
+    "Longitude": -84.51629818417132,
+    "Elevation": 229.39999389648438,
+    "Time": "07/11/2021, 18:42:49",
+    "Speed": 2.306931534075883,
+    "Distance": 0.0006409330656751912,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138607112690806,
+    "Longitude": -84.5162835996598,
+    "Elevation": 229.0,
+    "Time": "07/11/2021, 18:42:50",
+    "Speed": 2.2273580940179745,
+    "Distance": 0.0012376504724725243,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138623708859086,
+    "Longitude": -84.51627287082374,
+    "Elevation": 228.8000030517578,
+    "Time": "07/11/2021, 18:42:52",
+    "Speed": 2.8492460473505887,
+    "Distance": 0.0007916039019870038,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13863359950483,
+    "Longitude": -84.51628209091723,
+    "Elevation": 228.60000610351562,
+    "Time": "07/11/2021, 18:42:53",
+    "Speed": 4.911883330949717,
+    "Distance": 0.008187989270706072,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138720855116844,
+    "Longitude": -84.51640907675028,
+    "Elevation": 228.8000030517578,
+    "Time": "07/11/2021, 18:42:59",
+    "Speed": 3.6111618677229442,
+    "Distance": 0.006019718432925673,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13877667859197,
+    "Longitude": -84.51651502400637,
+    "Elevation": 229.60000610351562,
+    "Time": "07/11/2021, 18:43:05",
+    "Speed": 4.183209014671417,
+    "Distance": 0.001162217837213566,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13878673687577,
+    "Longitude": -84.51653639785945,
+    "Elevation": 231.39999389648438,
+    "Time": "07/11/2021, 18:43:06",
+    "Speed": 4.743992292089693,
+    "Distance": 0.0013180198364779513,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13880014792085,
+    "Longitude": -84.5165579393506,
+    "Elevation": 233.0,
+    "Time": "07/11/2021, 18:43:07",
+    "Speed": 5.56004650790078,
+    "Distance": 0.007723717849808256,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138881117105484,
+    "Longitude": -84.51667997986078,
+    "Elevation": 232.60000610351562,
+    "Time": "07/11/2021, 18:43:12",
+    "Speed": 5.9037404847518555,
+    "Distance": 0.008201159054680208,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13896057754755,
+    "Longitude": -84.51681962236762,
+    "Elevation": 234.39999389648438,
+    "Time": "07/11/2021, 18:43:17",
+    "Speed": 5.757110198423706,
+    "Distance": 0.004798480883894632,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13899184204638,
+    "Longitude": -84.51691785827279,
+    "Elevation": 234.0,
+    "Time": "07/11/2021, 18:43:20",
+    "Speed": 4.817888251706409,
+    "Distance": 0.004015650887294738,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13901204243302,
+    "Longitude": -84.51700419187546,
+    "Elevation": 234.8000030517578,
+    "Time": "07/11/2021, 18:43:23",
+    "Speed": 4.923347507218259,
+    "Distance": 0.004103549885952419,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13902997970581,
+    "Longitude": -84.5170938782394,
+    "Elevation": 234.0,
+    "Time": "07/11/2021, 18:43:26",
+    "Speed": 6.006738082573382,
+    "Distance": 0.003337695113274255,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13903836160898,
+    "Longitude": -84.5171692315489,
+    "Elevation": 234.0,
+    "Time": "07/11/2021, 18:43:28",
+    "Speed": 5.8507910700189205,
+    "Distance": 0.001625520914574706,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.139042971655726,
+    "Longitude": -84.51720577664673,
+    "Elevation": 234.0,
+    "Time": "07/11/2021, 18:43:29",
+    "Speed": 4.797171099440119,
+    "Distance": 0.0026655889296378628,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13904272019863,
+    "Longitude": -84.51726688072085,
+    "Elevation": 234.1999969482422,
+    "Time": "07/11/2021, 18:43:31",
+    "Speed": 5.214284610373494,
+    "Distance": 0.0072434040006488605,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13905931636691,
+    "Longitude": -84.51743083074689,
+    "Elevation": 235.39999389648438,
+    "Time": "07/11/2021, 18:43:36",
+    "Speed": 5.154082303046583,
+    "Distance": 0.00143195483803432,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13906116038561,
+    "Longitude": -84.51746352016926,
+    "Elevation": 236.0,
+    "Time": "07/11/2021, 18:43:37",
+    "Speed": 5.299691260466808,
+    "Distance": 0.0029448185319151123,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13906568661332,
+    "Longitude": -84.51753065921366,
+    "Elevation": 236.39999389648438,
+    "Time": "07/11/2021, 18:43:39",
+    "Speed": 5.566694083558446,
+    "Distance": 0.007732952304716522,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13906501606107,
+    "Longitude": -84.51770793646574,
+    "Elevation": 237.0,
+    "Time": "07/11/2021, 18:43:44",
+    "Speed": 6.1291451929156695,
+    "Distance": 0.006811423330840097,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.1390894073993,
+    "Longitude": -84.51785922981799,
+    "Elevation": 237.60000610351562,
+    "Time": "07/11/2021, 18:43:48",
+    "Speed": 7.154112370383214,
+    "Distance": 0.00795048679339557,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13913198746741,
+    "Longitude": -84.51802854426205,
+    "Elevation": 238.0,
+    "Time": "07/11/2021, 18:43:52",
+    "Speed": 7.166250837934287,
+    "Distance": 0.005972982359176786,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.139174818992615,
+    "Longitude": -84.51814748346806,
+    "Elevation": 238.8000030517578,
+    "Time": "07/11/2021, 18:43:55",
+    "Speed": 7.777572571731822,
+    "Distance": 0.006482511541776064,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13923994638026,
+    "Longitude": -84.51825443655252,
+    "Elevation": 239.1999969482422,
+    "Time": "07/11/2021, 18:43:58",
+    "Speed": 6.794388167177305,
+    "Distance": 0.009438398957775379,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13936081342399,
+    "Longitude": -84.51835518702865,
+    "Elevation": 239.8000030517578,
+    "Time": "07/11/2021, 18:44:03",
+    "Speed": 7.481343451317862,
+    "Distance": 0.002078536065242605,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13938914425671,
+    "Longitude": -84.51837128028274,
+    "Elevation": 240.0,
+    "Time": "07/11/2021, 18:44:04",
+    "Speed": 7.216879267930607,
+    "Distance": 0.008020240714521948,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13950104266405,
+    "Longitude": -84.5184200629592,
+    "Elevation": 240.8000030517578,
+    "Time": "07/11/2021, 18:44:08",
+    "Speed": 6.593746081183762,
+    "Distance": 0.001831935550610005,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.139526691287756,
+    "Longitude": -84.51843062415719,
+    "Elevation": 240.8000030517578,
+    "Time": "07/11/2021, 18:44:09",
+    "Speed": 6.726641558516959,
+    "Distance": 0.003737715603705997,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13957983255386,
+    "Longitude": -84.51844654977322,
+    "Elevation": 241.0,
+    "Time": "07/11/2021, 18:44:11",
+    "Speed": 5.555894498852549,
+    "Distance": 0.009261540122326913,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.139713272452354,
+    "Longitude": -84.51846624724567,
+    "Elevation": 241.39999389648438,
+    "Time": "07/11/2021, 18:44:17",
+    "Speed": 5.508542358211986,
+    "Distance": 0.007652171052542215,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13982399739325,
+    "Longitude": -84.51846431940794,
+    "Elevation": 241.8000030517578,
+    "Time": "07/11/2021, 18:44:22",
+    "Speed": 7.556323711722955,
+    "Distance": 0.0020993677750080235,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.1398542560637,
+    "Longitude": -84.51846021227539,
+    "Elevation": 242.39999389648438,
+    "Time": "07/11/2021, 18:44:23",
+    "Speed": 6.157822127851894,
+    "Distance": 0.003421646248264272,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13990303874016,
+    "Longitude": -84.51844680123031,
+    "Elevation": 242.1999969482422,
+    "Time": "07/11/2021, 18:44:25",
+    "Speed": 5.104825919349037,
+    "Distance": 0.009927889816097388,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14003111422062,
+    "Longitude": -84.5183437038213,
+    "Elevation": 243.0,
+    "Time": "07/11/2021, 18:44:32",
+    "Speed": 5.059882112208067,
+    "Distance": 0.004217349808040601,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14007796905935,
+    "Longitude": -84.51828176155686,
+    "Elevation": 241.1999969482422,
+    "Time": "07/11/2021, 18:44:35",
+    "Speed": 4.893740794434444,
+    "Distance": 0.0013596243510768367,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140089116990566,
+    "Longitude": -84.51825611293316,
+    "Elevation": 242.39999389648438,
+    "Time": "07/11/2021, 18:44:36",
+    "Speed": 5.039041085247996,
+    "Distance": 0.001399993022387202,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140100348740816,
+    "Longitude": -84.51822937466204,
+    "Elevation": 241.1999969482422,
+    "Time": "07/11/2021, 18:44:37",
+    "Speed": 5.1321592674647185,
+    "Distance": 0.0014258639774271283,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14010722190142,
+    "Longitude": -84.51819852925837,
+    "Elevation": 241.39999389648438,
+    "Time": "07/11/2021, 18:44:38",
+    "Speed": 4.991415758539905,
+    "Distance": 0.009707329193986588,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14017737843096,
+    "Longitude": -84.51800574548542,
+    "Elevation": 241.39999389648438,
+    "Time": "07/11/2021, 18:44:45",
+    "Speed": 5.295671057241897,
+    "Distance": 0.008827754015383233,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14022607728839,
+    "Longitude": -84.51781866140664,
+    "Elevation": 240.60000610351562,
+    "Time": "07/11/2021, 18:44:51",
+    "Speed": 5.354763592488061,
+    "Distance": 0.007438549854220297,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14027838036418,
+    "Longitude": -84.51766963116825,
+    "Elevation": 240.0,
+    "Time": "07/11/2021, 18:44:56",
+    "Speed": 5.389353061924291,
+    "Distance": 0.002994639874623599,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140302520245314,
+    "Longitude": -84.51761263422668,
+    "Elevation": 237.8000030517578,
+    "Time": "07/11/2021, 18:44:58",
+    "Speed": 5.858494550735384,
+    "Distance": 0.0032553223337409365,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14033504202962,
+    "Longitude": -84.51755865477026,
+    "Elevation": 237.8000030517578,
+    "Time": "07/11/2021, 18:45:00",
+    "Speed": 5.364693075423233,
+    "Distance": 0.007452343358371165,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14041098207235,
+    "Longitude": -84.51743736863136,
+    "Elevation": 236.39999389648438,
+    "Time": "07/11/2021, 18:45:05",
+    "Speed": 6.463352056129685,
+    "Distance": 0.003591416551972093,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140453143045306,
+    "Longitude": -84.51738925650716,
+    "Elevation": 237.8000030517578,
+    "Time": "07/11/2021, 18:45:07",
+    "Speed": 6.220672617659757,
+    "Distance": 0.001728284828789044,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140474516898394,
+    "Longitude": -84.51736872084439,
+    "Elevation": 236.60000610351562,
+    "Time": "07/11/2021, 18:45:08",
+    "Speed": 6.453313417037083,
+    "Distance": 0.0071716769935286145,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.1405657120049,
+    "Longitude": -84.5172902662307,
+    "Elevation": 237.0,
+    "Time": "07/11/2021, 18:45:12",
+    "Speed": 4.98806464889844,
+    "Distance": 0.004157490831411075,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14061809889972,
+    "Longitude": -84.51724341139197,
+    "Elevation": 236.60000610351562,
+    "Time": "07/11/2021, 18:45:15",
+    "Speed": 4.991378877837365,
+    "Distance": 0.006933755334443027,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14071382023394,
+    "Longitude": -84.51719580218196,
+    "Elevation": 237.0,
+    "Time": "07/11/2021, 18:45:20",
+    "Speed": 5.263934413473359,
+    "Distance": 0.005849899871418798,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14079822599888,
+    "Longitude": -84.51718566007912,
+    "Elevation": 236.8000030517578,
+    "Time": "07/11/2021, 18:45:24",
+    "Speed": 5.922808231848488,
+    "Distance": 0.008227646944376204,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14090333506465,
+    "Longitude": -84.51727425679564,
+    "Elevation": 236.60000610351562,
+    "Time": "07/11/2021, 18:45:29",
+    "Speed": 4.097425398293084,
+    "Distance": 0.006830307834745633,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140923703089356,
+    "Longitude": -84.51742747798562,
+    "Elevation": 236.60000610351562,
+    "Time": "07/11/2021, 18:45:35",
+    "Speed": 4.642600243795653,
+    "Distance": 0.009028951115823285,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14084818214178,
+    "Longitude": -84.51759637333453,
+    "Elevation": 236.39999389648438,
+    "Time": "07/11/2021, 18:45:42",
+    "Speed": 5.897816965871166,
+    "Distance": 0.009831516504648776,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140756567940116,
+    "Longitude": -84.51776878908277,
+    "Elevation": 237.0,
+    "Time": "07/11/2021, 18:45:48",
+    "Speed": 5.623246567420354,
+    "Distance": 0.009373814371863376,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140644166618586,
+    "Longitude": -84.51788906939328,
+    "Elevation": 238.39999389648438,
+    "Time": "07/11/2021, 18:45:54",
+    "Speed": 5.262327677591718,
+    "Distance": 0.0014620285696243492,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14062572643161,
+    "Longitude": -84.5179054979235,
+    "Elevation": 238.0,
+    "Time": "07/11/2021, 18:45:55",
+    "Speed": 5.051071009358245,
+    "Distance": 0.012630017584987052,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14045968092978,
+    "Longitude": -84.51802644878626,
+    "Elevation": 238.0,
+    "Time": "07/11/2021, 18:46:04",
+    "Speed": 6.211502409806779,
+    "Distance": 0.010354422460728327,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.140317691490054,
+    "Longitude": -84.51810222119093,
+    "Elevation": 238.60000610351562,
+    "Time": "07/11/2021, 18:46:10",
+    "Speed": 5.252438427069638,
+    "Distance": 0.008755686279212796,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14020369760692,
+    "Longitude": -84.51818981207907,
+    "Elevation": 239.39999389648438,
+    "Time": "07/11/2021, 18:46:16",
+    "Speed": 4.4293329831923405,
+    "Distance": 0.001230598275622828,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14019037038088,
+    "Longitude": -84.51820850372314,
+    "Elevation": 239.60000610351562,
+    "Time": "07/11/2021, 18:46:17",
+    "Speed": 4.991198158458684,
+    "Distance": 0.00693350428879279,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.1400976665318,
+    "Longitude": -84.51826927252114,
+    "Elevation": 240.39999389648438,
+    "Time": "07/11/2021, 18:46:22",
+    "Speed": 6.100795511603798,
+    "Distance": 0.003389958923836054,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.14005181752145,
+    "Longitude": -84.5182969328016,
+    "Elevation": 240.8000030517578,
+    "Time": "07/11/2021, 18:46:24",
+    "Speed": 5.135575664104068,
+    "Distance": 0.008560878914127813,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13993623107672,
+    "Longitude": -84.51836750842631,
+    "Elevation": 241.39999389648438,
+    "Time": "07/11/2021, 18:46:30",
+    "Speed": 5.340782511577075,
+    "Distance": 0.008902953705439993,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13980840705335,
+    "Longitude": -84.51839290559292,
+    "Elevation": 241.8000030517578,
+    "Time": "07/11/2021, 18:46:36",
+    "Speed": 5.726782421568702,
+    "Distance": 0.009546406106190288,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13967044092715,
+    "Longitude": -84.51840380206704,
+    "Elevation": 242.39999389648438,
+    "Time": "07/11/2021, 18:46:42",
+    "Speed": 5.406991160610911,
+    "Distance": 0.004506660951302015,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13960522972047,
+    "Longitude": -84.51840296387672,
+    "Elevation": 242.60000610351562,
+    "Time": "07/11/2021, 18:46:45",
+    "Speed": 4.296809230826451,
+    "Distance": 0.009550234403599669,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13946743123233,
+    "Longitude": -84.51838645152748,
+    "Elevation": 243.1999969482422,
+    "Time": "07/11/2021, 18:46:53",
+    "Speed": 5.53702467853815,
+    "Distance": 0.010768432026091235,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13931773044169,
+    "Longitude": -84.51831797137856,
+    "Elevation": 243.0,
+    "Time": "07/11/2021, 18:47:00",
+    "Speed": 6.047132418653158,
+    "Distance": 0.011760491994092266,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.1391771659255,
+    "Longitude": -84.51816600747406,
+    "Elevation": 242.1999969482422,
+    "Time": "07/11/2021, 18:47:07",
+    "Speed": 5.471641902139967,
+    "Distance": 0.010641275290444027,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13910776376724,
+    "Longitude": -84.51794824562967,
+    "Elevation": 241.39999389648438,
+    "Time": "07/11/2021, 18:47:14",
+    "Speed": 5.4704642461755535,
+    "Distance": 0.010638984979502834,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13906820118427,
+    "Longitude": -84.51771254651248,
+    "Elevation": 240.39999389648438,
+    "Time": "07/11/2021, 18:47:21",
+    "Speed": 4.510056399187074,
+    "Distance": 0.001253025602017672,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.139065351337194,
+    "Longitude": -84.51768421567976,
+    "Elevation": 240.1999969482422,
+    "Time": "07/11/2021, 18:47:22",
+    "Speed": 4.720164957652693,
+    "Distance": 0.0013113999059416544,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13906057365239,
+    "Longitude": -84.51765513047576,
+    "Elevation": 240.1999969482422,
+    "Time": "07/11/2021, 18:47:23",
+    "Speed": 5.295316186893559,
+    "Distance": 0.008827162455199714,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13902327418327,
+    "Longitude": -84.51746159233153,
+    "Elevation": 239.1999969482422,
+    "Time": "07/11/2021, 18:47:29",
+    "Speed": 5.240857462896113,
+    "Distance": 0.0014560635159058949,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13901581428945,
+    "Longitude": -84.51743041165173,
+    "Elevation": 239.1999969482422,
+    "Time": "07/11/2021, 18:47:30",
+    "Speed": 4.4185139846922015,
+    "Distance": 0.008593147089431683,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.1389892436564,
+    "Longitude": -84.51723796315491,
+    "Elevation": 238.1999969482422,
+    "Time": "07/11/2021, 18:47:37",
+    "Speed": 4.236773411493376,
+    "Distance": 0.003531298780768583,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138971557840705,
+    "Longitude": -84.51716202311218,
+    "Elevation": 237.60000610351562,
+    "Time": "07/11/2021, 18:47:40",
+    "Speed": 4.8578972015867,
+    "Distance": 0.002699331904876098,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13895856589079,
+    "Longitude": -84.5171036850661,
+    "Elevation": 237.1999969482422,
+    "Time": "07/11/2021, 18:47:42",
+    "Speed": 4.430475755381298,
+    "Distance": 0.008616410398167964,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13891120813787,
+    "Longitude": -84.51692095957696,
+    "Elevation": 236.39999389648438,
+    "Time": "07/11/2021, 18:47:49",
+    "Speed": 6.4178349260163605,
+    "Distance": 0.003566124571422739,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13889209739864,
+    "Longitude": -84.51684501953423,
+    "Elevation": 235.8000030517578,
+    "Time": "07/11/2021, 18:47:51",
+    "Speed": 3.9014908300413063,
+    "Distance": 0.006503689705911578,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13887709379196,
+    "Longitude": -84.51669783331454,
+    "Elevation": 234.8000030517578,
+    "Time": "07/11/2021, 18:47:57",
+    "Speed": 4.035034969449057,
+    "Distance": 0.0011210507528614487,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13887223228812,
+    "Longitude": -84.51667335815728,
+    "Elevation": 234.60000610351562,
+    "Time": "07/11/2021, 18:47:58",
+    "Speed": 5.5369207825068365,
+    "Distance": 0.009229911401651645,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138782462105155,
+    "Longitude": -84.516516700387,
+    "Elevation": 233.8000030517578,
+    "Time": "07/11/2021, 18:48:04",
+    "Speed": 4.753489783662948,
+    "Distance": 0.0013206585174705835,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13877114653587,
+    "Longitude": -84.51649230904877,
+    "Elevation": 233.60000610351562,
+    "Time": "07/11/2021, 18:48:05",
+    "Speed": 4.542693819063259,
+    "Distance": 0.008834652624095302,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13868791423738,
+    "Longitude": -84.5163385849446,
+    "Elevation": 232.39999389648438,
+    "Time": "07/11/2021, 18:48:12",
+    "Speed": 4.707607329257575,
+    "Distance": 0.0052316441176824425,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138647597283125,
+    "Longitude": -84.5162370800972,
+    "Elevation": 231.1999969482422,
+    "Time": "07/11/2021, 18:48:16",
+    "Speed": 4.139858528561533,
+    "Distance": 0.004600695216098685,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13861214183271,
+    "Longitude": -84.51614781282842,
+    "Elevation": 230.60000610351562,
+    "Time": "07/11/2021, 18:48:20",
+    "Speed": 4.679112311252055,
+    "Distance": 0.0038999828395305924,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138579200953245,
+    "Longitude": -84.51607522554696,
+    "Elevation": 230.1999969482422,
+    "Time": "07/11/2021, 18:48:23",
+    "Speed": 5.3994200897633196,
+    "Distance": 0.01050081796497941,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138496555387974,
+    "Longitude": -84.51587322168052,
+    "Elevation": 229.39999389648438,
+    "Time": "07/11/2021, 18:48:30",
+    "Speed": 7.425539346539907,
+    "Distance": 0.012378192314864847,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138376945629716,
+    "Longitude": -84.5156619977206,
+    "Elevation": 229.1999969482422,
+    "Time": "07/11/2021, 18:48:36",
+    "Speed": 6.497280646500037,
+    "Distance": 0.0018051346309163492,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13835766725242,
+    "Longitude": -84.51563408598304,
+    "Elevation": 229.1999969482422,
+    "Time": "07/11/2021, 18:48:37",
+    "Speed": 5.598685913105168,
+    "Distance": 0.0015554787270600325,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13834048435092,
+    "Longitude": -84.51561103574932,
+    "Elevation": 229.1999969482422,
+    "Time": "07/11/2021, 18:48:38",
+    "Speed": 5.538511476912217,
+    "Distance": 0.012310084067047347,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13819572888315,
+    "Longitude": -84.51544658280909,
+    "Elevation": 228.60000610351562,
+    "Time": "07/11/2021, 18:48:46",
+    "Speed": 5.604724404071057,
+    "Distance": 0.0031143127929930663,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.138154992833734,
+    "Longitude": -84.51541607268155,
+    "Elevation": 228.39999389648438,
+    "Time": "07/11/2021, 18:48:48",
+    "Speed": 4.245330796087006,
+    "Distance": 0.009435816682895427,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13802959956229,
+    "Longitude": -84.51533049345016,
+    "Elevation": 228.1999969482422,
+    "Time": "07/11/2021, 18:48:56",
+    "Speed": 5.698121087047049,
+    "Distance": 0.01266483781755575,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13785533979535,
+    "Longitude": -84.51524063944817,
+    "Elevation": 228.1999969482422,
+    "Time": "07/11/2021, 18:49:04",
+    "Speed": 5.143954512640771,
+    "Distance": 0.011433128332701133,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.137696670368314,
+    "Longitude": -84.5151664596051,
+    "Elevation": 228.39999389648438,
+    "Time": "07/11/2021, 18:49:12",
+    "Speed": 4.202198502590918,
+    "Distance": 0.0081724557072481,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.137579994276166,
+    "Longitude": -84.51513594947755,
+    "Elevation": 228.60000610351562,
+    "Time": "07/11/2021, 18:49:19",
+    "Speed": 4.963492828360646,
+    "Distance": 0.009653024546082432,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13744102232158,
+    "Longitude": -84.51511365361512,
+    "Elevation": 229.1999969482422,
+    "Time": "07/11/2021, 18:49:26",
+    "Speed": 7.270386647573904,
+    "Distance": 0.006059778281898816,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13735502399504,
+    "Longitude": -84.51508649624884,
+    "Elevation": 229.1999969482422,
+    "Time": "07/11/2021, 18:49:29",
+    "Speed": 5.726447570183701,
+    "Distance": 0.011136822569983358,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13719509728253,
+    "Longitude": -84.51505506411195,
+    "Elevation": 229.8000030517578,
+    "Time": "07/11/2021, 18:49:36",
+    "Speed": 6.010341044859248,
+    "Distance": 0.00834924282479455,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13707456551492,
+    "Longitude": -84.51506822369993,
+    "Elevation": 230.1999969482422,
+    "Time": "07/11/2021, 18:49:41",
+    "Speed": 8.67951136032307,
+    "Distance": 0.007234266482420274,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.136971049010754,
+    "Longitude": -84.5150435809046,
+    "Elevation": 230.39999389648438,
+    "Time": "07/11/2021, 18:49:44",
+    "Speed": 7.797317576835743,
+    "Distance": 0.015164260444324045,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.136754712089896,
+    "Longitude": -84.51498541049659,
+    "Elevation": 230.8000030517578,
+    "Time": "07/11/2021, 18:49:51",
+    "Speed": 6.7844090923848945,
+    "Distance": 0.005654721937968697,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13667290471494,
+    "Longitude": -84.51498272828758,
+    "Elevation": 231.1999969482422,
+    "Time": "07/11/2021, 18:49:54",
+    "Speed": 6.130639699828669,
+    "Distance": 0.013626168403598485,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13648062385619,
+    "Longitude": -84.51505187898874,
+    "Elevation": 232.0,
+    "Time": "07/11/2021, 18:50:02",
+    "Speed": 7.138926714121551,
+    "Distance": 0.0019834026788078654,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.136453131213784,
+    "Longitude": -84.51506503857672,
+    "Elevation": 232.1999969482422,
+    "Time": "07/11/2021, 18:50:03",
+    "Speed": 6.137545465836086,
+    "Distance": 0.005115569022790683,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13638305850327,
+    "Longitude": -84.51510284096003,
+    "Elevation": 232.1999969482422,
+    "Time": "07/11/2021, 18:50:06",
+    "Speed": 6.161711881186895,
+    "Distance": 0.006847615245587886,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.136292953044176,
+    "Longitude": -84.51516813598573,
+    "Elevation": 232.39999389648438,
+    "Time": "07/11/2021, 18:50:10",
+    "Speed": 5.818664195379959,
+    "Distance": 0.006466380515923321,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13620041683316,
+    "Longitude": -84.51519009657204,
+    "Elevation": 232.8000030517578,
+    "Time": "07/11/2021, 18:50:14",
+    "Speed": 12.146019498498106,
+    "Distance": 0.0033745195286176925,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.13615431636572,
+    "Longitude": -84.5151646155864,
+    "Elevation": 233.0,
+    "Time": "07/11/2021, 18:50:15",
+    "Speed": 6.212914092001225,
+    "Distance": 0.010356775700388753,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.1360083874315,
+    "Longitude": -84.51511055231094,
+    "Elevation": 233.39999389648438,
+    "Time": "07/11/2021, 18:50:21",
+    "Speed": 2.163284801856121,
+    "Distance": 0.013222523628915319,
+    "Street": "Burnet Woods Drive"
+  },
+  {
+    "Latitude": 39.135817531496286,
+    "Longitude": -84.51508917845786,
+    "Elevation": 234.8000030517578,
+    "Time": "07/11/2021, 18:50:43",
+    "Speed": 1.8098257983384718,
+    "Distance": 0.0020112902010883367,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13579230196774,
+    "Longitude": -84.51511214487255,
+    "Elevation": 234.8000030517578,
+    "Time": "07/11/2021, 18:50:47",
+    "Speed": 3.2495078997973494,
+    "Distance": 0.003611233414410225,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13574209436774,
+    "Longitude": -84.51513511128724,
+    "Elevation": 234.8000030517578,
+    "Time": "07/11/2021, 18:50:51",
+    "Speed": 4.040619795609028,
+    "Distance": 0.0011226023809436437,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13572667166591,
+    "Longitude": -84.51514340937138,
+    "Elevation": 234.8000030517578,
+    "Time": "07/11/2021, 18:50:52",
+    "Speed": 4.921763928051614,
+    "Distance": 0.012306689976299641,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.135549142956734,
+    "Longitude": -84.51512119732797,
+    "Elevation": 234.1999969482422,
+    "Time": "07/11/2021, 18:51:01",
+    "Speed": 5.425551051924619,
+    "Distance": 0.0075368839892344195,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13544587790966,
+    "Longitude": -84.51506562530994,
+    "Elevation": 234.8000030517578,
+    "Time": "07/11/2021, 18:51:06",
+    "Speed": 5.317744564214307,
+    "Distance": 0.004432275005575455,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13538628257811,
+    "Longitude": -84.51502807438374,
+    "Elevation": 235.0,
+    "Time": "07/11/2021, 18:51:09",
+    "Speed": 5.253008192807382,
+    "Distance": 0.013134954097124783,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.135209592059255,
+    "Longitude": -84.51491709798574,
+    "Elevation": 235.8000030517578,
+    "Time": "07/11/2021, 18:51:18",
+    "Speed": 5.825328906831782,
+    "Distance": 0.011329127465511658,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13504580967128,
+    "Longitude": -84.5149058662355,
+    "Elevation": 236.60000610351562,
+    "Time": "07/11/2021, 18:51:25",
+    "Speed": 2.528455040671105,
+    "Distance": 0.0014049575522304299,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13502569310367,
+    "Longitude": -84.51491030864418,
+    "Elevation": 237.1999969482422,
+    "Time": "07/11/2021, 18:51:27",
+    "Speed": 6.2447931913498165,
+    "Distance": 0.010409917378608453,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13487951271236,
+    "Longitude": -84.51485272496939,
+    "Elevation": 238.1999969482422,
+    "Time": "07/11/2021, 18:51:33",
+    "Speed": 5.866187915245839,
+    "Distance": 0.0016297986085882688,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13485696539283,
+    "Longitude": -84.5148419123143,
+    "Elevation": 238.1999969482422,
+    "Time": "07/11/2021, 18:51:34",
+    "Speed": 5.4846330379308075,
+    "Distance": 0.009142749011437632,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.134727800264955,
+    "Longitude": -84.51479656621814,
+    "Elevation": 238.8000030517578,
+    "Time": "07/11/2021, 18:51:40",
+    "Speed": 5.179919214069903,
+    "Distance": 0.007195665438665863,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13462738506496,
+    "Longitude": -84.51475298032165,
+    "Elevation": 239.39999389648438,
+    "Time": "07/11/2021, 18:51:45",
+    "Speed": 9.756905549741854,
+    "Distance": 0.005421507568064334,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13455898873508,
+    "Longitude": -84.51481383293867,
+    "Elevation": 239.60000610351562,
+    "Time": "07/11/2021, 18:51:47",
+    "Speed": 5.272673608237415,
+    "Distance": 0.00878941783086602,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.134432170540094,
+    "Longitude": -84.51482900418341,
+    "Elevation": 240.1999969482422,
+    "Time": "07/11/2021, 18:51:53",
+    "Speed": 3.194978659592282,
+    "Distance": 0.002662975606529556,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13439369760454,
+    "Longitude": -84.5148258190602,
+    "Elevation": 240.39999389648438,
+    "Time": "07/11/2021, 18:51:56",
+    "Speed": 17.72083177839186,
+    "Distance": 0.009846730923975004,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1342556476593,
+    "Longitude": -84.51476991176605,
+    "Elevation": 240.8000030517578,
+    "Time": "07/11/2021, 18:51:58",
+    "Speed": 7.560239630253435,
+    "Distance": 0.008401822926918332,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13413679227233,
+    "Longitude": -84.51472942717373,
+    "Elevation": 240.8000030517578,
+    "Time": "07/11/2021, 18:52:02",
+    "Speed": 4.656432892416147,
+    "Distance": 0.002587386547683222,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13409957662225,
+    "Longitude": -84.51472314074636,
+    "Elevation": 241.0,
+    "Time": "07/11/2021, 18:52:04",
+    "Speed": 5.800469074233266,
+    "Distance": 0.004834619976173307,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13403017446399,
+    "Longitude": -84.51470914296806,
+    "Elevation": 241.60000610351562,
+    "Time": "07/11/2021, 18:52:07",
+    "Speed": 4.767174978005179,
+    "Distance": 0.003973381994390498,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13397267460823,
+    "Longitude": -84.51471040025353,
+    "Elevation": 242.39999389648438,
+    "Time": "07/11/2021, 18:52:10",
+    "Speed": 4.261980677841329,
+    "Distance": 0.0023682058191566765,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133938727900386,
+    "Longitude": -84.5147176925093,
+    "Elevation": 242.60000610351562,
+    "Time": "07/11/2021, 18:52:12",
+    "Speed": 4.122117170888295,
+    "Distance": 0.0022904894717372883,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13390880450606,
+    "Longitude": -84.51474023982882,
+    "Elevation": 242.8000030517578,
+    "Time": "07/11/2021, 18:52:14",
+    "Speed": 4.352295228512611,
+    "Distance": 0.0012091949337592856,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13389153778553,
+    "Longitude": -84.51474451459944,
+    "Elevation": 243.0,
+    "Time": "07/11/2021, 18:52:15",
+    "Speed": 5.917475455974876,
+    "Distance": 0.008220238938679576,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13377393968403,
+    "Longitude": -84.51477284543216,
+    "Elevation": 243.60000610351562,
+    "Time": "07/11/2021, 18:52:20",
+    "Speed": 5.590624446125912,
+    "Distance": 0.0015532390157081636,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1337516438216,
+    "Longitude": -84.51476823538542,
+    "Elevation": 243.8000030517578,
+    "Time": "07/11/2021, 18:52:21",
+    "Speed": 4.337734435848088,
+    "Distance": 0.00723089711762944,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13364871405065,
+    "Longitude": -84.51473847962916,
+    "Elevation": 244.39999389648438,
+    "Time": "07/11/2021, 18:52:27",
+    "Speed": 2.0590060784598587,
+    "Distance": 0.0005720521214513519,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13364083506167,
+    "Longitude": -84.51473495922983,
+    "Elevation": 244.60000610351562,
+    "Time": "07/11/2021, 18:52:28",
+    "Speed": 3.1571109080876214,
+    "Distance": 0.002631413299148166,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133603535592556,
+    "Longitude": -84.51472288928926,
+    "Elevation": 245.0,
+    "Time": "07/11/2021, 18:52:31",
+    "Speed": 4.743992292089693,
+    "Distance": 0.0013180198364779513,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13358467631042,
+    "Longitude": -84.51471819542348,
+    "Elevation": 245.0,
+    "Time": "07/11/2021, 18:52:32",
+    "Speed": 6.181123930905363,
+    "Distance": 0.006869188186706107,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13348887115717,
+    "Longitude": -84.5146762020886,
+    "Elevation": 245.8000030517578,
+    "Time": "07/11/2021, 18:52:36",
+    "Speed": 7.598731414533581,
+    "Distance": 0.004222299750833602,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133438328281045,
+    "Longitude": -84.51462180353701,
+    "Elevation": 246.0,
+    "Time": "07/11/2021, 18:52:38",
+    "Speed": 6.075907661186725,
+    "Distance": 0.011816454223131639,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13331771269441,
+    "Longitude": -84.51442977413535,
+    "Elevation": 245.8000030517578,
+    "Time": "07/11/2021, 18:52:45",
+    "Speed": 5.184007131207334,
+    "Distance": 0.011522150645594245,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133236072957516,
+    "Longitude": -84.5141994394362,
+    "Elevation": 245.60000610351562,
+    "Time": "07/11/2021, 18:52:53",
+    "Speed": 2.7496732504086956,
+    "Distance": 0.0045836379969433705,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13318385370076,
+    "Longitude": -84.51413464732468,
+    "Elevation": 245.0,
+    "Time": "07/11/2021, 18:52:59",
+    "Speed": 3.7633978794919236,
+    "Distance": 0.008364656183780546,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13318444043398,
+    "Longitude": -84.51394286938012,
+    "Elevation": 244.8000030517578,
+    "Time": "07/11/2021, 18:53:07",
+    "Speed": 3.6012608785778926,
+    "Distance": 0.0030016068631976193,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13318888284266,
+    "Longitude": -84.5138743892312,
+    "Elevation": 244.8000030517578,
+    "Time": "07/11/2021, 18:53:10",
+    "Speed": 3.9375073026113645,
+    "Distance": 0.005469773570007782,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13320941850543,
+    "Longitude": -84.51375327073038,
+    "Elevation": 244.8000030517578,
+    "Time": "07/11/2021, 18:53:15",
+    "Speed": 4.974436224761069,
+    "Distance": 0.011056351217875243,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133181842043996,
+    "Longitude": -84.5135035738349,
+    "Elevation": 245.0,
+    "Time": "07/11/2021, 18:53:23",
+    "Speed": 5.551716726402532,
+    "Distance": 0.010797005190911127,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13313842378557,
+    "Longitude": -84.51326577924192,
+    "Elevation": 245.0,
+    "Time": "07/11/2021, 18:53:30",
+    "Speed": 4.9706097892987815,
+    "Distance": 0.011047846452214967,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13310280069709,
+    "Longitude": -84.51301884837449,
+    "Elevation": 245.0,
+    "Time": "07/11/2021, 18:53:38",
+    "Speed": 4.567346312961852,
+    "Distance": 0.008882596911909223,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13307907991111,
+    "Longitude": -84.51281868852675,
+    "Elevation": 245.1999969482422,
+    "Time": "07/11/2021, 18:53:45",
+    "Speed": 4.833335441507087,
+    "Distance": 0.008057051861842881,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13303951732814,
+    "Longitude": -84.512644931674,
+    "Elevation": 245.1999969482422,
+    "Time": "07/11/2021, 18:53:51",
+    "Speed": 5.16937310846917,
+    "Distance": 0.011489624568705746,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13296709768474,
+    "Longitude": -84.51240780763328,
+    "Elevation": 245.39999389648438,
+    "Time": "07/11/2021, 18:53:59",
+    "Speed": 6.088770582673751,
+    "Distance": 0.0016916385848916315,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1329468972981,
+    "Longitude": -84.51238584704697,
+    "Elevation": 245.39999389648438,
+    "Time": "07/11/2021, 18:54:00",
+    "Speed": 4.793926446973756,
+    "Distance": 0.006659465027233874,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13290607742965,
+    "Longitude": -84.51224754564464,
+    "Elevation": 245.8000030517578,
+    "Time": "07/11/2021, 18:54:05",
+    "Speed": 4.66248256742724,
+    "Distance": 0.0012953740505330404,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132906999439,
+    "Longitude": -84.51221795752645,
+    "Elevation": 246.0,
+    "Time": "07/11/2021, 18:54:06",
+    "Speed": 3.3137927882110803,
+    "Distance": 0.004603342880765798,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13288973271847,
+    "Longitude": -84.51211603358388,
+    "Elevation": 246.39999389648438,
+    "Time": "07/11/2021, 18:54:11",
+    "Speed": 3.628984620153706,
+    "Distance": 0.0020164761749767003,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13288017734885,
+    "Longitude": -84.51207236386836,
+    "Elevation": 246.8000030517578,
+    "Time": "07/11/2021, 18:54:13",
+    "Speed": 4.782753218893306,
+    "Distance": 0.0053151550233260505,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13284983485937,
+    "Longitude": -84.51196038164198,
+    "Elevation": 247.39999389648438,
+    "Time": "07/11/2021, 18:54:17",
+    "Speed": 4.55235854385071,
+    "Distance": 0.0025295567505705698,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1328380163759,
+    "Longitude": -84.51190548017621,
+    "Elevation": 248.0,
+    "Time": "07/11/2021, 18:54:19",
+    "Speed": 5.465141443790141,
+    "Distance": 0.007591880834296438,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13278738968074,
+    "Longitude": -84.51175100170076,
+    "Elevation": 248.60000610351562,
+    "Time": "07/11/2021, 18:54:24",
+    "Speed": 5.425841989589471,
+    "Distance": 0.003014915257682171,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132768362760544,
+    "Longitude": -84.51168880797923,
+    "Elevation": 249.0,
+    "Time": "07/11/2021, 18:54:26",
+    "Speed": 5.126663860313036,
+    "Distance": 0.005697348770244971,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13274925202131,
+    "Longitude": -84.51156173832715,
+    "Elevation": 249.60000610351562,
+    "Time": "07/11/2021, 18:54:30",
+    "Speed": 5.2594700462774595,
+    "Distance": 0.004383703908149754,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13273609243333,
+    "Longitude": -84.51146341860294,
+    "Elevation": 250.0,
+    "Time": "07/11/2021, 18:54:33",
+    "Speed": 5.511918662571563,
+    "Distance": 0.006125488986511182,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13274095393717,
+    "Longitude": -84.51132318936288,
+    "Elevation": 250.8000030517578,
+    "Time": "07/11/2021, 18:54:37",
+    "Speed": 5.686607843820706,
+    "Distance": 0.004739718034275271,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13277104496956,
+    "Longitude": -84.51122554019094,
+    "Elevation": 251.0,
+    "Time": "07/11/2021, 18:54:40",
+    "Speed": 2.1077146645343725,
+    "Distance": 0.0011711695831057435,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13275788538158,
+    "Longitude": -84.51120869256556,
+    "Elevation": 251.1999969482422,
+    "Time": "07/11/2021, 18:54:42",
+    "Speed": 3.8973141597790337,
+    "Distance": 0.0064967272988284775,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132664846256375,
+    "Longitude": -84.51122998259962,
+    "Elevation": 252.1999969482422,
+    "Time": "07/11/2021, 18:54:48",
+    "Speed": 5.382025590062615,
+    "Distance": 0.002990568302550842,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132621847093105,
+    "Longitude": -84.5112378615886,
+    "Elevation": 252.39999389648438,
+    "Time": "07/11/2021, 18:54:50",
+    "Speed": 4.670670727779033,
+    "Distance": 0.007785893766060045,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1325100325048,
+    "Longitude": -84.51125973835588,
+    "Elevation": 252.8000030517578,
+    "Time": "07/11/2021, 18:54:56",
+    "Speed": 5.2691796696583335,
+    "Distance": 0.007319661267321381,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132404336705804,
+    "Longitude": -84.51127055101097,
+    "Elevation": 252.39999389648438,
+    "Time": "07/11/2021, 18:55:01",
+    "Speed": 6.705518901956456,
+    "Distance": 0.013040925169662043,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132215743884444,
+    "Longitude": -84.51128086075187,
+    "Elevation": 252.39999389648438,
+    "Time": "07/11/2021, 18:55:08",
+    "Speed": 6.61618214865993,
+    "Distance": 0.012867182625397402,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132029581815004,
+    "Longitude": -84.51127599924803,
+    "Elevation": 252.39999389648438,
+    "Time": "07/11/2021, 18:55:15",
+    "Speed": 5.859697304767467,
+    "Distance": 0.006511981308500732,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13193570449948,
+    "Longitude": -84.51128890737891,
+    "Elevation": 252.39999389648438,
+    "Time": "07/11/2021, 18:55:19",
+    "Speed": 5.859697304767467,
+    "Distance": 0,
+    "Street": "West Charlton Street"
+  }
+]

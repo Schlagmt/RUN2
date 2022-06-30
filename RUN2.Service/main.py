@@ -1,3 +1,4 @@
+from asyncio.windows_events import NULL
 from geopy.geocoders import Nominatim
 from genericpath import exists
 from datetime import datetime
@@ -39,6 +40,7 @@ def main():
                         'Elevation': segment.points[index].elevation, 
                         'Time': segment.points[index].time.strftime('%m/%d/%Y, %H:%M:%S'), 
                         'Speed': segment.points[index].speed, 
+                        'Distance': NULL,
                         'Street': address.get('road','')
                     })
 
@@ -68,6 +70,7 @@ def main():
 
         for index in range(len(run_dataframe)-1):
 
+            # https://stackoverflow.com/questions/45840118/how-do-i-calculate-speed-from-a-gpx-file-if-the-speed-tag-itself-is-not-given
             r = 6371000 # radius of the Earth in meters
             theta = np.deg2rad(run_dataframe[index]['Longitude'])
             phi = np.deg2rad(run_dataframe[index]['Latitude'])
@@ -83,8 +86,9 @@ def main():
 
             central_angle = np.arccos((x*x2 + y*y2 + z*z2)/r**2)
             arclength = central_angle*r
-
             time = (datetime.strptime(run_dataframe[index+1]['Time'], '%m/%d/%Y, %H:%M:%S') - datetime.strptime(run_dataframe[index]['Time'], '%m/%d/%Y, %H:%M:%S')) / pd.Timedelta(seconds=1)
+            
+            run_dataframe[index]['Distance'] = arclength / 1609
             run_dataframe[index]['Speed'] = (arclength / time) * 2.237 # in miles/hours
 
         run_dataframe[-1]['Speed'] = run_dataframe[-2]['Speed']

@@ -2,20 +2,30 @@ body {
     overflow-x: hidden; /* Hide horizontal scrollbar */
 }
 
-.vertical-navbar {
-    background-color: #282c34;
-    color: white;
-    overflow-y: scroll;
-    overflow-x: hidden;
-    height: 100vh;
+.main-container-fluid {
+    padding-right: 0;
+    padding-left: 0;
 }
 
-.main-content {
-    max-height: 100vh;
+.horizontal-navbar {
+    background-color: #282c34;
+    color: white;
+    min-width: 100vh;
+}
+
+.vertical-navbar {
+    background-color: #f7f7f7;
+    color: black;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    max-height: 92.5vh;
 }
 
 .navbar-links {
-    margin: 1em;
+    margin-left: 2em;
+    margin-right: .5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
     font-size: small;
 }
 
@@ -30,7 +40,6 @@ body {
     text-decoration: none;
     cursor: pointer;
     text-align: left;
-    margin-left: 1em;
 }
 
 .header-button {
@@ -40,7 +49,12 @@ body {
 .street-card-container {
     overflow-y: scroll;
     overflow-x: hidden;
-    max-height: 90vh;
+    height: 85vh;
+}
+
+.street-grid-container {
+    overflow-x: hidden;
+    height: 85vh;
 }
 
 .street-card {

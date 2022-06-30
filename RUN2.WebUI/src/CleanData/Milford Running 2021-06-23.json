@@ -1,0 +1,2927 @@
+[
+  {
+    "Latitude": 39.17198753915727,
+    "Longitude": -84.29985858500004,
+    "Elevation": 170.39999389648438,
+    "Time": "06/23/2021, 21:43:14",
+    "Speed": 3.149960024822008,
+    "Distance": 0.006126057292768982,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17207538150251,
+    "Longitude": -84.29987744428217,
+    "Elevation": 169.60000610351562,
+    "Time": "06/23/2021, 21:43:21",
+    "Speed": 3.2347274527947882,
+    "Distance": 0.0008987019130474418,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.172088373452425,
+    "Longitude": -84.29987828247249,
+    "Elevation": 169.1999969482422,
+    "Time": "06/23/2021, 21:43:22",
+    "Speed": 3.018348530925567,
+    "Distance": 0.0016771710374814263,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17211117222905,
+    "Longitude": -84.29989144206047,
+    "Elevation": 170.60000610351562,
+    "Time": "06/23/2021, 21:43:24",
+    "Speed": 4.486662099292289,
+    "Distance": 0.003739577943434761,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.172165151685476,
+    "Longitude": -84.29989756084979,
+    "Elevation": 170.8000030517578,
+    "Time": "06/23/2021, 21:43:27",
+    "Speed": 3.509646588750889,
+    "Distance": 0.002925247473977169,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.172207145020366,
+    "Longitude": -84.29990619421005,
+    "Elevation": 171.0,
+    "Time": "06/23/2021, 21:43:30",
+    "Speed": 5.110142180670712,
+    "Distance": 0.0014197469866418894,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.172227680683136,
+    "Longitude": -84.29990460164845,
+    "Elevation": 170.0,
+    "Time": "06/23/2021, 21:43:31",
+    "Speed": 4.579522302131457,
+    "Distance": 0.0012723252619669966,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17224603705108,
+    "Longitude": -84.29990644566715,
+    "Elevation": 170.39999389648438,
+    "Time": "06/23/2021, 21:43:32",
+    "Speed": 4.986180582863623,
+    "Distance": 0.002770613656954565,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17228610254824,
+    "Longitude": -84.29990904405713,
+    "Elevation": 170.0,
+    "Time": "06/23/2021, 21:43:34",
+    "Speed": 4.508806210279067,
+    "Distance": 0.002505356525933592,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17232231236994,
+    "Longitude": -84.29991189390421,
+    "Elevation": 170.0,
+    "Time": "06/23/2021, 21:43:36",
+    "Speed": 5.853681063314578,
+    "Distance": 0.0032526476785085336,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17236916720867,
+    "Longitude": -84.29991893470287,
+    "Elevation": 170.1999969482422,
+    "Time": "06/23/2021, 21:43:38",
+    "Speed": 6.79501874762527,
+    "Distance": 0.0037757099705002396,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17242381721735,
+    "Longitude": -84.29991859942675,
+    "Elevation": 170.39999389648438,
+    "Time": "06/23/2021, 21:43:40",
+    "Speed": 5.6187889792692385,
+    "Distance": 0.0031221278938454644,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17246891185641,
+    "Longitude": -84.29992329329252,
+    "Elevation": 170.39999389648438,
+    "Time": "06/23/2021, 21:43:42",
+    "Speed": 4.788937625749539,
+    "Distance": 0.002661013929941763,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17250679805875,
+    "Longitude": -84.29993410594761,
+    "Elevation": 170.39999389648438,
+    "Time": "06/23/2021, 21:43:44",
+    "Speed": 4.938875789341856,
+    "Distance": 0.006860820865062855,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17260352522135,
+    "Longitude": -84.299969477579,
+    "Elevation": 170.60000610351562,
+    "Time": "06/23/2021, 21:43:49",
+    "Speed": 6.278406315615023,
+    "Distance": 0.0017443249389859242,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17262808419764,
+    "Longitude": -84.29997861385345,
+    "Elevation": 170.60000610351562,
+    "Time": "06/23/2021, 21:43:50",
+    "Speed": 6.495545029895451,
+    "Distance": 0.007218609703403881,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17273227125406,
+    "Longitude": -84.29999026469886,
+    "Elevation": 170.60000610351562,
+    "Time": "06/23/2021, 21:43:54",
+    "Speed": 5.4227239879972595,
+    "Distance": 0.004519774070360196,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17279756627977,
+    "Longitude": -84.29999629966915,
+    "Elevation": 170.60000610351562,
+    "Time": "06/23/2021, 21:43:57",
+    "Speed": 5.754607130573061,
+    "Distance": 0.003197596404985624,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17284349910915,
+    "Longitude": -84.29998749867082,
+    "Elevation": 170.60000610351562,
+    "Time": "06/23/2021, 21:43:59",
+    "Speed": 4.967848762071107,
+    "Distance": 0.009661495986755808,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17298045940697,
+    "Longitude": -84.30003192275763,
+    "Elevation": 170.39999389648438,
+    "Time": "06/23/2021, 21:44:06",
+    "Speed": 6.84073401029707,
+    "Distance": 0.013303892157819098,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17317148298025,
+    "Longitude": -84.30006972514093,
+    "Elevation": 170.60000610351562,
+    "Time": "06/23/2021, 21:44:13",
+    "Speed": 6.302403294947805,
+    "Distance": 0.012256944012858671,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.173347083851695,
+    "Longitude": -84.30010912008584,
+    "Elevation": 170.60000610351562,
+    "Time": "06/23/2021, 21:44:20",
+    "Speed": 5.846935523590314,
+    "Distance": 0.0016244497309891345,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17337013408542,
+    "Longitude": -84.30011632852256,
+    "Elevation": 170.8000030517578,
+    "Time": "06/23/2021, 21:44:21",
+    "Speed": 7.239811749957714,
+    "Distance": 0.014080020450929102,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17357222177088,
+    "Longitude": -84.30015731602907,
+    "Elevation": 170.8000030517578,
+    "Time": "06/23/2021, 21:44:28",
+    "Speed": 6.199180814665769,
+    "Distance": 0.01205619644046838,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.173744805157185,
+    "Longitude": -84.30019763298333,
+    "Elevation": 171.0,
+    "Time": "06/23/2021, 21:44:35",
+    "Speed": 5.677678331098173,
+    "Distance": 0.0031548502631449623,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17379015125334,
+    "Longitude": -84.30020584724844,
+    "Elevation": 171.0,
+    "Time": "06/23/2021, 21:44:37",
+    "Speed": 6.709152687184339,
+    "Distance": 0.00931999440894235,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17392292059958,
+    "Longitude": -84.30024331435561,
+    "Elevation": 171.1999969482422,
+    "Time": "06/23/2021, 21:44:42",
+    "Speed": 7.04956961873707,
+    "Distance": 0.0058757299911431395,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.1740064881742,
+    "Longitude": -84.300268124789,
+    "Elevation": 171.1999969482422,
+    "Time": "06/23/2021, 21:44:45",
+    "Speed": 5.453500745789589,
+    "Distance": 0.012121136323401229,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17417890392244,
+    "Longitude": -84.30031908676028,
+    "Elevation": 170.60000610351562,
+    "Time": "06/23/2021, 21:44:53",
+    "Speed": 6.641453393271488,
+    "Distance": 0.0018451900375073625,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17420295998454,
+    "Longitude": -84.3003373593092,
+    "Elevation": 170.60000610351562,
+    "Time": "06/23/2021, 21:44:54",
+    "Speed": 5.435351219479627,
+    "Distance": 0.0075504978554076915,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17430496774614,
+    "Longitude": -84.30039930157363,
+    "Elevation": 170.60000610351562,
+    "Time": "06/23/2021, 21:44:59",
+    "Speed": 6.002982697346791,
+    "Distance": 0.001667804200763528,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17432902380824,
+    "Longitude": -84.30040215142071,
+    "Elevation": 170.60000610351562,
+    "Time": "06/23/2021, 21:45:00",
+    "Speed": 6.16079686605248,
+    "Distance": 0.0068465983737014385,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17442809790373,
+    "Longitude": -84.30040223523974,
+    "Elevation": 170.60000610351562,
+    "Time": "06/23/2021, 21:45:04",
+    "Speed": 5.403978198886495,
+    "Distance": 0.0030027664563887224,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.174471432343125,
+    "Longitude": -84.30040726438165,
+    "Elevation": 170.60000610351562,
+    "Time": "06/23/2021, 21:45:06",
+    "Speed": 5.812551599904499,
+    "Distance": 0.004844690613431293,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17454150505364,
+    "Longitude": -84.30041095241904,
+    "Elevation": 170.8000030517578,
+    "Time": "06/23/2021, 21:45:09",
+    "Speed": 4.773681518571043,
+    "Distance": 0.009283878604729625,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17467444203794,
+    "Longitude": -84.30044163018465,
+    "Elevation": 171.1999969482422,
+    "Time": "06/23/2021, 21:45:16",
+    "Speed": 4.449651131039235,
+    "Distance": 0.0012362432514688789,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17469212785363,
+    "Longitude": -84.30044590495527,
+    "Elevation": 171.1999969482422,
+    "Time": "06/23/2021, 21:45:17",
+    "Speed": 5.195752488619376,
+    "Distance": 0.0057741281383182665,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17477460578084,
+    "Longitude": -84.30046702735126,
+    "Elevation": 171.1999969482422,
+    "Time": "06/23/2021, 21:45:21",
+    "Speed": 6.507961837135591,
+    "Distance": 0.009040510890678343,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17490444146097,
+    "Longitude": -84.30049234069884,
+    "Elevation": 171.1999969482422,
+    "Time": "06/23/2021, 21:45:26",
+    "Speed": 6.646733068599315,
+    "Distance": 0.005539970657285099,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17498457245529,
+    "Longitude": -84.3004959449172,
+    "Elevation": 171.1999969482422,
+    "Time": "06/23/2021, 21:45:29",
+    "Speed": 4.591679924231644,
+    "Distance": 0.0076542180302266736,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17509521357715,
+    "Longitude": -84.30048798210919,
+    "Elevation": 171.39999389648438,
+    "Time": "06/23/2021, 21:45:35",
+    "Speed": 5.67116526772791,
+    "Distance": 0.004726846836117617,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17516360990703,
+    "Longitude": -84.30048814974725,
+    "Elevation": 171.8000030517578,
+    "Time": "06/23/2021, 21:45:38",
+    "Speed": 5.394580876774896,
+    "Distance": 0.0059950895088338825,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.1752499435097,
+    "Longitude": -84.30047473870218,
+    "Elevation": 171.8000030517578,
+    "Time": "06/23/2021, 21:45:42",
+    "Speed": 5.440628094665519,
+    "Distance": 0.0060462625654981285,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.175335355103016,
+    "Longitude": -84.30044473148882,
+    "Elevation": 171.8000030517578,
+    "Time": "06/23/2021, 21:45:46",
+    "Speed": 5.563668529937644,
+    "Distance": 0.004637249620919467,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17540207505226,
+    "Longitude": -84.30043341591954,
+    "Elevation": 171.8000030517578,
+    "Time": "06/23/2021, 21:45:49",
+    "Speed": 5.043390067970803,
+    "Distance": 0.008407207782059847,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.17552302591503,
+    "Longitude": -84.30041279643774,
+    "Elevation": 172.0,
+    "Time": "06/23/2021, 21:45:55",
+    "Speed": 5.592517466656683,
+    "Distance": 0.01087635466532182,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.17567750439048,
+    "Longitude": -84.30036518722773,
+    "Elevation": 172.1999969482422,
+    "Time": "06/23/2021, 21:46:02",
+    "Speed": 5.289661339244217,
+    "Distance": 0.013226603943896815,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.1758662648499,
+    "Longitude": -84.30031514726579,
+    "Elevation": 171.8000030517578,
+    "Time": "06/23/2021, 21:46:11",
+    "Speed": 6.271218670081041,
+    "Distance": 0.0017423280007937694,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.175889901816845,
+    "Longitude": -84.30030123330653,
+    "Elevation": 171.60000610351562,
+    "Time": "06/23/2021, 21:46:12",
+    "Speed": 5.5154973329512265,
+    "Distance": 0.0030647330118948293,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.17593223042786,
+    "Longitude": -84.30028036236763,
+    "Elevation": 171.8000030517578,
+    "Time": "06/23/2021, 21:46:14",
+    "Speed": 6.03877202739086,
+    "Distance": 0.01006648514164851,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.176069693639874,
+    "Longitude": -84.30020408704877,
+    "Elevation": 171.39999389648438,
+    "Time": "06/23/2021, 21:46:20",
+    "Speed": 7.381203330953592,
+    "Distance": 0.0020507142103699744,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.176098024472594,
+    "Longitude": -84.30019008927047,
+    "Elevation": 171.39999389648438,
+    "Time": "06/23/2021, 21:46:21",
+    "Speed": 5.733382531635985,
+    "Distance": 0.012743211104137314,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.17627387680113,
+    "Longitude": -84.30010224692523,
+    "Elevation": 171.60000610351562,
+    "Time": "06/23/2021, 21:46:29",
+    "Speed": 5.557247285455073,
+    "Distance": 0.0030879317281591184,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.17631662450731,
+    "Longitude": -84.30008162744343,
+    "Elevation": 171.60000610351562,
+    "Time": "06/23/2021, 21:46:31",
+    "Speed": 5.831850369808728,
+    "Distance": 0.012962069071816868,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.17649356648326,
+    "Longitude": -84.29998314008117,
+    "Elevation": 171.60000610351562,
+    "Time": "06/23/2021, 21:46:39",
+    "Speed": 7.052767750141709,
+    "Distance": 0.011756791189048151,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.17664997279644,
+    "Longitude": -84.29987719282508,
+    "Elevation": 171.60000610351562,
+    "Time": "06/23/2021, 21:46:45",
+    "Speed": 6.817146828799748,
+    "Distance": 0.013258019694648489,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.17682725004852,
+    "Longitude": -84.29976110346615,
+    "Elevation": 171.39999389648438,
+    "Time": "06/23/2021, 21:46:52",
+    "Speed": 5.51364438290991,
+    "Distance": 0.012254813617767315,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.17698826640844,
+    "Longitude": -84.29964350536466,
+    "Elevation": 171.39999389648438,
+    "Time": "06/23/2021, 21:47:00",
+    "Speed": 5.3568267364311914,
+    "Distance": 0.0029765663451707257,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.177026487886906,
+    "Longitude": -84.29961207322776,
+    "Elevation": 171.39999389648438,
+    "Time": "06/23/2021, 21:47:02",
+    "Speed": 4.9095872833534875,
+    "Distance": 0.008184161815569975,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.177132938057184,
+    "Longitude": -84.29952993057668,
+    "Elevation": 171.39999389648438,
+    "Time": "06/23/2021, 21:47:08",
+    "Speed": 6.31124495409263,
+    "Distance": 0.010520690840373974,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.17725095525384,
+    "Longitude": -84.29937771521509,
+    "Elevation": 171.39999389648438,
+    "Time": "06/23/2021, 21:47:14",
+    "Speed": 5.5890601629570655,
+    "Distance": 0.010869630884583188,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.17736670933664,
+    "Longitude": -84.29920915514231,
+    "Elevation": 171.39999389648438,
+    "Time": "06/23/2021, 21:47:21",
+    "Speed": 5.496426903235174,
+    "Distance": 0.01221654546158452,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.17750417254865,
+    "Longitude": -84.29903321899474,
+    "Elevation": 171.60000610351562,
+    "Time": "06/23/2021, 21:47:29",
+    "Speed": 6.125694939216383,
+    "Distance": 0.0017018972513008334,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.17752646841109,
+    "Longitude": -84.29901662282646,
+    "Elevation": 171.60000610351562,
+    "Time": "06/23/2021, 21:47:30",
+    "Speed": 4.952144822700381,
+    "Distance": 0.0055034027945737515,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.1775743290782,
+    "Longitude": -84.29891587235034,
+    "Elevation": 171.8000030517578,
+    "Time": "06/23/2021, 21:47:34",
+    "Speed": 5.184618817474775,
+    "Distance": 0.0014404387750382571,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.17758564464748,
+    "Longitude": -84.29888812825084,
+    "Elevation": 171.8000030517578,
+    "Time": "06/23/2021, 21:47:35",
+    "Speed": 5.457957038848961,
+    "Distance": 0.0030327602579972236,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.17760073207319,
+    "Longitude": -84.29882291704416,
+    "Elevation": 171.8000030517578,
+    "Time": "06/23/2021, 21:47:37",
+    "Speed": 4.933325064502417,
+    "Distance": 0.010964976154198385,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.177698297426105,
+    "Longitude": -84.29862485267222,
+    "Elevation": 171.8000030517578,
+    "Time": "06/23/2021, 21:47:45",
+    "Speed": 4.5119078941551924,
+    "Distance": 0.011281860013340453,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.177802903577685,
+    "Longitude": -84.29842645302415,
+    "Elevation": 171.60000610351562,
+    "Time": "06/23/2021, 21:47:54",
+    "Speed": 5.909170461051697,
+    "Distance": 0.004925221251591639,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.17783877812326,
+    "Longitude": -84.29832897149026,
+    "Elevation": 171.60000610351562,
+    "Time": "06/23/2021, 21:47:57",
+    "Speed": 6.1146410446051975,
+    "Distance": 0.003397652312028477,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.17786384001374,
+    "Longitude": -84.29826200008392,
+    "Elevation": 171.60000610351562,
+    "Time": "06/23/2021, 21:47:59",
+    "Speed": 7.301337773663744,
+    "Distance": 0.006085575666655803,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.17789694853127,
+    "Longitude": -84.29813283495605,
+    "Elevation": 171.60000610351562,
+    "Time": "06/23/2021, 21:48:02",
+    "Speed": 5.283236412452215,
+    "Distance": 0.004403512883458308,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.17792955413461,
+    "Longitude": -84.29804616607726,
+    "Elevation": 171.60000610351562,
+    "Time": "06/23/2021, 21:48:05",
+    "Speed": 7.527919189288218,
+    "Distance": 0.008365904670991228,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.178045308217406,
+    "Longitude": -84.29799009114504,
+    "Elevation": 171.60000610351562,
+    "Time": "06/23/2021, 21:48:09",
+    "Speed": 5.601370490540248,
+    "Distance": 0.014006021230839778,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.17821294628084,
+    "Longitude": -84.29780979640782,
+    "Elevation": 171.8000030517578,
+    "Time": "06/23/2021, 21:48:18",
+    "Speed": 6.79501874762527,
+    "Distance": 0.0037757099705002396,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.1782580409199,
+    "Longitude": -84.29776092991233,
+    "Elevation": 171.8000030517578,
+    "Time": "06/23/2021, 21:48:20",
+    "Speed": 5.703436557320141,
+    "Distance": 0.009507489121990337,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.178358456119895,
+    "Longitude": -84.297612067312,
+    "Elevation": 171.8000030517578,
+    "Time": "06/23/2021, 21:48:26",
+    "Speed": 5.93254482079348,
+    "Distance": 0.013185875984897158,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.17850907891989,
+    "Longitude": -84.29742665961385,
+    "Elevation": 172.1999969482422,
+    "Time": "06/23/2021, 21:48:34",
+    "Speed": 8.574079462251122,
+    "Distance": 0.0023821300952846323,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17853749357164,
+    "Longitude": -84.29739573039114,
+    "Elevation": 172.1999969482422,
+    "Time": "06/23/2021, 21:48:35",
+    "Speed": 4.90431347045442,
+    "Distance": 0.010900493998092245,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.178633047267795,
+    "Longitude": -84.29719707928598,
+    "Elevation": 172.39999389648438,
+    "Time": "06/23/2021, 21:48:43",
+    "Speed": 5.1101421806707945,
+    "Distance": 0.002839493973283825,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.178642770275474,
+    "Longitude": -84.29713387973607,
+    "Elevation": 172.39999389648438,
+    "Time": "06/23/2021, 21:48:45",
+    "Speed": 5.223272378901827,
+    "Distance": 0.007255889325747058,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.178697587922215,
+    "Longitude": -84.29699214175344,
+    "Elevation": 172.39999389648438,
+    "Time": "06/23/2021, 21:48:50",
+    "Speed": 5.864372336585456,
+    "Distance": 0.00977576512634778,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17876003310084,
+    "Longitude": -84.29679122753441,
+    "Elevation": 172.8000030517578,
+    "Time": "06/23/2021, 21:48:56",
+    "Speed": 5.784340407592491,
+    "Distance": 0.011249412836530389,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17886916548014,
+    "Longitude": -84.29660003632307,
+    "Elevation": 172.60000610351562,
+    "Time": "06/23/2021, 21:49:03",
+    "Speed": 4.5205911024682,
+    "Distance": 0.010047619606117466,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.178972681984305,
+    "Longitude": -84.29643843322992,
+    "Elevation": 172.8000030517578,
+    "Time": "06/23/2021, 21:49:11",
+    "Speed": 5.532867315557653,
+    "Distance": 0.010760346766721381,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17906027287245,
+    "Longitude": -84.29623466916382,
+    "Elevation": 173.0,
+    "Time": "06/23/2021, 21:49:18",
+    "Speed": 5.742818971158164,
+    "Distance": 0.011168661748748213,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17914727702737,
+    "Longitude": -84.29601908661425,
+    "Elevation": 173.1999969482422,
+    "Time": "06/23/2021, 21:49:25",
+    "Speed": 5.91595092279177,
+    "Distance": 0.011505369594739466,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17924517765641,
+    "Longitude": -84.2958059348166,
+    "Elevation": 173.1999969482422,
+    "Time": "06/23/2021, 21:49:32",
+    "Speed": 3.96171585816,
+    "Distance": 0.0011006805589146656,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17925138026476,
+    "Longitude": -84.29578271694481,
+    "Elevation": 173.1999969482422,
+    "Time": "06/23/2021, 21:49:33",
+    "Speed": 4.4057944077769875,
+    "Distance": 0.007344351424739506,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17930561117828,
+    "Longitude": -84.29563804529607,
+    "Elevation": 173.60000610351562,
+    "Time": "06/23/2021, 21:49:39",
+    "Speed": 4.068428931740342,
+    "Distance": 0.0022606571449434332,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.179313238710165,
+    "Longitude": -84.29558767005801,
+    "Elevation": 173.8000030517578,
+    "Time": "06/23/2021, 21:49:41",
+    "Speed": 5.3568267364311914,
+    "Distance": 0.0029765663451707257,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17931206524372,
+    "Longitude": -84.29551952518523,
+    "Elevation": 173.8000030517578,
+    "Time": "06/23/2021, 21:49:43",
+    "Speed": 5.503986183424018,
+    "Distance": 0.006116673487475616,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17935439385474,
+    "Longitude": -84.29539647884667,
+    "Elevation": 174.0,
+    "Time": "06/23/2021, 21:49:47",
+    "Speed": 4.500045162869722,
+    "Distance": 0.0025004883754127347,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17937492951751,
+    "Longitude": -84.29534928873181,
+    "Elevation": 174.0,
+    "Time": "06/23/2021, 21:49:49",
+    "Speed": 5.751467317416548,
+    "Distance": 0.01118548109383484,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17945941910148,
+    "Longitude": -84.29513077251613,
+    "Elevation": 174.1999969482422,
+    "Time": "06/23/2021, 21:49:56",
+    "Speed": 5.527430749286976,
+    "Distance": 0.012285455664784506,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.1795773524791,
+    "Longitude": -84.29492021910846,
+    "Elevation": 174.1999969482422,
+    "Time": "06/23/2021, 21:50:04",
+    "Speed": 4.90179823504563,
+    "Distance": 0.002723725887571742,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17960895225406,
+    "Longitude": -84.29488291963935,
+    "Elevation": 174.39999389648438,
+    "Time": "06/23/2021, 21:50:06",
+    "Speed": 6.1762069109888476,
+    "Distance": 0.010295585728226057,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17971992865205,
+    "Longitude": -84.29472559131682,
+    "Elevation": 174.39999389648438,
+    "Time": "06/23/2021, 21:50:12",
+    "Speed": 5.480862784279848,
+    "Distance": 0.009136464090896588,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17980215512216,
+    "Longitude": -84.29456172510982,
+    "Elevation": 174.60000610351562,
+    "Time": "06/23/2021, 21:50:18",
+    "Speed": 5.101861277191373,
+    "Distance": 0.011339570475288335,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.179916735738516,
+    "Longitude": -84.29437581449747,
+    "Elevation": 174.0,
+    "Time": "06/23/2021, 21:50:26",
+    "Speed": 5.728488520204328,
+    "Distance": 0.007957708442375751,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.17999711818993,
+    "Longitude": -84.29424530826509,
+    "Elevation": 174.0,
+    "Time": "06/23/2021, 21:50:31",
+    "Speed": 6.485990836673763,
+    "Distance": 0.0036039959829633783,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.180036345496774,
+    "Longitude": -84.2941909097135,
+    "Elevation": 173.8000030517578,
+    "Time": "06/23/2021, 21:50:33",
+    "Speed": 4.937323128886723,
+    "Distance": 0.010973862388140741,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.18014447204769,
+    "Longitude": -84.29400684311986,
+    "Elevation": 173.8000030517578,
+    "Time": "06/23/2021, 21:50:41",
+    "Speed": 4.970371602631296,
+    "Distance": 0.006904573156514409,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.180229967460036,
+    "Longitude": -84.2939250357449,
+    "Elevation": 174.0,
+    "Time": "06/23/2021, 21:50:46",
+    "Speed": 5.878987816817015,
+    "Distance": 0.004900064387054781,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.18029626831412,
+    "Longitude": -84.29388530552387,
+    "Elevation": 174.1999969482422,
+    "Time": "06/23/2021, 21:50:49",
+    "Speed": 6.632092050421563,
+    "Distance": 0.012898124278290155,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.18046575039625,
+    "Longitude": -84.29376158863306,
+    "Elevation": 174.39999389648438,
+    "Time": "06/23/2021, 21:50:56",
+    "Speed": 7.372032231949885,
+    "Distance": 0.0020481662107812433,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.18049357831478,
+    "Longitude": -84.29374541155994,
+    "Elevation": 174.39999389648438,
+    "Time": "06/23/2021, 21:50:57",
+    "Speed": 5.7040618777370815,
+    "Distance": 0.011093286768453925,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.180635986849666,
+    "Longitude": -84.29362814873457,
+    "Elevation": 174.60000610351562,
+    "Time": "06/23/2021, 21:51:04",
+    "Speed": 5.634819793526622,
+    "Distance": 0.0015655177760786853,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.180657444521785,
+    "Longitude": -84.29361674934626,
+    "Elevation": 174.60000610351562,
+    "Time": "06/23/2021, 21:51:05",
+    "Speed": 4.961594564885759,
+    "Distance": 0.012406285021133591,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.180826507508755,
+    "Longitude": -84.2935211956501,
+    "Elevation": 174.39999389648438,
+    "Time": "06/23/2021, 21:51:14",
+    "Speed": 5.364188629991205,
+    "Distance": 0.00149032852197649,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.180843606591225,
+    "Longitude": -84.29350040853024,
+    "Elevation": 174.39999389648438,
+    "Time": "06/23/2021, 21:51:15",
+    "Speed": 4.258010504015438,
+    "Distance": 0.008280999154039946,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.18094175867736,
+    "Longitude": -84.29339161142707,
+    "Elevation": 174.39999389648438,
+    "Time": "06/23/2021, 21:51:22",
+    "Speed": 4.676969860447605,
+    "Distance": 0.0012993990443361603,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.18095852248371,
+    "Longitude": -84.293378200382,
+    "Elevation": 174.39999389648438,
+    "Time": "06/23/2021, 21:51:23",
+    "Speed": 5.13850219620375,
+    "Distance": 0.004282878685748512,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.18101090937853,
+    "Longitude": -84.29332581348717,
+    "Elevation": 174.60000610351562,
+    "Time": "06/23/2021, 21:51:26",
+    "Speed": 7.673850340832993,
+    "Distance": 0.00852808044249642,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.181111827492714,
+    "Longitude": -84.29321341216564,
+    "Elevation": 174.60000610351562,
+    "Time": "06/23/2021, 21:51:30",
+    "Speed": 5.831487846603906,
+    "Distance": 0.012961263315406283,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.18129094876349,
+    "Longitude": -84.29312540218234,
+    "Elevation": 174.39999389648438,
+    "Time": "06/23/2021, 21:51:38",
+    "Speed": 4.745840515121182,
+    "Distance": 0.007911199961417042,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.181402595713735,
+    "Longitude": -84.29308533668518,
+    "Elevation": 174.0,
+    "Time": "06/23/2021, 21:51:44",
+    "Speed": 6.451614518790306,
+    "Distance": 0.005377341734252129,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.181479793041945,
+    "Longitude": -84.29306983016431,
+    "Elevation": 174.0,
+    "Time": "06/23/2021, 21:51:47",
+    "Speed": 6.196837230690456,
+    "Distance": 0.006886650644094844,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.18157769367099,
+    "Longitude": -84.29304040968418,
+    "Elevation": 174.1999969482422,
+    "Time": "06/23/2021, 21:51:51",
+    "Speed": 6.050514567471734,
+    "Distance": 0.013448079558010851,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.181766118854284,
+    "Longitude": -84.29296346381307,
+    "Elevation": 174.1999969482422,
+    "Time": "06/23/2021, 21:51:59",
+    "Speed": 6.872280877254222,
+    "Distance": 0.01336524465526795,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.181954711675644,
+    "Longitude": -84.29289565421641,
+    "Elevation": 174.1999969482422,
+    "Time": "06/23/2021, 21:52:06",
+    "Speed": 6.917535456955273,
+    "Distance": 0.001921893711127943,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.18198228813708,
+    "Longitude": -84.29289012216032,
+    "Elevation": 174.1999969482422,
+    "Time": "06/23/2021, 21:52:07",
+    "Speed": 6.019746417448808,
+    "Distance": 0.013379693220824653,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.18217498809099,
+    "Longitude": -84.29291971027851,
+    "Elevation": 174.1999969482422,
+    "Time": "06/23/2021, 21:52:15",
+    "Speed": 5.638500433916883,
+    "Distance": 0.007832701828251073,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.18228822760284,
+    "Longitude": -84.29291241802275,
+    "Elevation": 174.1999969482422,
+    "Time": "06/23/2021, 21:52:20",
+    "Speed": 7.18371163775141,
+    "Distance": 0.0059875357221057975,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.18237330392003,
+    "Longitude": -84.29288651794195,
+    "Elevation": 174.1999969482422,
+    "Time": "06/23/2021, 21:52:23",
+    "Speed": 6.490122668323522,
+    "Distance": 0.012622021546287785,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.18255552649498,
+    "Longitude": -84.29286690428853,
+    "Elevation": 174.1999969482422,
+    "Time": "06/23/2021, 21:52:30",
+    "Speed": 6.596397787287844,
+    "Distance": 0.012828705904959308,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.18274076655507,
+    "Longitude": -84.29288601502776,
+    "Elevation": 174.60000610351562,
+    "Time": "06/23/2021, 21:52:37",
+    "Speed": 6.088770582673751,
+    "Distance": 0.0016916385848916315,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.1827651578933,
+    "Longitude": -84.29288324899971,
+    "Elevation": 174.8000030517578,
+    "Time": "06/23/2021, 21:52:38",
+    "Speed": 6.49467704765934,
+    "Distance": 0.003608822549988756,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.18281737715006,
+    "Longitude": -84.29288232699037,
+    "Elevation": 174.60000610351562,
+    "Time": "06/23/2021, 21:52:40",
+    "Speed": 6.924866376776921,
+    "Distance": 0.003847860910216932,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.18287303298712,
+    "Longitude": -84.29288014769554,
+    "Elevation": 174.8000030517578,
+    "Time": "06/23/2021, 21:52:42",
+    "Speed": 7.700252541665117,
+    "Distance": 0.008557421657473889,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.182996582239866,
+    "Longitude": -84.29286698810756,
+    "Elevation": 174.60000610351562,
+    "Time": "06/23/2021, 21:52:46",
+    "Speed": 7.618736885086269,
+    "Distance": 0.008466831921454636,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.18311795219779,
+    "Longitude": -84.29284050129354,
+    "Elevation": 174.60000610351562,
+    "Time": "06/23/2021, 21:52:50",
+    "Speed": 6.484252198166673,
+    "Distance": 0.007206059787373575,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.18321954086423,
+    "Longitude": -84.29280328564346,
+    "Elevation": 174.39999389648438,
+    "Time": "06/23/2021, 21:52:54",
+    "Speed": 5.250328596289782,
+    "Distance": 0.011669558990601384,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.1833870112896,
+    "Longitude": -84.29276908747852,
+    "Elevation": 174.60000610351562,
+    "Time": "06/23/2021, 21:53:02",
+    "Speed": 6.42054136462054,
+    "Distance": 0.012486699494696317,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.18356638401747,
+    "Longitude": -84.29273472167552,
+    "Elevation": 174.60000610351562,
+    "Time": "06/23/2021, 21:53:09",
+    "Speed": 5.244083598912959,
+    "Distance": 0.002913919661733415,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18360837735236,
+    "Longitude": -84.2927288543433,
+    "Elevation": 174.8000030517578,
+    "Time": "06/23/2021, 21:53:11",
+    "Speed": 4.987664344416476,
+    "Distance": 0.011085752486733462,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18376788496971,
+    "Longitude": -84.29270194843411,
+    "Elevation": 174.8000030517578,
+    "Time": "06/23/2021, 21:53:19",
+    "Speed": 5.6187889792692385,
+    "Distance": 0.0031221278938454644,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.183813063427806,
+    "Longitude": -84.29270119406283,
+    "Elevation": 174.60000610351562,
+    "Time": "06/23/2021, 21:53:21",
+    "Speed": 6.047893418417234,
+    "Distance": 0.0016802817128665876,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18383728712797,
+    "Longitude": -84.29269775748253,
+    "Elevation": 174.60000610351562,
+    "Time": "06/23/2021, 21:53:22",
+    "Speed": 6.181579950967442,
+    "Distance": 0.003434847484779786,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18388699181378,
+    "Longitude": -84.29269725456834,
+    "Elevation": 174.60000610351562,
+    "Time": "06/23/2021, 21:53:24",
+    "Speed": 5.509361046238008,
+    "Distance": 0.0015306616659914512,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18390912003815,
+    "Longitude": -84.29269792512059,
+    "Elevation": 174.60000610351562,
+    "Time": "06/23/2021, 21:53:25",
+    "Speed": 6.950058134874943,
+    "Distance": 0.0019309294624517772,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18393703177571,
+    "Longitude": -84.29269507527351,
+    "Elevation": 174.60000610351562,
+    "Time": "06/23/2021, 21:53:26",
+    "Speed": 6.725058282415634,
+    "Distance": 0.005605253764307693,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18401808477938,
+    "Longitude": -84.29268996231258,
+    "Elevation": 174.60000610351562,
+    "Time": "06/23/2021, 21:53:29",
+    "Speed": 5.42122671025017,
+    "Distance": 0.007530876846140895,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18412637896836,
+    "Longitude": -84.29270915687084,
+    "Elevation": 174.8000030517578,
+    "Time": "06/23/2021, 21:53:34",
+    "Speed": 6.506482294855828,
+    "Distance": 0.012653837826061326,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18430927209556,
+    "Longitude": -84.29269532673061,
+    "Elevation": 175.0,
+    "Time": "06/23/2021, 21:53:41",
+    "Speed": 5.567129546831023,
+    "Distance": 0.012373691563033534,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18448763899505,
+    "Longitude": -84.29267068393528,
+    "Elevation": 175.1999969482422,
+    "Time": "06/23/2021, 21:53:49",
+    "Speed": 6.635791936790503,
+    "Distance": 0.011061702715681772,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18464572168887,
+    "Longitude": -84.29263095371425,
+    "Elevation": 175.1999969482422,
+    "Time": "06/23/2021, 21:53:55",
+    "Speed": 7.574539328615674,
+    "Distance": 0.006313285818746702,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18473683297634,
+    "Longitude": -84.29262039251626,
+    "Elevation": 175.1999969482422,
+    "Time": "06/23/2021, 21:53:58",
+    "Speed": 6.28730758444242,
+    "Distance": 0.00873398985929118,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18486231006682,
+    "Longitude": -84.29259650409222,
+    "Elevation": 175.1999969482422,
+    "Time": "06/23/2021, 21:54:03",
+    "Speed": 5.8348705205906874,
+    "Distance": 0.006484390880855634,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18495534919202,
+    "Longitude": -84.29257722571492,
+    "Elevation": 175.0,
+    "Time": "06/23/2021, 21:54:07",
+    "Speed": 5.000105860502601,
+    "Distance": 0.004167527033899838,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18501486070454,
+    "Longitude": -84.29256163537502,
+    "Elevation": 174.8000030517578,
+    "Time": "06/23/2021, 21:54:10",
+    "Speed": 5.663075624349884,
+    "Distance": 0.012586944579676032,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.185196328908205,
+    "Longitude": -84.2925369925797,
+    "Elevation": 174.8000030517578,
+    "Time": "06/23/2021, 21:54:18",
+    "Speed": 6.12379647108371,
+    "Distance": 0.013610958410535974,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.185393219813704,
+    "Longitude": -84.29252936504781,
+    "Elevation": 174.8000030517578,
+    "Time": "06/23/2021, 21:54:26",
+    "Speed": 6.593746081183762,
+    "Distance": 0.001831935550610005,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18541970662773,
+    "Longitude": -84.29252844303846,
+    "Elevation": 174.8000030517578,
+    "Time": "06/23/2021, 21:54:27",
+    "Speed": 6.244670363659291,
+    "Distance": 0.012144664732497671,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18559530749917,
+    "Longitude": -84.2925177142024,
+    "Elevation": 174.8000030517578,
+    "Time": "06/23/2021, 21:54:34",
+    "Speed": 6.264978957598645,
+    "Distance": 0.013924755409068613,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18579613789916,
+    "Longitude": -84.29249189794064,
+    "Elevation": 174.8000030517578,
+    "Time": "06/23/2021, 21:54:42",
+    "Speed": 5.327083049668035,
+    "Distance": 0.010360136544097544,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.185945922508836,
+    "Longitude": -84.29250178858638,
+    "Elevation": 174.8000030517578,
+    "Time": "06/23/2021, 21:54:49",
+    "Speed": 6.160306623467693,
+    "Distance": 0.011980593727858424,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18611909262836,
+    "Longitude": -84.29248896427453,
+    "Elevation": 175.0,
+    "Time": "06/23/2021, 21:54:56",
+    "Speed": 5.784817761866678,
+    "Distance": 0.011250341197401502,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18628178536892,
+    "Longitude": -84.2924799118191,
+    "Elevation": 175.0,
+    "Time": "06/23/2021, 21:55:03",
+    "Speed": 6.495722154878726,
+    "Distance": 0.01263291145446978,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.186463840305805,
+    "Longitude": -84.29245384410024,
+    "Elevation": 175.0,
+    "Time": "06/23/2021, 21:55:10",
+    "Speed": 6.008614895018049,
+    "Distance": 0.0033387379800746686,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18651212006807,
+    "Longitude": -84.29245141334832,
+    "Elevation": 175.0,
+    "Time": "06/23/2021, 21:55:12",
+    "Speed": 5.70075295259587,
+    "Distance": 0.011086851555043974,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18667221441865,
+    "Longitude": -84.29243506863713,
+    "Elevation": 175.0,
+    "Time": "06/23/2021, 21:55:19",
+    "Speed": 6.565908602176513,
+    "Distance": 0.01276941039221311,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18685653246939,
+    "Longitude": -84.29241453297436,
+    "Elevation": 175.0,
+    "Time": "06/23/2021, 21:55:26",
+    "Speed": 7.013043567094451,
+    "Distance": 0.00389685731611632,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18691277503967,
+    "Longitude": -84.29240824654698,
+    "Elevation": 175.0,
+    "Time": "06/23/2021, 21:55:28",
+    "Speed": 6.919597543569034,
+    "Distance": 0.013457266333785519,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18710664846003,
+    "Longitude": -84.29237941280007,
+    "Elevation": 175.0,
+    "Time": "06/23/2021, 21:55:35",
+    "Speed": 7.60194571577236,
+    "Distance": 0.006336128706990178,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18719809502363,
+    "Longitude": -84.29236901924014,
+    "Elevation": 175.0,
+    "Time": "06/23/2021, 21:55:38",
+    "Speed": 7.152966421537971,
+    "Distance": 0.013911123241657771,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18739934451878,
+    "Longitude": -84.29237572476268,
+    "Elevation": 175.0,
+    "Time": "06/23/2021, 21:55:45",
+    "Speed": 6.651631871876987,
+    "Distance": 0.001848017916618714,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.1874260827899,
+    "Longitude": -84.29237438365817,
+    "Elevation": 175.0,
+    "Time": "06/23/2021, 21:55:46",
+    "Speed": 6.577113710549141,
+    "Distance": 0.012791202140464353,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.187611155211926,
+    "Longitude": -84.29237036034465,
+    "Elevation": 174.8000030517578,
+    "Time": "06/23/2021, 21:55:53",
+    "Speed": 6.479087866559818,
+    "Distance": 0.01440064115559148,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18781952932477,
+    "Longitude": -84.29237195290625,
+    "Elevation": 174.8000030517578,
+    "Time": "06/23/2021, 21:56:01",
+    "Speed": 6.339172267717461,
+    "Distance": 0.0017612074980885239,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18784501031041,
+    "Longitude": -84.2923710308969,
+    "Elevation": 174.8000030517578,
+    "Time": "06/23/2021, 21:56:02",
+    "Speed": 6.602255674203241,
+    "Distance": 0.012840098351395296,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18803016655147,
+    "Longitude": -84.29234663955867,
+    "Elevation": 174.60000610351562,
+    "Time": "06/23/2021, 21:56:09",
+    "Speed": 6.3258181929166,
+    "Distance": 0.003514994690914455,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18808029033244,
+    "Longitude": -84.2923329770565,
+    "Elevation": 174.60000610351562,
+    "Time": "06/23/2021, 21:56:11",
+    "Speed": 6.44836406735692,
+    "Distance": 0.012540809219791121,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.188259998336434,
+    "Longitude": -84.2922930791974,
+    "Elevation": 174.60000610351562,
+    "Time": "06/23/2021, 21:56:18",
+    "Speed": 5.867148876496614,
+    "Distance": 0.0032601311834701673,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18830702081323,
+    "Longitude": -84.29228704422712,
+    "Elevation": 174.60000610351562,
+    "Time": "06/23/2021, 21:56:20",
+    "Speed": 5.589471858867444,
+    "Distance": 0.010870431552754944,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18846418149769,
+    "Longitude": -84.29227673448622,
+    "Elevation": 174.8000030517578,
+    "Time": "06/23/2021, 21:56:27",
+    "Speed": 6.074634076057877,
+    "Distance": 0.013501688398506894,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.188658809289336,
+    "Longitude": -84.29224982857704,
+    "Elevation": 175.0,
+    "Time": "06/23/2021, 21:56:35",
+    "Speed": 6.134791010238707,
+    "Distance": 0.0664725518309391,
+    "Street": "Glendale Milford Road"
+  },
+  {
+    "Latitude": 39.18961920775473,
+    "Longitude": -84.29216584190726,
+    "Elevation": 174.8000030517578,
+    "Time": "06/23/2021, 21:57:14",
+    "Speed": 5.670966897364803,
+    "Distance": 0.011028923492645339,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.18977653607726,
+    "Longitude": -84.29212351329625,
+    "Elevation": 175.0,
+    "Time": "06/23/2021, 21:57:21",
+    "Speed": 6.112220340364124,
+    "Distance": 0.0135852289084986,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.189971666783094,
+    "Longitude": -84.29208579473197,
+    "Elevation": 175.1999969482422,
+    "Time": "06/23/2021, 21:57:29",
+    "Speed": 5.907308446135515,
+    "Distance": 0.013129784759866375,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.190161349251866,
+    "Longitude": -84.29210289381444,
+    "Elevation": 175.0,
+    "Time": "06/23/2021, 21:57:37",
+    "Speed": 5.309256538748865,
+    "Distance": 0.0029501335601617657,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19020401313901,
+    "Longitude": -84.29210113361478,
+    "Elevation": 175.0,
+    "Time": "06/23/2021, 21:57:39",
+    "Speed": 5.770152071664115,
+    "Distance": 0.014428053376827604,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19041221961379,
+    "Longitude": -84.29207682609558,
+    "Elevation": 175.0,
+    "Time": "06/23/2021, 21:57:48",
+    "Speed": 6.026207571631154,
+    "Distance": 0.010045540501472612,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.190557058900595,
+    "Longitude": -84.29205738008022,
+    "Elevation": 175.0,
+    "Time": "06/23/2021, 21:57:54",
+    "Speed": 6.648033102916002,
+    "Distance": 0.01292912651327677,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19074397534132,
+    "Longitude": -84.29204480722547,
+    "Elevation": 175.0,
+    "Time": "06/23/2021, 21:58:01",
+    "Speed": 6.3860349338670845,
+    "Distance": 0.005322681952906623,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19082075357437,
+    "Longitude": -84.29203516803682,
+    "Elevation": 175.0,
+    "Time": "06/23/2021, 21:58:04",
+    "Speed": 5.441686590410771,
+    "Distance": 0.013606737502114124,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.191016806289554,
+    "Longitude": -84.29200641810894,
+    "Elevation": 175.1999969482422,
+    "Time": "06/23/2021, 21:58:13",
+    "Speed": 5.606735789172149,
+    "Distance": 0.0015577152181173982,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19103926979005,
+    "Longitude": -84.2920031491667,
+    "Elevation": 175.39999389648438,
+    "Time": "06/23/2021, 21:58:14",
+    "Speed": 5.9707305127812145,
+    "Distance": 0.013270748803250411,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.191229958087206,
+    "Longitude": -84.29196727462113,
+    "Elevation": 175.39999389648438,
+    "Time": "06/23/2021, 21:58:22",
+    "Speed": 5.8537880727030895,
+    "Distance": 0.00487906070877834,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19130019843578,
+    "Longitude": -84.29195604287088,
+    "Elevation": 175.39999389648438,
+    "Time": "06/23/2021, 21:58:25",
+    "Speed": 5.5494391753630445,
+    "Distance": 0.013876168884142533,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19150027446449,
+    "Longitude": -84.29192930459976,
+    "Elevation": 175.1999969482422,
+    "Time": "06/23/2021, 21:58:34",
+    "Speed": 4.331520431000003,
+    "Distance": 0.0012034230872775603,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19151754118502,
+    "Longitude": -84.29192561656237,
+    "Elevation": 175.1999969482422,
+    "Time": "06/23/2021, 21:58:35",
+    "Speed": 5.290841301218709,
+    "Distance": 0.011759603907098806,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19168719090521,
+    "Longitude": -84.29190474562347,
+    "Elevation": 175.60000610351562,
+    "Time": "06/23/2021, 21:58:43",
+    "Speed": 7.857221351393135,
+    "Distance": 0.013097795649460278,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19187670573592,
+    "Longitude": -84.2919013928622,
+    "Elevation": 175.60000610351562,
+    "Time": "06/23/2021, 21:58:49",
+    "Speed": 7.880625180994523,
+    "Distance": 0.002189468210080735,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19190830551088,
+    "Longitude": -84.29189778864384,
+    "Elevation": 175.60000610351562,
+    "Time": "06/23/2021, 21:58:50",
+    "Speed": 6.291637010624593,
+    "Distance": 0.013984006504815405,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.192109890282154,
+    "Longitude": -84.29186996072531,
+    "Elevation": 175.60000610351562,
+    "Time": "06/23/2021, 21:58:58",
+    "Speed": 6.19797432764619,
+    "Distance": 0.00344395715964385,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19215967878699,
+    "Longitude": -84.29186694324017,
+    "Elevation": 175.60000610351562,
+    "Time": "06/23/2021, 21:59:00",
+    "Speed": 6.2711624841721445,
+    "Distance": 0.013938499125637209,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19235983863473,
+    "Longitude": -84.29182771593332,
+    "Elevation": 175.8000030517578,
+    "Time": "06/23/2021, 21:59:08",
+    "Speed": 7.157854524754125,
+    "Distance": 0.001988661378303737,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19238833710551,
+    "Longitude": -84.29182168096304,
+    "Elevation": 175.8000030517578,
+    "Time": "06/23/2021, 21:59:09",
+    "Speed": 6.333652364148583,
+    "Distance": 0.01231771735180937,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19256553053856,
+    "Longitude": -84.29179125465453,
+    "Elevation": 176.0,
+    "Time": "06/23/2021, 21:59:16",
+    "Speed": 5.044631945821874,
+    "Distance": 0.002803092654012215,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19260559603572,
+    "Longitude": -84.29178119637072,
+    "Elevation": 176.0,
+    "Time": "06/23/2021, 21:59:18",
+    "Speed": 6.035179291731949,
+    "Distance": 0.013413994852339472,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19279871508479,
+    "Longitude": -84.29175035096705,
+    "Elevation": 176.0,
+    "Time": "06/23/2021, 21:59:26",
+    "Speed": 6.05792965597828,
+    "Distance": 0.011781490512783328,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19296878390014,
+    "Longitude": -84.29173165932298,
+    "Elevation": 176.0,
+    "Time": "06/23/2021, 21:59:33",
+    "Speed": 5.765759201779239,
+    "Distance": 0.06247396639027017,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.193870928138494,
+    "Longitude": -84.29163996130228,
+    "Elevation": 176.60000610351562,
+    "Time": "06/23/2021, 22:00:12",
+    "Speed": 5.438052947586867,
+    "Distance": 0.0135976517116593,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.194067316129804,
+    "Longitude": -84.29165907204151,
+    "Elevation": 176.60000610351562,
+    "Time": "06/23/2021, 22:00:21",
+    "Speed": 6.074286042594174,
+    "Distance": 0.013500914847487963,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.194260770455,
+    "Longitude": -84.29161598905921,
+    "Elevation": 176.60000610351562,
+    "Time": "06/23/2021, 22:00:29",
+    "Speed": 7.199205477755461,
+    "Distance": 0.014001049178914045,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19446302577853,
+    "Longitude": -84.29159738123417,
+    "Elevation": 176.8000030517578,
+    "Time": "06/23/2021, 22:00:36",
+    "Speed": 8.694221673765462,
+    "Distance": 0.0024155091162072146,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19449797831476,
+    "Longitude": -84.29159855470061,
+    "Elevation": 176.8000030517578,
+    "Time": "06/23/2021, 22:00:37",
+    "Speed": 6.924052213423508,
+    "Distance": 0.0019237042567118708,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19452580623329,
+    "Longitude": -84.2915993090719,
+    "Elevation": 176.8000030517578,
+    "Time": "06/23/2021, 22:00:38",
+    "Speed": 6.47039972010594,
+    "Distance": 0.0988716477763593,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19595181941986,
+    "Longitude": -84.29141658358276,
+    "Elevation": 177.0,
+    "Time": "06/23/2021, 22:01:33",
+    "Speed": 6.3094581626764334,
+    "Distance": 0.010517712302823496,
+    "Street": "Clement Street"
+  },
+  {
+    "Latitude": 39.19610386714339,
+    "Longitude": -84.29140602238476,
+    "Elevation": 176.60000610351562,
+    "Time": "06/23/2021, 22:01:39",
+    "Speed": 6.636169517486522,
+    "Distance": 0.011062332133458929,
+    "Street": "Clement Street"
+  },
+  {
+    "Latitude": 39.19626387767494,
+    "Longitude": -84.291398730129,
+    "Elevation": 176.60000610351562,
+    "Time": "06/23/2021, 22:01:45",
+    "Speed": 6.2882759136293656,
+    "Distance": 0.0034941340040665118,
+    "Street": "Clement Street"
+  },
+  {
+    "Latitude": 39.19631442055106,
+    "Longitude": -84.2913957964629,
+    "Elevation": 176.60000610351562,
+    "Time": "06/23/2021, 22:01:47",
+    "Speed": 6.114122402952138,
+    "Distance": 0.013589456497528045,
+    "Street": "Clement Street"
+  },
+  {
+    "Latitude": 39.196511059999466,
+    "Longitude": -84.29139638319612,
+    "Elevation": 176.8000030517578,
+    "Time": "06/23/2021, 22:01:55",
+    "Speed": 6.752572872520045,
+    "Distance": 0.001876062279461235,
+    "Street": "Clement Street"
+  },
+  {
+    "Latitude": 39.19653813354671,
+    "Longitude": -84.29139344953,
+    "Elevation": 176.8000030517578,
+    "Time": "06/23/2021, 22:01:56",
+    "Speed": 7.091905326444656,
+    "Distance": 0.013792371332442035,
+    "Street": "Clement Street"
+  },
+  {
+    "Latitude": 39.196736700832844,
+    "Longitude": -84.29136176593602,
+    "Elevation": 177.0,
+    "Time": "06/23/2021, 22:02:03",
+    "Speed": 5.847329063167456,
+    "Distance": 0.011371913474572148,
+    "Street": "Clement Street"
+  },
+  {
+    "Latitude": 39.19689914211631,
+    "Longitude": -84.29132019169629,
+    "Elevation": 177.0,
+    "Time": "06/23/2021, 22:02:10",
+    "Speed": 6.724571630483593,
+    "Distance": 0.013077979007050794,
+    "Street": "Clement Street"
+  },
+  {
+    "Latitude": 39.19708823785186,
+    "Longitude": -84.29130845703185,
+    "Elevation": 177.0,
+    "Time": "06/23/2021, 22:02:17",
+    "Speed": 5.345633060072361,
+    "Distance": 0.011881385934721484,
+    "Street": "Clement Street"
+  },
+  {
+    "Latitude": 39.197259647771716,
+    "Longitude": -84.2913294956088,
+    "Elevation": 177.0,
+    "Time": "06/23/2021, 22:02:25",
+    "Speed": 5.228092766448756,
+    "Distance": 0.01307265398840252,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19744757004082,
+    "Longitude": -84.29129529744387,
+    "Elevation": 177.1999969482422,
+    "Time": "06/23/2021, 22:02:34",
+    "Speed": 5.248314892922539,
+    "Distance": 0.011665083264977236,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19761462137103,
+    "Longitude": -84.29125699214637,
+    "Elevation": 177.1999969482422,
+    "Time": "06/23/2021, 22:02:42",
+    "Speed": 5.165963906021929,
+    "Distance": 0.011482047159341865,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.197779493406415,
+    "Longitude": -84.29122447036207,
+    "Elevation": 177.1999969482422,
+    "Time": "06/23/2021, 22:02:50",
+    "Speed": 6.011135938991375,
+    "Distance": 0.013360555278417138,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.1979718580842,
+    "Longitude": -84.29119396023452,
+    "Elevation": 177.39999389648438,
+    "Time": "06/23/2021, 22:02:58",
+    "Speed": 5.314714682729628,
+    "Distance": 0.010336082485034698,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19811979867518,
+    "Longitude": -84.29115917533636,
+    "Elevation": 177.60000610351562,
+    "Time": "06/23/2021, 22:03:05",
+    "Speed": 7.44040543784836,
+    "Distance": 0.02687310973783995,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19850863516331,
+    "Longitude": -84.29115272127092,
+    "Elevation": 177.60000610351562,
+    "Time": "06/23/2021, 22:03:18",
+    "Speed": 6.6905059248808945,
+    "Distance": 0.0037176365314800794,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19856219552457,
+    "Longitude": -84.29114459082484,
+    "Elevation": 177.8000030517578,
+    "Time": "06/23/2021, 22:03:20",
+    "Speed": 5.8597513001793615,
+    "Distance": 0.011396072300411085,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19872673228383,
+    "Longitude": -84.29112724028528,
+    "Elevation": 177.8000030517578,
+    "Time": "06/23/2021, 22:03:27",
+    "Speed": 6.120809624669132,
+    "Distance": 0.011903779776054042,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19889663346112,
+    "Longitude": -84.29108239710331,
+    "Elevation": 177.8000030517578,
+    "Time": "06/23/2021, 22:03:34",
+    "Speed": 6.515765123811177,
+    "Distance": 0.005430810478339607,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19897458516061,
+    "Longitude": -84.29106663912535,
+    "Elevation": 177.8000030517578,
+    "Time": "06/23/2021, 22:03:37",
+    "Speed": 5.956976372554256,
+    "Distance": 0.008275111489481879,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19909411109984,
+    "Longitude": -84.29105532355607,
+    "Elevation": 178.0,
+    "Time": "06/23/2021, 22:03:42",
+    "Speed": 6.181351945144294,
+    "Distance": 0.013738883165618282,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.199291337281466,
+    "Longitude": -84.2910157609731,
+    "Elevation": 178.0,
+    "Time": "06/23/2021, 22:03:50",
+    "Speed": 6.745890463290374,
+    "Distance": 0.0018742057106942798,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.199318243190646,
+    "Longitude": -84.291010228917,
+    "Elevation": 178.1999969482422,
+    "Time": "06/23/2021, 22:03:51",
+    "Speed": 5.238134551509788,
+    "Distance": 0.010187149080279182,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.199464842677116,
+    "Longitude": -84.29098583757877,
+    "Elevation": 178.39999389648438,
+    "Time": "06/23/2021, 22:03:58",
+    "Speed": 5.223617753476099,
+    "Distance": 0.0014512738203095127,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19948562979698,
+    "Longitude": -84.29098097607493,
+    "Elevation": 178.39999389648438,
+    "Time": "06/23/2021, 22:03:59",
+    "Speed": 5.925684243956394,
+    "Distance": 0.009877970575031087,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.19962518848479,
+    "Longitude": -84.29093210957944,
+    "Elevation": 178.60000610351562,
+    "Time": "06/23/2021, 22:04:05",
+    "Speed": 6.01330436337803,
+    "Distance": 0.003341343723060928,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.199673468247056,
+    "Longitude": -84.29092867299914,
+    "Elevation": 178.39999389648438,
+    "Time": "06/23/2021, 22:04:07",
+    "Speed": 6.744761225137196,
+    "Distance": 0.028108379629519672,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.200079906731844,
+    "Longitude": -84.29090436547995,
+    "Elevation": 178.39999389648438,
+    "Time": "06/23/2021, 22:04:22",
+    "Speed": 8.328597411920159,
+    "Distance": 0.0023139280005268084,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20011326670647,
+    "Longitude": -84.29089992307127,
+    "Elevation": 178.39999389648438,
+    "Time": "06/23/2021, 22:04:23",
+    "Speed": 6.423551161507928,
+    "Distance": 0.012492552962050327,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20029339380562,
+    "Longitude": -84.29087586700916,
+    "Elevation": 178.60000610351562,
+    "Time": "06/23/2021, 22:04:30",
+    "Speed": 6.238771790669837,
+    "Distance": 0.003466626617025897,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20034351758659,
+    "Longitude": -84.29087293334305,
+    "Elevation": 178.8000030517578,
+    "Time": "06/23/2021, 22:04:32",
+    "Speed": 5.33942276630153,
+    "Distance": 0.010384134883910634,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.200492883101106,
+    "Longitude": -84.29084703326225,
+    "Elevation": 178.39999389648438,
+    "Time": "06/23/2021, 22:04:39",
+    "Speed": 6.441126051840757,
+    "Distance": 0.01431626593447343,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.200699077919126,
+    "Longitude": -84.2908154334873,
+    "Elevation": 178.39999389648438,
+    "Time": "06/23/2021, 22:04:47",
+    "Speed": 5.927996470505128,
+    "Distance": 0.011528795833432443,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20086537487805,
+    "Longitude": -84.2907945625484,
+    "Elevation": 178.60000610351562,
+    "Time": "06/23/2021, 22:04:54",
+    "Speed": 5.83027927312165,
+    "Distance": 0.012958577098860592,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20105245895684,
+    "Longitude": -84.29077452979982,
+    "Elevation": 178.8000030517578,
+    "Time": "06/23/2021, 22:05:02",
+    "Speed": 7.1892901372424145,
+    "Distance": 0.0019973951110504127,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.201081208884716,
+    "Longitude": -84.29076983593404,
+    "Elevation": 178.8000030517578,
+    "Time": "06/23/2021, 22:05:03",
+    "Speed": 7.174551798217191,
+    "Distance": 0.013953102585262417,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20128086581826,
+    "Longitude": -84.29072231054306,
+    "Elevation": 178.60000610351562,
+    "Time": "06/23/2021, 22:05:10",
+    "Speed": 6.867641851201656,
+    "Distance": 0.0038160636157875114,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20133543200791,
+    "Longitude": -84.29070889949799,
+    "Elevation": 178.39999389648438,
+    "Time": "06/23/2021, 22:05:12",
+    "Speed": 6.775569801777062,
+    "Distance": 0.013177160494024707,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20152503065765,
+    "Longitude": -84.29067688062787,
+    "Elevation": 178.39999389648438,
+    "Time": "06/23/2021, 22:05:19",
+    "Speed": 6.808280567995277,
+    "Distance": 0.0037830790138035446,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20157917775214,
+    "Longitude": -84.29068962112069,
+    "Elevation": 178.39999389648438,
+    "Time": "06/23/2021, 22:05:21",
+    "Speed": 5.3999840796292204,
+    "Distance": 0.013502461905209378,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.201774057000875,
+    "Longitude": -84.2907118331641,
+    "Elevation": 178.60000610351562,
+    "Time": "06/23/2021, 22:05:30",
+    "Speed": 6.138872116574993,
+    "Distance": 0.010233349539886962,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.2019213270396,
+    "Longitude": -84.29068735800683,
+    "Elevation": 179.0,
+    "Time": "06/23/2021, 22:05:36",
+    "Speed": 5.351562040577923,
+    "Distance": 0.0014868204860672583,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20194270089269,
+    "Longitude": -84.29068333469331,
+    "Elevation": 179.0,
+    "Time": "06/23/2021, 22:05:37",
+    "Speed": 6.934809538728516,
+    "Distance": 0.011560157738217355,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20210891403258,
+    "Longitude": -84.29065357893705,
+    "Elevation": 179.0,
+    "Time": "06/23/2021, 22:05:43",
+    "Speed": 6.427275623936723,
+    "Distance": 0.012499796314360758,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.2022892087698,
+    "Longitude": -84.2906306963414,
+    "Elevation": 179.0,
+    "Time": "06/23/2021, 22:05:50",
+    "Speed": 6.13290305499636,
+    "Distance": 0.011927299137083042,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20246078632772,
+    "Longitude": -84.29060119204223,
+    "Elevation": 178.8000030517578,
+    "Time": "06/23/2021, 22:05:57",
+    "Speed": 6.406900094257012,
+    "Distance": 0.01424019415654403,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.202666729688644,
+    "Longitude": -84.29059029556811,
+    "Elevation": 178.8000030517578,
+    "Time": "06/23/2021, 22:06:05",
+    "Speed": 6.5602287190518815,
+    "Distance": 0.012758364128399114,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.202850461006165,
+    "Longitude": -84.2905617132783,
+    "Elevation": 178.8000030517578,
+    "Time": "06/23/2021, 22:06:12",
+    "Speed": 6.201895711781417,
+    "Distance": 0.013784544440386964,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.203047938644886,
+    "Longitude": -84.29051728919148,
+    "Elevation": 178.8000030517578,
+    "Time": "06/23/2021, 22:06:20",
+    "Speed": 5.4227239879969975,
+    "Distance": 0.0015065913567866595,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20306973159313,
+    "Longitude": -84.29051552899182,
+    "Elevation": 178.8000030517578,
+    "Time": "06/23/2021, 22:06:21",
+    "Speed": 5.881604362254851,
+    "Distance": 0.01307265398840252,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20325857587159,
+    "Longitude": -84.29049817845225,
+    "Elevation": 179.0,
+    "Time": "06/23/2021, 22:06:29",
+    "Speed": 6.260421728925348,
+    "Distance": 0.0017393282946938633,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20328330248594,
+    "Longitude": -84.29049080237746,
+    "Elevation": 179.0,
+    "Time": "06/23/2021, 22:06:30",
+    "Speed": 6.29187930603781,
+    "Distance": 0.012236476908989713,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20345865190029,
+    "Longitude": -84.29045191034675,
+    "Elevation": 178.8000030517578,
+    "Time": "06/23/2021, 22:06:37",
+    "Speed": 6.127362804420714,
+    "Distance": 0.01361888506436212,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20365411788225,
+    "Longitude": -84.29041226394475,
+    "Elevation": 178.8000030517578,
+    "Time": "06/23/2021, 22:06:45",
+    "Speed": 6.399361234970383,
+    "Distance": 0.0017779297539211798,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.203679263591766,
+    "Longitude": -84.29040354676545,
+    "Elevation": 178.8000030517578,
+    "Time": "06/23/2021, 22:06:46",
+    "Speed": 5.54906212171162,
+    "Distance": 0.012333534289184399,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.203855618834496,
+    "Longitude": -84.29036021232605,
+    "Elevation": 178.8000030517578,
+    "Time": "06/23/2021, 22:06:54",
+    "Speed": 6.754617186357726,
+    "Distance": 0.013136411747538804,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20404555276036,
+    "Longitude": -84.29037228226662,
+    "Elevation": 178.60000610351562,
+    "Time": "06/23/2021, 22:07:01",
+    "Speed": 5.525292887609567,
+    "Distance": 0.010745615983091024,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20419944450259,
+    "Longitude": -84.2903370782733,
+    "Elevation": 178.60000610351562,
+    "Time": "06/23/2021, 22:07:08",
+    "Speed": 6.015179127061291,
+    "Distance": 0.010027156354348915,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.2043440323323,
+    "Longitude": -84.29031796753407,
+    "Elevation": 178.60000610351562,
+    "Time": "06/23/2021, 22:07:14",
+    "Speed": 6.927308292707105,
+    "Distance": 0.003849217781576256,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.204398514702916,
+    "Longitude": -84.29029961116612,
+    "Elevation": 178.60000610351562,
+    "Time": "06/23/2021, 22:07:16",
+    "Speed": 6.4569939846945665,
+    "Distance": 0.012557592724224728,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.2045771330595,
+    "Longitude": -84.29024680517614,
+    "Elevation": 178.8000030517578,
+    "Time": "06/23/2021, 22:07:23",
+    "Speed": 6.763325088708935,
+    "Distance": 0.005637148678971022,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20465810224414,
+    "Longitude": -84.29023121483624,
+    "Elevation": 178.8000030517578,
+    "Time": "06/23/2021, 22:07:26",
+    "Speed": 7.241421096191312,
+    "Distance": 0.010059393082261786,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20480319298804,
+    "Longitude": -84.29024965502322,
+    "Elevation": 178.8000030517578,
+    "Time": "06/23/2021, 22:07:31",
+    "Speed": 5.64493822572857,
+    "Distance": 0.010978302807797997,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20496152713895,
+    "Longitude": -84.29022928699851,
+    "Elevation": 178.39999389648438,
+    "Time": "06/23/2021, 22:07:38",
+    "Speed": 5.9429295341248665,
+    "Distance": 0.013208957402107261,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20515263453126,
+    "Longitude": -84.29022392258048,
+    "Elevation": 178.39999389648438,
+    "Time": "06/23/2021, 22:07:46",
+    "Speed": 6.438007193498653,
+    "Distance": 0.0017886667317246426,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20517853461206,
+    "Longitude": -84.29022341966629,
+    "Elevation": 178.39999389648438,
+    "Time": "06/23/2021, 22:07:47",
+    "Speed": 6.323908165944353,
+    "Distance": 0.012298766788627355,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.205355728045106,
+    "Longitude": -84.29024965502322,
+    "Elevation": 178.39999389648438,
+    "Time": "06/23/2021, 22:07:54",
+    "Speed": 6.267453100314956,
+    "Distance": 0.01393025452285733,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.205557061359286,
+    "Longitude": -84.29023423232138,
+    "Elevation": 178.60000610351562,
+    "Time": "06/23/2021, 22:08:02",
+    "Speed": 6.775569801777062,
+    "Distance": 0.013177160494024707,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20574741438031,
+    "Longitude": -84.29025175049901,
+    "Elevation": 178.60000610351562,
+    "Time": "06/23/2021, 22:08:09",
+    "Speed": 6.78263009324819,
+    "Distance": 0.013190891382580417,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20593827031553,
+    "Longitude": -84.29025602526963,
+    "Elevation": 178.8000030517578,
+    "Time": "06/23/2021, 22:08:16",
+    "Speed": 5.7457832964063025,
+    "Distance": 0.00159634668323445,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.205961152911186,
+    "Longitude": -84.29025149904191,
+    "Elevation": 178.8000030517578,
+    "Time": "06/23/2021, 22:08:17",
+    "Speed": 7.015722653249794,
+    "Distance": 0.011695037919386387,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20612996444106,
+    "Longitude": -84.29027019068599,
+    "Elevation": 178.8000030517578,
+    "Time": "06/23/2021, 22:08:23",
+    "Speed": 7.092294674247186,
+    "Distance": 0.013793128537906967,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20632844790816,
+    "Longitude": -84.29030329920352,
+    "Elevation": 178.8000030517578,
+    "Time": "06/23/2021, 22:08:30",
+    "Speed": 7.135767197828662,
+    "Distance": 0.0019825248727552195,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20635703019798,
+    "Longitude": -84.290307238698,
+    "Elevation": 178.8000030517578,
+    "Time": "06/23/2021, 22:08:31",
+    "Speed": 6.257888501197648,
+    "Distance": 0.013908995919405396,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20655358582735,
+    "Longitude": -84.29037571884692,
+    "Elevation": 178.60000610351562,
+    "Time": "06/23/2021, 22:08:39",
+    "Speed": 6.562192691426451,
+    "Distance": 0.012762183671248298,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.206736562773585,
+    "Longitude": -84.29041519761086,
+    "Elevation": 178.8000030517578,
+    "Time": "06/23/2021, 22:08:46",
+    "Speed": 6.760082687118219,
+    "Distance": 0.0037562974512879016,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.206789284944534,
+    "Longitude": -84.29043615236878,
+    "Elevation": 178.60000610351562,
+    "Time": "06/23/2021, 22:08:48",
+    "Speed": 5.724833730486282,
+    "Distance": 0.012724210247812652,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.2069673165679,
+    "Longitude": -84.29051041603088,
+    "Elevation": 178.60000610351562,
+    "Time": "06/23/2021, 22:08:56",
+    "Speed": 5.773190936145905,
+    "Distance": 0.0016039613273197855,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20698843896389,
+    "Longitude": -84.29052558727562,
+    "Elevation": 178.60000610351562,
+    "Time": "06/23/2021, 22:08:57",
+    "Speed": 6.707440332767259,
+    "Distance": 0.013044661977474942,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20717057771981,
+    "Longitude": -84.29060395807028,
+    "Elevation": 178.60000610351562,
+    "Time": "06/23/2021, 22:09:04",
+    "Speed": 6.729155407832252,
+    "Distance": 0.0018695562227313371,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20719622634351,
+    "Longitude": -84.29061753675342,
+    "Elevation": 178.60000610351562,
+    "Time": "06/23/2021, 22:09:05",
+    "Speed": 7.160829344939728,
+    "Distance": 0.01193692722224878,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.2073610983789,
+    "Longitude": -84.29069900885224,
+    "Elevation": 178.8000030517578,
+    "Time": "06/23/2021, 22:09:11",
+    "Speed": 6.691535730391948,
+    "Distance": 0.011154626255017718,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.207518845796585,
+    "Longitude": -84.2907530721277,
+    "Elevation": 178.8000030517578,
+    "Time": "06/23/2021, 22:09:17",
+    "Speed": 5.865440392094811,
+    "Distance": 0.009777545548736076,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20765362679958,
+    "Longitude": -84.29082113318145,
+    "Elevation": 178.60000610351562,
+    "Time": "06/23/2021, 22:09:23",
+    "Speed": 6.224598571108567,
+    "Distance": 0.010376253441026823,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20779134146869,
+    "Longitude": -84.29091576486826,
+    "Elevation": 178.8000030517578,
+    "Time": "06/23/2021, 22:09:29",
+    "Speed": 6.91360914128451,
+    "Distance": 0.013445620060436633,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.207980604842305,
+    "Longitude": -84.29098709486425,
+    "Elevation": 178.8000030517578,
+    "Time": "06/23/2021, 22:09:36",
+    "Speed": 5.842132206211416,
+    "Distance": 0.01136180660235658,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20812351629138,
+    "Longitude": -84.2911156732589,
+    "Elevation": 178.60000610351562,
+    "Time": "06/23/2021, 22:09:43",
+    "Speed": 5.9105808148793795,
+    "Distance": 0.011494925783236964,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20827656984329,
+    "Longitude": -84.29121868684888,
+    "Elevation": 178.60000610351562,
+    "Time": "06/23/2021, 22:09:50",
+    "Speed": 5.9642486445189915,
+    "Distance": 0.009942256486719609,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20839475467801,
+    "Longitude": -84.29134843870997,
+    "Elevation": 178.39999389648438,
+    "Time": "06/23/2021, 22:09:56",
+    "Speed": 6.518142603422216,
+    "Distance": 0.012676514849822318,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.208562979474664,
+    "Longitude": -84.29146410897374,
+    "Elevation": 178.39999389648438,
+    "Time": "06/23/2021, 22:10:03",
+    "Speed": 6.06278973019003,
+    "Distance": 0.0016844203440443074,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20858468860388,
+    "Longitude": -84.29148162715137,
+    "Elevation": 178.39999389648438,
+    "Time": "06/23/2021, 22:10:04",
+    "Speed": 5.802690199751554,
+    "Distance": 0.011285099599915006,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20871972106397,
+    "Longitude": -84.29162688553333,
+    "Elevation": 178.39999389648438,
+    "Time": "06/23/2021, 22:10:11",
+    "Speed": 5.679974059893851,
+    "Distance": 0.012624503617517692,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.208885012194514,
+    "Longitude": -84.29174993187189,
+    "Elevation": 178.1999969482422,
+    "Time": "06/23/2021, 22:10:19",
+    "Speed": 5.637320490314514,
+    "Distance": 0.006264850171200625,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.2089684959501,
+    "Longitude": -84.29180583916605,
+    "Elevation": 177.8000030517578,
+    "Time": "06/23/2021, 22:10:23",
+    "Speed": 5.768794918890289,
+    "Distance": 0.006410959940511521,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.209049297496676,
+    "Longitude": -84.29187792353332,
+    "Elevation": 177.8000030517578,
+    "Time": "06/23/2021, 22:10:27",
+    "Speed": 6.209787792841999,
+    "Distance": 0.0017252607060369235,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20907243154943,
+    "Longitude": -84.29189275950193,
+    "Elevation": 177.8000030517578,
+    "Time": "06/23/2021, 22:10:28",
+    "Speed": 5.537040984284355,
+    "Distance": 0.036920447100289,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.209514409303665,
+    "Longitude": -84.29236751049757,
+    "Elevation": 177.8000030517578,
+    "Time": "06/23/2021, 22:10:52",
+    "Speed": 5.846935523590314,
+    "Distance": 0.0016244497309891345,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20953519642353,
+    "Longitude": -84.29238486103714,
+    "Elevation": 177.8000030517578,
+    "Time": "06/23/2021, 22:10:53",
+    "Speed": 6.058720158069077,
+    "Distance": 0.013466317582883443,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.209695709869266,
+    "Longitude": -84.29255962371826,
+    "Elevation": 177.39999389648438,
+    "Time": "06/23/2021, 22:11:01",
+    "Speed": 6.623759749813275,
+    "Distance": 0.012881919580292495,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.20985471457243,
+    "Longitude": -84.29271351546049,
+    "Elevation": 177.60000610351562,
+    "Time": "06/23/2021, 22:11:08",
+    "Speed": 6.169712475004873,
+    "Distance": 0.0017141266104038922,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.209876926615834,
+    "Longitude": -84.29273103363812,
+    "Elevation": 177.39999389648438,
+    "Time": "06/23/2021, 22:11:09",
+    "Speed": 6.185505915861575,
+    "Distance": 0.012029601431996157,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.21002679504454,
+    "Longitude": -84.29287109524012,
+    "Elevation": 177.60000610351562,
+    "Time": "06/23/2021, 22:11:16",
+    "Speed": 7.313681548788059,
+    "Distance": 0.002031954684045088,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.210053365677595,
+    "Longitude": -84.29289104416966,
+    "Elevation": 177.60000610351562,
+    "Time": "06/23/2021, 22:11:17",
+    "Speed": 5.957023692020176,
+    "Distance": 0.013240283557026094,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.21020910143852,
+    "Longitude": -84.29306756705046,
+    "Elevation": 177.60000610351562,
+    "Time": "06/23/2021, 22:11:25",
+    "Speed": 6.07496920054729,
+    "Distance": 0.010126824943200238,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.210313372313976,
+    "Longitude": -84.29323042742908,
+    "Elevation": 177.60000610351562,
+    "Time": "06/23/2021, 22:11:31",
+    "Speed": 5.7448020337762395,
+    "Distance": 0.009576444358623511,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.21042837202549,
+    "Longitude": -84.29335271939635,
+    "Elevation": 177.60000610351562,
+    "Time": "06/23/2021, 22:11:37",
+    "Speed": 5.565807298508941,
+    "Distance": 0.009278064516690632,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.21054353937507,
+    "Longitude": -84.29346185177565,
+    "Elevation": 177.39999389648438,
+    "Time": "06/23/2021, 22:11:43",
+    "Speed": 5.724357655081673,
+    "Distance": 0.011132758093116616,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.210686618462205,
+    "Longitude": -84.29357894696295,
+    "Elevation": 177.1999969482422,
+    "Time": "06/23/2021, 22:11:50",
+    "Speed": 6.083174771522044,
+    "Distance": 0.011830587334001691,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.21084604226053,
+    "Longitude": -84.29367760196328,
+    "Elevation": 177.0,
+    "Time": "06/23/2021, 22:11:57",
+    "Speed": 4.950773877390273,
+    "Distance": 0.00962828866952069,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.21096137724817,
+    "Longitude": -84.29380123503506,
+    "Elevation": 177.0,
+    "Time": "06/23/2021, 22:12:04",
+    "Speed": 6.5578333577760475,
+    "Distance": 0.010931747672876137,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.21110060065985,
+    "Longitude": -84.293920006603,
+    "Elevation": 177.0,
+    "Time": "06/23/2021, 22:12:10",
+    "Speed": 5.577310186487839,
+    "Distance": 0.01239631939915054,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.21124426648021,
+    "Longitude": -84.29408990778029,
+    "Elevation": 177.0,
+    "Time": "06/23/2021, 22:12:18",
+    "Speed": 5.729140476585775,
+    "Distance": 0.012733782568238672,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.21139036305249,
+    "Longitude": -84.2942675203085,
+    "Elevation": 176.8000030517578,
+    "Time": "06/23/2021, 22:12:26",
+    "Speed": 5.348809444754892,
+    "Distance": 0.01040239014097452,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.21151231974363,
+    "Longitude": -84.2944070789963,
+    "Elevation": 177.0,
+    "Time": "06/23/2021, 22:12:33",
+    "Speed": 6.0334942866370405,
+    "Distance": 0.011733968489845002,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.21163964085281,
+    "Longitude": -84.29458477534354,
+    "Elevation": 177.0,
+    "Time": "06/23/2021, 22:12:40",
+    "Speed": 6.625210940638636,
+    "Distance": 0.011044064454117422,
+    "Street": "Little Miami Scenic Trail"
+  },
+  {
+    "Latitude": 39.21177903190255,
+    "Longitude": -84.29470840841532,
+    "Elevation": 177.39999389648438,
+    "Time": "06/23/2021, 22:12:46",
+    "Speed": 6.625210940638636,
+    "Distance": 0,
+    "Street": "Little Miami Scenic Trail"
+  }
+]

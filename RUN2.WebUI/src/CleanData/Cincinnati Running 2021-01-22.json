@@ -1,0 +1,5240 @@
+[
+  {
+    "Latitude": 39.131785249337554,
+    "Longitude": -84.51009037904441,
+    "Elevation": 255.39999389648438,
+    "Time": "01/22/2021, 16:50:45",
+    "Speed": 4.2207754686033425,
+    "Distance": 0.0011726548970610229,
+    "Street": "West Daniels Street"
+  },
+  {
+    "Latitude": 39.131777957081795,
+    "Longitude": -84.51006607152522,
+    "Elevation": 255.39999389648438,
+    "Time": "01/22/2021, 16:50:46",
+    "Speed": 5.4723988328600095,
+    "Distance": 0.0015203924818459446,
+    "Street": "West Daniels Street"
+  },
+  {
+    "Latitude": 39.13176597096026,
+    "Longitude": -84.51003681868315,
+    "Elevation": 255.39999389648438,
+    "Time": "01/22/2021, 16:50:47",
+    "Speed": 5.9501584409806965,
+    "Distance": 0.0016531280770578037,
+    "Street": "West Daniels Street"
+  },
+  {
+    "Latitude": 39.131750548258424,
+    "Longitude": -84.51000781729817,
+    "Elevation": 230.0,
+    "Time": "01/22/2021, 16:50:48",
+    "Speed": 6.469454905589618,
+    "Distance": 0.0017974038260948953,
+    "Street": "West Daniels Street"
+  },
+  {
+    "Latitude": 39.13173629902303,
+    "Longitude": -84.50997336767614,
+    "Elevation": 216.0,
+    "Time": "01/22/2021, 16:50:49",
+    "Speed": 5.590624446125912,
+    "Distance": 0.0015532390157081636,
+    "Street": "West Daniels Street"
+  },
+  {
+    "Latitude": 39.131728084757924,
+    "Longitude": -84.50994017533958,
+    "Elevation": 209.1999969482422,
+    "Time": "01/22/2021, 16:50:50",
+    "Speed": 5.509361046238008,
+    "Distance": 0.0015306616659914512,
+    "Street": "West Daniels Street"
+  },
+  {
+    "Latitude": 39.13172045722604,
+    "Longitude": -84.50990723446012,
+    "Elevation": 205.8000030517578,
+    "Time": "01/22/2021, 16:50:51",
+    "Speed": 5.66276451933638,
+    "Distance": 0.0015732816383858842,
+    "Street": "West Daniels Street"
+  },
+  {
+    "Latitude": 39.1317121591419,
+    "Longitude": -84.50987370684743,
+    "Elevation": 204.0,
+    "Time": "01/22/2021, 16:50:52",
+    "Speed": 5.968133362344684,
+    "Distance": 0.00331624407207929,
+    "Street": "West Daniels Street"
+  },
+  {
+    "Latitude": 39.13169992156327,
+    "Longitude": -84.50980019755661,
+    "Elevation": 202.60000610351562,
+    "Time": "01/22/2021, 16:50:54",
+    "Speed": 6.131418742718013,
+    "Distance": 0.005110462474062289,
+    "Street": "West Daniels Street"
+  },
+  {
+    "Latitude": 39.13168634288013,
+    "Longitude": -84.50968503020704,
+    "Elevation": 202.39999389648438,
+    "Time": "01/22/2021, 16:50:57",
+    "Speed": 6.4477296418686505,
+    "Distance": 0.005374103736888459,
+    "Street": "West Daniels Street"
+  },
+  {
+    "Latitude": 39.131718780845404,
+    "Longitude": -84.50957304798067,
+    "Elevation": 203.0,
+    "Time": "01/22/2021, 16:51:00",
+    "Speed": 4.247405230999009,
+    "Distance": 0.0011800534240646832,
+    "Street": "Short Vine Street"
+  },
+  {
+    "Latitude": 39.131719786673784,
+    "Longitude": -84.50954597443342,
+    "Elevation": 203.1999969482422,
+    "Time": "01/22/2021, 16:51:01",
+    "Speed": 4.412755602798091,
+    "Distance": 0.0024519851888103105,
+    "Street": "Short Vine Street"
+  },
+  {
+    "Latitude": 39.131721295416355,
+    "Longitude": -84.50948981568217,
+    "Elevation": 203.8000030517578,
+    "Time": "01/22/2021, 16:51:03",
+    "Speed": 4.5600919754165385,
+    "Distance": 0.0050677077952126556,
+    "Street": "Short Vine Street"
+  },
+  {
+    "Latitude": 39.13171953521669,
+    "Longitude": -84.50937364250422,
+    "Elevation": 204.8000030517578,
+    "Time": "01/22/2021, 16:51:07",
+    "Speed": 5.262327677591718,
+    "Distance": 0.0014620285696243492,
+    "Street": "Short Vine Street"
+  },
+  {
+    "Latitude": 39.13172188214958,
+    "Longitude": -84.50934036634862,
+    "Elevation": 205.0,
+    "Time": "01/22/2021, 16:51:08",
+    "Speed": 5.762439195620541,
+    "Distance": 0.0032019483585545103,
+    "Street": "Short Vine Street"
+  },
+  {
+    "Latitude": 39.131716433912516,
+    "Longitude": -84.50926744379103,
+    "Elevation": 206.0,
+    "Time": "01/22/2021, 16:51:10",
+    "Speed": 5.941088700700189,
+    "Distance": 0.0379639894714116,
+    "Street": "Short Vine Street"
+  },
+  {
+    "Latitude": 39.13163747638464,
+    "Longitude": -84.50840603560209,
+    "Elevation": 204.60000610351562,
+    "Time": "01/22/2021, 16:51:33",
+    "Speed": 6.528442842768948,
+    "Distance": 0.0018137924006389372,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.131633285433054,
+    "Longitude": -84.50836496427655,
+    "Elevation": 204.39999389648438,
+    "Time": "01/22/2021, 16:51:34",
+    "Speed": 6.4224206624768145,
+    "Distance": 0.00535300901234491,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.13161953911185,
+    "Longitude": -84.50824418105185,
+    "Elevation": 203.39999389648438,
+    "Time": "01/22/2021, 16:51:37",
+    "Speed": 6.779860314499942,
+    "Distance": 0.00753457411637094,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.13160101510584,
+    "Longitude": -84.50807394459844,
+    "Elevation": 202.39999389648438,
+    "Time": "01/22/2021, 16:51:41",
+    "Speed": 6.763209315419504,
+    "Distance": 0.00751606957780178,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.131590873003006,
+    "Longitude": -84.50790236704051,
+    "Elevation": 201.60000610351562,
+    "Time": "01/22/2021, 16:51:45",
+    "Speed": 6.455497057817975,
+    "Distance": 0.00358705185533985,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.13158961571753,
+    "Longitude": -84.5078201405704,
+    "Elevation": 201.1999969482422,
+    "Time": "01/22/2021, 16:51:47",
+    "Speed": 7.069091158968089,
+    "Distance": 0.001964000318661288,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.13158223964274,
+    "Longitude": -84.50777663849294,
+    "Elevation": 200.8000030517578,
+    "Time": "01/22/2021, 16:51:48",
+    "Speed": 6.154781833829891,
+    "Distance": 0.008549892207569973,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.131565392017365,
+    "Longitude": -84.50758242979646,
+    "Elevation": 200.0,
+    "Time": "01/22/2021, 16:51:53",
+    "Speed": 5.654794403466265,
+    "Distance": 0.001571067307044462,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.131563967093825,
+    "Longitude": -84.50754647143185,
+    "Elevation": 199.60000610351562,
+    "Time": "01/22/2021, 16:51:54",
+    "Speed": 6.59127562360057,
+    "Distance": 0.01098749511134519,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.13154133595526,
+    "Longitude": -84.5072971098125,
+    "Elevation": 198.8000030517578,
+    "Time": "01/22/2021, 16:52:00",
+    "Speed": 7.600956844780039,
+    "Distance": 0.0021117681650405892,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.13153538480401,
+    "Longitude": -84.50724958442152,
+    "Elevation": 198.60000610351562,
+    "Time": "01/22/2021, 16:52:01",
+    "Speed": 6.396259471208641,
+    "Distance": 0.008885339966055712,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.13151677697897,
+    "Longitude": -84.50704799965024,
+    "Elevation": 197.8000030517578,
+    "Time": "01/22/2021, 16:52:06",
+    "Speed": 6.4799035609672275,
+    "Distance": 0.005400920304651356,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.13151225075126,
+    "Longitude": -84.50692436657846,
+    "Elevation": 197.1999969482422,
+    "Time": "01/22/2021, 16:52:09",
+    "Speed": 5.233665885861815,
+    "Distance": 0.12214150077594724,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.13116683252156,
+    "Longitude": -84.50417786836624,
+    "Elevation": 199.39999389648438,
+    "Time": "01/22/2021, 16:53:33",
+    "Speed": 4.972594234497103,
+    "Distance": 0.002763064286909326,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13116649724543,
+    "Longitude": -84.50411450117826,
+    "Elevation": 200.0,
+    "Time": "01/22/2021, 16:53:35",
+    "Speed": 5.263636906795365,
+    "Distance": 0.008774353870778889,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.131189631298184,
+    "Longitude": -84.50391668826342,
+    "Elevation": 200.60000610351562,
+    "Time": "01/22/2021, 16:53:41",
+    "Speed": 4.9691918432438005,
+    "Distance": 0.0027611737192662087,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13118829019368,
+    "Longitude": -84.50385340489447,
+    "Elevation": 201.1999969482422,
+    "Time": "01/22/2021, 16:53:43",
+    "Speed": 5.071938079053557,
+    "Distance": 0.0056365310784565435,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13117823190987,
+    "Longitude": -84.50372516177595,
+    "Elevation": 202.1999969482422,
+    "Time": "01/22/2021, 16:53:47",
+    "Speed": 4.795995754304331,
+    "Distance": 0.0013324679195574098,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13117370568216,
+    "Longitude": -84.50369548983872,
+    "Elevation": 202.39999389648438,
+    "Time": "01/22/2021, 16:53:48",
+    "Speed": 4.742011253756243,
+    "Distance": 0.007904816676461294,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13115627132356,
+    "Longitude": -84.50351636856794,
+    "Elevation": 203.60000610351562,
+    "Time": "01/22/2021, 16:53:54",
+    "Speed": 4.179110049180113,
+    "Distance": 0.005805395123457753,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13114780560136,
+    "Longitude": -84.50338393449783,
+    "Elevation": 204.60000610351562,
+    "Time": "01/22/2021, 16:53:59",
+    "Speed": 4.008400784193217,
+    "Distance": 0.0022273019941156966,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.131153505295515,
+    "Longitude": -84.5033336430788,
+    "Elevation": 205.0,
+    "Time": "01/22/2021, 16:54:01",
+    "Speed": 3.7122634900300366,
+    "Distance": 0.003094126181181377,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.131165659055114,
+    "Longitude": -84.50326533056796,
+    "Elevation": 205.60000610351562,
+    "Time": "01/22/2021, 16:54:04",
+    "Speed": 2.959880759796223,
+    "Distance": 0.0016446829230839285,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13116591051221,
+    "Longitude": -84.50322761200368,
+    "Elevation": 206.1999969482422,
+    "Time": "01/22/2021, 16:54:06",
+    "Speed": 0.5298410242356731,
+    "Distance": 0.001030437353156741,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13115878589451,
+    "Longitude": -84.50320690870285,
+    "Elevation": 207.8000030517578,
+    "Time": "01/22/2021, 16:54:13",
+    "Speed": 3.266300330310088,
+    "Distance": 0.006352316474238592,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13106725551188,
+    "Longitude": -84.50319366529584,
+    "Elevation": 208.1999969482422,
+    "Time": "01/22/2021, 16:54:20",
+    "Speed": 6.572765245632471,
+    "Distance": 0.007304425842935312,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13096901960671,
+    "Longitude": -84.50313189066947,
+    "Elevation": 208.60000610351562,
+    "Time": "01/22/2021, 16:54:24",
+    "Speed": 7.7682243306753085,
+    "Distance": 0.006474719897277058,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13088168017566,
+    "Longitude": -84.50307816267014,
+    "Elevation": 208.60000610351562,
+    "Time": "01/22/2021, 16:54:27",
+    "Speed": 7.8719213546802385,
+    "Distance": 0.010935250162572118,
+    "Street": "Highland Avenue"
+  },
+  {
+    "Latitude": 39.13072678260505,
+    "Longitude": -84.50302694924176,
+    "Elevation": 208.8000030517578,
+    "Time": "01/22/2021, 16:54:32",
+    "Speed": 7.469612209550582,
+    "Distance": 0.006225830349304092,
+    "Street": "Highland Avenue"
+  },
+  {
+    "Latitude": 39.13063692860305,
+    "Longitude": -84.50301680713892,
+    "Elevation": 209.0,
+    "Time": "01/22/2021, 16:54:35",
+    "Speed": 7.5734641692121905,
+    "Distance": 0.0126247793730875,
+    "Street": "Highland Avenue"
+  },
+  {
+    "Latitude": 39.13045437075198,
+    "Longitude": -84.50300624594092,
+    "Elevation": 209.60000610351562,
+    "Time": "01/22/2021, 16:54:41",
+    "Speed": 7.591308601963335,
+    "Distance": 0.0042181752018850905,
+    "Street": "Highland Avenue"
+  },
+  {
+    "Latitude": 39.13039343431592,
+    "Longitude": -84.50301186181605,
+    "Elevation": 209.8000030517578,
+    "Time": "01/22/2021, 16:54:43",
+    "Speed": 7.536734378113045,
+    "Distance": 0.012563551710463652,
+    "Street": "Highland Avenue"
+  },
+  {
+    "Latitude": 39.13021422922611,
+    "Longitude": -84.50306030921638,
+    "Elevation": 210.0,
+    "Time": "01/22/2021, 16:54:49",
+    "Speed": 7.439024401406113,
+    "Distance": 0.006200335785607594,
+    "Street": "Highland Avenue"
+  },
+  {
+    "Latitude": 39.130124961957335,
+    "Longitude": -84.50307455845177,
+    "Elevation": 210.1999969482422,
+    "Time": "01/22/2021, 16:54:52",
+    "Speed": 6.72161103938567,
+    "Distance": 0.007469840705914868,
+    "Street": "Highland Avenue"
+  },
+  {
+    "Latitude": 39.13001859560609,
+    "Longitude": -84.50310498476028,
+    "Elevation": 210.1999969482422,
+    "Time": "01/22/2021, 16:54:56",
+    "Speed": 6.534009489955793,
+    "Distance": 0.012707372846494211,
+    "Street": "Highland Avenue"
+  },
+  {
+    "Latitude": 39.12983645685017,
+    "Longitude": -84.50314496643841,
+    "Elevation": 210.39999389648438,
+    "Time": "01/22/2021, 16:55:03",
+    "Speed": 7.506336640516999,
+    "Distance": 0.012512879426021986,
+    "Street": "Highland Avenue"
+  },
+  {
+    "Latitude": 39.129655407741666,
+    "Longitude": -84.50314840301871,
+    "Elevation": 210.8000030517578,
+    "Time": "01/22/2021, 16:55:09",
+    "Speed": 7.00902301779473,
+    "Distance": 0.003894623263696207,
+    "Street": "Highland Avenue"
+  },
+  {
+    "Latitude": 39.12959908135235,
+    "Longitude": -84.5031454693526,
+    "Elevation": 211.0,
+    "Time": "01/22/2021, 16:55:11",
+    "Speed": 6.685861232931623,
+    "Distance": 0.01300269484110566,
+    "Street": "Highland Avenue"
+  },
+  {
+    "Latitude": 39.12941115908325,
+    "Longitude": -84.50316013768315,
+    "Elevation": 211.1999969482422,
+    "Time": "01/22/2021, 16:55:18",
+    "Speed": 7.120652381246316,
+    "Distance": 0.005934976603648216,
+    "Street": "Highland Avenue"
+  },
+  {
+    "Latitude": 39.12932574748993,
+    "Longitude": -84.50317430309951,
+    "Elevation": 211.1999969482422,
+    "Time": "01/22/2021, 16:55:21",
+    "Speed": 6.915090089958563,
+    "Distance": 0.0038424286332820897,
+    "Street": "Highland Avenue"
+  },
+  {
+    "Latitude": 39.129270343109965,
+    "Longitude": -84.5031816791743,
+    "Elevation": 211.39999389648438,
+    "Time": "01/22/2021, 16:55:23",
+    "Speed": 7.308540842770254,
+    "Distance": 0.006091579336591185,
+    "Street": "Highland Avenue"
+  },
+  {
+    "Latitude": 39.12918224930763,
+    "Longitude": -84.50318612158298,
+    "Elevation": 211.60000610351562,
+    "Time": "01/22/2021, 16:55:26",
+    "Speed": 6.8541759560382225,
+    "Distance": 0.013330034118062307,
+    "Street": "Highland Avenue"
+  },
+  {
+    "Latitude": 39.12898946553469,
+    "Longitude": -84.5031959284097,
+    "Elevation": 212.0,
+    "Time": "01/22/2021, 16:55:33",
+    "Speed": 6.861893151484499,
+    "Distance": 0.0019064346509435216,
+    "Street": "Highland Avenue"
+  },
+  {
+    "Latitude": 39.12896214053035,
+    "Longitude": -84.50320162810385,
+    "Elevation": 212.0,
+    "Time": "01/22/2021, 16:55:34",
+    "Speed": 5.790193979052962,
+    "Distance": 0.012869482160284612,
+    "Street": "Highland Avenue"
+  },
+  {
+    "Latitude": 39.12877656519413,
+    "Longitude": -84.50322618708014,
+    "Elevation": 212.1999969482422,
+    "Time": "01/22/2021, 16:55:42",
+    "Speed": 3.5281597647299385,
+    "Distance": 0.000980225993185387,
+    "Street": "Highland Avenue"
+  },
+  {
+    "Latitude": 39.128763070330024,
+    "Longitude": -84.50321931391954,
+    "Elevation": 212.1999969482422,
+    "Time": "01/22/2021, 16:55:43",
+    "Speed": 4.050374711881824,
+    "Distance": 0.0022506251640966946,
+    "Street": "Highland Avenue"
+  },
+  {
+    "Latitude": 39.12875175476074,
+    "Longitude": -84.50317095033824,
+    "Elevation": 212.0,
+    "Time": "01/22/2021, 16:55:45",
+    "Speed": 6.1644224125700084,
+    "Distance": 0.035965794402454614,
+    "Street": "Highland Avenue"
+  },
+  {
+    "Latitude": 39.12886164151132,
+    "Longitude": -84.50236486271024,
+    "Elevation": 209.0,
+    "Time": "01/22/2021, 16:56:06",
+    "Speed": 7.423851992379128,
+    "Distance": 0.002062563256130824,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.128858372569084,
+    "Longitude": -84.50231784023345,
+    "Elevation": 208.8000030517578,
+    "Time": "01/22/2021, 16:56:07",
+    "Speed": 6.762584105404235,
+    "Distance": 0.001878843692818707,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.128859881311655,
+    "Longitude": -84.50227484107018,
+    "Elevation": 208.60000610351562,
+    "Time": "01/22/2021, 16:56:08",
+    "Speed": 6.6978749053976925,
+    "Distance": 0.007443462336380315,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12890656851232,
+    "Longitude": -84.50212103314698,
+    "Elevation": 208.0,
+    "Time": "01/22/2021, 16:56:12",
+    "Speed": 6.959425279840141,
+    "Distance": 0.005800595788030844,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.128946382552385,
+    "Longitude": -84.50200393795967,
+    "Elevation": 207.39999389648438,
+    "Time": "01/22/2021, 16:56:15",
+    "Speed": 5.8065404496675495,
+    "Distance": 0.006452907191046285,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12897353991866,
+    "Longitude": -84.5018623676151,
+    "Elevation": 206.60000610351562,
+    "Time": "01/22/2021, 16:56:19",
+    "Speed": 4.3678114817498725,
+    "Distance": 0.0012135058028112076,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12897001951933,
+    "Longitude": -84.5018351264298,
+    "Elevation": 206.39999389648438,
+    "Time": "01/22/2021, 16:56:20",
+    "Speed": 5.292239647095988,
+    "Distance": 0.008822033938670284,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.1289852745831,
+    "Longitude": -84.5016342960298,
+    "Elevation": 205.1999969482422,
+    "Time": "01/22/2021, 16:56:26",
+    "Speed": 6.337606846712571,
+    "Distance": 0.008803862891697671,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.128978569060564,
+    "Longitude": -84.50143271125853,
+    "Elevation": 204.60000610351562,
+    "Time": "01/22/2021, 16:56:31",
+    "Speed": 6.39315620256492,
+    "Distance": 0.00888102907200434,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.128959625959396,
+    "Longitude": -84.50123129412532,
+    "Elevation": 204.1999969482422,
+    "Time": "01/22/2021, 16:56:36",
+    "Speed": 6.56174851102089,
+    "Distance": 0.005469137068746535,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.128939090296626,
+    "Longitude": -84.50111017562449,
+    "Elevation": 204.1999969482422,
+    "Time": "01/22/2021, 16:56:39",
+    "Speed": 5.915717541205828,
+    "Distance": 0.011504915713117066,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.128900365903974,
+    "Longitude": -84.50085360556841,
+    "Elevation": 203.8000030517578,
+    "Time": "01/22/2021, 16:56:46",
+    "Speed": 5.823748642333506,
+    "Distance": 0.004854023211245116,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12888888269663,
+    "Longitude": -84.50074380263686,
+    "Elevation": 203.39999389648438,
+    "Time": "01/22/2021, 16:56:49",
+    "Speed": 5.972854614061738,
+    "Distance": 0.0016594337378791398,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.128883769735694,
+    "Longitude": -84.50070667080581,
+    "Elevation": 203.1999969482422,
+    "Time": "01/22/2021, 16:56:50",
+    "Speed": 5.937925340201541,
+    "Distance": 0.011548105546613993,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12882509641349,
+    "Longitude": -84.50045873411,
+    "Elevation": 202.39999389648438,
+    "Time": "01/22/2021, 16:56:57",
+    "Speed": 5.7300629296106775,
+    "Distance": 0.0015919791054650062,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12881562486291,
+    "Longitude": -84.5004254579544,
+    "Elevation": 202.1999969482422,
+    "Time": "01/22/2021, 16:56:58",
+    "Speed": 5.94194129575049,
+    "Distance": 0.00990507068240225,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12875083275139,
+    "Longitude": -84.50022286735475,
+    "Elevation": 201.39999389648438,
+    "Time": "01/22/2021, 16:57:04",
+    "Speed": 5.509361046238008,
+    "Distance": 0.0015306616659914512,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.128738259896636,
+    "Longitude": -84.50019403360784,
+    "Elevation": 201.1999969482422,
+    "Time": "01/22/2021, 16:57:05",
+    "Speed": 6.438007193498653,
+    "Distance": 0.0017886667317246426,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12872535176575,
+    "Longitude": -84.5001584943384,
+    "Elevation": 201.0,
+    "Time": "01/22/2021, 16:57:06",
+    "Speed": 6.217786664077129,
+    "Distance": 0.012092381185219566,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12864916026592,
+    "Longitude": -84.49990888126194,
+    "Elevation": 200.0,
+    "Time": "01/22/2021, 16:57:13",
+    "Speed": 6.477969896289897,
+    "Distance": 0.010798617237621353,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.128594007343054,
+    "Longitude": -84.49967720545828,
+    "Elevation": 199.1999969482422,
+    "Time": "01/22/2021, 16:57:19",
+    "Speed": 5.152623669282478,
+    "Distance": 0.004294648760714118,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.128553941845894,
+    "Longitude": -84.4996019359678,
+    "Elevation": 199.0,
+    "Time": "01/22/2021, 16:57:22",
+    "Speed": 5.4696372119337235,
+    "Distance": 0.015196252227659189,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12845981307328,
+    "Longitude": -84.49928702786565,
+    "Elevation": 198.8000030517578,
+    "Time": "01/22/2021, 16:57:32",
+    "Speed": 4.452184379824652,
+    "Distance": 0.0024738941241750356,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12845562212169,
+    "Longitude": -84.49923070147634,
+    "Elevation": 198.60000610351562,
+    "Time": "01/22/2021, 16:57:34",
+    "Speed": 4.242092652020574,
+    "Distance": 0.0011785774342136651,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12845000624657,
+    "Longitude": -84.4992052204907,
+    "Elevation": 198.8000030517578,
+    "Time": "01/22/2021, 16:57:35",
+    "Speed": 5.262152765170921,
+    "Distance": 0.010233859816859526,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12839091382921,
+    "Longitude": -84.49899005703628,
+    "Elevation": 199.39999389648438,
+    "Time": "01/22/2021, 16:57:42",
+    "Speed": 5.752686648387539,
+    "Distance": 0.007991323181805544,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12834866903722,
+    "Longitude": -84.49881948530674,
+    "Elevation": 200.1999969482422,
+    "Time": "01/22/2021, 16:57:47",
+    "Speed": 4.97995810764929,
+    "Distance": 0.0055343121713376225,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12832251749933,
+    "Longitude": -84.49869954027236,
+    "Elevation": 201.0,
+    "Time": "01/22/2021, 16:57:51",
+    "Speed": 4.743992292089693,
+    "Distance": 0.0013180198364779513,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12831732071936,
+    "Longitude": -84.49867045506835,
+    "Elevation": 201.39999389648438,
+    "Time": "01/22/2021, 16:57:52",
+    "Speed": 5.091928559922514,
+    "Distance": 0.007073433549941772,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.128270633518696,
+    "Longitude": -84.49852611869574,
+    "Elevation": 202.60000610351562,
+    "Time": "01/22/2021, 16:57:57",
+    "Speed": 5.351562040578017,
+    "Distance": 0.0029736409721345686,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12825571373105,
+    "Longitude": -84.49846216477454,
+    "Elevation": 202.8000030517578,
+    "Time": "01/22/2021, 16:57:59",
+    "Speed": 4.793550113303829,
+    "Distance": 0.006658942244721216,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.1282169893384,
+    "Longitude": -84.49832235462964,
+    "Elevation": 203.60000610351562,
+    "Time": "01/22/2021, 16:58:04",
+    "Speed": 5.718244292903847,
+    "Distance": 0.003177391084905924,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12820936180651,
+    "Longitude": -84.49825052171946,
+    "Elevation": 204.1999969482422,
+    "Time": "01/22/2021, 16:58:06",
+    "Speed": 5.602209157162936,
+    "Distance": 0.006225830349304092,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.128185641020536,
+    "Longitude": -84.49811280705035,
+    "Elevation": 204.8000030517578,
+    "Time": "01/22/2021, 16:58:10",
+    "Speed": 6.6744766965590685,
+    "Distance": 0.003708729754406757,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.1281615011394,
+    "Longitude": -84.49803686700761,
+    "Elevation": 205.0,
+    "Time": "01/22/2021, 16:58:12",
+    "Speed": 6.292060132592848,
+    "Distance": 0.010488710212574687,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12810911424458,
+    "Longitude": -84.4978111423552,
+    "Elevation": 205.1999969482422,
+    "Time": "01/22/2021, 16:58:18",
+    "Speed": 5.92356966506175,
+    "Distance": 0.003291481874592737,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12809402681887,
+    "Longitude": -84.49773956090212,
+    "Elevation": 205.39999389648438,
+    "Time": "01/22/2021, 16:58:20",
+    "Speed": 5.4700804017307,
+    "Distance": 0.006078993415425246,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12807240150869,
+    "Longitude": -84.497604444623,
+    "Elevation": 206.0,
+    "Time": "01/22/2021, 16:58:24",
+    "Speed": 7.084132066664353,
+    "Distance": 0.009840895614082322,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12806552834809,
+    "Longitude": -84.49737905524671,
+    "Elevation": 206.39999389648438,
+    "Time": "01/22/2021, 16:58:29",
+    "Speed": 7.193993631459213,
+    "Distance": 0.011992211276021215,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12806209176779,
+    "Longitude": -84.49710412882268,
+    "Elevation": 206.8000030517578,
+    "Time": "01/22/2021, 16:58:35",
+    "Speed": 7.378147564591644,
+    "Distance": 0.0020498652290831783,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.128057062625885,
+    "Longitude": -84.49705777689815,
+    "Elevation": 206.8000030517578,
+    "Time": "01/22/2021, 16:58:36",
+    "Speed": 6.160263044460187,
+    "Distance": 0.010269007693025656,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.128018505871296,
+    "Longitude": -84.4968303758651,
+    "Elevation": 206.60000610351562,
+    "Time": "01/22/2021, 16:58:42",
+    "Speed": 6.755911598495381,
+    "Distance": 0.0018769898752061507,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12801716476679,
+    "Longitude": -84.49678737670183,
+    "Elevation": 206.60000610351562,
+    "Time": "01/22/2021, 16:58:43",
+    "Speed": 6.731016913142072,
+    "Distance": 0.011220440420170189,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.127987241372466,
+    "Longitude": -84.49653449468315,
+    "Elevation": 206.39999389648438,
+    "Time": "01/22/2021, 16:58:49",
+    "Speed": 6.799165845202438,
+    "Distance": 0.0037780143405472277,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.127968633547425,
+    "Longitude": -84.49645302258432,
+    "Elevation": 206.1999969482422,
+    "Time": "01/22/2021, 16:58:51",
+    "Speed": 6.514611380530532,
+    "Distance": 0.0018099496158122995,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12796108983457,
+    "Longitude": -84.49641329236329,
+    "Elevation": 206.0,
+    "Time": "01/22/2021, 16:58:52",
+    "Speed": 6.469067594254933,
+    "Distance": 0.01078377731805576,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.127928987145424,
+    "Longitude": -84.49617130681872,
+    "Elevation": 205.60000610351562,
+    "Time": "01/22/2021, 16:58:58",
+    "Speed": 6.139484320226614,
+    "Distance": 0.003411456689462527,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12791557610035,
+    "Longitude": -84.49609603732824,
+    "Elevation": 205.39999389648438,
+    "Time": "01/22/2021, 16:59:00",
+    "Speed": 5.735922999283921,
+    "Distance": 0.01115525042972891,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12788867019117,
+    "Longitude": -84.49584382586181,
+    "Elevation": 205.1999969482422,
+    "Time": "01/22/2021, 16:59:07",
+    "Speed": 5.326219062919753,
+    "Distance": 0.0014797794655064572,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12788732908666,
+    "Longitude": -84.495809962973,
+    "Elevation": 205.1999969482422,
+    "Time": "01/22/2021, 16:59:08",
+    "Speed": 5.14045229198484,
+    "Distance": 0.00856900813342612,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.127865033224225,
+    "Longitude": -84.49561667628586,
+    "Elevation": 205.1999969482422,
+    "Time": "01/22/2021, 16:59:14",
+    "Speed": 5.202108188378831,
+    "Distance": 0.008671787003390068,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12785740569234,
+    "Longitude": -84.49541819281876,
+    "Elevation": 205.0,
+    "Time": "01/22/2021, 16:59:20",
+    "Speed": 5.6847349115442665,
+    "Distance": 0.009476313936294752,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12783980369568,
+    "Longitude": -84.49520269408822,
+    "Elevation": 205.0,
+    "Time": "01/22/2021, 16:59:26",
+    "Speed": 5.801440921282565,
+    "Distance": 0.00322361999919572,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12783360108733,
+    "Longitude": -84.4951294362545,
+    "Elevation": 204.60000610351562,
+    "Time": "01/22/2021, 16:59:28",
+    "Speed": 4.999730011600488,
+    "Distance": 0.002778142512293521,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.1278213635087,
+    "Longitude": -84.49506875127554,
+    "Elevation": 204.60000610351562,
+    "Time": "01/22/2021, 16:59:30",
+    "Speed": 5.7010813304507,
+    "Distance": 0.047517815082272465,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.127734024077654,
+    "Longitude": -84.4939879886806,
+    "Elevation": 205.8000030517578,
+    "Time": "01/22/2021, 17:00:00",
+    "Speed": 5.521626800298725,
+    "Distance": 0.0015340694512840922,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12773486226797,
+    "Longitude": -84.49395278468728,
+    "Elevation": 205.8000030517578,
+    "Time": "01/22/2021, 17:00:01",
+    "Speed": 5.882464571900887,
+    "Distance": 0.00817160369977005,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.127742322161794,
+    "Longitude": -84.49376578442752,
+    "Elevation": 205.39999389648438,
+    "Time": "01/22/2021, 17:00:06",
+    "Speed": 6.352596876780378,
+    "Distance": 0.005294811741603551,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.1277283243835,
+    "Longitude": -84.49364642612636,
+    "Elevation": 205.39999389648438,
+    "Time": "01/22/2021, 17:00:09",
+    "Speed": 5.0588606735391,
+    "Distance": 0.005621997935216442,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12771373987198,
+    "Longitude": -84.49351960793138,
+    "Elevation": 205.0,
+    "Time": "01/22/2021, 17:00:13",
+    "Speed": 5.95939864626321,
+    "Distance": 0.008278476381961894,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.127700580284,
+    "Longitude": -84.49333093129098,
+    "Elevation": 204.8000030517578,
+    "Time": "01/22/2021, 17:00:18",
+    "Speed": 6.036547636808275,
+    "Distance": 0.008385647614166672,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12770141847432,
+    "Longitude": -84.49313865043223,
+    "Elevation": 204.60000610351562,
+    "Time": "01/22/2021, 17:00:23",
+    "Speed": 5.855606933102928,
+    "Distance": 0.0032537178044392827,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.127696976065636,
+    "Longitude": -84.49306438677013,
+    "Elevation": 204.60000610351562,
+    "Time": "01/22/2021, 17:00:25",
+    "Speed": 5.086921680615809,
+    "Distance": 0.0028265913048977735,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.127692114561796,
+    "Longitude": -84.49300001375377,
+    "Elevation": 204.8000030517578,
+    "Time": "01/22/2021, 17:00:27",
+    "Speed": 5.6989867340060965,
+    "Distance": 0.006333380916971112,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12767166271806,
+    "Longitude": -84.4928584434092,
+    "Elevation": 205.1999969482422,
+    "Time": "01/22/2021, 17:00:31",
+    "Speed": 6.157822127851894,
+    "Distance": 0.003421646248264272,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12765942513943,
+    "Longitude": -84.49278241954744,
+    "Elevation": 205.60000610351562,
+    "Time": "01/22/2021, 17:00:33",
+    "Speed": 5.6746987043743005,
+    "Distance": 0.0015765973041044828,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12765615619719,
+    "Longitude": -84.4927466288209,
+    "Elevation": 205.60000610351562,
+    "Time": "01/22/2021, 17:00:34",
+    "Speed": 6.233649026968387,
+    "Distance": 0.010391340329391674,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.127643750980496,
+    "Longitude": -84.49250916950405,
+    "Elevation": 205.8000030517578,
+    "Time": "01/22/2021, 17:00:40",
+    "Speed": 2.049091738128583,
+    "Distance": 0.007970166787513175,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12760276347399,
+    "Longitude": -84.49233834631741,
+    "Elevation": 206.39999389648438,
+    "Time": "01/22/2021, 17:00:54",
+    "Speed": 5.414400538750017,
+    "Distance": 0.001504278859096954,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.127598237246275,
+    "Longitude": -84.49230456724763,
+    "Elevation": 206.1999969482422,
+    "Time": "01/22/2021, 17:00:55",
+    "Speed": 6.568236790906907,
+    "Distance": 0.005474544970615588,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.127576276659966,
+    "Longitude": -84.49218395166099,
+    "Elevation": 205.39999389648438,
+    "Time": "01/22/2021, 17:00:58",
+    "Speed": 6.917535456955273,
+    "Distance": 0.001921893711127943,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12757258862257,
+    "Longitude": -84.49214028194547,
+    "Elevation": 205.60000610351562,
+    "Time": "01/22/2021, 17:00:59",
+    "Speed": 6.902305764570064,
+    "Distance": 0.005752987371190771,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.1275623627007,
+    "Longitude": -84.49200935661793,
+    "Elevation": 205.60000610351562,
+    "Time": "01/22/2021, 17:01:02",
+    "Speed": 6.430218650611936,
+    "Distance": 0.005359508540008887,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12756529636681,
+    "Longitude": -84.49188656173646,
+    "Elevation": 205.60000610351562,
+    "Time": "01/22/2021, 17:01:05",
+    "Speed": 6.600094440298623,
+    "Distance": 0.012835895173380834,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12755096331239,
+    "Longitude": -84.49159311130643,
+    "Elevation": 205.1999969482422,
+    "Time": "01/22/2021, 17:01:12",
+    "Speed": 5.893035597458402,
+    "Distance": 0.0016372576800919509,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12754903547466,
+    "Longitude": -84.49155572801828,
+    "Elevation": 205.0,
+    "Time": "01/22/2021, 17:01:13",
+    "Speed": 5.667719850492605,
+    "Distance": 0.011022608620388343,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12752028554678,
+    "Longitude": -84.49130712077022,
+    "Elevation": 205.0,
+    "Time": "01/22/2021, 17:01:20",
+    "Speed": 5.531369899967222,
+    "Distance": 0.010757434585733121,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12750754505396,
+    "Longitude": -84.4910612795502,
+    "Elevation": 205.39999389648438,
+    "Time": "01/22/2021, 17:01:27",
+    "Speed": 5.729078974434034,
+    "Distance": 0.0031834114678658708,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.127507377415895,
+    "Longitude": -84.49098827317357,
+    "Elevation": 205.8000030517578,
+    "Time": "01/22/2021, 17:01:29",
+    "Speed": 5.67826596396481,
+    "Distance": 0.011043118752211497,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12750821560621,
+    "Longitude": -84.49073505587876,
+    "Elevation": 206.39999389648438,
+    "Time": "01/22/2021, 17:01:36",
+    "Speed": 4.676969860447605,
+    "Distance": 0.0012993990443361603,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.127504359930754,
+    "Longitude": -84.49070588685572,
+    "Elevation": 206.39999389648438,
+    "Time": "01/22/2021, 17:01:37",
+    "Speed": 5.554534478284944,
+    "Distance": 0.010802485168222726,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.1274637915194,
+    "Longitude": -84.4904666673392,
+    "Elevation": 207.0,
+    "Time": "01/22/2021, 17:01:44",
+    "Speed": 5.1514078256481755,
+    "Distance": 0.00858727073985348,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12744602188468,
+    "Longitude": -84.49027178809047,
+    "Elevation": 207.60000610351562,
+    "Time": "01/22/2021, 17:01:50",
+    "Speed": 5.631715344419208,
+    "Distance": 0.010952586885107451,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12741517648101,
+    "Longitude": -84.49002544395626,
+    "Elevation": 208.1999969482422,
+    "Time": "01/22/2021, 17:01:57",
+    "Speed": 5.201987773387852,
+    "Distance": 0.0014452643790913073,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12741241045296,
+    "Longitude": -84.48999258689582,
+    "Elevation": 208.1999969482422,
+    "Time": "01/22/2021, 17:01:58",
+    "Speed": 5.300754921543496,
+    "Distance": 0.004418114346360975,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.127408135682344,
+    "Longitude": -84.48989150114357,
+    "Elevation": 208.60000610351562,
+    "Time": "01/22/2021, 17:02:01",
+    "Speed": 5.2620598405807915,
+    "Distance": 0.00584781662667032,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.127396652475,
+    "Longitude": -84.4897586479783,
+    "Elevation": 209.1999969482422,
+    "Time": "01/22/2021, 17:02:05",
+    "Speed": 4.685400094924636,
+    "Distance": 0.0026034824201732016,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12738148123026,
+    "Longitude": -84.48970399796963,
+    "Elevation": 209.39999389648438,
+    "Time": "01/22/2021, 17:02:07",
+    "Speed": 5.39144479616254,
+    "Distance": 0.0029958021645468983,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.127338733524084,
+    "Longitude": -84.48969251476228,
+    "Elevation": 209.60000610351562,
+    "Time": "01/22/2021, 17:02:09",
+    "Speed": 6.321657838510374,
+    "Distance": 0.010538048863792887,
+    "Street": "William Howard Taft Road"
+  },
+  {
+    "Latitude": 39.12719598971307,
+    "Longitude": -84.48977750726044,
+    "Elevation": 210.1999969482422,
+    "Time": "01/22/2021, 17:02:15",
+    "Speed": 6.294763459226098,
+    "Distance": 0.008744347159912819,
+    "Street": "Gilbert Avenue"
+  },
+  {
+    "Latitude": 39.127085180953145,
+    "Longitude": -84.48987431824207,
+    "Elevation": 210.60000610351562,
+    "Time": "01/22/2021, 17:02:20",
+    "Speed": 6.2640227770971135,
+    "Distance": 0.0017403287712187544,
+    "Street": "Gilbert Avenue"
+  },
+  {
+    "Latitude": 39.127062214538455,
+    "Longitude": -84.48989074677229,
+    "Elevation": 210.8000030517578,
+    "Time": "01/22/2021, 17:02:21",
+    "Speed": 7.113230874246826,
+    "Distance": 0.00988131811400449,
+    "Street": "Gilbert Avenue"
+  },
+  {
+    "Latitude": 39.126926930621266,
+    "Longitude": -84.48996408842504,
+    "Elevation": 211.1999969482422,
+    "Time": "01/22/2021, 17:02:26",
+    "Speed": 6.780899644340564,
+    "Distance": 0.003767864570652709,
+    "Street": "Gilbert Avenue"
+  },
+  {
+    "Latitude": 39.126876052469015,
+    "Longitude": -84.48999510146677,
+    "Elevation": 211.1999969482422,
+    "Time": "01/22/2021, 17:02:28",
+    "Speed": 6.886663717673736,
+    "Distance": 0.013393216471973043,
+    "Street": "Gilbert Avenue"
+  },
+  {
+    "Latitude": 39.126695673912764,
+    "Longitude": -84.49010741896927,
+    "Elevation": 211.39999389648438,
+    "Time": "01/22/2021, 17:02:35",
+    "Speed": 6.676165796091754,
+    "Distance": 0.003709668316930806,
+    "Street": "Gilbert Avenue"
+  },
+  {
+    "Latitude": 39.126649321988225,
+    "Longitude": -84.49015033431351,
+    "Elevation": 211.39999389648438,
+    "Time": "01/22/2021, 17:02:37",
+    "Speed": 5.984464817370758,
+    "Distance": 0.013301275135967154,
+    "Street": "Gilbert Avenue"
+  },
+  {
+    "Latitude": 39.126475816592574,
+    "Longitude": -84.49028234928846,
+    "Elevation": 211.1999969482422,
+    "Time": "01/22/2021, 17:02:45",
+    "Speed": 8.072243026190009,
+    "Distance": 0.013456231517656202,
+    "Street": "Gilbert Avenue"
+  },
+  {
+    "Latitude": 39.126286217942834,
+    "Longitude": -84.49035258963704,
+    "Elevation": 211.39999389648438,
+    "Time": "01/22/2021, 17:02:51",
+    "Speed": 5.927453005805853,
+    "Distance": 0.011527738900691037,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.12612763233483,
+    "Longitude": -84.49043456465006,
+    "Elevation": 211.60000610351562,
+    "Time": "01/22/2021, 17:02:58",
+    "Speed": 4.139858528561314,
+    "Distance": 0.0011501738040246108,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.12611204199493,
+    "Longitude": -84.49044370092452,
+    "Elevation": 211.8000030517578,
+    "Time": "01/22/2021, 17:02:59",
+    "Speed": 1.6654486997304496,
+    "Distance": 0.0009254207375257858,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.126100642606616,
+    "Longitude": -84.49045493267477,
+    "Elevation": 212.0,
+    "Time": "01/22/2021, 17:03:01",
+    "Speed": 1.0276004931570344,
+    "Distance": 0.0031404722554782723,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.12609485909343,
+    "Longitude": -84.49052634648979,
+    "Elevation": 212.0,
+    "Time": "01/22/2021, 17:03:12",
+    "Speed": 1.7640798823649657,
+    "Distance": 0.0004901129965926925,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.12608806975186,
+    "Longitude": -84.49052961543202,
+    "Elevation": 212.0,
+    "Time": "01/22/2021, 17:03:13",
+    "Speed": 4.484986408440364,
+    "Distance": 0.0024921208504133205,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.126054206863046,
+    "Longitude": -84.49054931290448,
+    "Elevation": 212.0,
+    "Time": "01/22/2021, 17:03:15",
+    "Speed": 6.84544169374326,
+    "Distance": 0.0038037279094450334,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.12600215524435,
+    "Longitude": -84.4905776437372,
+    "Elevation": 212.0,
+    "Time": "01/22/2021, 17:03:17",
+    "Speed": 8.417474209852946,
+    "Distance": 0.0023386205749378972,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.12596879526973,
+    "Longitude": -84.49058644473553,
+    "Elevation": 212.0,
+    "Time": "01/22/2021, 17:03:18",
+    "Speed": 1.8428254654811391,
+    "Distance": 0.017407687987290626,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.1258648596704,
+    "Longitude": -84.49022283777595,
+    "Elevation": 212.39999389648438,
+    "Time": "01/22/2021, 17:03:52",
+    "Speed": 7.077592774980145,
+    "Distance": 0.005899086948870926,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.125836780294776,
+    "Longitude": -84.49009509757161,
+    "Elevation": 212.1999969482422,
+    "Time": "01/22/2021, 17:03:55",
+    "Speed": 6.751320424606571,
+    "Distance": 0.007502857251170226,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.125805934891105,
+    "Longitude": -84.4899301417172,
+    "Elevation": 212.0,
+    "Time": "01/22/2021, 17:03:59",
+    "Speed": 6.646544580982359,
+    "Distance": 0.0036932090367756236,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.125826051458716,
+    "Longitude": -84.48985168710351,
+    "Elevation": 211.8000030517578,
+    "Time": "01/22/2021, 17:04:01",
+    "Speed": 6.529210398219223,
+    "Distance": 0.010884033899979618,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.12586200982332,
+    "Longitude": -84.48960869573057,
+    "Elevation": 211.39999389648438,
+    "Time": "01/22/2021, 17:04:07",
+    "Speed": 6.008689955323356,
+    "Distance": 0.008346949219929576,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.12589360959828,
+    "Longitude": -84.48942395858467,
+    "Elevation": 210.60000610351562,
+    "Time": "01/22/2021, 17:04:12",
+    "Speed": 5.90535303007154,
+    "Distance": 0.004922039469594677,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.12587961181998,
+    "Longitude": -84.4893133174628,
+    "Elevation": 210.1999969482422,
+    "Time": "01/22/2021, 17:04:15",
+    "Speed": 6.820139050479166,
+    "Distance": 0.011369004841417838,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.12586133927107,
+    "Longitude": -84.48905423283577,
+    "Elevation": 209.8000030517578,
+    "Time": "01/22/2021, 17:04:21",
+    "Speed": 6.928754947895548,
+    "Distance": 0.005775032441757026,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.12584071978927,
+    "Longitude": -84.48892590589821,
+    "Elevation": 209.60000610351562,
+    "Time": "01/22/2021, 17:04:24",
+    "Speed": 6.622965030223189,
+    "Distance": 0.007360213717622892,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.12580031901598,
+    "Longitude": -84.48876975104213,
+    "Elevation": 209.0,
+    "Time": "01/22/2021, 17:04:28",
+    "Speed": 6.177018235380006,
+    "Distance": 0.005148469093062525,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.12577768787742,
+    "Longitude": -84.48865726590157,
+    "Elevation": 208.60000610351562,
+    "Time": "01/22/2021, 17:04:31",
+    "Speed": 6.326486566123474,
+    "Distance": 0.007030732156345049,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.12575572729111,
+    "Longitude": -84.48849985376,
+    "Elevation": 208.39999389648438,
+    "Time": "01/22/2021, 17:04:35",
+    "Speed": 6.0257917703768396,
+    "Distance": 0.010044847370960407,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.125750195235014,
+    "Longitude": -84.48826968669891,
+    "Elevation": 208.1999969482422,
+    "Time": "01/22/2021, 17:04:41",
+    "Speed": 5.867469161940574,
+    "Distance": 0.009780927458405054,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.12572018802166,
+    "Longitude": -84.48805049993098,
+    "Elevation": 207.60000610351562,
+    "Time": "01/22/2021, 17:04:47",
+    "Speed": 5.25696834462224,
+    "Distance": 0.0029210791802938155,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.125726306810975,
+    "Longitude": -84.48798419907689,
+    "Elevation": 207.39999389648438,
+    "Time": "01/22/2021, 17:04:49",
+    "Speed": 6.149886532327728,
+    "Distance": 0.051258551506579646,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.12499221973121,
+    "Longitude": -84.48815234005451,
+    "Elevation": 207.1999969482422,
+    "Time": "01/22/2021, 17:05:19",
+    "Speed": 6.652479375463696,
+    "Distance": 0.003696506755814867,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.124939162284136,
+    "Longitude": -84.48816306889057,
+    "Elevation": 207.39999389648438,
+    "Time": "01/22/2021, 17:05:21",
+    "Speed": 7.736874001605779,
+    "Distance": 0.012897179563445415,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.124753419309855,
+    "Longitude": -84.48819173499942,
+    "Elevation": 207.1999969482422,
+    "Time": "01/22/2021, 17:05:27",
+    "Speed": 6.102643397611175,
+    "Distance": 0.006781971434831036,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.12465593777597,
+    "Longitude": -84.48820958845317,
+    "Elevation": 207.1999969482422,
+    "Time": "01/22/2021, 17:05:31",
+    "Speed": 7.161791522205516,
+    "Distance": 0.00397951038273231,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.124599024653435,
+    "Longitude": -84.4882234185934,
+    "Elevation": 207.0,
+    "Time": "01/22/2021, 17:05:33",
+    "Speed": 7.606888142479164,
+    "Distance": 0.0021134160530518194,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.124568682163954,
+    "Longitude": -84.48822945356369,
+    "Elevation": 207.0,
+    "Time": "01/22/2021, 17:05:34",
+    "Speed": 6.917202804773115,
+    "Distance": 0.01345260903434381,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.12437707185745,
+    "Longitude": -84.48828385211527,
+    "Elevation": 206.60000610351562,
+    "Time": "01/22/2021, 17:05:41",
+    "Speed": 6.662554666642465,
+    "Distance": 0.01295736811973142,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.124191999435425,
+    "Longitude": -84.48833146132529,
+    "Elevation": 206.39999389648438,
+    "Time": "01/22/2021, 17:05:48",
+    "Speed": 7.556323711722955,
+    "Distance": 0.0020993677750080235,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.124161656945944,
+    "Longitude": -84.48833037167788,
+    "Elevation": 206.39999389648438,
+    "Time": "01/22/2021, 17:05:49",
+    "Speed": 7.595020915061849,
+    "Distance": 0.0021101189901189606,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.1241311468184,
+    "Longitude": -84.48833146132529,
+    "Elevation": 206.39999389648438,
+    "Time": "01/22/2021, 17:05:50",
+    "Speed": 7.868135879163226,
+    "Distance": 0.013115989900067418,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.123941380530596,
+    "Longitude": -84.48832685127854,
+    "Elevation": 206.39999389648438,
+    "Time": "01/22/2021, 17:05:56",
+    "Speed": 7.593041240610649,
+    "Distance": 0.012657413871865676,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.12375932559371,
+    "Longitude": -84.48835861869156,
+    "Elevation": 206.39999389648438,
+    "Time": "01/22/2021, 17:06:02",
+    "Speed": 7.60021510710265,
+    "Distance": 0.008446248354461951,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.123637955635786,
+    "Longitude": -84.48838133364916,
+    "Elevation": 206.39999389648438,
+    "Time": "01/22/2021, 17:06:06",
+    "Speed": 7.758864826431542,
+    "Distance": 0.006466918865049336,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.12354466505349,
+    "Longitude": -84.48839290067554,
+    "Elevation": 206.0,
+    "Time": "01/22/2021, 17:06:09",
+    "Speed": 7.4999593655722645,
+    "Distance": 0.014585956775604215,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.12333360873163,
+    "Longitude": -84.48839055374265,
+    "Elevation": 205.8000030517578,
+    "Time": "01/22/2021, 17:06:16",
+    "Speed": 7.231734191362598,
+    "Distance": 0.014064311176414681,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.12313009612262,
+    "Longitude": -84.488391475752,
+    "Elevation": 205.60000610351562,
+    "Time": "01/22/2021, 17:06:23",
+    "Speed": 7.502413460514706,
+    "Distance": 0.0020843899301661462,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.123099921271205,
+    "Longitude": -84.4883912242949,
+    "Elevation": 205.60000610351562,
+    "Time": "01/22/2021, 17:06:24",
+    "Speed": 7.215729114036918,
+    "Distance": 0.006014221896698847,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.123012917116284,
+    "Longitude": -84.48839432559907,
+    "Elevation": 205.39999389648438,
+    "Time": "01/22/2021, 17:06:27",
+    "Speed": 7.498404690012507,
+    "Distance": 0.006249828529351833,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.12292331457138,
+    "Longitude": -84.4884136877954,
+    "Elevation": 205.1999969482422,
+    "Time": "01/22/2021, 17:06:30",
+    "Speed": 7.063857583779589,
+    "Distance": 0.0098127313918712,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.12278258241713,
+    "Longitude": -84.48844361118972,
+    "Elevation": 204.1999969482422,
+    "Time": "01/22/2021, 17:06:35",
+    "Speed": 7.081043640860391,
+    "Distance": 0.0039346421355625555,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.12272600457072,
+    "Longitude": -84.48845375329256,
+    "Elevation": 204.0,
+    "Time": "01/22/2021, 17:06:37",
+    "Speed": 6.922219995762508,
+    "Distance": 0.007692780852188456,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.122614692896605,
+    "Longitude": -84.48845526203513,
+    "Elevation": 203.39999389648438,
+    "Time": "01/22/2021, 17:06:41",
+    "Speed": 6.955103549793989,
+    "Distance": 0.005796993678934949,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.12253146059811,
+    "Longitude": -84.48847177438438,
+    "Elevation": 203.1999969482422,
+    "Time": "01/22/2021, 17:06:44",
+    "Speed": 6.884859150217105,
+    "Distance": 0.003825630554448341,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.12247681058943,
+    "Longitude": -84.48848577216268,
+    "Elevation": 203.0,
+    "Time": "01/22/2021, 17:06:46",
+    "Speed": 7.921534115595242,
+    "Distance": 0.006602501726510363,
+    "Street": "Windsor Street"
+  },
+  {
+    "Latitude": 39.12238142453134,
+    "Longitude": -84.48849432170391,
+    "Elevation": 201.8000030517578,
+    "Time": "01/22/2021, 17:06:49",
+    "Speed": 6.151817424202777,
+    "Distance": 0.005127464525401882,
+    "Street": "Windsor Street"
+  },
+  {
+    "Latitude": 39.12230749614537,
+    "Longitude": -84.48850421234965,
+    "Elevation": 201.0,
+    "Time": "01/22/2021, 17:06:52",
+    "Speed": 6.307074986701917,
+    "Distance": 0.0017522899344689464,
+    "Street": "Windsor Street"
+  },
+  {
+    "Latitude": 39.12228260189295,
+    "Longitude": -84.4885120075196,
+    "Elevation": 200.60000610351562,
+    "Time": "01/22/2021, 17:06:53",
+    "Speed": 7.080645549862167,
+    "Distance": 0.007868841865825881,
+    "Street": "Windsor Street"
+  },
+  {
+    "Latitude": 39.122170535847545,
+    "Longitude": -84.48854394257069,
+    "Elevation": 199.39999389648438,
+    "Time": "01/22/2021, 17:06:57",
+    "Speed": 6.6323927432233365,
+    "Distance": 0.005528018171608465,
+    "Street": "Windsor Street"
+  },
+  {
+    "Latitude": 39.12209124304354,
+    "Longitude": -84.488560622558,
+    "Elevation": 198.8000030517578,
+    "Time": "01/22/2021, 17:07:00",
+    "Speed": 7.3375385204450625,
+    "Distance": 0.00407716569733618,
+    "Street": "Windsor Street"
+  },
+  {
+    "Latitude": 39.12203240208328,
+    "Longitude": -84.48856741189957,
+    "Elevation": 198.39999389648438,
+    "Time": "01/22/2021, 17:07:02",
+    "Speed": 8.124531151565908,
+    "Distance": 0.006771697271327138,
+    "Street": "Windsor Street"
+  },
+  {
+    "Latitude": 39.1219344176352,
+    "Longitude": -84.48856900446117,
+    "Elevation": 197.39999389648438,
+    "Time": "01/22/2021, 17:07:05",
+    "Speed": 8.929658128267087,
+    "Distance": 0.0024809202505761724,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.12189854308963,
+    "Longitude": -84.4885706808418,
+    "Elevation": 197.1999969482422,
+    "Time": "01/22/2021, 17:07:06",
+    "Speed": 9.073704268225056,
+    "Distance": 0.00504188096418145,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.1218257881701,
+    "Longitude": -84.48857931420207,
+    "Elevation": 196.39999389648438,
+    "Time": "01/22/2021, 17:07:08",
+    "Speed": 8.623906310763216,
+    "Distance": 0.0023959734514042504,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.12179117091,
+    "Longitude": -84.48858241550624,
+    "Elevation": 196.0,
+    "Time": "01/22/2021, 17:07:09",
+    "Speed": 8.265746866743788,
+    "Distance": 0.009185865121947636,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.12165923975408,
+    "Longitude": -84.48860806412995,
+    "Elevation": 194.8000030517578,
+    "Time": "01/22/2021, 17:07:13",
+    "Speed": 8.619256364312701,
+    "Distance": 0.007184044680761158,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.12155547179282,
+    "Longitude": -84.48861795477569,
+    "Elevation": 193.39999389648438,
+    "Time": "01/22/2021, 17:07:16",
+    "Speed": 9.052278073659366,
+    "Distance": 0.007544962975356294,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.121446339413524,
+    "Longitude": -84.4886229839176,
+    "Elevation": 192.39999389648438,
+    "Time": "01/22/2021, 17:07:19",
+    "Speed": 8.37420102393413,
+    "Distance": 0.006979794054010115,
+    "Street": "Kemper Lane"
+  },
+  {
+    "Latitude": 39.1213458403945,
+    "Longitude": -84.48863890953362,
+    "Elevation": 191.0,
+    "Time": "01/22/2021, 17:07:22",
+    "Speed": 7.794306858445183,
+    "Distance": 0.004330972909950361,
+    "Street": "Volterra Lane"
+  },
+  {
+    "Latitude": 39.12128331139684,
+    "Longitude": -84.48864578269422,
+    "Elevation": 190.0,
+    "Time": "01/22/2021, 17:07:24",
+    "Speed": 8.083409675736439,
+    "Distance": 0.006737423024546302,
+    "Street": "Volterra Lane"
+  },
+  {
+    "Latitude": 39.12118616513908,
+    "Longitude": -84.48865877464414,
+    "Elevation": 189.0,
+    "Time": "01/22/2021, 17:07:27",
+    "Speed": 8.323782497564684,
+    "Distance": 0.00693777082939924,
+    "Street": "Volterra Lane"
+  },
+  {
+    "Latitude": 39.12108591757715,
+    "Longitude": -84.48866698890924,
+    "Elevation": 187.8000030517578,
+    "Time": "01/22/2021, 17:07:30",
+    "Speed": 7.788518289611926,
+    "Distance": 0.0021638782212181885,
+    "Street": "Volterra Lane"
+  },
+  {
+    "Latitude": 39.12105465307832,
+    "Longitude": -84.48866371996701,
+    "Elevation": 187.39999389648438,
+    "Time": "01/22/2021, 17:07:31",
+    "Speed": 7.387311071618821,
+    "Distance": 0.002052411119398739,
+    "Street": "Volterra Lane"
+  },
+  {
+    "Latitude": 39.12102506496012,
+    "Longitude": -84.48865961283445,
+    "Elevation": 186.8000030517578,
+    "Time": "01/22/2021, 17:07:32",
+    "Speed": 7.9879171768980255,
+    "Distance": 0.0044385541303891725,
+    "Street": "Volterra Lane"
+  },
+  {
+    "Latitude": 39.12096094340086,
+    "Longitude": -84.4886539131403,
+    "Elevation": 185.8000030517578,
+    "Time": "01/22/2021, 17:07:34",
+    "Speed": 7.509922078149745,
+    "Distance": 0.05633485318253218,
+    "Street": "Volterra Lane"
+  },
+  {
+    "Latitude": 39.120155442506075,
+    "Longitude": -84.48845551349223,
+    "Elevation": 179.60000610351562,
+    "Time": "01/22/2021, 17:08:01",
+    "Speed": 6.585404572511869,
+    "Distance": 0.0073184721419350405,
+    "Street": "Luray Avenue"
+  },
+  {
+    "Latitude": 39.120051339268684,
+    "Longitude": -84.48842475190759,
+    "Elevation": 179.8000030517578,
+    "Time": "01/22/2021, 17:08:05",
+    "Speed": 6.34091439685426,
+    "Distance": 0.012331840587681057,
+    "Street": "Luray Avenue"
+  },
+  {
+    "Latitude": 39.11987816914916,
+    "Longitude": -84.48835652321577,
+    "Elevation": 180.8000030517578,
+    "Time": "01/22/2021, 17:08:12",
+    "Speed": 6.5551582508153095,
+    "Distance": 0.0036424294450195685,
+    "Street": "Luray Avenue"
+  },
+  {
+    "Latitude": 39.1198259498924,
+    "Longitude": -84.48834529146552,
+    "Elevation": 181.0,
+    "Time": "01/22/2021, 17:08:14",
+    "Speed": 7.044308764110554,
+    "Distance": 0.013699805310810052,
+    "Street": "Luray Avenue"
+  },
+  {
+    "Latitude": 39.1196309030056,
+    "Longitude": -84.48828913271427,
+    "Elevation": 182.0,
+    "Time": "01/22/2021, 17:08:21",
+    "Speed": 6.861893151484499,
+    "Distance": 0.0019064346509435216,
+    "Street": "Luray Avenue"
+  },
+  {
+    "Latitude": 39.11960441619158,
+    "Longitude": -84.48827689513564,
+    "Elevation": 182.1999969482422,
+    "Time": "01/22/2021, 17:08:22",
+    "Speed": 6.7987973167430145,
+    "Distance": 0.011333428693721333,
+    "Street": "Luray Avenue"
+  },
+  {
+    "Latitude": 39.11944163963199,
+    "Longitude": -84.48824529536068,
+    "Elevation": 183.0,
+    "Time": "01/22/2021, 17:08:28",
+    "Speed": 6.448506804486819,
+    "Distance": 0.0017915838308061017,
+    "Street": "Luray Avenue"
+  },
+  {
+    "Latitude": 39.11941590718925,
+    "Longitude": -84.48824051767588,
+    "Elevation": 183.0,
+    "Time": "01/22/2021, 17:08:29",
+    "Speed": 6.971116511011422,
+    "Distance": 0.007747120381483371,
+    "Street": "Luray Avenue"
+  },
+  {
+    "Latitude": 39.119304260239005,
+    "Longitude": -84.48822459205985,
+    "Elevation": 184.0,
+    "Time": "01/22/2021, 17:08:33",
+    "Speed": 6.346282951128143,
+    "Distance": 0.0017631830539514245,
+    "Street": "Luray Avenue"
+  },
+  {
+    "Latitude": 39.119278779253364,
+    "Longitude": -84.4882220774889,
+    "Elevation": 184.1999969482422,
+    "Time": "01/22/2021, 17:08:34",
+    "Speed": 5.817722143491681,
+    "Distance": 0.004849000198224238,
+    "Street": "Luray Avenue"
+  },
+  {
+    "Latitude": 39.11920870654285,
+    "Longitude": -84.48822802864015,
+    "Elevation": 184.60000610351562,
+    "Time": "01/22/2021, 17:08:37",
+    "Speed": 6.815729002133135,
+    "Distance": 0.0018936088997970274,
+    "Street": "Luray Avenue"
+  },
+  {
+    "Latitude": 39.11918129771948,
+    "Longitude": -84.48822668753564,
+    "Elevation": 184.8000030517578,
+    "Time": "01/22/2021, 17:08:38",
+    "Speed": 7.0212784957195105,
+    "Distance": 0.007802866248518279,
+    "Street": "Luray Avenue"
+  },
+  {
+    "Latitude": 39.11906839348376,
+    "Longitude": -84.48822886683047,
+    "Elevation": 185.39999389648438,
+    "Time": "01/22/2021, 17:08:42",
+    "Speed": 7.095360041586366,
+    "Distance": 0.007885194330823367,
+    "Street": "Luray Avenue"
+  },
+  {
+    "Latitude": 39.11895456723869,
+    "Longitude": -84.48824143968523,
+    "Elevation": 185.8000030517578,
+    "Time": "01/22/2021, 17:08:46",
+    "Speed": 6.636358299777304,
+    "Distance": 0.007375097885944205,
+    "Street": "Luray Avenue"
+  },
+  {
+    "Latitude": 39.11884828470647,
+    "Longitude": -84.48825677856803,
+    "Elevation": 186.39999389648438,
+    "Time": "01/22/2021, 17:08:50",
+    "Speed": 5.8584945507352595,
+    "Distance": 0.0016276611668704338,
+    "Street": "Luray Avenue"
+  },
+  {
+    "Latitude": 39.11882473155856,
+    "Longitude": -84.48825761675835,
+    "Elevation": 186.39999389648438,
+    "Time": "01/22/2021, 17:08:51",
+    "Speed": 5.855606933102928,
+    "Distance": 0.0032537178044392827,
+    "Street": "Luray Avenue"
+  },
+  {
+    "Latitude": 39.11877879872918,
+    "Longitude": -84.48827396146953,
+    "Elevation": 186.60000610351562,
+    "Time": "01/22/2021, 17:08:53",
+    "Speed": 5.86800293216337,
+    "Distance": 0.00978181724029986,
+    "Street": "Luray Avenue"
+  },
+  {
+    "Latitude": 39.11864100024104,
+    "Longitude": -84.48832525871694,
+    "Elevation": 187.39999389648438,
+    "Time": "01/22/2021, 17:08:59",
+    "Speed": 6.153242799392361,
+    "Distance": 0.0034191017054506266,
+    "Street": "Luray Avenue"
+  },
+  {
+    "Latitude": 39.11859339103103,
+    "Longitude": -84.48834663257003,
+    "Elevation": 188.0,
+    "Time": "01/22/2021, 17:09:01",
+    "Speed": 7.204260950612979,
+    "Distance": 0.006004663322854245,
+    "Street": "Luray Avenue"
+  },
+  {
+    "Latitude": 39.11850747652352,
+    "Longitude": -84.48836725205183,
+    "Elevation": 188.1999969482422,
+    "Time": "01/22/2021, 17:09:04",
+    "Speed": 6.496412896159574,
+    "Distance": 0.0036097870889743038,
+    "Street": "Luray Avenue"
+  },
+  {
+    "Latitude": 39.118455927819014,
+    "Longitude": -84.4883806630969,
+    "Elevation": 188.39999389648438,
+    "Time": "01/22/2021, 17:09:06",
+    "Speed": 6.187960703186852,
+    "Distance": 0.0017191965020149156,
+    "Street": "Luray Avenue"
+  },
+  {
+    "Latitude": 39.11843170411885,
+    "Longitude": -84.48838971555233,
+    "Elevation": 188.60000610351562,
+    "Time": "01/22/2021, 17:09:07",
+    "Speed": 6.3884206714793494,
+    "Distance": 0.012424231017345558,
+    "Street": "Luray Avenue"
+  },
+  {
+    "Latitude": 39.11825836636126,
+    "Longitude": -84.48846532031894,
+    "Elevation": 189.60000610351562,
+    "Time": "01/22/2021, 17:09:14",
+    "Speed": 6.205891835393378,
+    "Distance": 0.03448356590175667,
+    "Street": "Luray Avenue"
+  },
+  {
+    "Latitude": 39.11776861175895,
+    "Longitude": -84.48861669749022,
+    "Elevation": 191.60000610351562,
+    "Time": "01/22/2021, 17:09:34",
+    "Speed": 6.278406315615023,
+    "Distance": 0.0017443249389859242,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11774396896362,
+    "Longitude": -84.48862533085048,
+    "Elevation": 191.60000610351562,
+    "Time": "01/22/2021, 17:09:35",
+    "Speed": 5.723171690883474,
+    "Distance": 0.009540387106528027,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11762008443475,
+    "Longitude": -84.48872189037502,
+    "Elevation": 192.0,
+    "Time": "01/22/2021, 17:09:41",
+    "Speed": 5.409886656733708,
+    "Distance": 0.009018148623759525,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11752645857632,
+    "Longitude": -84.48886597529054,
+    "Elevation": 192.60000610351562,
+    "Time": "01/22/2021, 17:09:47",
+    "Speed": 6.155368031443853,
+    "Distance": 0.008550706521797029,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.1174222715199,
+    "Longitude": -84.48897175490856,
+    "Elevation": 192.8000030517578,
+    "Time": "01/22/2021, 17:09:52",
+    "Speed": 6.200294286618375,
+    "Distance": 0.012058361926037023,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11726142279804,
+    "Longitude": -84.48907895945013,
+    "Elevation": 192.8000030517578,
+    "Time": "01/22/2021, 17:09:59",
+    "Speed": 5.45888429403089,
+    "Distance": 0.022749566214202283,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11695665679872,
+    "Longitude": -84.48927618563175,
+    "Elevation": 193.39999389648438,
+    "Time": "01/22/2021, 17:10:14",
+    "Speed": 5.892497450726589,
+    "Distance": 0.013096865337498006,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11678818054497,
+    "Longitude": -84.4894137326628,
+    "Elevation": 193.0,
+    "Time": "01/22/2021, 17:10:22",
+    "Speed": 7.555017954503527,
+    "Distance": 0.008396019989818699,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11667720414698,
+    "Longitude": -84.48949210345745,
+    "Elevation": 193.0,
+    "Time": "01/22/2021, 17:10:26",
+    "Speed": 7.37967560593982,
+    "Distance": 0.008201159054680208,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.1165778785944,
+    "Longitude": -84.4895950332284,
+    "Elevation": 192.1999969482422,
+    "Time": "01/22/2021, 17:10:30",
+    "Speed": 7.818139402027168,
+    "Distance": 0.004344215665528679,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11651727743447,
+    "Longitude": -84.48962152004242,
+    "Elevation": 192.0,
+    "Time": "01/22/2021, 17:10:32",
+    "Speed": 7.780870784800365,
+    "Distance": 0.010808767603331458,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.1163738630712,
+    "Longitude": -84.48972042649984,
+    "Elevation": 191.60000610351562,
+    "Time": "01/22/2021, 17:10:37",
+    "Speed": 8.112224317632974,
+    "Distance": 0.009015252901171382,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.116263557225466,
+    "Longitude": -84.48983081616461,
+    "Elevation": 191.0,
+    "Time": "01/22/2021, 17:10:41",
+    "Speed": 7.31059755896162,
+    "Distance": 0.0040621957229084495,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.116214103996754,
+    "Longitude": -84.48988119140267,
+    "Elevation": 190.39999389648438,
+    "Time": "01/22/2021, 17:10:43",
+    "Speed": 7.493954951162807,
+    "Distance": 0.008328159635313328,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11610933020711,
+    "Longitude": -84.48997557163239,
+    "Elevation": 189.8000030517578,
+    "Time": "01/22/2021, 17:10:47",
+    "Speed": 7.345217788397572,
+    "Distance": 0.004081432747899442,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11606046371162,
+    "Longitude": -84.49002812616527,
+    "Elevation": 189.60000610351562,
+    "Time": "01/22/2021, 17:10:49",
+    "Speed": 7.014651141572206,
+    "Distance": 0.0038977505785500843,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11601268686354,
+    "Longitude": -84.49007565155625,
+    "Elevation": 189.39999389648438,
+    "Time": "01/22/2021, 17:10:51",
+    "Speed": 7.171231497553765,
+    "Distance": 0.003984755785337875,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11596323363483,
+    "Longitude": -84.49012267403305,
+    "Elevation": 189.1999969482422,
+    "Time": "01/22/2021, 17:10:53",
+    "Speed": 7.098096308318852,
+    "Distance": 0.005916176392947403,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11589542403817,
+    "Longitude": -84.49020548723638,
+    "Elevation": 188.39999389648438,
+    "Time": "01/22/2021, 17:10:56",
+    "Speed": 7.065545799821467,
+    "Distance": 0.005889045942530019,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.115824177861214,
+    "Longitude": -84.49027958326042,
+    "Elevation": 187.8000030517578,
+    "Time": "01/22/2021, 17:10:59",
+    "Speed": 7.402558375914099,
+    "Distance": 0.0020566472665669165,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11579911597073,
+    "Longitude": -84.49030498042703,
+    "Elevation": 187.39999389648438,
+    "Time": "01/22/2021, 17:11:00",
+    "Speed": 7.59739584348824,
+    "Distance": 0.010553894073552292,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11567539907992,
+    "Longitude": -84.49044688604772,
+    "Elevation": 186.39999389648438,
+    "Time": "01/22/2021, 17:11:05",
+    "Speed": 7.7136024723770165,
+    "Distance": 0.004286128831301253,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.115622928366065,
+    "Longitude": -84.49049927294254,
+    "Elevation": 186.1999969482422,
+    "Time": "01/22/2021, 17:11:07",
+    "Speed": 7.490757028603135,
+    "Distance": 0.008324605729565044,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11551622673869,
+    "Longitude": -84.49058786965907,
+    "Elevation": 185.1999969482422,
+    "Time": "01/22/2021, 17:11:11",
+    "Speed": 7.510862444154196,
+    "Distance": 0.008346949219929576,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.115414218977094,
+    "Longitude": -84.49069038033485,
+    "Elevation": 184.39999389648438,
+    "Time": "01/22/2021, 17:11:15",
+    "Speed": 7.6556460095828935,
+    "Distance": 0.004253924829729782,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.1153656039387,
+    "Longitude": -84.4907502271235,
+    "Elevation": 184.1999969482422,
+    "Time": "01/22/2021, 17:11:17",
+    "Speed": 6.9506664816874935,
+    "Distance": 0.007724393915969979,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11527767777443,
+    "Longitude": -84.49085961095989,
+    "Elevation": 183.0,
+    "Time": "01/22/2021, 17:11:21",
+    "Speed": 7.05525418341132,
+    "Distance": 0.011760936012441171,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.115133341401815,
+    "Longitude": -84.49100252240896,
+    "Elevation": 182.0,
+    "Time": "01/22/2021, 17:11:27",
+    "Speed": 7.204956510445086,
+    "Distance": 0.0020017476878202395,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.115111883729696,
+    "Longitude": -84.49103336781263,
+    "Elevation": 181.8000030517578,
+    "Time": "01/22/2021, 17:11:28",
+    "Speed": 7.100538638608686,
+    "Distance": 0.009863686742250143,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.114991603419185,
+    "Longitude": -84.49115515686572,
+    "Elevation": 180.8000030517578,
+    "Time": "01/22/2021, 17:11:33",
+    "Speed": 7.256415570325101,
+    "Distance": 0.00403208904001108,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11493997089565,
+    "Longitude": -84.49119823984802,
+    "Elevation": 180.0,
+    "Time": "01/22/2021, 17:11:35",
+    "Speed": 7.23307047313395,
+    "Distance": 0.0020095585690832023,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.114913400262594,
+    "Longitude": -84.49121701531112,
+    "Elevation": 179.8000030517578,
+    "Time": "01/22/2021, 17:11:36",
+    "Speed": 7.1892901372424145,
+    "Distance": 0.0019973951110504127,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11488733254373,
+    "Longitude": -84.4912367966026,
+    "Elevation": 179.60000610351562,
+    "Time": "01/22/2021, 17:11:37",
+    "Speed": 7.465921440799486,
+    "Distance": 0.006222754138724719,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11480217240751,
+    "Longitude": -84.49128314852715,
+    "Elevation": 179.1999969482422,
+    "Time": "01/22/2021, 17:11:40",
+    "Speed": 6.408824658010805,
+    "Distance": 0.00712223587871509,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11471089348197,
+    "Longitude": -84.49135900475085,
+    "Elevation": 178.60000610351562,
+    "Time": "01/22/2021, 17:11:44",
+    "Speed": 5.691523009539596,
+    "Distance": 0.00790635794123466,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11467233672738,
+    "Longitude": -84.49152974411845,
+    "Elevation": 177.8000030517578,
+    "Time": "01/22/2021, 17:11:49",
+    "Speed": 6.467711821924685,
+    "Distance": 0.0035938390929234304,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11462841555476,
+    "Longitude": -84.49157391674817,
+    "Elevation": 177.8000030517578,
+    "Time": "01/22/2021, 17:11:51",
+    "Speed": 7.313681548788059,
+    "Distance": 0.002031954684045088,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.114600252360106,
+    "Longitude": -84.49158724397421,
+    "Elevation": 177.39999389648438,
+    "Time": "01/22/2021, 17:11:52",
+    "Speed": 7.502413460514706,
+    "Distance": 0.0020843899301661462,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11457099951804,
+    "Longitude": -84.49159889481962,
+    "Elevation": 177.1999969482422,
+    "Time": "01/22/2021, 17:11:53",
+    "Speed": 7.084503652644729,
+    "Distance": 0.013777976521903669,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11437620408833,
+    "Longitude": -84.49166620150208,
+    "Elevation": 176.39999389648438,
+    "Time": "01/22/2021, 17:12:00",
+    "Speed": 6.593746081183762,
+    "Distance": 0.001831935550610005,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11435013636947,
+    "Longitude": -84.49167382903397,
+    "Elevation": 176.39999389648438,
+    "Time": "01/22/2021, 17:12:01",
+    "Speed": 6.423298408748085,
+    "Distance": 0.010707481206236965,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11419683136046,
+    "Longitude": -84.49170936830342,
+    "Elevation": 175.8000030517578,
+    "Time": "01/22/2021, 17:12:07",
+    "Speed": 6.705656165269919,
+    "Distance": 0.0018630274457156141,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11417000927031,
+    "Longitude": -84.49171347543597,
+    "Elevation": 175.60000610351562,
+    "Time": "01/22/2021, 17:12:08",
+    "Speed": 7.627611363207075,
+    "Distance": 0.002119173569993961,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.114139415323734,
+    "Longitude": -84.49171674437821,
+    "Elevation": 175.39999389648438,
+    "Time": "01/22/2021, 17:12:09",
+    "Speed": 6.30439283689475,
+    "Distance": 0.0035030895095812193,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11408878862858,
+    "Longitude": -84.49172034859657,
+    "Elevation": 175.0,
+    "Time": "01/22/2021, 17:12:11",
+    "Speed": 6.583097505180716,
+    "Distance": 0.005486931194069054,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.114009495824575,
+    "Longitude": -84.49172655120492,
+    "Elevation": 174.39999389648438,
+    "Time": "01/22/2021, 17:12:14",
+    "Speed": 7.151550820735422,
+    "Distance": 0.0019869100249227905,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.1139807458967,
+    "Longitude": -84.4917262159288,
+    "Elevation": 174.39999389648438,
+    "Time": "01/22/2021, 17:12:15",
+    "Speed": 7.216857568611921,
+    "Distance": 0.012030324899549867,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11380690522492,
+    "Longitude": -84.49174071662128,
+    "Elevation": 173.1999969482422,
+    "Time": "01/22/2021, 17:12:21",
+    "Speed": 6.511148924064563,
+    "Distance": 0.0018089876441175524,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.113780837506056,
+    "Longitude": -84.4917444884777,
+    "Elevation": 173.0,
+    "Time": "01/22/2021, 17:12:22",
+    "Speed": 6.542948477187883,
+    "Distance": 0.012724757431533892,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.113599956035614,
+    "Longitude": -84.49179905466735,
+    "Elevation": 172.1999969482422,
+    "Time": "01/22/2021, 17:12:29",
+    "Speed": 7.094565443896276,
+    "Distance": 0.001971077820222879,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11357388831675,
+    "Longitude": -84.49181749485433,
+    "Elevation": 172.0,
+    "Time": "01/22/2021, 17:12:30",
+    "Speed": 6.989741570291653,
+    "Distance": 0.013593682771791765,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11340105347335,
+    "Longitude": -84.49196635745466,
+    "Elevation": 171.39999389648438,
+    "Time": "01/22/2021, 17:12:37",
+    "Speed": 6.042764330135287,
+    "Distance": 0.006715426808395096,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.113333662971854,
+    "Longitude": -84.49207733385265,
+    "Elevation": 171.1999969482422,
+    "Time": "01/22/2021, 17:12:41",
+    "Speed": 6.332053599253707,
+    "Distance": 0.00527768917123287,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.113274067640305,
+    "Longitude": -84.49215302243829,
+    "Elevation": 170.8000030517578,
+    "Time": "01/22/2021, 17:12:44",
+    "Speed": 5.992747781427119,
+    "Distance": 0.009989763850291905,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11316677927971,
+    "Longitude": -84.49230657890439,
+    "Elevation": 170.60000610351562,
+    "Time": "01/22/2021, 17:12:50",
+    "Speed": 5.560515161018316,
+    "Distance": 0.004634621326522149,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11312428303063,
+    "Longitude": -84.4923888053745,
+    "Elevation": 170.60000610351562,
+    "Time": "01/22/2021, 17:12:53",
+    "Speed": 5.488857212376158,
+    "Distance": 0.004574895303415514,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.113088408485055,
+    "Longitude": -84.49247698299587,
+    "Elevation": 170.60000610351562,
+    "Time": "01/22/2021, 17:12:56",
+    "Speed": 5.515789366804299,
+    "Distance": 0.010727133490463397,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11303702741861,
+    "Longitude": -84.49270916171372,
+    "Elevation": 170.8000030517578,
+    "Time": "01/22/2021, 17:13:03",
+    "Speed": 3.7014484241060703,
+    "Distance": 0.006170223912218297,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11304825916886,
+    "Longitude": -84.49284955859184,
+    "Elevation": 171.0,
+    "Time": "01/22/2021, 17:13:09",
+    "Speed": 3.8573008802852096,
+    "Distance": 0.007501697165001533,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11313358694315,
+    "Longitude": -84.49295592494309,
+    "Elevation": 171.0,
+    "Time": "01/22/2021, 17:13:16",
+    "Speed": 5.659403495487776,
+    "Distance": 0.012578782781115891,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.113286808133125,
+    "Longitude": -84.49311166070402,
+    "Elevation": 170.60000610351562,
+    "Time": "01/22/2021, 17:13:24",
+    "Speed": 6.606345267438268,
+    "Distance": 0.0073417438924803765,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.113376326859,
+    "Longitude": -84.49320235289633,
+    "Elevation": 170.1999969482422,
+    "Time": "01/22/2021, 17:13:28",
+    "Speed": 6.775909407203522,
+    "Distance": 0.0018825458514684585,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.113399712368846,
+    "Longitude": -84.49322456493974,
+    "Elevation": 170.1999969482422,
+    "Time": "01/22/2021, 17:13:29",
+    "Speed": 7.74787721609915,
+    "Distance": 0.0021525869421082046,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11342879757285,
+    "Longitude": -84.49324225075543,
+    "Elevation": 170.0,
+    "Time": "01/22/2021, 17:13:30",
+    "Speed": 7.134362519235411,
+    "Distance": 0.011892807671702636,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11358595825732,
+    "Longitude": -84.49335339479148,
+    "Elevation": 169.0,
+    "Time": "01/22/2021, 17:13:36",
+    "Speed": 6.655021238656039,
+    "Distance": 0.003697919163720633,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11363591440022,
+    "Longitude": -84.4933838211,
+    "Elevation": 168.60000610351562,
+    "Time": "01/22/2021, 17:13:38",
+    "Speed": 7.092785222046221,
+    "Distance": 0.009852916112577275,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.113773042336106,
+    "Longitude": -84.4934456795454,
+    "Elevation": 168.0,
+    "Time": "01/22/2021, 17:13:43",
+    "Speed": 6.632109398451223,
+    "Distance": 0.0036851880048060144,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11382635124028,
+    "Longitude": -84.49344819411635,
+    "Elevation": 167.60000610351562,
+    "Time": "01/22/2021, 17:13:45",
+    "Speed": 5.175912482503579,
+    "Distance": 0.005752079601974676,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11390958353877,
+    "Longitude": -84.49344710446894,
+    "Elevation": 167.0,
+    "Time": "01/22/2021, 17:13:49",
+    "Speed": 4.6705366113773055,
+    "Distance": 0.003892835098650754,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11396590992808,
+    "Longitude": -84.49344517663121,
+    "Elevation": 166.39999389648438,
+    "Time": "01/22/2021, 17:13:52",
+    "Speed": 5.372327530373982,
+    "Distance": 0.005970358986372178,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11405215971172,
+    "Longitude": -84.4934372138232,
+    "Elevation": 165.60000610351562,
+    "Time": "01/22/2021, 17:13:56",
+    "Speed": 6.251410033266537,
+    "Distance": 0.003473649164034857,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11410102620721,
+    "Longitude": -84.49341852217913,
+    "Elevation": 165.39999389648438,
+    "Time": "01/22/2021, 17:13:58",
+    "Speed": 6.003136024365723,
+    "Distance": 0.011674927596463028,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.1142638027668,
+    "Longitude": -84.49334685690701,
+    "Elevation": 164.60000610351562,
+    "Time": "01/22/2021, 17:14:05",
+    "Speed": 7.163649033353887,
+    "Distance": 0.009951356311508114,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11440503783524,
+    "Longitude": -84.49330234900117,
+    "Elevation": 164.39999389648438,
+    "Time": "01/22/2021, 17:14:10",
+    "Speed": 6.164456111676139,
+    "Distance": 0.013701329911238862,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.114597821608186,
+    "Longitude": -84.49322900734842,
+    "Elevation": 164.1999969482422,
+    "Time": "01/22/2021, 17:14:18",
+    "Speed": 5.541760268019471,
+    "Distance": 0.010777641823120087,
+    "Street": "Eden Park Drive"
+  },
+  {
+    "Latitude": 39.11474660038948,
+    "Longitude": -84.49315491132438,
+    "Elevation": 164.60000610351562,
+    "Time": "01/22/2021, 17:14:25",
+    "Speed": 4.832371438783734,
+    "Distance": 0.010740593190535544,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11489110440016,
+    "Longitude": -84.49306421913207,
+    "Elevation": 165.0,
+    "Time": "01/22/2021, 17:14:33",
+    "Speed": 4.991692355118748,
+    "Distance": 0.00970786712033347,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.115019934251904,
+    "Longitude": -84.49297545477748,
+    "Elevation": 165.60000610351562,
+    "Time": "01/22/2021, 17:14:40",
+    "Speed": 5.504242248286078,
+    "Distance": 0.0030584790283566866,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11506083793938,
+    "Longitude": -84.49294863268733,
+    "Elevation": 166.0,
+    "Time": "01/22/2021, 17:14:42",
+    "Speed": 6.3168997926101795,
+    "Distance": 0.010530117317753338,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11520643159747,
+    "Longitude": -84.49287738651037,
+    "Elevation": 166.60000610351562,
+    "Time": "01/22/2021, 17:14:48",
+    "Speed": 7.472798224715705,
+    "Distance": 0.012456971707895387,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11538186483085,
+    "Longitude": -84.49281175620854,
+    "Elevation": 167.0,
+    "Time": "01/22/2021, 17:14:54",
+    "Speed": 6.20252063085226,
+    "Distance": 0.001723241675847236,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11540625616908,
+    "Longitude": -84.4928034581244,
+    "Elevation": 167.1999969482422,
+    "Time": "01/22/2021, 17:14:55",
+    "Speed": 5.607379280026642,
+    "Distance": 0.007789469993505244,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11551505327225,
+    "Longitude": -84.49275677092373,
+    "Elevation": 167.8000030517578,
+    "Time": "01/22/2021, 17:15:00",
+    "Speed": 6.6363582997765835,
+    "Distance": 0.003687548942971702,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11556785926223,
+    "Longitude": -84.4927445333451,
+    "Elevation": 168.1999969482422,
+    "Time": "01/22/2021, 17:15:02",
+    "Speed": 6.734487815350952,
+    "Distance": 0.013097264050716246,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11575720645487,
+    "Longitude": -84.49273162521422,
+    "Elevation": 168.60000610351562,
+    "Time": "01/22/2021, 17:15:09",
+    "Speed": 6.769250035169892,
+    "Distance": 0.0018806956831084792,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11578428000212,
+    "Longitude": -84.49273598380387,
+    "Elevation": 168.8000030517578,
+    "Time": "01/22/2021, 17:15:10",
+    "Speed": 7.598071902619535,
+    "Distance": 0.012665799862284818,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.115966418758035,
+    "Longitude": -84.49276825413108,
+    "Elevation": 169.60000610351562,
+    "Time": "01/22/2021, 17:15:16",
+    "Speed": 7.662638644947157,
+    "Distance": 0.008515620694108777,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.116089548915625,
+    "Longitude": -84.49276062659919,
+    "Elevation": 169.8000030517578,
+    "Time": "01/22/2021, 17:15:20",
+    "Speed": 6.255692207383779,
+    "Distance": 0.006952057181020794,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11618904210627,
+    "Longitude": -84.49273707345128,
+    "Elevation": 170.1999969482422,
+    "Time": "01/22/2021, 17:15:24",
+    "Speed": 6.204281427776849,
+    "Distance": 0.013789847013936969,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.116384759545326,
+    "Longitude": -84.49267546646297,
+    "Elevation": 170.8000030517578,
+    "Time": "01/22/2021, 17:15:32",
+    "Speed": 5.70244800777376,
+    "Distance": 0.001584306872349338,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11640739068389,
+    "Longitude": -84.49266959913075,
+    "Elevation": 170.8000030517578,
+    "Time": "01/22/2021, 17:15:33",
+    "Speed": 5.180267479051986,
+    "Distance": 0.002878459691866235,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.1164483781904,
+    "Longitude": -84.49265778064728,
+    "Elevation": 170.8000030517578,
+    "Time": "01/22/2021, 17:15:35",
+    "Speed": 6.111874447204864,
+    "Distance": 0.010188345085944864,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.1165932174772,
+    "Longitude": -84.49261419475079,
+    "Elevation": 171.1999969482422,
+    "Time": "01/22/2021, 17:15:41",
+    "Speed": 5.627589316335034,
+    "Distance": 0.009381053627994464,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11672372370958,
+    "Longitude": -84.4925550185144,
+    "Elevation": 172.0,
+    "Time": "01/22/2021, 17:15:47",
+    "Speed": 6.06278973019003,
+    "Distance": 0.0016844203440443074,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.116746773943305,
+    "Longitude": -84.49254252947867,
+    "Elevation": 172.0,
+    "Time": "01/22/2021, 17:15:48",
+    "Speed": 5.836561122403691,
+    "Distance": 0.006486269675413407,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11683738231659,
+    "Longitude": -84.49250372126698,
+    "Elevation": 173.0,
+    "Time": "01/22/2021, 17:15:52",
+    "Speed": 5.945912226852701,
+    "Distance": 0.008259741772784986,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11695288494229,
+    "Longitude": -84.49245502240956,
+    "Elevation": 174.0,
+    "Time": "01/22/2021, 17:15:57",
+    "Speed": 5.885377328339306,
+    "Distance": 0.0016351299889005284,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11697559989989,
+    "Longitude": -84.4924445450306,
+    "Elevation": 174.1999969482422,
+    "Time": "01/22/2021, 17:15:58",
+    "Speed": 5.4303426090189735,
+    "Distance": 0.00905224819546117,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11710317246616,
+    "Longitude": -84.49239743873477,
+    "Elevation": 175.39999389648438,
+    "Time": "01/22/2021, 17:16:04",
+    "Speed": 5.245158536630201,
+    "Distance": 0.001457258480010102,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.117123959586024,
+    "Longitude": -84.49239157140255,
+    "Elevation": 175.39999389648438,
+    "Time": "01/22/2021, 17:16:05",
+    "Speed": 4.988464440760195,
+    "Distance": 0.009701589457080344,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.117257902398705,
+    "Longitude": -84.49232493527234,
+    "Elevation": 176.39999389648438,
+    "Time": "01/22/2021, 17:16:12",
+    "Speed": 6.1660563487726865,
+    "Distance": 0.0017131108315825978,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.117282461375,
+    "Longitude": -84.4923198223114,
+    "Elevation": 176.39999389648438,
+    "Time": "01/22/2021, 17:16:13",
+    "Speed": 6.291806161235686,
+    "Distance": 0.012236334656629383,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11745688878,
+    "Longitude": -84.49227162636817,
+    "Elevation": 177.39999389648438,
+    "Time": "01/22/2021, 17:16:20",
+    "Speed": 5.604161086878164,
+    "Distance": 0.007784999452507123,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.117567697539926,
+    "Longitude": -84.49223943985999,
+    "Elevation": 178.1999969482422,
+    "Time": "01/22/2021, 17:16:25",
+    "Speed": 6.251410033266537,
+    "Distance": 0.003473649164034857,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11761664785445,
+    "Longitude": -84.49222133494914,
+    "Elevation": 178.60000610351562,
+    "Time": "01/22/2021, 17:16:27",
+    "Speed": 5.465182706178194,
+    "Distance": 0.00607355052303101,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11770122125745,
+    "Longitude": -84.4921834487468,
+    "Elevation": 179.1999969482422,
+    "Time": "01/22/2021, 17:16:31",
+    "Speed": 5.905879133793118,
+    "Distance": 0.008204129951011921,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11781915463507,
+    "Longitude": -84.49216190725565,
+    "Elevation": 179.60000610351562,
+    "Time": "01/22/2021, 17:16:36",
+    "Speed": 4.593043938141093,
+    "Distance": 0.002552163936007639,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.117855532094836,
+    "Longitude": -84.49215193279088,
+    "Elevation": 179.8000030517578,
+    "Time": "01/22/2021, 17:16:38",
+    "Speed": 5.362874747337933,
+    "Distance": 0.0059598539477596895,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.117940021678805,
+    "Longitude": -84.4921245239675,
+    "Elevation": 180.8000030517578,
+    "Time": "01/22/2021, 17:16:42",
+    "Speed": 5.5596138699578495,
+    "Distance": 0.004633870111454969,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.118006909266114,
+    "Longitude": -84.49211689643562,
+    "Elevation": 181.39999389648438,
+    "Time": "01/22/2021, 17:16:45",
+    "Speed": 5.412132768209914,
+    "Distance": 0.01954743447931294,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11828954704106,
+    "Longitude": -84.49209937825799,
+    "Elevation": 182.8000030517578,
+    "Time": "01/22/2021, 17:16:58",
+    "Speed": 4.3054109680977595,
+    "Distance": 0.0011961691146936833,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11830681376159,
+    "Longitude": -84.49210013262928,
+    "Elevation": 183.1999969482422,
+    "Time": "01/22/2021, 17:16:59",
+    "Speed": 4.582906451283486,
+    "Distance": 0.005093061910396716,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11838040687144,
+    "Longitude": -84.49209409765899,
+    "Elevation": 184.0,
+    "Time": "01/22/2021, 17:17:03",
+    "Speed": 6.820873781322576,
+    "Distance": 0.005685114809873865,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11846263334155,
+    "Longitude": -84.49208999052644,
+    "Elevation": 184.39999389648438,
+    "Time": "01/22/2021, 17:17:06",
+    "Speed": 6.070075578061036,
+    "Distance": 0.00843222282859218,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.1185843385756,
+    "Longitude": -84.4920761603862,
+    "Elevation": 185.0,
+    "Time": "01/22/2021, 17:17:11",
+    "Speed": 5.466901695528233,
+    "Distance": 0.004556595648856246,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.118649968877435,
+    "Longitude": -84.49206601828337,
+    "Elevation": 185.8000030517578,
+    "Time": "01/22/2021, 17:17:14",
+    "Speed": 2.9041196487539063,
+    "Distance": 0.0008068493936943057,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11865910515189,
+    "Longitude": -84.49205428361893,
+    "Elevation": 186.0,
+    "Time": "01/22/2021, 17:17:15",
+    "Speed": 3.8113411865603632,
+    "Distance": 0.006353412457075291,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.118750216439366,
+    "Longitude": -84.49203475378454,
+    "Elevation": 186.8000030517578,
+    "Time": "01/22/2021, 17:17:21",
+    "Speed": 6.0528629290493585,
+    "Distance": 0.005044987164885292,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.118821965530515,
+    "Longitude": -84.49201337993145,
+    "Elevation": 187.39999389648438,
+    "Time": "01/22/2021, 17:17:24",
+    "Speed": 6.800616731890859,
+    "Distance": 0.007557641076155897,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11893126554787,
+    "Longitude": -84.4920076802373,
+    "Elevation": 188.0,
+    "Time": "01/22/2021, 17:17:28",
+    "Speed": 6.365599569680202,
+    "Distance": 0.005305649326983806,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11900779232383,
+    "Longitude": -84.49199795722961,
+    "Elevation": 188.60000610351562,
+    "Time": "01/22/2021, 17:17:31",
+    "Speed": 6.061963117638977,
+    "Distance": 0.005052572060689282,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11908071488142,
+    "Longitude": -84.49198957532644,
+    "Elevation": 189.1999969482422,
+    "Time": "01/22/2021, 17:17:34",
+    "Speed": 6.338282871393673,
+    "Distance": 0.0035219207955438816,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.1191316768527,
+    "Longitude": -84.49198898859322,
+    "Elevation": 189.60000610351562,
+    "Time": "01/22/2021, 17:17:36",
+    "Speed": 5.558261659341317,
+    "Distance": 0.007721238434095036,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11924340762198,
+    "Longitude": -84.49198789894581,
+    "Elevation": 190.8000030517578,
+    "Time": "01/22/2021, 17:17:41",
+    "Speed": 7.451140084354119,
+    "Distance": 0.002070144686349976,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.1192733310163,
+    "Longitude": -84.49198530055583,
+    "Elevation": 191.0,
+    "Time": "01/22/2021, 17:17:42",
+    "Speed": 5.249243067609181,
+    "Distance": 0.016042326104225697,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11950391717255,
+    "Longitude": -84.49194288812578,
+    "Elevation": 191.8000030517578,
+    "Time": "01/22/2021, 17:17:53",
+    "Speed": 5.4081495450876105,
+    "Distance": 0.003005084300389884,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11954641342163,
+    "Longitude": -84.49192830361426,
+    "Elevation": 192.1999969482422,
+    "Time": "01/22/2021, 17:17:55",
+    "Speed": 6.723940451294675,
+    "Distance": 0.005604322065750522,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11962696351111,
+    "Longitude": -84.49191346764565,
+    "Elevation": 193.0,
+    "Time": "01/22/2021, 17:17:58",
+    "Speed": 7.723908975314688,
+    "Distance": 0.006437783590999794,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.119720086455345,
+    "Longitude": -84.49190994724631,
+    "Elevation": 194.0,
+    "Time": "01/22/2021, 17:18:01",
+    "Speed": 5.521626800298725,
+    "Distance": 0.0015340694512840922,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11974229849875,
+    "Longitude": -84.4919107016176,
+    "Elevation": 194.1999969482422,
+    "Time": "01/22/2021, 17:18:02",
+    "Speed": 6.266422326228661,
+    "Distance": 0.0052229863084871505,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11981765180826,
+    "Longitude": -84.49190156534314,
+    "Elevation": 194.60000610351562,
+    "Time": "01/22/2021, 17:18:05",
+    "Speed": 6.102643397610617,
+    "Distance": 0.003390985717415208,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11986626684666,
+    "Longitude": -84.49189117178321,
+    "Elevation": 195.0,
+    "Time": "01/22/2021, 17:18:07",
+    "Speed": 7.460213933972745,
+    "Distance": 0.0020726656672146603,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.11989610642195,
+    "Longitude": -84.49188647791743,
+    "Elevation": 195.1999969482422,
+    "Time": "01/22/2021, 17:18:08",
+    "Speed": 6.584026137527923,
+    "Distance": 0.009146175329606794,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.1200281213969,
+    "Longitude": -84.49187164194882,
+    "Elevation": 195.8000030517578,
+    "Time": "01/22/2021, 17:18:13",
+    "Speed": 6.405622842373873,
+    "Distance": 0.005339008234892859,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.120105151087046,
+    "Longitude": -84.4918811134994,
+    "Elevation": 196.1999969482422,
+    "Time": "01/22/2021, 17:18:16",
+    "Speed": 5.878783237779558,
+    "Distance": 0.00816648978821848,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.12022300064564,
+    "Longitude": -84.4918673671782,
+    "Elevation": 196.8000030517578,
+    "Time": "01/22/2021, 17:18:21",
+    "Speed": 6.2242966626032965,
+    "Distance": 0.0034585833889797337,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.12027304060757,
+    "Longitude": -84.49186560697854,
+    "Elevation": 197.39999389648438,
+    "Time": "01/22/2021, 17:18:23",
+    "Speed": 5.307897195057318,
+    "Distance": 0.007373445573189975,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.12037957459688,
+    "Longitude": -84.49185638688505,
+    "Elevation": 198.39999389648438,
+    "Time": "01/22/2021, 17:18:28",
+    "Speed": 6.117650885081284,
+    "Distance": 0.01189763664422519,
+    "Street": "Fulton Avenue"
+  },
+  {
+    "Latitude": 39.12055148743093,
+    "Longitude": -84.4918710552156,
+    "Elevation": 199.1999969482422,
+    "Time": "01/22/2021, 17:18:35",
+    "Speed": 6.451614518790306,
+    "Distance": 0.005377341734252129,
+    "Street": "Nassau Street"
+  },
+  {
+    "Latitude": 39.12062390707433,
+    "Longitude": -84.49191614985466,
+    "Elevation": 199.39999389648438,
+    "Time": "01/22/2021, 17:18:38",
+    "Speed": 5.372589870268204,
+    "Distance": 0.0014926626322899837,
+    "Street": "Nassau Street"
+  },
+  {
+    "Latitude": 39.120637234300375,
+    "Longitude": -84.49194305576384,
+    "Elevation": 199.60000610351562,
+    "Time": "01/22/2021, 17:18:39",
+    "Speed": 4.284408838130799,
+    "Distance": 0.0011903341086058998,
+    "Street": "Nassau Street"
+  },
+  {
+    "Latitude": 39.12064268253744,
+    "Longitude": -84.49196895584464,
+    "Elevation": 199.8000030517578,
+    "Time": "01/22/2021, 17:18:40",
+    "Speed": 5.294934735101742,
+    "Distance": 0.010297614348467392,
+    "Street": "Nassau Street"
+  },
+  {
+    "Latitude": 39.120659278705716,
+    "Longitude": -84.49220364913344,
+    "Elevation": 200.1999969482422,
+    "Time": "01/22/2021, 17:18:47",
+    "Speed": 5.5617541977459375,
+    "Distance": 0.009271308096937856,
+    "Street": "Nassau Street"
+  },
+  {
+    "Latitude": 39.12066824734211,
+    "Longitude": -84.49241579510272,
+    "Elevation": 200.39999389648438,
+    "Time": "01/22/2021, 17:18:53",
+    "Speed": 5.786846078233497,
+    "Distance": 0.0032155102505011324,
+    "Street": "Nassau Street"
+  },
+  {
+    "Latitude": 39.12066447548568,
+    "Longitude": -84.49248930439353,
+    "Elevation": 200.8000030517578,
+    "Time": "01/22/2021, 17:18:55",
+    "Speed": 5.2020762418167825,
+    "Distance": 0.010117022707462044,
+    "Street": "Nassau Street"
+  },
+  {
+    "Latitude": 39.12066866643727,
+    "Longitude": -84.49272123165429,
+    "Elevation": 201.1999969482422,
+    "Time": "01/22/2021, 17:19:02",
+    "Speed": 5.591365269618082,
+    "Distance": 0.010874113867021076,
+    "Street": "Nassau Street"
+  },
+  {
+    "Latitude": 39.12068291567266,
+    "Longitude": -84.49296958744526,
+    "Elevation": 201.0,
+    "Time": "01/22/2021, 17:19:09",
+    "Speed": 5.9954648701050175,
+    "Distance": 0.001665715528434023,
+    "Street": "Nassau Street"
+  },
+  {
+    "Latitude": 39.120684172958136,
+    "Longitude": -84.49300772510469,
+    "Elevation": 201.0,
+    "Time": "01/22/2021, 17:19:10",
+    "Speed": 5.561810511037941,
+    "Distance": 0.006180934646544725,
+    "Street": "Nassau Street"
+  },
+  {
+    "Latitude": 39.120692387223244,
+    "Longitude": -84.4931488763541,
+    "Elevation": 200.39999389648438,
+    "Time": "01/22/2021, 17:19:14",
+    "Speed": 5.328600087331526,
+    "Distance": 0.00592176393496409,
+    "Street": "Nassau Street"
+  },
+  {
+    "Latitude": 39.12069406360388,
+    "Longitude": -84.49328466318548,
+    "Elevation": 200.0,
+    "Time": "01/22/2021, 17:19:18",
+    "Speed": 5.655272927175341,
+    "Distance": 0.007856001274646359,
+    "Street": "Nassau Street"
+  },
+  {
+    "Latitude": 39.12070060148835,
+    "Longitude": -84.49346453882754,
+    "Elevation": 199.39999389648438,
+    "Time": "01/22/2021, 17:19:23",
+    "Speed": 6.215005816861756,
+    "Distance": 0.006906841703017481,
+    "Street": "Nassau Street"
+  },
+  {
+    "Latitude": 39.12070487625897,
+    "Longitude": -84.49362278915942,
+    "Elevation": 198.60000610351562,
+    "Time": "01/22/2021, 17:19:27",
+    "Speed": 5.66276451933638,
+    "Distance": 0.0015732816383858842,
+    "Street": "Nassau Street"
+  },
+  {
+    "Latitude": 39.12071283906698,
+    "Longitude": -84.4936565682292,
+    "Elevation": 198.39999389648438,
+    "Time": "01/22/2021, 17:19:28",
+    "Speed": 5.784166362379132,
+    "Distance": 0.006428042487182077,
+    "Street": "Nassau Street"
+  },
+  {
+    "Latitude": 39.12074854597449,
+    "Longitude": -84.4937926903367,
+    "Elevation": 197.1999969482422,
+    "Time": "01/22/2021, 17:19:32",
+    "Speed": 5.48977012002694,
+    "Distance": 0.004575656200768536,
+    "Street": "Nassau Street"
+  },
+  {
+    "Latitude": 39.120765728875995,
+    "Longitude": -84.49389402754605,
+    "Elevation": 196.1999969482422,
+    "Time": "01/22/2021, 17:19:35",
+    "Speed": 0.27416882873755855,
+    "Distance": 0.0018281309036150323,
+    "Street": "Nassau Street"
+  },
+  {
+    "Latitude": 39.12078668363392,
+    "Longitude": -84.49391959235072,
+    "Elevation": 192.8000030517578,
+    "Time": "01/22/2021, 17:19:59",
+    "Speed": 0.0,
+    "Distance": 0.0,
+    "Street": "Gilbert Avenue"
+  },
+  {
+    "Latitude": 39.12078701891005,
+    "Longitude": -84.49392001144588,
+    "Elevation": 192.8000030517578,
+    "Time": "01/22/2021, 17:20:00",
+    "Speed": 2.6745165730166,
+    "Distance": 0.0037152947129601506,
+    "Street": "Gilbert Avenue"
+  },
+  {
+    "Latitude": 39.120825910940766,
+    "Longitude": -84.49397885240614,
+    "Elevation": 192.8000030517578,
+    "Time": "01/22/2021, 17:20:05",
+    "Speed": 4.439503680815813,
+    "Distance": 0.0012334239929497528,
+    "Street": "Gilbert Avenue"
+  },
+  {
+    "Latitude": 39.120839489623904,
+    "Longitude": -84.49399712495506,
+    "Elevation": 192.8000030517578,
+    "Time": "01/22/2021, 17:20:06",
+    "Speed": 5.67116526772791,
+    "Distance": 0.004726846836117617,
+    "Street": "Gilbert Avenue"
+  },
+  {
+    "Latitude": 39.12089539691806,
+    "Longitude": -84.49405957013369,
+    "Elevation": 192.8000030517578,
+    "Time": "01/22/2021, 17:20:09",
+    "Speed": 6.368747739788424,
+    "Distance": 0.005308273288235702,
+    "Street": "Gilbert Avenue"
+  },
+  {
+    "Latitude": 39.12096429616213,
+    "Longitude": -84.49411338195205,
+    "Elevation": 192.8000030517578,
+    "Time": "01/22/2021, 17:20:12",
+    "Speed": 6.418579111256947,
+    "Distance": 0.04279845701138703,
+    "Street": "Gilbert Avenue"
+  },
+  {
+    "Latitude": 39.12154784426093,
+    "Longitude": -84.4944420363754,
+    "Elevation": 195.8000030517578,
+    "Time": "01/22/2021, 17:20:36",
+    "Speed": 6.20252063085226,
+    "Distance": 0.001723241675847236,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.12157156504691,
+    "Longitude": -84.49445427395403,
+    "Elevation": 196.0,
+    "Time": "01/22/2021, 17:20:37",
+    "Speed": 6.445008834712486,
+    "Distance": 0.0017906119924754075,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.121596459299326,
+    "Longitude": -84.49446558952332,
+    "Elevation": 196.0,
+    "Time": "01/22/2021, 17:20:38",
+    "Speed": 6.144991408480132,
+    "Distance": 0.0034145167498979014,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.12164339795709,
+    "Longitude": -84.49449006468058,
+    "Elevation": 196.1999969482422,
+    "Time": "01/22/2021, 17:20:40",
+    "Speed": 6.053949465723001,
+    "Distance": 0.006727857039871555,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.12173802964389,
+    "Longitude": -84.49452627450228,
+    "Elevation": 196.1999969482422,
+    "Time": "01/22/2021, 17:20:44",
+    "Speed": 4.108143387731014,
+    "Distance": 0.0057068120506369,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.12181933410466,
+    "Longitude": -84.4945490732789,
+    "Elevation": 197.1999969482422,
+    "Time": "01/22/2021, 17:20:49",
+    "Speed": 5.784897317080886,
+    "Distance": 0.0016072137023945506,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.12184188142419,
+    "Longitude": -84.49455812573433,
+    "Elevation": 197.1999969482422,
+    "Time": "01/22/2021, 17:20:50",
+    "Speed": 5.0898385131945965,
+    "Distance": 0.009898742237065081,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.121981021016836,
+    "Longitude": -84.49461202137172,
+    "Elevation": 198.1999969482422,
+    "Time": "01/22/2021, 17:20:57",
+    "Speed": 5.3337406469865165,
+    "Distance": 0.008891215089551064,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.12210876122117,
+    "Longitude": -84.49463624507189,
+    "Elevation": 199.39999389648438,
+    "Time": "01/22/2021, 17:21:03",
+    "Speed": 6.213418186483209,
+    "Distance": 0.0017262693355916802,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.12213348783553,
+    "Longitude": -84.49463079683483,
+    "Elevation": 199.60000610351562,
+    "Time": "01/22/2021, 17:21:04",
+    "Speed": 5.319628952850424,
+    "Distance": 0.004433845620438918,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.122197441756725,
+    "Longitude": -84.49462275020778,
+    "Elevation": 200.39999389648438,
+    "Time": "01/22/2021, 17:21:07",
+    "Speed": 4.628502543547741,
+    "Distance": 0.002571866811738587,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.122234070673585,
+    "Longitude": -84.49461227282882,
+    "Elevation": 200.60000610351562,
+    "Time": "01/22/2021, 17:21:09",
+    "Speed": 5.468813309184603,
+    "Distance": 0.019752152140243718,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.122518971562386,
+    "Longitude": -84.49457606300712,
+    "Elevation": 202.8000030517578,
+    "Time": "01/22/2021, 17:21:22",
+    "Speed": 5.537938879559825,
+    "Distance": 0.0015386014240860249,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.12254118360579,
+    "Longitude": -84.49457405135036,
+    "Elevation": 203.1999969482422,
+    "Time": "01/22/2021, 17:21:23",
+    "Speed": 5.44082497127472,
+    "Distance": 0.007558101697279358,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.12265048362315,
+    "Longitude": -84.4945681001991,
+    "Elevation": 203.8000030517578,
+    "Time": "01/22/2021, 17:21:28",
+    "Speed": 7.067495967441967,
+    "Distance": 0.0039271142555812235,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.12270689383149,
+    "Longitude": -84.4945789128542,
+    "Elevation": 204.1999969482422,
+    "Time": "01/22/2021, 17:21:30",
+    "Speed": 6.699330898397212,
+    "Distance": 0.009306350507715196,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.122841423377395,
+    "Longitude": -84.49458838440478,
+    "Elevation": 204.8000030517578,
+    "Time": "01/22/2021, 17:21:35",
+    "Speed": 5.214976527123502,
+    "Distance": 0.0014488730348438175,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.12286237813532,
+    "Longitude": -84.49458670802414,
+    "Elevation": 205.0,
+    "Time": "01/22/2021, 17:21:36",
+    "Speed": 5.102723117282786,
+    "Distance": 0.0070884287690007935,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.122964637354016,
+    "Longitude": -84.4945992808789,
+    "Elevation": 206.0,
+    "Time": "01/22/2021, 17:21:41",
+    "Speed": 7.949714183359468,
+    "Distance": 0.004417326312046964,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.12302850745618,
+    "Longitude": -84.49459525756538,
+    "Elevation": 206.60000610351562,
+    "Time": "01/22/2021, 17:21:43",
+    "Speed": 6.136546704198837,
+    "Distance": 0.01875403407969955,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.1232986561954,
+    "Longitude": -84.49455443769693,
+    "Elevation": 208.1999969482422,
+    "Time": "01/22/2021, 17:21:54",
+    "Speed": 5.9066257811973655,
+    "Distance": 0.004923100292079698,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.12336956709623,
+    "Longitude": -84.49454354122281,
+    "Elevation": 208.60000610351562,
+    "Time": "01/22/2021, 17:21:57",
+    "Speed": 5.634819793526622,
+    "Distance": 0.0015655177760786853,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.1233921982348,
+    "Longitude": -84.49454127810895,
+    "Elevation": 208.60000610351562,
+    "Time": "01/22/2021, 17:21:58",
+    "Speed": 6.676071968442272,
+    "Distance": 0.011128848542397613,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.12354877218604,
+    "Longitude": -84.49448159895837,
+    "Elevation": 209.1999969482422,
+    "Time": "01/22/2021, 17:22:04",
+    "Speed": 6.100795511603798,
+    "Distance": 0.003389958923836054,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.12359763868153,
+    "Longitude": -84.49447489343584,
+    "Elevation": 209.1999969482422,
+    "Time": "01/22/2021, 17:22:06",
+    "Speed": 6.255016269526117,
+    "Distance": 0.0104269589996693,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.12374675273895,
+    "Longitude": -84.49443843215704,
+    "Elevation": 209.60000610351562,
+    "Time": "01/22/2021, 17:22:12",
+    "Speed": 6.401652321332142,
+    "Distance": 0.06758551881990951,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.12472374737263,
+    "Longitude": -84.49436928145587,
+    "Elevation": 211.1999969482422,
+    "Time": "01/22/2021, 17:22:50",
+    "Speed": 6.980814336025335,
+    "Distance": 0.0038789488697074347,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.124779403209686,
+    "Longitude": -84.4943577144295,
+    "Elevation": 211.39999389648438,
+    "Time": "01/22/2021, 17:22:52",
+    "Speed": 6.320414052456553,
+    "Distance": 0.012291971420036954,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.124957267194986,
+    "Longitude": -84.4943561218679,
+    "Elevation": 211.39999389648438,
+    "Time": "01/22/2021, 17:22:59",
+    "Speed": 6.137478813338291,
+    "Distance": 0.011936198093749047,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.1251293476671,
+    "Longitude": -84.49433265253901,
+    "Elevation": 211.39999389648438,
+    "Time": "01/22/2021, 17:23:06",
+    "Speed": 7.678358988540845,
+    "Distance": 0.012799636469102767,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.12531450390816,
+    "Longitude": -84.49432527646422,
+    "Elevation": 211.60000610351562,
+    "Time": "01/22/2021, 17:23:12",
+    "Speed": 5.034563926580583,
+    "Distance": 0.0013987491367374407,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.12533210590482,
+    "Longitude": -84.49430951848626,
+    "Elevation": 211.60000610351562,
+    "Time": "01/22/2021, 17:23:13",
+    "Speed": 5.935909882658001,
+    "Distance": 0.011544185875162425,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.125498570501804,
+    "Longitude": -84.49428747408092,
+    "Elevation": 212.0,
+    "Time": "01/22/2021, 17:23:20",
+    "Speed": 6.71069864461303,
+    "Distance": 0.0037288567879732327,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.1255522146821,
+    "Longitude": -84.49427825398743,
+    "Elevation": 212.0,
+    "Time": "01/22/2021, 17:23:22",
+    "Speed": 7.030706669881147,
+    "Distance": 0.001953335984717487,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.12558046169579,
+    "Longitude": -84.49427624233067,
+    "Elevation": 212.1999969482422,
+    "Time": "01/22/2021, 17:23:23",
+    "Speed": 6.6811292754345875,
+    "Distance": 0.00928106579112656,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.1257147397846,
+    "Longitude": -84.49427322484553,
+    "Elevation": 212.1999969482422,
+    "Time": "01/22/2021, 17:23:28",
+    "Speed": 7.2365690893176655,
+    "Distance": 0.014073714109037329,
+    "Street": "Kenton Street"
+  },
+  {
+    "Latitude": 39.12591758184135,
+    "Longitude": -84.49424455873668,
+    "Elevation": 212.39999389648438,
+    "Time": "01/22/2021, 17:23:35",
+    "Speed": 5.718244292903733,
+    "Distance": 0.00158869554245293,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.12594054825604,
+    "Longitude": -84.49424321763217,
+    "Elevation": 212.60000610351562,
+    "Time": "01/22/2021, 17:23:36",
+    "Speed": 4.977127138113374,
+    "Distance": 0.0027655830333638896,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.125980362296104,
+    "Longitude": -84.49423659592867,
+    "Elevation": 212.39999389648438,
+    "Time": "01/22/2021, 17:23:38",
+    "Speed": 4.175790177851701,
+    "Distance": 0.004640626669276447,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.12604498676956,
+    "Longitude": -84.49426551349461,
+    "Elevation": 212.1999969482422,
+    "Time": "01/22/2021, 17:23:42",
+    "Speed": 2.9390080014858135,
+    "Distance": 0.0040827119934246335,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.126044902950525,
+    "Longitude": -84.49435913935304,
+    "Elevation": 212.1999969482422,
+    "Time": "01/22/2021, 17:23:47",
+    "Speed": 4.310111666337271,
+    "Distance": 0.00838232574323101,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.126022858545184,
+    "Longitude": -84.49454815126956,
+    "Elevation": 212.1999969482422,
+    "Time": "01/22/2021, 17:23:54",
+    "Speed": 5.2775422454536995,
+    "Distance": 0.008797533729922237,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.12607792764902,
+    "Longitude": -84.49473003856838,
+    "Elevation": 211.8000030517578,
+    "Time": "01/22/2021, 17:24:00",
+    "Speed": 6.459183308262113,
+    "Distance": 0.010767300455271205,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.126185551285744,
+    "Longitude": -84.49490857310593,
+    "Elevation": 211.8000030517578,
+    "Time": "01/22/2021, 17:24:06",
+    "Speed": 4.183882802066633,
+    "Distance": 0.004649620140250022,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.12620918825269,
+    "Longitude": -84.4950084015727,
+    "Elevation": 211.8000030517578,
+    "Time": "01/22/2021, 17:24:10",
+    "Speed": 2.013059070292537,
+    "Distance": 0.008948587175646318,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.126201728358865,
+    "Longitude": -84.49521325528622,
+    "Elevation": 211.8000030517578,
+    "Time": "01/22/2021, 17:24:26",
+    "Speed": 1.2199742717353526,
+    "Distance": 0.00033894454104006283,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.12620550021529,
+    "Longitude": -84.49520847760141,
+    "Elevation": 211.8000030517578,
+    "Time": "01/22/2021, 17:24:27",
+    "Speed": 2.395057351365376,
+    "Distance": 0.002661667982779449,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.12624397315085,
+    "Longitude": -84.49520596303046,
+    "Elevation": 212.0,
+    "Time": "01/22/2021, 17:24:31",
+    "Speed": 4.264294905584092,
+    "Distance": 0.0047389834789769,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.12631245329976,
+    "Longitude": -84.49520043097436,
+    "Elevation": 211.8000030517578,
+    "Time": "01/22/2021, 17:24:35",
+    "Speed": 7.35157015160423,
+    "Distance": 0.010212406231382634,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.126460226252675,
+    "Longitude": -84.49519976042211,
+    "Elevation": 211.8000030517578,
+    "Time": "01/22/2021, 17:24:40",
+    "Speed": 8.104054467741607,
+    "Distance": 0.00900617360798971,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.12658981047571,
+    "Longitude": -84.49517788365483,
+    "Elevation": 211.1999969482422,
+    "Time": "01/22/2021, 17:24:44",
+    "Speed": 7.927541626315459,
+    "Distance": 0.006607508913164293,
+    "Street": "East McMillan Street"
+  },
+  {
+    "Latitude": 39.12668536417186,
+    "Longitude": -84.49517243541777,
+    "Elevation": 211.0,
+    "Time": "01/22/2021, 17:24:47",
+    "Speed": 7.5107581936584955,
+    "Distance": 0.006260125023435033,
+    "Street": "May Street"
+  },
+  {
+    "Latitude": 39.12677555344999,
+    "Longitude": -84.4951590243727,
+    "Elevation": 210.39999389648438,
+    "Time": "01/22/2021, 17:24:50",
+    "Speed": 7.831828271067111,
+    "Distance": 0.00435182200205822,
+    "Street": "May Street"
+  },
+  {
+    "Latitude": 39.12683783099055,
+    "Longitude": -84.49514427222311,
+    "Elevation": 210.1999969482422,
+    "Time": "01/22/2021, 17:24:52",
+    "Speed": 6.41959155255152,
+    "Distance": 0.0035671006559001455,
+    "Street": "May Street"
+  },
+  {
+    "Latitude": 39.12688904441893,
+    "Longitude": -84.49513404630125,
+    "Elevation": 210.0,
+    "Time": "01/22/2021, 17:24:54",
+    "Speed": 7.1338966208754,
+    "Distance": 0.013874036202298537,
+    "Street": "May Street"
+  },
+  {
+    "Latitude": 39.127089120447636,
+    "Longitude": -84.49510781094432,
+    "Elevation": 209.60000610351562,
+    "Time": "01/22/2021, 17:25:01",
+    "Speed": 9.084329460686208,
+    "Distance": 0.007571677414137182,
+    "Street": "May Street"
+  },
+  {
+    "Latitude": 39.127198504284024,
+    "Longitude": -84.49509783647954,
+    "Elevation": 209.1999969482422,
+    "Time": "01/22/2021, 17:25:04",
+    "Speed": 7.172049043675667,
+    "Distance": 0.019926050308975766,
+    "Street": "May Street"
+  },
+  {
+    "Latitude": 39.1274846624583,
+    "Longitude": -84.49504184536636,
+    "Elevation": 208.39999389648438,
+    "Time": "01/22/2021, 17:25:14",
+    "Speed": 6.969498894905505,
+    "Distance": 0.003872661348591811,
+    "Street": "May Street"
+  },
+  {
+    "Latitude": 39.1275398992002,
+    "Longitude": -84.49502692557871,
+    "Elevation": 208.0,
+    "Time": "01/22/2021, 17:25:16",
+    "Speed": 6.78154625807579,
+    "Distance": 0.011304671601225764,
+    "Street": "May Street"
+  },
+  {
+    "Latitude": 39.127702843397856,
+    "Longitude": -84.49500412680209,
+    "Elevation": 206.8000030517578,
+    "Time": "01/22/2021, 17:25:22",
+    "Speed": 4.235590450864008,
+    "Distance": 0.0035303127975633325,
+    "Street": "May Street"
+  },
+  {
+    "Latitude": 39.12775347009301,
+    "Longitude": -84.49501502327621,
+    "Elevation": 206.1999969482422,
+    "Time": "01/22/2021, 17:25:25",
+    "Speed": 1.2276519703723314,
+    "Distance": 0.002046465781919591,
+    "Street": "May Street"
+  },
+  {
+    "Latitude": 39.12777777761221,
+    "Longitude": -84.49504184536636,
+    "Elevation": 205.39999389648438,
+    "Time": "01/22/2021, 17:25:31",
+    "Speed": 1.0403975546775652,
+    "Distance": 0.00028905287581825997,
+    "Street": "May Street"
+  },
+  {
+    "Latitude": 39.12778163328767,
+    "Longitude": -84.49504402466118,
+    "Elevation": 205.39999389648438,
+    "Time": "01/22/2021, 17:25:32",
+    "Speed": 7.047136734914739,
+    "Distance": 0.046989617698043974,
+    "Street": "May Street"
+  },
+  {
+    "Latitude": 39.12845989689231,
+    "Longitude": -84.49496833607554,
+    "Elevation": 202.0,
+    "Time": "01/22/2021, 17:25:56",
+    "Speed": 6.587663288301676,
+    "Distance": 0.005490736718415615,
+    "Street": "May Street"
+  },
+  {
+    "Latitude": 39.12853918969631,
+    "Longitude": -84.49497621506453,
+    "Elevation": 201.8000030517578,
+    "Time": "01/22/2021, 17:25:59",
+    "Speed": 6.736791749386152,
+    "Distance": 0.009358389109018466,
+    "Street": "May Street"
+  },
+  {
+    "Latitude": 39.12867455743253,
+    "Longitude": -84.49498183093965,
+    "Elevation": 201.0,
+    "Time": "01/22/2021, 17:26:04",
+    "Speed": 7.387311071618821,
+    "Distance": 0.002052411119398739,
+    "Street": "May Street"
+  },
+  {
+    "Latitude": 39.12870414555073,
+    "Longitude": -84.49498551897705,
+    "Elevation": 200.8000030517578,
+    "Time": "01/22/2021, 17:26:05",
+    "Speed": 7.209171018610134,
+    "Distance": 0.01402043021033923,
+    "Street": "May Street"
+  },
+  {
+    "Latitude": 39.12890656851232,
+    "Longitude": -84.49496406130493,
+    "Elevation": 200.0,
+    "Time": "01/22/2021, 17:26:12",
+    "Speed": 6.832252005779114,
+    "Distance": 0.0018981994735633278,
+    "Street": "May Street"
+  },
+  {
+    "Latitude": 39.12893397733569,
+    "Longitude": -84.49496087618172,
+    "Elevation": 200.0,
+    "Time": "01/22/2021, 17:26:13",
+    "Speed": 5.773190936145905,
+    "Distance": 0.0016039613273197855,
+    "Street": "May Street"
+  },
+  {
+    "Latitude": 39.12895677611232,
+    "Longitude": -84.49495391920209,
+    "Elevation": 199.8000030517578,
+    "Time": "01/22/2021, 17:26:14",
+    "Speed": 6.900683133491654,
+    "Distance": 0.01342048149877813,
+    "Street": "May Street"
+  },
+  {
+    "Latitude": 39.12915031425655,
+    "Longitude": -84.49492860585451,
+    "Elevation": 199.60000610351562,
+    "Time": "01/22/2021, 17:26:21",
+    "Speed": 6.908881294712273,
+    "Distance": 0.01343642532185433,
+    "Street": "May Street"
+  },
+  {
+    "Latitude": 39.12934427149594,
+    "Longitude": -84.49490714818239,
+    "Elevation": 199.1999969482422,
+    "Time": "01/22/2021, 17:26:28",
+    "Speed": 7.292066229893096,
+    "Distance": 0.002025949316135266,
+    "Street": "May Street"
+  },
+  {
+    "Latitude": 39.12937360815704,
+    "Longitude": -84.49490647763014,
+    "Elevation": 199.1999969482422,
+    "Time": "01/22/2021, 17:26:29",
+    "Speed": 6.000427692891898,
+    "Distance": 0.00833547172891741,
+    "Street": "May Street"
+  },
+  {
+    "Latitude": 39.12949187681079,
+    "Longitude": -84.49494402855635,
+    "Elevation": 198.8000030517578,
+    "Time": "01/22/2021, 17:26:34",
+    "Speed": 4.939606284211304,
+    "Distance": 0.001372367125856736,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.12950201891363,
+    "Longitude": -84.49497110210359,
+    "Elevation": 198.8000030517578,
+    "Time": "01/22/2021, 17:26:35",
+    "Speed": 4.570896798412326,
+    "Distance": 0.002539857689417637,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.12950847297907,
+    "Longitude": -84.49502843432128,
+    "Elevation": 198.8000030517578,
+    "Time": "01/22/2021, 17:26:37",
+    "Speed": 5.579773509395464,
+    "Distance": 0.006200897232232153,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.129510233178735,
+    "Longitude": -84.49517059139907,
+    "Elevation": 198.8000030517578,
+    "Time": "01/22/2021, 17:26:41",
+    "Speed": 4.8977072233399825,
+    "Distance": 0.008164358046349114,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.1295326128602,
+    "Longitude": -84.49535440653563,
+    "Elevation": 199.1999969482422,
+    "Time": "01/22/2021, 17:26:47",
+    "Speed": 4.527834084009491,
+    "Distance": 0.005031859051673731,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.129542000591755,
+    "Longitude": -84.49546881951392,
+    "Elevation": 199.8000030517578,
+    "Time": "01/22/2021, 17:26:51",
+    "Speed": 4.612716459395575,
+    "Distance": 0.023067856258123475,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.129584496840835,
+    "Longitude": -84.49599344283342,
+    "Elevation": 201.8000030517578,
+    "Time": "01/22/2021, 17:27:09",
+    "Speed": 4.695616460753862,
+    "Distance": 0.005218318461508131,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.12959924899042,
+    "Longitude": -84.49611078947783,
+    "Elevation": 202.1999969482422,
+    "Time": "01/22/2021, 17:27:13",
+    "Speed": 5.362349104136736,
+    "Distance": 0.0059592697915271916,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.129630010575056,
+    "Longitude": -84.49623844586313,
+    "Elevation": 203.0,
+    "Time": "01/22/2021, 17:27:17",
+    "Speed": 6.2242966626032965,
+    "Distance": 0.0034585833889797337,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.129648953676224,
+    "Longitude": -84.49631187133491,
+    "Elevation": 203.60000610351562,
+    "Time": "01/22/2021, 17:27:19",
+    "Speed": 5.196325121302263,
+    "Distance": 0.008662146772141832,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.12971190176904,
+    "Longitude": -84.4964836165309,
+    "Elevation": 204.1999969482422,
+    "Time": "01/22/2021, 17:27:25",
+    "Speed": 5.275167861815522,
+    "Distance": 0.008793575690521863,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.12978423759341,
+    "Longitude": -84.49664949439466,
+    "Elevation": 204.8000030517578,
+    "Time": "01/22/2021, 17:27:31",
+    "Speed": 5.466214164658592,
+    "Distance": 0.009112045200583428,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.129849867895246,
+    "Longitude": -84.49683071114123,
+    "Elevation": 205.0,
+    "Time": "01/22/2021, 17:27:37",
+    "Speed": 5.801440921282565,
+    "Distance": 0.00322361999919572,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.12986520677805,
+    "Longitude": -84.49690053239465,
+    "Elevation": 205.1999969482422,
+    "Time": "01/22/2021, 17:27:39",
+    "Speed": 5.831246151944441,
+    "Distance": 0.006480363058316017,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.12990535609424,
+    "Longitude": -84.49703481048346,
+    "Elevation": 205.39999389648438,
+    "Time": "01/22/2021, 17:27:43",
+    "Speed": 6.222686236533265,
+    "Distance": 0.010373065626103389,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.12997626699507,
+    "Longitude": -84.49724444188178,
+    "Elevation": 205.60000610351562,
+    "Time": "01/22/2021, 17:27:49",
+    "Speed": 5.974087305997415,
+    "Distance": 0.0116184335103148,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13008271716535,
+    "Longitude": -84.4974506366998,
+    "Elevation": 205.8000030517578,
+    "Time": "01/22/2021, 17:27:56",
+    "Speed": 5.4276888490201145,
+    "Distance": 0.009047824442506623,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13016041740775,
+    "Longitude": -84.49761760421097,
+    "Elevation": 205.8000030517578,
+    "Time": "01/22/2021, 17:28:02",
+    "Speed": 6.022882480372428,
+    "Distance": 0.011713330598365584,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.130239710211754,
+    "Longitude": -84.49785497970879,
+    "Elevation": 205.60000610351562,
+    "Time": "01/22/2021, 17:28:09",
+    "Speed": 5.367457341538319,
+    "Distance": 0.004473709996995265,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13027374073863,
+    "Longitude": -84.4979422353208,
+    "Elevation": 205.60000610351562,
+    "Time": "01/22/2021, 17:28:12",
+    "Speed": 5.606735789172258,
+    "Distance": 0.0031154304362348566,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13029913790524,
+    "Longitude": -84.49800124391913,
+    "Elevation": 205.39999389648438,
+    "Time": "01/22/2021, 17:28:14",
+    "Speed": 3.312794562162736,
+    "Distance": 0.005522347438532755,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13036300800741,
+    "Longitude": -84.49807735159993,
+    "Elevation": 205.1999969482422,
+    "Time": "01/22/2021, 17:28:20",
+    "Speed": 1.4520598243769531,
+    "Distance": 0.0008068493936943057,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13036988116801,
+    "Longitude": -84.49809235520661,
+    "Elevation": 206.0,
+    "Time": "01/22/2021, 17:28:22",
+    "Speed": 5.153032128355801,
+    "Distance": 0.007158315343920389,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13041749037802,
+    "Longitude": -84.49823811650276,
+    "Elevation": 205.60000610351562,
+    "Time": "01/22/2021, 17:28:27",
+    "Speed": 5.492964101998262,
+    "Distance": 0.0015261061152158641,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.130427464842796,
+    "Longitude": -84.49826929718256,
+    "Elevation": 205.39999389648438,
+    "Time": "01/22/2021, 17:28:28",
+    "Speed": 6.490335395293709,
+    "Distance": 0.0018032050369592668,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13043349981308,
+    "Longitude": -84.49830953031778,
+    "Elevation": 206.39999389648438,
+    "Time": "01/22/2021, 17:28:29",
+    "Speed": 5.823748642333303,
+    "Distance": 0.003236015474163298,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13044858723879,
+    "Longitude": -84.49837977066636,
+    "Elevation": 205.39999389648438,
+    "Time": "01/22/2021, 17:28:31",
+    "Speed": 5.921665898448204,
+    "Distance": 0.0032904240304790938,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13045638240874,
+    "Longitude": -84.49845420196652,
+    "Elevation": 205.39999389648438,
+    "Time": "01/22/2021, 17:28:33",
+    "Speed": 6.150493565745829,
+    "Distance": 0.003417574070387946,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13046417757869,
+    "Longitude": -84.4985315669328,
+    "Elevation": 205.39999389648438,
+    "Time": "01/22/2021, 17:28:35",
+    "Speed": 5.321865797736697,
+    "Distance": 0.008871420006545706,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13049913011491,
+    "Longitude": -84.49872728437185,
+    "Elevation": 206.1999969482422,
+    "Time": "01/22/2021, 17:28:41",
+    "Speed": 5.296498995588898,
+    "Distance": 0.0014715223613899848,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13050047121942,
+    "Longitude": -84.4987609796226,
+    "Elevation": 206.39999389648438,
+    "Time": "01/22/2021, 17:28:42",
+    "Speed": 5.15456842257659,
+    "Distance": 0.0042962696887811624,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.130511954426765,
+    "Longitude": -84.49885779060423,
+    "Elevation": 207.0,
+    "Time": "01/22/2021, 17:28:45",
+    "Speed": 5.07582696363284,
+    "Distance": 0.0028204264310264376,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13052435964346,
+    "Longitude": -84.49891939759254,
+    "Elevation": 207.1999969482422,
+    "Time": "01/22/2021, 17:28:47",
+    "Speed": 5.6905720184697195,
+    "Distance": 0.0015810073751080325,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.130533915013075,
+    "Longitude": -84.49895233847201,
+    "Elevation": 207.1999969482422,
+    "Time": "01/22/2021, 17:28:48",
+    "Speed": 5.4797197710271,
+    "Distance": 0.004567279357892504,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13055210374296,
+    "Longitude": -84.4990530051291,
+    "Elevation": 207.60000610351562,
+    "Time": "01/22/2021, 17:28:51",
+    "Speed": 4.885381578611035,
+    "Distance": 0.005429207665543627,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.130570041015744,
+    "Longitude": -84.49917420744896,
+    "Elevation": 208.0,
+    "Time": "01/22/2021, 17:28:55",
+    "Speed": 5.083102901013457,
+    "Distance": 0.00847340810257921,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.130613123998046,
+    "Longitude": -84.49935609474778,
+    "Elevation": 208.60000610351562,
+    "Time": "01/22/2021, 17:29:01",
+    "Speed": 5.7202157614309295,
+    "Distance": 0.003178486548163745,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13062301464379,
+    "Longitude": -84.49942725710571,
+    "Elevation": 209.0,
+    "Time": "01/22/2021, 17:29:03",
+    "Speed": 5.105604682070297,
+    "Distance": 0.008510918020761562,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13066693581641,
+    "Longitude": -84.49960956349969,
+    "Elevation": 210.0,
+    "Time": "01/22/2021, 17:29:09",
+    "Speed": 4.315873707628396,
+    "Distance": 0.0011990759698056266,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13067347370088,
+    "Longitude": -84.4996349606663,
+    "Elevation": 210.1999969482422,
+    "Time": "01/22/2021, 17:29:10",
+    "Speed": 4.665806545182606,
+    "Distance": 0.010370380390328109,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13072342984378,
+    "Longitude": -84.49985917657614,
+    "Elevation": 211.1999969482422,
+    "Time": "01/22/2021, 17:29:18",
+    "Speed": 4.6972670202213385,
+    "Distance": 0.010440305512652124,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.130762657150626,
+    "Longitude": -84.50009034946561,
+    "Elevation": 212.1999969482422,
+    "Time": "01/22/2021, 17:29:26",
+    "Speed": 6.278262643347304,
+    "Distance": 0.008721425113135272,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.130788054317236,
+    "Longitude": -84.50028623454273,
+    "Elevation": 212.60000610351562,
+    "Time": "01/22/2021, 17:29:31",
+    "Speed": 5.667222888224427,
+    "Distance": 0.00787260151842637,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13081110455096,
+    "Longitude": -84.50046300888062,
+    "Elevation": 212.8000030517578,
+    "Time": "01/22/2021, 17:29:36",
+    "Speed": 5.68561636829318,
+    "Distance": 0.003159261101039098,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13082309067249,
+    "Longitude": -84.50053291395307,
+    "Elevation": 212.8000030517578,
+    "Time": "01/22/2021, 17:29:38",
+    "Speed": 5.6817589854309665,
+    "Distance": 0.004735676570156998,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.130848655477166,
+    "Longitude": -84.50063366442919,
+    "Elevation": 213.39999389648438,
+    "Time": "01/22/2021, 17:29:41",
+    "Speed": 5.816968392134781,
+    "Distance": 0.0032322479704627385,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13086877204478,
+    "Longitude": -84.5007005520165,
+    "Elevation": 213.8000030517578,
+    "Time": "01/22/2021, 17:29:43",
+    "Speed": 5.42087543707073,
+    "Distance": 0.00903646665157805,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.130899449810386,
+    "Longitude": -84.50090196914971,
+    "Elevation": 214.1999969482422,
+    "Time": "01/22/2021, 17:29:49",
+    "Speed": 5.695018315379061,
+    "Distance": 0.01107569880521014,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13094496354461,
+    "Longitude": -84.50114546343684,
+    "Elevation": 214.1999969482422,
+    "Time": "01/22/2021, 17:29:56",
+    "Speed": 5.592640902258723,
+    "Distance": 0.0031075984924199694,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13096281699836,
+    "Longitude": -84.50121084228158,
+    "Elevation": 214.1999969482422,
+    "Time": "01/22/2021, 17:29:58",
+    "Speed": 5.258040648223256,
+    "Distance": 0.008765025044734547,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.130980586633086,
+    "Longitude": -84.50140982866287,
+    "Elevation": 214.1999969482422,
+    "Time": "01/22/2021, 17:30:04",
+    "Speed": 1.1190821828868212,
+    "Distance": 0.0071510166484726155,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13098435848951,
+    "Longitude": -84.50157369486988,
+    "Elevation": 214.60000610351562,
+    "Time": "01/22/2021, 17:30:27",
+    "Speed": 5.777529398422402,
+    "Distance": 0.004815500037164443,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13097103126347,
+    "Longitude": -84.50168207287788,
+    "Elevation": 214.60000610351562,
+    "Time": "01/22/2021, 17:30:30",
+    "Speed": 5.634375109014246,
+    "Distance": 0.004696182689137887,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13097287528217,
+    "Longitude": -84.5017896965146,
+    "Elevation": 214.39999389648438,
+    "Time": "01/22/2021, 17:30:33",
+    "Speed": 6.3360094024753515,
+    "Distance": 0.0052809862847994484,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13098159246147,
+    "Longitude": -84.50190997682512,
+    "Elevation": 214.0,
+    "Time": "01/22/2021, 17:30:36",
+    "Speed": 6.0245441944266735,
+    "Distance": 0.006695178461594605,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13099827244878,
+    "Longitude": -84.50206118635833,
+    "Elevation": 213.39999389648438,
+    "Time": "01/22/2021, 17:30:40",
+    "Speed": 6.521530778530415,
+    "Distance": 0.0018118720269923384,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.130997182801366,
+    "Longitude": -84.50210267677903,
+    "Elevation": 213.39999389648438,
+    "Time": "01/22/2021, 17:30:41",
+    "Speed": 6.399361234971189,
+    "Distance": 0.007111719015685616,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13101587444544,
+    "Longitude": -84.5022630225867,
+    "Elevation": 213.0,
+    "Time": "01/22/2021, 17:30:45",
+    "Speed": 6.59972835479707,
+    "Distance": 0.0036671952024428245,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13101688027382,
+    "Longitude": -84.50234709307551,
+    "Elevation": 212.8000030517578,
+    "Time": "01/22/2021, 17:30:47",
+    "Speed": 6.292756977346282,
+    "Distance": 0.010489871835720031,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13103708066046,
+    "Longitude": -84.50258547440171,
+    "Elevation": 212.39999389648438,
+    "Time": "01/22/2021, 17:30:53",
+    "Speed": 6.371107846498543,
+    "Distance": 0.001770080136097033,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13104001432657,
+    "Longitude": -84.50262579135597,
+    "Elevation": 212.1999969482422,
+    "Time": "01/22/2021, 17:30:54",
+    "Speed": 6.336800266787707,
+    "Distance": 0.010563290921047384,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13104638457298,
+    "Longitude": -84.50286777690053,
+    "Elevation": 211.39999389648438,
+    "Time": "01/22/2021, 17:31:00",
+    "Speed": 6.118327895132755,
+    "Distance": 0.0016998504709435762,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13104328326881,
+    "Longitude": -84.50290641747415,
+    "Elevation": 211.39999389648438,
+    "Time": "01/22/2021, 17:31:01",
+    "Speed": 5.5034637741614185,
+    "Distance": 0.007645116156467627,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13106591440737,
+    "Longitude": -84.50307799503207,
+    "Elevation": 210.0,
+    "Time": "01/22/2021, 17:31:06",
+    "Speed": 4.916727021410263,
+    "Distance": 0.0013660105973551941,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.1310678422451,
+    "Longitude": -84.50310917571187,
+    "Elevation": 209.8000030517578,
+    "Time": "01/22/2021, 17:31:07",
+    "Speed": 5.600296813991939,
+    "Distance": 0.00777963141225324,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13107706233859,
+    "Longitude": -84.50328695587814,
+    "Elevation": 208.8000030517578,
+    "Time": "01/22/2021, 17:31:12",
+    "Speed": 5.558261659340472,
+    "Distance": 0.0015442476868187723,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13108209148049,
+    "Longitude": -84.5033214893192,
+    "Elevation": 208.60000610351562,
+    "Time": "01/22/2021, 17:31:13",
+    "Speed": 5.919761519592573,
+    "Distance": 0.0032893658461679277,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13109709508717,
+    "Longitude": -84.50339307077229,
+    "Elevation": 207.8000030517578,
+    "Time": "01/22/2021, 17:31:15",
+    "Speed": 6.065346349385144,
+    "Distance": 0.006740522590585693,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13113238289952,
+    "Longitude": -84.50353715568781,
+    "Elevation": 207.0,
+    "Time": "01/22/2021, 17:31:19",
+    "Speed": 5.890164913389121,
+    "Distance": 0.0032729202401606747,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.131148057058454,
+    "Longitude": -84.50360798276961,
+    "Elevation": 206.39999389648438,
+    "Time": "01/22/2021, 17:31:21",
+    "Speed": 5.41254914511135,
+    "Distance": 0.004511293463353918,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.1311526671052,
+    "Longitude": -84.50371116399765,
+    "Elevation": 205.60000610351562,
+    "Time": "01/22/2021, 17:31:24",
+    "Speed": 4.680584677316391,
+    "Distance": 0.0026008066924157287,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13116163574159,
+    "Longitude": -84.50376908294857,
+    "Elevation": 205.0,
+    "Time": "01/22/2021, 17:31:26",
+    "Speed": 5.513708288103449,
+    "Distance": 0.0061274778278124845,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13116306066513,
+    "Longitude": -84.50390956364572,
+    "Elevation": 204.1999969482422,
+    "Time": "01/22/2021, 17:31:30",
+    "Speed": 6.520666255324224,
+    "Distance": 0.0036232636743108925,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.131161803379655,
+    "Longitude": -84.50399262830615,
+    "Elevation": 204.0,
+    "Time": "01/22/2021, 17:31:32",
+    "Speed": 6.578338111344683,
+    "Distance": 0.0036553095317075042,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13115920498967,
+    "Longitude": -84.50407636351883,
+    "Elevation": 202.8000030517578,
+    "Time": "01/22/2021, 17:31:34",
+    "Speed": 6.111361976910386,
+    "Distance": 0.005093745405254573,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13116901181638,
+    "Longitude": -84.50419211760163,
+    "Elevation": 201.60000610351562,
+    "Time": "01/22/2021, 17:31:37",
+    "Speed": 5.776119755613772,
+    "Distance": 0.0032095500780915643,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13117127493024,
+    "Longitude": -84.50426562689245,
+    "Elevation": 201.39999389648438,
+    "Time": "01/22/2021, 17:31:39",
+    "Speed": 4.985964581613402,
+    "Distance": 0.08172956220366125,
+    "Street": "Oak Street"
+  },
+  {
+    "Latitude": 39.13136841729283,
+    "Longitude": -84.50611333362758,
+    "Elevation": 195.0,
+    "Time": "01/22/2021, 17:32:38",
+    "Speed": 6.325639948135594,
+    "Distance": 0.008787239119214023,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.13136238232255,
+    "Longitude": -84.50631458312273,
+    "Elevation": 194.8000030517578,
+    "Time": "01/22/2021, 17:32:43",
+    "Speed": 5.449391825957589,
+    "Distance": 0.010598003236072661,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.131366573274136,
+    "Longitude": -84.50655749067664,
+    "Elevation": 194.1999969482422,
+    "Time": "01/22/2021, 17:32:50",
+    "Speed": 5.618788979269129,
+    "Distance": 0.0015610639469227018,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.13136640563607,
+    "Longitude": -84.50659328140318,
+    "Elevation": 194.1999969482422,
+    "Time": "01/22/2021, 17:32:51",
+    "Speed": 5.681911981083314,
+    "Distance": 0.011050209543708013,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.13138912059367,
+    "Longitude": -84.50684406794608,
+    "Elevation": 194.39999389648438,
+    "Time": "01/22/2021, 17:32:58",
+    "Speed": 5.431034680977434,
+    "Distance": 0.0015089003104123552,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.13139808923006,
+    "Longitude": -84.506875583902,
+    "Elevation": 194.39999389648438,
+    "Time": "01/22/2021, 17:32:59",
+    "Speed": 5.21797612477311,
+    "Distance": 0.010147944875734413,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.13142742589116,
+    "Longitude": -84.50710357166827,
+    "Elevation": 194.39999389648438,
+    "Time": "01/22/2021, 17:33:06",
+    "Speed": 4.560178515584642,
+    "Distance": 0.00633475496096727,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.13144318386912,
+    "Longitude": -84.5072466507554,
+    "Elevation": 195.0,
+    "Time": "01/22/2021, 17:33:11",
+    "Speed": 7.182229120508135,
+    "Distance": 0.003990866708086267,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.13146304897964,
+    "Longitude": -84.50733256526291,
+    "Elevation": 195.1999969482422,
+    "Time": "01/22/2021, 17:33:13",
+    "Speed": 6.020799915510341,
+    "Distance": 0.006691017380731753,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.13147511892021,
+    "Longitude": -84.50748478062451,
+    "Elevation": 196.39999389648438,
+    "Time": "01/22/2021, 17:33:17",
+    "Speed": 5.8642655203343566,
+    "Distance": 0.00325852902209068,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.131476460024714,
+    "Longitude": -84.50755946338177,
+    "Elevation": 196.60000610351562,
+    "Time": "01/22/2021, 17:33:19",
+    "Speed": 5.712764421696263,
+    "Distance": 0.009523038443560953,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.13148500956595,
+    "Longitude": -84.50777739286423,
+    "Elevation": 197.60000610351562,
+    "Time": "01/22/2021, 17:33:25",
+    "Speed": 5.519292567771509,
+    "Distance": 0.010733946532427137,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.131522141397,
+    "Longitude": -84.50801636092365,
+    "Elevation": 198.1999969482422,
+    "Time": "01/22/2021, 17:33:32",
+    "Speed": 4.180812446720795,
+    "Distance": 0.0034846560015876233,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.13152624852955,
+    "Longitude": -84.50809598900378,
+    "Elevation": 198.39999389648438,
+    "Time": "01/22/2021, 17:33:35",
+    "Speed": 4.517550267106608,
+    "Distance": 0.0025102152354931355,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.13153161294758,
+    "Longitude": -84.50815290212631,
+    "Elevation": 198.60000610351562,
+    "Time": "01/22/2021, 17:33:37",
+    "Speed": 4.378447009681549,
+    "Distance": 0.004865842654382408,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.13154745474458,
+    "Longitude": -84.50826161541045,
+    "Elevation": 199.39999389648438,
+    "Time": "01/22/2021, 17:33:41",
+    "Speed": 3.9082283300172946,
+    "Distance": 0.003257460476719404,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.13154074922204,
+    "Longitude": -84.50833554379642,
+    "Elevation": 200.1999969482422,
+    "Time": "01/22/2021, 17:33:44",
+    "Speed": 5.2537501206629775,
+    "Distance": 0.0014596454733871464,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.13152792491019,
+    "Longitude": -84.50836211442947,
+    "Elevation": 200.60000610351562,
+    "Time": "01/22/2021, 17:33:45",
+    "Speed": 5.621594333011267,
+    "Distance": 0.09058691466298158,
+    "Street": "East Daniels Street"
+  },
+  {
+    "Latitude": 39.13157285191119,
+    "Longitude": -84.5104378927499,
+    "Elevation": 201.1999969482422,
+    "Time": "01/22/2021, 17:34:43",
+    "Speed": 6.303101024372999,
+    "Distance": 0.0052535575544466135,
+    "Street": "West Daniels Street"
+  },
+  {
+    "Latitude": 39.13157402537763,
+    "Longitude": -84.51055834069848,
+    "Elevation": 196.0,
+    "Time": "01/22/2021, 17:34:46",
+    "Speed": 6.303101024372999,
+    "Distance": 0,
+    "Street": "West Daniels Street"
+  }
+]

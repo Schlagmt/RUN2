@@ -1,0 +1,4043 @@
+[
+  {
+    "Latitude": 39.131995886564255,
+    "Longitude": -84.51139963231981,
+    "Elevation": 240.1999969482422,
+    "Time": "11/25/2020, 22:28:48",
+    "Speed": 1.0403975546775652,
+    "Distance": 0.00028905287581825997,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13199605420232,
+    "Longitude": -84.5113930106163,
+    "Elevation": 240.39999389648438,
+    "Time": "11/25/2020, 22:28:49",
+    "Speed": 2.1890625502762373,
+    "Distance": 0.00121637122782262,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13200678303838,
+    "Longitude": -84.51137088239193,
+    "Elevation": 240.60000610351562,
+    "Time": "11/25/2020, 22:28:51",
+    "Speed": 4.305410968097808,
+    "Distance": 0.0023923382293873936,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132041400298476,
+    "Longitude": -84.51136996038258,
+    "Elevation": 242.0,
+    "Time": "11/25/2020, 22:28:53",
+    "Speed": 4.40380347382147,
+    "Distance": 0.002447010862191117,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13207677192986,
+    "Longitude": -84.51137314550579,
+    "Elevation": 240.8000030517578,
+    "Time": "11/25/2020, 22:28:55",
+    "Speed": 4.893740794434444,
+    "Distance": 0.0013596243510768367,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13209638558328,
+    "Longitude": -84.51137515716255,
+    "Elevation": 242.0,
+    "Time": "11/25/2020, 22:28:56",
+    "Speed": 5.8805858455551245,
+    "Distance": 0.0032675975496321815,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13214365951717,
+    "Longitude": -84.51137440279126,
+    "Elevation": 241.1999969482422,
+    "Time": "11/25/2020, 22:28:58",
+    "Speed": 4.735666362131694,
+    "Distance": 0.005262826598296622,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1322195995599,
+    "Longitude": -84.51136543415487,
+    "Elevation": 242.39999389648438,
+    "Time": "11/25/2020, 22:29:02",
+    "Speed": 5.546076927858803,
+    "Distance": 0.006163449647875095,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132308196276426,
+    "Longitude": -84.51138152740896,
+    "Elevation": 241.8000030517578,
+    "Time": "11/25/2020, 22:29:06",
+    "Speed": 6.682074282053957,
+    "Distance": 0.001856475708708796,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13233476690948,
+    "Longitude": -84.51138756237924,
+    "Elevation": 241.60000610351562,
+    "Time": "11/25/2020, 22:29:07",
+    "Speed": 7.478328603945261,
+    "Distance": 0.0020776984524480675,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13236418738961,
+    "Longitude": -84.51139720156789,
+    "Elevation": 241.39999389648438,
+    "Time": "11/25/2020, 22:29:08",
+    "Speed": 5.497067923341816,
+    "Distance": 0.0030544925536713694,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132407354190946,
+    "Longitude": -84.5114122889936,
+    "Elevation": 241.39999389648438,
+    "Time": "11/25/2020, 22:29:10",
+    "Speed": 5.243008440808597,
+    "Distance": 0.002913322240986648,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13244943134487,
+    "Longitude": -84.51141622848809,
+    "Elevation": 241.60000610351562,
+    "Time": "11/25/2020, 22:29:12",
+    "Speed": 5.858494550735384,
+    "Distance": 0.0032553223337409365,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13249653764069,
+    "Longitude": -84.51141597703099,
+    "Elevation": 242.0,
+    "Time": "11/25/2020, 22:29:14",
+    "Speed": 6.399361234970813,
+    "Distance": 0.005333789261763898,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13257356733084,
+    "Longitude": -84.5114083494991,
+    "Elevation": 242.0,
+    "Time": "11/25/2020, 22:29:17",
+    "Speed": 6.346425083534457,
+    "Distance": 0.008816112712458747,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13269376382232,
+    "Longitude": -84.51134062372148,
+    "Elevation": 242.1999969482422,
+    "Time": "11/25/2020, 22:29:22",
+    "Speed": 7.585365122014709,
+    "Distance": 0.008429745313384128,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13281572051346,
+    "Longitude": -84.511344647035,
+    "Elevation": 242.39999389648438,
+    "Time": "11/25/2020, 22:29:26",
+    "Speed": 6.478163288729046,
+    "Distance": 0.003599646539361068,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132863664999604,
+    "Longitude": -84.51137691736221,
+    "Elevation": 242.39999389648438,
+    "Time": "11/25/2020, 22:29:28",
+    "Speed": 5.203673329681565,
+    "Distance": 0.008674396055627358,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132953602820635,
+    "Longitude": -84.5115156378597,
+    "Elevation": 242.0,
+    "Time": "11/25/2020, 22:29:34",
+    "Speed": 4.83197184783602,
+    "Distance": 0.006712315653811442,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133022502064705,
+    "Longitude": -84.51162409968674,
+    "Elevation": 241.8000030517578,
+    "Time": "11/25/2020, 22:29:39",
+    "Speed": 3.189091463398976,
+    "Distance": 0.0017720458003741115,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133037170395255,
+    "Longitude": -84.51165745966136,
+    "Elevation": 241.60000610351562,
+    "Time": "11/25/2020, 22:29:41",
+    "Speed": 1.8144923100768349,
+    "Distance": 0.00050411904374417,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13303733803332,
+    "Longitude": -84.51166894286871,
+    "Elevation": 241.0,
+    "Time": "11/25/2020, 22:29:42",
+    "Speed": 4.388414480432709,
+    "Distance": 0.004876919674209314,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133099196478724,
+    "Longitude": -84.51172275468707,
+    "Elevation": 240.0,
+    "Time": "11/25/2020, 22:29:46",
+    "Speed": 7.344450222922806,
+    "Distance": 0.0020405031218069586,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13312870077789,
+    "Longitude": -84.51172485016286,
+    "Elevation": 239.8000030517578,
+    "Time": "11/25/2020, 22:29:47",
+    "Speed": 7.285878646065515,
+    "Distance": 0.010121151121701597,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13309056311846,
+    "Longitude": -84.51194889843464,
+    "Elevation": 238.8000030517578,
+    "Time": "11/25/2020, 22:29:52",
+    "Speed": 7.934807790687188,
+    "Distance": 0.002204521724076985,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133083522319794,
+    "Longitude": -84.51199818402529,
+    "Elevation": 238.60000610351562,
+    "Time": "11/25/2020, 22:29:53",
+    "Speed": 7.340227178093425,
+    "Distance": 0.008157319345660349,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13309081457555,
+    "Longitude": -84.51218484900892,
+    "Elevation": 237.8000030517578,
+    "Time": "11/25/2020, 22:29:57",
+    "Speed": 7.0242888623641235,
+    "Distance": 0.003903105860093591,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13310523144901,
+    "Longitude": -84.51227135024965,
+    "Elevation": 237.1999969482422,
+    "Time": "11/25/2020, 22:29:59",
+    "Speed": 7.197127586574476,
+    "Distance": 0.0039991451674932415,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13312543183565,
+    "Longitude": -84.51235726475716,
+    "Elevation": 237.0,
+    "Time": "11/25/2020, 22:30:01",
+    "Speed": 8.592470338670482,
+    "Distance": 0.002387239618748941,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13314487785101,
+    "Longitude": -84.51240252703428,
+    "Elevation": 236.8000030517578,
+    "Time": "11/25/2020, 22:30:02",
+    "Speed": 7.66235252198303,
+    "Distance": 0.006386477040593101,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13319751620293,
+    "Longitude": -84.51252289116383,
+    "Elevation": 236.0,
+    "Time": "11/25/2020, 22:30:05",
+    "Speed": 6.338480525807848,
+    "Distance": 0.01056609187170153,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13323171436787,
+    "Longitude": -84.51275900937617,
+    "Elevation": 235.8000030517578,
+    "Time": "11/25/2020, 22:30:11",
+    "Speed": 5.90365560174384,
+    "Distance": 0.004920624683859904,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13322928361595,
+    "Longitude": -84.51287174597383,
+    "Elevation": 235.8000030517578,
+    "Time": "11/25/2020, 22:30:14",
+    "Speed": 6.543968293571643,
+    "Distance": 0.007272423300174385,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13323079235852,
+    "Longitude": -84.51303846202791,
+    "Elevation": 235.60000610351562,
+    "Time": "11/25/2020, 22:30:18",
+    "Speed": 6.039974334173797,
+    "Distance": 0.011746570917227325,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13323531858623,
+    "Longitude": -84.51330768875778,
+    "Elevation": 235.39999389648438,
+    "Time": "11/25/2020, 22:30:25",
+    "Speed": 6.428367484950423,
+    "Distance": 0.0035719770773920737,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13323448039591,
+    "Longitude": -84.51338957995176,
+    "Elevation": 235.1999969482422,
+    "Time": "11/25/2020, 22:30:27",
+    "Speed": 6.090622117027976,
+    "Distance": 0.003384305990597689,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13324252702296,
+    "Longitude": -84.51346610672772,
+    "Elevation": 235.1999969482422,
+    "Time": "11/25/2020, 22:30:29",
+    "Speed": 6.245996774898249,
+    "Distance": 0.003470641240973396,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133252669125795,
+    "Longitude": -84.51354405842721,
+    "Elevation": 235.0,
+    "Time": "11/25/2020, 22:30:31",
+    "Speed": 5.623803517508942,
+    "Distance": 0.0031249142646756728,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133261386305094,
+    "Longitude": -84.51361438259482,
+    "Elevation": 235.0,
+    "Time": "11/25/2020, 22:30:33",
+    "Speed": 6.044163604051739,
+    "Distance": 0.0016792454613262342,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133264319971204,
+    "Longitude": -84.51365260407329,
+    "Elevation": 235.0,
+    "Time": "11/25/2020, 22:30:34",
+    "Speed": 6.192008561736956,
+    "Distance": 0.005160963346600847,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133280999958515,
+    "Longitude": -84.51376793906093,
+    "Elevation": 234.60000610351562,
+    "Time": "11/25/2020, 22:30:37",
+    "Speed": 6.5219629971604025,
+    "Distance": 0.0072479684398863925,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133295668289065,
+    "Longitude": -84.51393247582018,
+    "Elevation": 234.1999969482422,
+    "Time": "11/25/2020, 22:30:41",
+    "Speed": 6.145195279934972,
+    "Distance": 0.010243890098418189,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13331871852279,
+    "Longitude": -84.51416448689997,
+    "Elevation": 234.0,
+    "Time": "11/25/2020, 22:30:47",
+    "Speed": 6.089002055258409,
+    "Distance": 0.006766811578988006,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13333682343364,
+    "Longitude": -84.51431695371866,
+    "Elevation": 234.0,
+    "Time": "11/25/2020, 22:30:51",
+    "Speed": 5.303708416386383,
+    "Distance": 0.008841152096324039,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1333541739732,
+    "Longitude": -84.51451778411865,
+    "Elevation": 234.39999389648438,
+    "Time": "11/25/2020, 22:30:57",
+    "Speed": 4.861377486595368,
+    "Distance": 0.0013506328774235024,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133355766534805,
+    "Longitude": -84.51454862952232,
+    "Elevation": 234.60000610351562,
+    "Time": "11/25/2020, 22:30:58",
+    "Speed": 4.736516617334721,
+    "Distance": 0.009211600127396672,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133320143446326,
+    "Longitude": -84.51475214213133,
+    "Elevation": 234.8000030517578,
+    "Time": "11/25/2020, 22:31:05",
+    "Speed": 6.730933346391798,
+    "Distance": 0.013090351302517046,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13317572325468,
+    "Longitude": -84.51494635082781,
+    "Elevation": 235.0,
+    "Time": "11/25/2020, 22:31:12",
+    "Speed": 6.097061073594904,
+    "Distance": 0.008469709628971402,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13307949900627,
+    "Longitude": -84.51506663113832,
+    "Elevation": 235.60000610351562,
+    "Time": "11/25/2020, 22:31:17",
+    "Speed": 5.722186550726645,
+    "Distance": 0.0015897908170004402,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13305854424834,
+    "Longitude": -84.51508171856403,
+    "Elevation": 235.60000610351562,
+    "Time": "11/25/2020, 22:31:18",
+    "Speed": 5.438296119187021,
+    "Distance": 0.003021835500736954,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13302367553115,
+    "Longitude": -84.51512354426086,
+    "Elevation": 235.8000030517578,
+    "Time": "11/25/2020, 22:31:20",
+    "Speed": 6.923328432288597,
+    "Distance": 0.0057705095074186774,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1329569555819,
+    "Longitude": -84.51520308852196,
+    "Elevation": 235.8000030517578,
+    "Time": "11/25/2020, 22:31:23",
+    "Speed": 6.306081730900347,
+    "Distance": 0.01051208387370718,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13284011185169,
+    "Longitude": -84.51535739935935,
+    "Elevation": 235.8000030517578,
+    "Time": "11/25/2020, 22:31:29",
+    "Speed": 5.2106505400437575,
+    "Distance": 0.0014476711490833878,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13282535970211,
+    "Longitude": -84.51538095250726,
+    "Elevation": 236.0,
+    "Time": "11/25/2020, 22:31:30",
+    "Speed": 5.470338053712339,
+    "Distance": 0.0030396398742279966,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1327946819365,
+    "Longitude": -84.51543090865016,
+    "Elevation": 236.8000030517578,
+    "Time": "11/25/2020, 22:31:32",
+    "Speed": 5.151164622482934,
+    "Distance": 0.004293432663065296,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13276433944702,
+    "Longitude": -84.51551682315767,
+    "Elevation": 237.1999969482422,
+    "Time": "11/25/2020, 22:31:35",
+    "Speed": 4.594271204412271,
+    "Distance": 0.0012764229384756207,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13276140578091,
+    "Longitude": -84.51554574072361,
+    "Elevation": 237.39999389648438,
+    "Time": "11/25/2020, 22:31:36",
+    "Speed": 4.454716188035949,
+    "Distance": 0.0012376504724725243,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13275587372482,
+    "Longitude": -84.51557273045182,
+    "Elevation": 237.39999389648438,
+    "Time": "11/25/2020, 22:31:37",
+    "Speed": 3.976235780106097,
+    "Distance": 0.003314143853963579,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13272997364402,
+    "Longitude": -84.51563668437302,
+    "Elevation": 238.0,
+    "Time": "11/25/2020, 22:31:40",
+    "Speed": 4.978542824104737,
+    "Distance": 0.005532739342655694,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132674653083086,
+    "Longitude": -84.51572838239372,
+    "Elevation": 239.0,
+    "Time": "11/25/2020, 22:31:44",
+    "Speed": 5.695413373783472,
+    "Distance": 0.004747057335720372,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132633581757545,
+    "Longitude": -84.51581563800573,
+    "Elevation": 240.0,
+    "Time": "11/25/2020, 22:31:47",
+    "Speed": 7.033913377765043,
+    "Distance": 0.001954226901974628,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13260801695287,
+    "Longitude": -84.51583474874496,
+    "Elevation": 240.1999969482422,
+    "Time": "11/25/2020, 22:31:48",
+    "Speed": 5.612095958455108,
+    "Distance": 0.004677613289841569,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132566191256046,
+    "Longitude": -84.51591907069087,
+    "Elevation": 241.0,
+    "Time": "11/25/2020, 22:31:51",
+    "Speed": 6.249606134792026,
+    "Distance": 0.0034726468125022194,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13255621679127,
+    "Longitude": -84.5159971062094,
+    "Elevation": 241.1999969482422,
+    "Time": "11/25/2020, 22:31:53",
+    "Speed": 6.041598020975762,
+    "Distance": 0.006714130669183164,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13247466087341,
+    "Longitude": -84.51608075760305,
+    "Elevation": 241.60000610351562,
+    "Time": "11/25/2020, 22:31:57",
+    "Speed": 4.970452259712118,
+    "Distance": 0.008285622241196552,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132409701123834,
+    "Longitude": -84.51624043285847,
+    "Elevation": 242.1999969482422,
+    "Time": "11/25/2020, 22:32:03",
+    "Speed": 5.355774211273785,
+    "Distance": 0.0014879907503067334,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13239201530814,
+    "Longitude": -84.51625996269286,
+    "Elevation": 242.1999969482422,
+    "Time": "11/25/2020, 22:32:04",
+    "Speed": 5.833962223650807,
+    "Distance": 0.00810422684376634,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13229721598327,
+    "Longitude": -84.51636934652925,
+    "Elevation": 243.0,
+    "Time": "11/25/2020, 22:32:09",
+    "Speed": 5.2794409835049745,
+    "Distance": 0.0029335662932576533,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13227232173085,
+    "Longitude": -84.51642382889986,
+    "Elevation": 243.1999969482422,
+    "Time": "11/25/2020, 22:32:11",
+    "Speed": 5.229849759620024,
+    "Distance": 0.004359015761770326,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13223904557526,
+    "Longitude": -84.51650873757899,
+    "Elevation": 243.60000610351562,
+    "Time": "11/25/2020, 22:32:14",
+    "Speed": 5.971910662319784,
+    "Distance": 0.006636685921885843,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13219386711717,
+    "Longitude": -84.5166430156678,
+    "Elevation": 244.1999969482422,
+    "Time": "11/25/2020, 22:32:18",
+    "Speed": 8.014691606100335,
+    "Distance": 0.004453431569738245,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13213150575757,
+    "Longitude": -84.51666874811053,
+    "Elevation": 244.60000610351562,
+    "Time": "11/25/2020, 22:32:20",
+    "Speed": 7.193209929332164,
+    "Distance": 0.003996968287920103,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13208154961467,
+    "Longitude": -84.51671493239701,
+    "Elevation": 245.0,
+    "Time": "11/25/2020, 22:32:22",
+    "Speed": 6.53275916908712,
+    "Distance": 0.003629983204714384,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13203218020499,
+    "Longitude": -84.51674334704876,
+    "Elevation": 245.39999389648438,
+    "Time": "11/25/2020, 22:32:24",
+    "Speed": 4.345957909973032,
+    "Distance": 0.0036223027238433056,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1320160869509,
+    "Longitude": -84.51682238839567,
+    "Elevation": 245.8000030517578,
+    "Time": "11/25/2020, 22:32:27",
+    "Speed": 3.648265888573407,
+    "Distance": 0.0030407849636919456,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13202488794923,
+    "Longitude": -84.51689070090652,
+    "Elevation": 246.1999969482422,
+    "Time": "11/25/2020, 22:32:30",
+    "Speed": 4.154811275915779,
+    "Distance": 0.002308656229315697,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13203427568078,
+    "Longitude": -84.51694149523973,
+    "Elevation": 246.8000030517578,
+    "Time": "11/25/2020, 22:32:32",
+    "Speed": 7.947870146394382,
+    "Distance": 0.011040754143051478,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13214072585106,
+    "Longitude": -84.51713025569916,
+    "Elevation": 247.39999389648438,
+    "Time": "11/25/2020, 22:32:37",
+    "Speed": 6.777573227832155,
+    "Distance": 0.0037660162190228884,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13215380162001,
+    "Longitude": -84.51721407473087,
+    "Elevation": 247.8000030517578,
+    "Time": "11/25/2020, 22:32:39",
+    "Speed": 4.849185561123009,
+    "Distance": 0.005388982415489768,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13213837891817,
+    "Longitude": -84.5173351932317,
+    "Elevation": 248.39999389648438,
+    "Time": "11/25/2020, 22:32:43",
+    "Speed": 5.466296672928575,
+    "Distance": 0.007593485616541419,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13213972002268,
+    "Longitude": -84.51750928536057,
+    "Elevation": 248.8000030517578,
+    "Time": "11/25/2020, 22:32:48",
+    "Speed": 6.462479750024443,
+    "Distance": 0.0017954659238321217,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13213385269046,
+    "Longitude": -84.51754935085773,
+    "Elevation": 249.0,
+    "Time": "11/25/2020, 22:32:49",
+    "Speed": 6.853306761410958,
+    "Distance": 0.011424294603601762,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13215388543904,
+    "Longitude": -84.51780935749412,
+    "Elevation": 249.60000610351562,
+    "Time": "11/25/2020, 22:32:55",
+    "Speed": 6.7682089164093755,
+    "Distance": 0.007521625719442325,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132212894037366,
+    "Longitude": -84.51795428059995,
+    "Elevation": 250.0,
+    "Time": "11/25/2020, 22:32:59",
+    "Speed": 6.975158910023814,
+    "Distance": 0.007751612768281027,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13227433338761,
+    "Longitude": -84.51810297556221,
+    "Elevation": 250.39999389648438,
+    "Time": "11/25/2020, 22:33:03",
+    "Speed": 6.11302734828509,
+    "Distance": 0.0067935112958818645,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13233074359596,
+    "Longitude": -84.51823054812849,
+    "Elevation": 251.39999389648438,
+    "Time": "11/25/2020, 22:33:07",
+    "Speed": 6.087150028128576,
+    "Distance": 0.006764753389729237,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132393188774586,
+    "Longitude": -84.51834999024868,
+    "Elevation": 252.39999389648438,
+    "Time": "11/25/2020, 22:33:11",
+    "Speed": 6.802481702919571,
+    "Distance": 0.0018899284125474276,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1324114613235,
+    "Longitude": -84.51838226057589,
+    "Elevation": 252.8000030517578,
+    "Time": "11/25/2020, 22:33:12",
+    "Speed": 6.620197967210441,
+    "Distance": 0.0036785693167097574,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13243526592851,
+    "Longitude": -84.51845769770443,
+    "Elevation": 253.39999389648438,
+    "Time": "11/25/2020, 22:33:14",
+    "Speed": 5.080637648963653,
+    "Distance": 0.004234649293880548,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13245311938226,
+    "Longitude": -84.51855056919158,
+    "Elevation": 254.0,
+    "Time": "11/25/2020, 22:33:17",
+    "Speed": 5.1228747060814275,
+    "Distance": 0.008539706728021155,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1324651055038,
+    "Longitude": -84.51874544844031,
+    "Elevation": 255.0,
+    "Time": "11/25/2020, 22:33:23",
+    "Speed": 4.162192257081529,
+    "Distance": 0.003469136301432678,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132492346689105,
+    "Longitude": -84.51881225220859,
+    "Elevation": 255.0,
+    "Time": "11/25/2020, 22:33:26",
+    "Speed": 2.892448658540443,
+    "Distance": 0.0016072137023945506,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13249536417425,
+    "Longitude": -84.51884879730642,
+    "Elevation": 255.1999969482422,
+    "Time": "11/25/2020, 22:33:28",
+    "Speed": 4.88026676211294,
+    "Distance": 0.006779404353685724,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13246627897024,
+    "Longitude": -84.51899724081159,
+    "Elevation": 256.0,
+    "Time": "11/25/2020, 22:33:33",
+    "Speed": 6.395836386873171,
+    "Distance": 0.0017769504480061086,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13245538249612,
+    "Longitude": -84.51903412118554,
+    "Elevation": 256.20001220703125,
+    "Time": "11/25/2020, 22:33:34",
+    "Speed": 6.478163288729046,
+    "Distance": 0.003599646539361068,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13242353126407,
+    "Longitude": -84.51909941621125,
+    "Elevation": 256.3999938964844,
+    "Time": "11/25/2020, 22:33:36",
+    "Speed": 5.9759116816673234,
+    "Distance": 0.018263113887584326,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13217559456825,
+    "Longitude": -84.51924433931708,
+    "Elevation": 257.0,
+    "Time": "11/25/2020, 22:33:47",
+    "Speed": 6.421874448694828,
+    "Distance": 0.008920922916405383,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132052632048726,
+    "Longitude": -84.51930661685765,
+    "Elevation": 257.0,
+    "Time": "11/25/2020, 22:33:52",
+    "Speed": 7.355955295334518,
+    "Distance": 0.004087399134970017,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13199412636459,
+    "Longitude": -84.51932044699788,
+    "Elevation": 257.20001220703125,
+    "Time": "11/25/2020, 22:33:54",
+    "Speed": 7.938438378819002,
+    "Distance": 0.013233182446001525,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1318036057055,
+    "Longitude": -84.5193508733064,
+    "Elevation": 257.3999938964844,
+    "Time": "11/25/2020, 22:34:00",
+    "Speed": 7.742782082802593,
+    "Distance": 0.004302342730057259,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13174241781235,
+    "Longitude": -84.51936906203628,
+    "Elevation": 257.3999938964844,
+    "Time": "11/25/2020, 22:34:02",
+    "Speed": 7.512551100624925,
+    "Distance": 0.008348825852595382,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13162280805409,
+    "Longitude": -84.51939596794546,
+    "Elevation": 257.3999938964844,
+    "Time": "11/25/2020, 22:34:06",
+    "Speed": 7.444327438976149,
+    "Distance": 0.004136503868342356,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.131562961265445,
+    "Longitude": -84.51939412392676,
+    "Elevation": 257.3999938964844,
+    "Time": "11/25/2020, 22:34:08",
+    "Speed": 7.843976099679541,
+    "Distance": 0.006537858069547503,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.131468664854765,
+    "Longitude": -84.51940627768636,
+    "Elevation": 257.3999938964844,
+    "Time": "11/25/2020, 22:34:11",
+    "Speed": 8.264572144028573,
+    "Distance": 0.006888419724456093,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13137034513056,
+    "Longitude": -84.51943226158619,
+    "Elevation": 257.3999938964844,
+    "Time": "11/25/2020, 22:34:14",
+    "Speed": 8.460822217390923,
+    "Distance": 0.007051991758521029,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.131268840283155,
+    "Longitude": -84.51944885775447,
+    "Elevation": 257.20001220703125,
+    "Time": "11/25/2020, 22:34:17",
+    "Speed": 7.797922531905154,
+    "Distance": 0.004332981989665949,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.131206730380654,
+    "Longitude": -84.5194624364376,
+    "Elevation": 257.20001220703125,
+    "Time": "11/25/2020, 22:34:19",
+    "Speed": 7.131815834107203,
+    "Distance": 0.00396285413664543,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13114990107715,
+    "Longitude": -84.51947442255914,
+    "Elevation": 257.20001220703125,
+    "Time": "11/25/2020, 22:34:21",
+    "Speed": 6.621466528964059,
+    "Distance": 0.012877459713438132,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.130965834483504,
+    "Longitude": -84.51952035538852,
+    "Elevation": 257.20001220703125,
+    "Time": "11/25/2020, 22:34:28",
+    "Speed": 7.549792667278135,
+    "Distance": 0.008390213039224917,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13084940984845,
+    "Longitude": -84.51957492157817,
+    "Elevation": 257.3999938964844,
+    "Time": "11/25/2020, 22:34:32",
+    "Speed": 6.692864881385041,
+    "Distance": 0.009297368264321529,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13072066381574,
+    "Longitude": -84.51963678002357,
+    "Elevation": 257.6000061035156,
+    "Time": "11/25/2020, 22:34:37",
+    "Speed": 8.179625331596684,
+    "Distance": 0.01363523519207034,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13053601048887,
+    "Longitude": -84.51974691823125,
+    "Elevation": 257.79998779296875,
+    "Time": "11/25/2020, 22:34:43",
+    "Speed": 7.586108311661161,
+    "Distance": 0.002107642808170614,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13050625473261,
+    "Longitude": -84.51975747942924,
+    "Elevation": 257.79998779296875,
+    "Time": "11/25/2020, 22:34:44",
+    "Speed": 7.012722007978543,
+    "Distance": 0.009741696597645374,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13037189282477,
+    "Longitude": -84.51982503756881,
+    "Elevation": 257.6000061035156,
+    "Time": "11/25/2020, 22:34:49",
+    "Speed": 6.728813442716404,
+    "Distance": 0.01308622850372967,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.130187910050154,
+    "Longitude": -84.51989603228867,
+    "Elevation": 257.3999938964844,
+    "Time": "11/25/2020, 22:34:56",
+    "Speed": 7.716038321265196,
+    "Distance": 0.012862446994371227,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13001373410225,
+    "Longitude": -84.519999967888,
+    "Elevation": 257.20001220703125,
+    "Time": "11/25/2020, 22:35:02",
+    "Speed": 7.779827360786811,
+    "Distance": 0.002161463626951663,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.129987666383386,
+    "Longitude": -84.52002737671137,
+    "Elevation": 257.20001220703125,
+    "Time": "11/25/2020, 22:35:03",
+    "Speed": 7.687246122633488,
+    "Distance": 0.004271483701359939,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.129938296973705,
+    "Longitude": -84.52008630149066,
+    "Elevation": 257.20001220703125,
+    "Time": "11/25/2020, 22:35:05",
+    "Speed": 7.177081537919155,
+    "Distance": 0.005982009615047417,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.12987073883414,
+    "Longitude": -84.52017204836011,
+    "Elevation": 257.0,
+    "Time": "11/25/2020, 22:35:08",
+    "Speed": 4.761784549659144,
+    "Distance": 0.002645926092228279,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.12985690869391,
+    "Longitude": -84.52022862620652,
+    "Elevation": 257.0,
+    "Time": "11/25/2020, 22:35:10",
+    "Speed": 5.9084750240655755,
+    "Distance": 0.008207736022292985,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.12992572411895,
+    "Longitude": -84.52038201503456,
+    "Elevation": 256.79998779296875,
+    "Time": "11/25/2020, 22:35:15",
+    "Speed": 5.733997061848796,
+    "Distance": 0.003186144244974719,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.12997039966285,
+    "Longitude": -84.5204001199454,
+    "Elevation": 256.79998779296875,
+    "Time": "11/25/2020, 22:35:17",
+    "Speed": 6.3533856762960115,
+    "Distance": 0.0035303127975633325,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13002144545317,
+    "Longitude": -84.52040313743055,
+    "Elevation": 256.3999938964844,
+    "Time": "11/25/2020, 22:35:19",
+    "Speed": 7.632044732580912,
+    "Distance": 0.004240810579393966,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13008280098438,
+    "Longitude": -84.52040506526828,
+    "Elevation": 256.20001220703125,
+    "Time": "11/25/2020, 22:35:21",
+    "Speed": 7.9865055099841475,
+    "Distance": 0.008875539451319617,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13021121174097,
+    "Longitude": -84.52040825039148,
+    "Elevation": 255.8000030517578,
+    "Time": "11/25/2020, 22:35:25",
+    "Speed": 7.831482741611551,
+    "Distance": 0.010879075014192283,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13036862388253,
+    "Longitude": -84.52040548436344,
+    "Elevation": 255.0,
+    "Time": "11/25/2020, 22:35:30",
+    "Speed": 7.9571962689534175,
+    "Distance": 0.006632225694832974,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13046442903578,
+    "Longitude": -84.5203966833651,
+    "Elevation": 254.60000610351562,
+    "Time": "11/25/2020, 22:35:33",
+    "Speed": 8.157444178782116,
+    "Distance": 0.009065506502212621,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13059560582042,
+    "Longitude": -84.52039492316544,
+    "Elevation": 253.8000030517578,
+    "Time": "11/25/2020, 22:35:37",
+    "Speed": 8.134085981995558,
+    "Distance": 0.002259887035180006,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.130628295242786,
+    "Longitude": -84.52039659954607,
+    "Elevation": 253.8000030517578,
+    "Time": "11/25/2020, 22:35:38",
+    "Speed": 7.8228651686654676,
+    "Distance": 0.013040524733886196,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13081655278802,
+    "Longitude": -84.52037623152137,
+    "Elevation": 252.8000030517578,
+    "Time": "11/25/2020, 22:35:44",
+    "Speed": 7.91916147525769,
+    "Distance": 0.004400349439886607,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13088017143309,
+    "Longitude": -84.52037220820785,
+    "Elevation": 252.8000030517578,
+    "Time": "11/25/2020, 22:35:46",
+    "Speed": 8.048384625304626,
+    "Distance": 0.013416460147429471,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.131074296310544,
+    "Longitude": -84.5203691907227,
+    "Elevation": 252.0,
+    "Time": "11/25/2020, 22:35:52",
+    "Speed": 7.141295433994775,
+    "Distance": 0.003968121556963345,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.131131544709206,
+    "Longitude": -84.52036214992404,
+    "Elevation": 251.8000030517578,
+    "Time": "11/25/2020, 22:35:54",
+    "Speed": 7.001780211203012,
+    "Distance": 0.0019452993683004632,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13115970790386,
+    "Longitude": -84.52036189846694,
+    "Elevation": 251.8000030517578,
+    "Time": "11/25/2020, 22:35:55",
+    "Speed": 7.509340243241009,
+    "Distance": 0.012517886358235275,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13134033791721,
+    "Longitude": -84.52034052461386,
+    "Elevation": 251.1999969482422,
+    "Time": "11/25/2020, 22:36:01",
+    "Speed": 6.778970521576378,
+    "Distance": 0.009416981592945663,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.131475538015366,
+    "Longitude": -84.52031361870468,
+    "Elevation": 250.8000030517578,
+    "Time": "11/25/2020, 22:36:06",
+    "Speed": 7.184757936332671,
+    "Distance": 0.005988407799166683,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.131561955437064,
+    "Longitude": -84.52030356042087,
+    "Elevation": 250.39999389648438,
+    "Time": "11/25/2020, 22:36:09",
+    "Speed": 7.80330276383206,
+    "Distance": 0.006503957341956462,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.131655748933554,
+    "Longitude": -84.52029132284224,
+    "Elevation": 250.1999969482422,
+    "Time": "11/25/2020, 22:36:12",
+    "Speed": 7.940603313117364,
+    "Distance": 0.011030659448733089,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13181500509381,
+    "Longitude": -84.52027447521687,
+    "Elevation": 250.0,
+    "Time": "11/25/2020, 22:36:17",
+    "Speed": 7.520186594111162,
+    "Distance": 0.01044663913301598,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.131966046988964,
+    "Longitude": -84.52026491984725,
+    "Elevation": 250.0,
+    "Time": "11/25/2020, 22:36:22",
+    "Speed": 7.150762467007768,
+    "Distance": 0.003973381994390498,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13202312774956,
+    "Longitude": -84.5202539395541,
+    "Elevation": 250.0,
+    "Time": "11/25/2020, 22:36:24",
+    "Speed": 7.233849856841326,
+    "Distance": 0.004019550209353414,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13208121433854,
+    "Longitude": -84.52024916186929,
+    "Elevation": 249.8000030517578,
+    "Time": "11/25/2020, 22:36:26",
+    "Speed": 6.861893151484499,
+    "Distance": 0.0019064346509435216,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132108706980944,
+    "Longitude": -84.52024564146996,
+    "Elevation": 249.60000610351562,
+    "Time": "11/25/2020, 22:36:27",
+    "Speed": 7.310597558963304,
+    "Distance": 0.010155489307273464,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13225522264838,
+    "Longitude": -84.52022770419717,
+    "Elevation": 249.1999969482422,
+    "Time": "11/25/2020, 22:36:32",
+    "Speed": 7.3505885024923305,
+    "Distance": 0.002042208515436702,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132284643128514,
+    "Longitude": -84.52022334560752,
+    "Elevation": 249.0,
+    "Time": "11/25/2020, 22:36:33",
+    "Speed": 7.6088642142478555,
+    "Distance": 0.006341895190787729,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132376089692116,
+    "Longitude": -84.52021119184792,
+    "Elevation": 248.60000610351562,
+    "Time": "11/25/2020, 22:36:36",
+    "Speed": 7.670196597596562,
+    "Distance": 0.006393014981606227,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13246778771281,
+    "Longitude": -84.52019174583256,
+    "Elevation": 248.60000610351562,
+    "Time": "11/25/2020, 22:36:39",
+    "Speed": 7.619147968753197,
+    "Distance": 0.012700933148591468,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1326514352113,
+    "Longitude": -84.52018043026328,
+    "Elevation": 248.1999969482422,
+    "Time": "11/25/2020, 22:36:45",
+    "Speed": 7.342194055896547,
+    "Distance": 0.014279134048246114,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132857797667384,
+    "Longitude": -84.52016400173306,
+    "Elevation": 247.8000030517578,
+    "Time": "11/25/2020, 22:36:52",
+    "Speed": 7.248642225222333,
+    "Distance": 0.0020138848573394937,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13288688287139,
+    "Longitude": -84.52016115188599,
+    "Elevation": 247.60000610351562,
+    "Time": "11/25/2020, 22:36:53",
+    "Speed": 6.9724750185182405,
+    "Distance": 0.00968578764248576,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13302660919726,
+    "Longitude": -84.52014380134642,
+    "Elevation": 247.39999389648438,
+    "Time": "11/25/2020, 22:36:58",
+    "Speed": 6.984582076024138,
+    "Distance": 0.005821563669733368,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133110009133816,
+    "Longitude": -84.52012502588332,
+    "Elevation": 247.1999969482422,
+    "Time": "11/25/2020, 22:37:01",
+    "Speed": 7.36174703714328,
+    "Distance": 0.010226543413937082,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13325786590576,
+    "Longitude": -84.5201154705137,
+    "Elevation": 246.8000030517578,
+    "Time": "11/25/2020, 22:37:06",
+    "Speed": 6.7117486843086045,
+    "Distance": 0.007458880502924963,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13336574099958,
+    "Longitude": -84.5201207511127,
+    "Elevation": 246.60000610351562,
+    "Time": "11/25/2020, 22:37:10",
+    "Speed": 6.573408509722515,
+    "Distance": 0.007305140713262723,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13347143679857,
+    "Longitude": -84.52012326568365,
+    "Elevation": 246.39999389648438,
+    "Time": "11/25/2020, 22:37:14",
+    "Speed": 7.070486656327989,
+    "Distance": 0.007857552114603443,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13358509540558,
+    "Longitude": -84.52011857181787,
+    "Elevation": 246.0,
+    "Time": "11/25/2020, 22:37:18",
+    "Speed": 7.332723126215524,
+    "Distance": 0.014260714938992492,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13379095494747,
+    "Longitude": -84.52009594067931,
+    "Elevation": 245.8000030517578,
+    "Time": "11/25/2020, 22:37:25",
+    "Speed": 7.290004285492297,
+    "Distance": 0.00607612934298574,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13387879729271,
+    "Longitude": -84.52009024098516,
+    "Elevation": 245.1999969482422,
+    "Time": "11/25/2020, 22:37:28",
+    "Speed": 7.239303193354121,
+    "Distance": 0.004022580402176804,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13393696770072,
+    "Longitude": -84.52008705586195,
+    "Elevation": 245.0,
+    "Time": "11/25/2020, 22:37:30",
+    "Speed": 7.020363980667954,
+    "Distance": 0.005851387449286815,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13401944562793,
+    "Longitude": -84.52005671337247,
+    "Elevation": 245.0,
+    "Time": "11/25/2020, 22:37:33",
+    "Speed": 7.484603041535551,
+    "Distance": 0.014556091723313418,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1342299990356,
+    "Longitude": -84.52004782855511,
+    "Elevation": 244.8000030517578,
+    "Time": "11/25/2020, 22:37:40",
+    "Speed": 7.914888930314469,
+    "Distance": 0.0021989876819717624,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13426176644862,
+    "Longitude": -84.52005042694509,
+    "Elevation": 244.8000030517578,
+    "Time": "11/25/2020, 22:37:41",
+    "Speed": 7.517260654938764,
+    "Distance": 0.012531089490645233,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13444214500487,
+    "Longitude": -84.52002109028399,
+    "Elevation": 244.39999389648438,
+    "Time": "11/25/2020, 22:37:47",
+    "Speed": 7.828948392951037,
+    "Distance": 0.0021751108866423408,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13447357714176,
+    "Longitude": -84.52001840807498,
+    "Elevation": 244.39999389648438,
+    "Time": "11/25/2020, 22:37:48",
+    "Speed": 8.019613987897364,
+    "Distance": 0.0044561667330571325,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13453803397715,
+    "Longitude": -84.52001589350402,
+    "Elevation": 244.1999969482422,
+    "Time": "11/25/2020, 22:37:50",
+    "Speed": 7.360276550337783,
+    "Distance": 0.010224500692680815,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13468597456813,
+    "Longitude": -84.52001413330436,
+    "Elevation": 243.60000610351562,
+    "Time": "11/25/2020, 22:37:55",
+    "Speed": 7.354337151225261,
+    "Distance": 0.012259499998291784,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13486249744892,
+    "Longitude": -84.51998630538583,
+    "Elevation": 243.1999969482422,
+    "Time": "11/25/2020, 22:38:01",
+    "Speed": 7.800733563741403,
+    "Distance": 0.006501815945127669,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13495629094541,
+    "Longitude": -84.51997473835945,
+    "Elevation": 243.0,
+    "Time": "11/25/2020, 22:38:04",
+    "Speed": 7.473019518464595,
+    "Distance": 0.01038111716596463,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13510523736477,
+    "Longitude": -84.51994389295578,
+    "Elevation": 242.8000030517578,
+    "Time": "11/25/2020, 22:38:09",
+    "Speed": 4.107731674483824,
+    "Distance": 0.004564992096573252,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13516282103956,
+    "Longitude": -84.51989259570837,
+    "Elevation": 242.60000610351562,
+    "Time": "11/25/2020, 22:38:13",
+    "Speed": 0.2822728680514891,
+    "Distance": 0.006352316474238592,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13525032810867,
+    "Longitude": -84.51993718743324,
+    "Elevation": 241.8000030517578,
+    "Time": "11/25/2020, 22:39:34",
+    "Speed": 1.8500471590899967,
+    "Distance": 0.001541991662696947,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.135272623971105,
+    "Longitude": -84.51993819326162,
+    "Elevation": 241.8000030517578,
+    "Time": "11/25/2020, 22:39:37",
+    "Speed": 7.025091408937706,
+    "Distance": 0.0039035518019242483,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13532903417945,
+    "Longitude": -84.51993324793875,
+    "Elevation": 241.8000030517578,
+    "Time": "11/25/2020, 22:39:39",
+    "Speed": 7.974182041475545,
+    "Distance": 0.006646383128325896,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.135424084961414,
+    "Longitude": -84.51991003006697,
+    "Elevation": 241.8000030517578,
+    "Time": "11/25/2020, 22:39:42",
+    "Speed": 5.487805694949889,
+    "Distance": 0.03964149692976368,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13532266393304,
+    "Longitude": -84.5190155133605,
+    "Elevation": 241.60000610351562,
+    "Time": "11/25/2020, 22:40:08",
+    "Speed": 5.334680099330358,
+    "Distance": 0.0014821301889351049,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13533590734005,
+    "Longitude": -84.51898877508938,
+    "Elevation": 241.60000610351562,
+    "Time": "11/25/2020, 22:40:09",
+    "Speed": 7.311283002455062,
+    "Distance": 0.006093864893124694,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.135418301448226,
+    "Longitude": -84.51893898658454,
+    "Elevation": 241.39999389648438,
+    "Time": "11/25/2020, 22:40:12",
+    "Speed": 7.553338792108193,
+    "Distance": 0.006295615431060306,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13550153374672,
+    "Longitude": -84.51888031326234,
+    "Elevation": 241.39999389648438,
+    "Time": "11/25/2020, 22:40:15",
+    "Speed": 6.943204921772363,
+    "Distance": 0.00578707631811702,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13556699641049,
+    "Longitude": -84.51879758387804,
+    "Elevation": 241.39999389648438,
+    "Time": "11/25/2020, 22:40:18",
+    "Speed": 7.949635387113567,
+    "Distance": 0.013251847584727892,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.1357337962836,
+    "Longitude": -84.51864771544933,
+    "Elevation": 240.8000030517578,
+    "Time": "11/25/2020, 22:40:24",
+    "Speed": 7.565271404273541,
+    "Distance": 0.0021018537057486877,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.135761288926005,
+    "Longitude": -84.51862709596753,
+    "Elevation": 240.8000030517578,
+    "Time": "11/25/2020, 22:40:25",
+    "Speed": 7.93654436613605,
+    "Distance": 0.013230025173224122,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13593990728259,
+    "Longitude": -84.51851796358824,
+    "Elevation": 240.60000610351562,
+    "Time": "11/25/2020, 22:40:31",
+    "Speed": 7.919952434347203,
+    "Distance": 0.006601183414549753,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.136030934751034,
+    "Longitude": -84.51847211457789,
+    "Elevation": 240.60000610351562,
+    "Time": "11/25/2020, 22:40:34",
+    "Speed": 8.021332203279718,
+    "Distance": 0.013371364422152188,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.136215839535,
+    "Longitude": -84.51838184148073,
+    "Elevation": 239.60000610351562,
+    "Time": "11/25/2020, 22:40:40",
+    "Speed": 7.431442068988515,
+    "Distance": 0.0041293440028963785,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13627325557172,
+    "Longitude": -84.5183556061238,
+    "Elevation": 239.39999389648438,
+    "Time": "11/25/2020, 22:40:42",
+    "Speed": 7.528480841574352,
+    "Distance": 0.008366528844732456,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13638733327389,
+    "Longitude": -84.51829140074551,
+    "Elevation": 238.60000610351562,
+    "Time": "11/25/2020, 22:40:46",
+    "Speed": 7.4689412963404855,
+    "Distance": 0.006225271151355392,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13647190667689,
+    "Longitude": -84.51824228279293,
+    "Elevation": 238.1999969482422,
+    "Time": "11/25/2020, 22:40:49",
+    "Speed": 7.448113011272164,
+    "Distance": 0.004138607353791474,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13652773015201,
+    "Longitude": -84.51820791698992,
+    "Elevation": 237.8000030517578,
+    "Time": "11/25/2020, 22:40:51",
+    "Speed": 7.058116936290282,
+    "Distance": 0.00784380543427383,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13663091138005,
+    "Longitude": -84.51813298277557,
+    "Elevation": 237.39999389648438,
+    "Time": "11/25/2020, 22:40:55",
+    "Speed": 6.63444663092019,
+    "Distance": 0.007372973415819197,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13672319613397,
+    "Longitude": -84.51804815791547,
+    "Elevation": 236.60000610351562,
+    "Time": "11/25/2020, 22:40:59",
+    "Speed": 6.448506804486819,
+    "Distance": 0.0017915838308061017,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.136745408177376,
+    "Longitude": -84.51802695170045,
+    "Elevation": 236.1999969482422,
+    "Time": "11/25/2020, 22:41:00",
+    "Speed": 6.9082928621301845,
+    "Distance": 0.011515955087451232,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13688178174198,
+    "Longitude": -84.51787523925304,
+    "Elevation": 235.0,
+    "Time": "11/25/2020, 22:41:06",
+    "Speed": 6.847820457587195,
+    "Distance": 0.011415149069431245,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13700415752828,
+    "Longitude": -84.51769947074354,
+    "Elevation": 233.8000030517578,
+    "Time": "11/25/2020, 22:41:12",
+    "Speed": 6.57748105471785,
+    "Distance": 0.003654833300902056,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13704355247319,
+    "Longitude": -84.51764356344938,
+    "Elevation": 233.39999389648438,
+    "Time": "11/25/2020, 22:41:14",
+    "Speed": 6.251209625808989,
+    "Distance": 0.005210306708889387,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13709979504347,
+    "Longitude": -84.51756401918828,
+    "Elevation": 232.60000610351562,
+    "Time": "11/25/2020, 22:41:17",
+    "Speed": 6.217273156989301,
+    "Distance": 0.006909361436676518,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13717087358236,
+    "Longitude": -84.51745262369514,
+    "Elevation": 232.1999969482422,
+    "Time": "11/25/2020, 22:41:21",
+    "Speed": 5.557247285455073,
+    "Distance": 0.0030879317281591184,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13719995878637,
+    "Longitude": -84.5173988956958,
+    "Elevation": 231.39999389648438,
+    "Time": "11/25/2020, 22:41:23",
+    "Speed": 6.454938116127293,
+    "Distance": 0.008966853186586642,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.137293584644794,
+    "Longitude": -84.51725657097995,
+    "Elevation": 230.39999389648438,
+    "Time": "11/25/2020, 22:41:28",
+    "Speed": 7.595020915061849,
+    "Distance": 0.0021101189901189606,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13731914944947,
+    "Longitude": -84.51723016798496,
+    "Elevation": 230.1999969482422,
+    "Time": "11/25/2020, 22:41:29",
+    "Speed": 6.419006063788069,
+    "Distance": 0.01070032597226442,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13743951357901,
+    "Longitude": -84.51707585714757,
+    "Elevation": 229.39999389648438,
+    "Time": "11/25/2020, 22:41:35",
+    "Speed": 5.180267479051902,
+    "Distance": 0.0014392298459330942,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13745367899537,
+    "Longitude": -84.51705163344741,
+    "Elevation": 229.0,
+    "Time": "11/25/2020, 22:41:36",
+    "Speed": 6.796677890306762,
+    "Distance": 0.007553263774490176,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13753137923777,
+    "Longitude": -84.51692984439433,
+    "Elevation": 228.1999969482422,
+    "Time": "11/25/2020, 22:41:40",
+    "Speed": 6.47642254886456,
+    "Distance": 0.0035986792824473646,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13756834343076,
+    "Longitude": -84.51687175780535,
+    "Elevation": 227.60000610351562,
+    "Time": "11/25/2020, 22:41:42",
+    "Speed": 6.588804239721189,
+    "Distance": 0.00549168768745864,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.137625927105546,
+    "Longitude": -84.51678500510752,
+    "Elevation": 227.1999969482422,
+    "Time": "11/25/2020, 22:41:45",
+    "Speed": 7.418724300800355,
+    "Distance": 0.008244554533632042,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.137718295678496,
+    "Longitude": -84.51666539534926,
+    "Elevation": 226.60000610351562,
+    "Time": "11/25/2020, 22:41:49",
+    "Speed": 6.819036805774858,
+    "Distance": 0.0037890558088261674,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.137758780270815,
+    "Longitude": -84.5166068058461,
+    "Elevation": 226.0,
+    "Time": "11/25/2020, 22:41:51",
+    "Speed": 6.718154568255206,
+    "Distance": 0.009332499338426321,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13785592652857,
+    "Longitude": -84.51645819470286,
+    "Elevation": 225.0,
+    "Time": "11/25/2020, 22:41:56",
+    "Speed": 6.41959155255152,
+    "Distance": 0.0035671006559001455,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13789104670286,
+    "Longitude": -84.51639826409519,
+    "Elevation": 224.8000030517578,
+    "Time": "11/25/2020, 22:41:58",
+    "Speed": 6.479033483278436,
+    "Distance": 0.007200260140729891,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.137965478003025,
+    "Longitude": -84.51628276146948,
+    "Elevation": 224.0,
+    "Time": "11/25/2020, 22:42:02",
+    "Speed": 7.2517525631585125,
+    "Distance": 0.006044247000618041,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13803471252322,
+    "Longitude": -84.51619810424745,
+    "Elevation": 223.1999969482422,
+    "Time": "11/25/2020, 22:42:05",
+    "Speed": 9.22283727443136,
+    "Distance": 0.0025623739938570173,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13806631229818,
+    "Longitude": -84.51616734266281,
+    "Elevation": 223.0,
+    "Time": "11/25/2020, 22:42:06",
+    "Speed": 7.265560177647212,
+    "Distance": 0.00605575547829046,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13813722319901,
+    "Longitude": -84.51608578674495,
+    "Elevation": 222.8000030517578,
+    "Time": "11/25/2020, 22:42:09",
+    "Speed": 6.519225128545947,
+    "Distance": 0.005433694349935902,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13819162175059,
+    "Longitude": -84.51599584892392,
+    "Elevation": 222.1999969482422,
+    "Time": "11/25/2020, 22:42:12",
+    "Speed": 7.11502006683425,
+    "Distance": 0.005930282138524762,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13825834169984,
+    "Longitude": -84.51591035351157,
+    "Elevation": 221.39999389648438,
+    "Time": "11/25/2020, 22:42:15",
+    "Speed": 6.460952930953045,
+    "Distance": 0.007180166915317971,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13833838887513,
+    "Longitude": -84.51580541208386,
+    "Elevation": 220.8000030517578,
+    "Time": "11/25/2020, 22:42:19",
+    "Speed": 6.403764566692956,
+    "Distance": 0.003558306256571957,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.138381807133555,
+    "Longitude": -84.51576157473028,
+    "Elevation": 220.39999389648438,
+    "Time": "11/25/2020, 22:42:21",
+    "Speed": 6.959605293687689,
+    "Distance": 0.011601491654738847,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13853787817061,
+    "Longitude": -84.5156635902822,
+    "Elevation": 219.1999969482422,
+    "Time": "11/25/2020, 22:42:27",
+    "Speed": 7.532328073268952,
+    "Distance": 0.01255620650815407,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.138718508183956,
+    "Longitude": -84.51563249342144,
+    "Elevation": 218.1999969482422,
+    "Time": "11/25/2020, 22:42:33",
+    "Speed": 6.860797614934538,
+    "Distance": 0.011436781673050874,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13888044655323,
+    "Longitude": -84.51557843014598,
+    "Elevation": 217.1999969482422,
+    "Time": "11/25/2020, 22:42:39",
+    "Speed": 5.84597123966855,
+    "Distance": 0.0064967272988284775,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13897281512618,
+    "Longitude": -84.51555076986551,
+    "Elevation": 216.0,
+    "Time": "11/25/2020, 22:42:43",
+    "Speed": 5.260720450979695,
+    "Distance": 0.005846328140218974,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13905177265406,
+    "Longitude": -84.51550265774131,
+    "Elevation": 215.0,
+    "Time": "11/25/2020, 22:42:47",
+    "Speed": 6.459488091931425,
+    "Distance": 0.012562443275884717,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13922360166907,
+    "Longitude": -84.51540869660676,
+    "Elevation": 214.0,
+    "Time": "11/25/2020, 22:42:54",
+    "Speed": 6.169712475004873,
+    "Distance": 0.0017141266104038922,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13924774155021,
+    "Longitude": -84.51539972797036,
+    "Elevation": 213.8000030517578,
+    "Time": "11/25/2020, 22:42:55",
+    "Speed": 6.736127706888738,
+    "Distance": 0.01310045331960704,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.139433316886425,
+    "Longitude": -84.51533845625818,
+    "Elevation": 213.1999969482422,
+    "Time": "11/25/2020, 22:43:02",
+    "Speed": 7.586108311661161,
+    "Distance": 0.002107642808170614,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13946340791881,
+    "Longitude": -84.51533066108823,
+    "Elevation": 213.1999969482422,
+    "Time": "11/25/2020, 22:43:03",
+    "Speed": 10.267613485055778,
+    "Distance": 0.005705286776775463,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13954446092248,
+    "Longitude": -84.51530585065484,
+    "Elevation": 213.0,
+    "Time": "11/25/2020, 22:43:05",
+    "Speed": 7.399511428522496,
+    "Distance": 0.006167402206344199,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.139633644372225,
+    "Longitude": -84.51530065387487,
+    "Elevation": 213.0,
+    "Time": "11/25/2020, 22:43:08",
+    "Speed": 8.517344913363601,
+    "Distance": 0.004732735155854488,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.139702124521136,
+    "Longitude": -84.51530165970325,
+    "Elevation": 213.0,
+    "Time": "11/25/2020, 22:43:10",
+    "Speed": 7.7329057714607785,
+    "Distance": 0.01289056462093523,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.1398886218667,
+    "Longitude": -84.51530710794032,
+    "Elevation": 212.60000610351562,
+    "Time": "11/25/2020, 22:43:16",
+    "Speed": 8.674096885016413,
+    "Distance": 0.0048198357223498975,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.13995835930109,
+    "Longitude": -84.51530526392162,
+    "Elevation": 212.60000610351562,
+    "Time": "11/25/2020, 22:43:18",
+    "Speed": 7.352716912357534,
+    "Distance": 0.014299598949722835,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.140165224671364,
+    "Longitude": -84.51531280763447,
+    "Elevation": 212.39999389648438,
+    "Time": "11/25/2020, 22:43:25",
+    "Speed": 7.202608726802758,
+    "Distance": 0.004002190809687661,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14022264070809,
+    "Longitude": -84.5153007376939,
+    "Elevation": 212.39999389648438,
+    "Time": "11/25/2020, 22:43:27",
+    "Speed": 6.886797370526508,
+    "Distance": 0.013393476400679113,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.140415508300066,
+    "Longitude": -84.51533091254532,
+    "Elevation": 212.39999389648438,
+    "Time": "11/25/2020, 22:43:34",
+    "Speed": 6.45849056461609,
+    "Distance": 0.012560503280000107,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.140595300123096,
+    "Longitude": -84.51537307351828,
+    "Elevation": 212.60000610351562,
+    "Time": "11/25/2020, 22:43:41",
+    "Speed": 6.759452932617163,
+    "Distance": 0.013145816329947838,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.1407850664109,
+    "Longitude": -84.51539386063814,
+    "Elevation": 213.0,
+    "Time": "11/25/2020, 22:43:48",
+    "Speed": 6.954112775051375,
+    "Distance": 0.0038641119202093136,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14084038697183,
+    "Longitude": -84.51540668495,
+    "Elevation": 213.1999969482422,
+    "Time": "11/25/2020, 22:43:50",
+    "Speed": 7.092943539757656,
+    "Distance": 0.013794390454649124,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14103979244828,
+    "Longitude": -84.51542093418539,
+    "Elevation": 213.39999389648438,
+    "Time": "11/25/2020, 22:43:57",
+    "Speed": 6.436746089250423,
+    "Distance": 0.00894158180036471,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14116677828133,
+    "Longitude": -84.51546024531126,
+    "Elevation": 214.0,
+    "Time": "11/25/2020, 22:44:02",
+    "Speed": 6.19160389496755,
+    "Distance": 0.0034404173745344207,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14121547713876,
+    "Longitude": -84.51547659002244,
+    "Elevation": 214.39999389648438,
+    "Time": "11/25/2020, 22:44:04",
+    "Speed": 6.311792802116088,
+    "Distance": 0.008768003408014886,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14134204387665,
+    "Longitude": -84.51549050398171,
+    "Elevation": 214.8000030517578,
+    "Time": "11/25/2020, 22:44:09",
+    "Speed": 5.941625024755103,
+    "Distance": 0.003301514488798398,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.141389820724726,
+    "Longitude": -84.51549050398171,
+    "Elevation": 215.1999969482422,
+    "Time": "11/25/2020, 22:44:11",
+    "Speed": 6.578792830747688,
+    "Distance": 0.012794467701441856,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14157489314675,
+    "Longitude": -84.51549838297069,
+    "Elevation": 215.8000030517578,
+    "Time": "11/25/2020, 22:44:18",
+    "Speed": 6.648240777151422,
+    "Distance": 0.0018470757713030224,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14160163141787,
+    "Longitude": -84.51549855060875,
+    "Elevation": 216.0,
+    "Time": "11/25/2020, 22:44:19",
+    "Speed": 6.216139590301623,
+    "Distance": 0.0034540508423653066,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14165141992271,
+    "Longitude": -84.51549176126719,
+    "Elevation": 216.1999969482422,
+    "Time": "11/25/2020, 22:44:21",
+    "Speed": 5.8172914403895915,
+    "Distance": 0.004848641212460413,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.1417211573571,
+    "Longitude": -84.51547960750759,
+    "Elevation": 216.60000610351562,
+    "Time": "11/25/2020, 22:44:24",
+    "Speed": 5.521626800298725,
+    "Distance": 0.0015340694512840922,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.1417433694005,
+    "Longitude": -84.5154804456979,
+    "Elevation": 216.8000030517578,
+    "Time": "11/25/2020, 22:44:25",
+    "Speed": 6.192332276112786,
+    "Distance": 0.00860205526428478,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.1418678406626,
+    "Longitude": -84.5154786016792,
+    "Elevation": 217.39999389648438,
+    "Time": "11/25/2020, 22:44:30",
+    "Speed": 5.320099945719809,
+    "Distance": 0.004434238187230642,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14193196222186,
+    "Longitude": -84.51547466218472,
+    "Elevation": 217.60000610351562,
+    "Time": "11/25/2020, 22:44:33",
+    "Speed": 5.862876731994011,
+    "Distance": 0.009773271990105963,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.142068503424525,
+    "Longitude": -84.51541632413864,
+    "Elevation": 218.1999969482422,
+    "Time": "11/25/2020, 22:44:39",
+    "Speed": 5.161733367829331,
+    "Distance": 0.0028681610553007077,
+    "Street": "Brookline Avenue"
+  },
+  {
+    "Latitude": 39.14208434522152,
+    "Longitude": -84.51535555534065,
+    "Elevation": 218.39999389648438,
+    "Time": "11/25/2020, 22:44:41",
+    "Speed": 5.255895822251674,
+    "Distance": 0.002920483224114953,
+    "Street": "Jefferson Avenue"
+  },
+  {
+    "Latitude": 39.142072359099984,
+    "Longitude": -84.51529134996235,
+    "Elevation": 218.8000030517578,
+    "Time": "11/25/2020, 22:44:43",
+    "Speed": 5.383887480053197,
+    "Distance": 0.008974808632688106,
+    "Street": "Jefferson Avenue"
+  },
+  {
+    "Latitude": 39.141987869516015,
+    "Longitude": -84.51513511128724,
+    "Elevation": 219.39999389648438,
+    "Time": "11/25/2020, 22:44:49",
+    "Speed": 6.044163604051875,
+    "Distance": 0.003358490922652544,
+    "Street": "Jefferson Avenue"
+  },
+  {
+    "Latitude": 39.14195065386593,
+    "Longitude": -84.51508557423949,
+    "Elevation": 219.60000610351562,
+    "Time": "11/25/2020, 22:44:51",
+    "Speed": 5.401891317866741,
+    "Distance": 0.0015008034315987825,
+    "Street": "Jefferson Avenue"
+  },
+  {
+    "Latitude": 39.14193447679281,
+    "Longitude": -84.5150626078248,
+    "Elevation": 219.8000030517578,
+    "Time": "11/25/2020, 22:44:52",
+    "Speed": 4.499731952835612,
+    "Distance": 0.005000628675185776,
+    "Street": "Jefferson Avenue"
+  },
+  {
+    "Latitude": 39.14187521673739,
+    "Longitude": -84.5149968098849,
+    "Elevation": 220.39999389648438,
+    "Time": "11/25/2020, 22:44:56",
+    "Speed": 4.813725928465732,
+    "Distance": 0.00401218164182008,
+    "Street": "Jefferson Avenue"
+  },
+  {
+    "Latitude": 39.1418316308409,
+    "Longitude": -84.51493604108691,
+    "Elevation": 220.60000610351562,
+    "Time": "11/25/2020, 22:44:59",
+    "Speed": 5.005740207624434,
+    "Distance": 0.008344446386524006,
+    "Street": "Jefferson Avenue"
+  },
+  {
+    "Latitude": 39.14173984900117,
+    "Longitude": -84.51481173746288,
+    "Elevation": 221.1999969482422,
+    "Time": "11/25/2020, 22:45:05",
+    "Speed": 5.711640958279962,
+    "Distance": 0.011108026600472847,
+    "Street": "Jefferson Avenue"
+  },
+  {
+    "Latitude": 39.14162560366094,
+    "Longitude": -84.5146326161921,
+    "Elevation": 221.39999389648438,
+    "Time": "11/25/2020, 22:45:12",
+    "Speed": 5.156633919323349,
+    "Distance": 0.008595982510076199,
+    "Street": "Jefferson Avenue"
+  },
+  {
+    "Latitude": 39.14152720011771,
+    "Longitude": -84.5145120844245,
+    "Elevation": 221.8000030517578,
+    "Time": "11/25/2020, 22:45:18",
+    "Speed": 4.242092652020574,
+    "Distance": 0.0011785774342136651,
+    "Street": "Jefferson Avenue"
+  },
+  {
+    "Latitude": 39.141514375805855,
+    "Longitude": -84.51449423097074,
+    "Elevation": 222.0,
+    "Time": "11/25/2020, 22:45:19",
+    "Speed": 4.953662488940219,
+    "Distance": 0.00825763410433025,
+    "Street": "Jefferson Avenue"
+  },
+  {
+    "Latitude": 39.14142125286162,
+    "Longitude": -84.51437562704086,
+    "Elevation": 222.8000030517578,
+    "Time": "11/25/2020, 22:45:25",
+    "Speed": 4.912425296691854,
+    "Distance": 0.005459261809553996,
+    "Street": "Jefferson Avenue"
+  },
+  {
+    "Latitude": 39.141355622559786,
+    "Longitude": -84.51430597342551,
+    "Elevation": 223.1999969482422,
+    "Time": "11/25/2020, 22:45:29",
+    "Speed": 4.3449929809471675,
+    "Distance": 0.008450163090392072,
+    "Street": "Jefferson Avenue"
+  },
+  {
+    "Latitude": 39.14125679992139,
+    "Longitude": -84.51419189572334,
+    "Elevation": 223.8000030517578,
+    "Time": "11/25/2020, 22:45:36",
+    "Speed": 4.482471697612758,
+    "Distance": 0.002490723529949998,
+    "Street": "Jefferson Avenue"
+  },
+  {
+    "Latitude": 39.141229977831244,
+    "Longitude": -84.51415375806391,
+    "Elevation": 224.0,
+    "Time": "11/25/2020, 22:45:38",
+    "Speed": 5.961635536245785,
+    "Distance": 0.013250533998928768,
+    "Street": "Jefferson Avenue"
+  },
+  {
+    "Latitude": 39.141078516840935,
+    "Longitude": -84.51396751217544,
+    "Elevation": 224.60000610351562,
+    "Time": "11/25/2020, 22:45:46",
+    "Speed": 5.079157923389986,
+    "Distance": 0.002822277307151067,
+    "Street": "Jefferson Avenue"
+  },
+  {
+    "Latitude": 39.14104892872274,
+    "Longitude": -84.51392292045057,
+    "Elevation": 225.0,
+    "Time": "11/25/2020, 22:45:48",
+    "Speed": 6.687696558424803,
+    "Distance": 0.0111482264493307,
+    "Street": "Jefferson Avenue"
+  },
+  {
+    "Latitude": 39.140930492430925,
+    "Longitude": -84.51374941505492,
+    "Elevation": 225.60000610351562,
+    "Time": "11/25/2020, 22:45:54",
+    "Speed": 7.821917040421098,
+    "Distance": 0.010865786856094028,
+    "Street": "Jefferson Avenue"
+  },
+  {
+    "Latitude": 39.14081381633878,
+    "Longitude": -84.51358244754374,
+    "Elevation": 226.0,
+    "Time": "11/25/2020, 22:45:59",
+    "Speed": 6.668561478979085,
+    "Distance": 0.0018527214567196435,
+    "Street": "Jefferson Avenue"
+  },
+  {
+    "Latitude": 39.140792191028595,
+    "Longitude": -84.51355738565326,
+    "Elevation": 226.1999969482422,
+    "Time": "11/25/2020, 22:46:00",
+    "Speed": 6.556299009349543,
+    "Distance": 0.012750721610211336,
+    "Street": "Jefferson Avenue"
+  },
+  {
+    "Latitude": 39.14064005948603,
+    "Longitude": -84.51339201070368,
+    "Elevation": 226.60000610351562,
+    "Time": "11/25/2020, 22:46:07",
+    "Speed": 5.777095698808186,
+    "Distance": 0.001605046184614812,
+    "Street": "Jefferson Avenue"
+  },
+  {
+    "Latitude": 39.140618266537786,
+    "Longitude": -84.51337927021086,
+    "Elevation": 227.0,
+    "Time": "11/25/2020, 22:46:08",
+    "Speed": 5.846935523590314,
+    "Distance": 0.0016244497309891345,
+    "Street": "Jefferson Avenue"
+  },
+  {
+    "Latitude": 39.14059613831341,
+    "Longitude": -84.51336678117514,
+    "Elevation": 227.0,
+    "Time": "11/25/2020, 22:46:09",
+    "Speed": 6.275546912248304,
+    "Distance": 0.012204713591584364,
+    "Street": "Jefferson Avenue"
+  },
+  {
+    "Latitude": 39.14041961543262,
+    "Longitude": -84.51337524689734,
+    "Elevation": 227.39999389648438,
+    "Time": "11/25/2020, 22:46:16",
+    "Speed": 6.408164872693331,
+    "Distance": 0.0035607513240332755,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.14036823436618,
+    "Longitude": -84.51338144950569,
+    "Elevation": 228.0,
+    "Time": "11/25/2020, 22:46:18",
+    "Speed": 7.287619435019772,
+    "Distance": 0.008098855465742981,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.140251809731126,
+    "Longitude": -84.51340273953974,
+    "Elevation": 228.60000610351562,
+    "Time": "11/25/2020, 22:46:22",
+    "Speed": 6.855522896681281,
+    "Distance": 0.007618659231231209,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.14014200679958,
+    "Longitude": -84.51341832987964,
+    "Elevation": 229.1999969482422,
+    "Time": "11/25/2020, 22:46:26",
+    "Speed": 5.575365428251991,
+    "Distance": 0.004646998842495532,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.140074951574206,
+    "Longitude": -84.51342620886862,
+    "Elevation": 229.39999389648438,
+    "Time": "11/25/2020, 22:46:29",
+    "Speed": 5.659838025851067,
+    "Distance": 0.011007280010201185,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.139917120337486,
+    "Longitude": -84.51346007175744,
+    "Elevation": 230.1999969482422,
+    "Time": "11/25/2020, 22:46:36",
+    "Speed": 7.680398230865207,
+    "Distance": 0.012803035836137207,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13973196409643,
+    "Longitude": -84.51345034874976,
+    "Elevation": 230.60000610351562,
+    "Time": "11/25/2020, 22:46:42",
+    "Speed": 7.8354266302145,
+    "Distance": 0.0043538214609287335,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13966901600361,
+    "Longitude": -84.51345445588231,
+    "Elevation": 230.8000030517578,
+    "Time": "11/25/2020, 22:46:44",
+    "Speed": 7.981091807036578,
+    "Distance": 0.006652142333346133,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.1395727917552,
+    "Longitude": -84.51345068402588,
+    "Elevation": 231.1999969482422,
+    "Time": "11/25/2020, 22:46:47",
+    "Speed": 7.839426066072331,
+    "Distance": 0.010890109453713133,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.139415211975574,
+    "Longitude": -84.51345194131136,
+    "Elevation": 231.60000610351562,
+    "Time": "11/25/2020, 22:46:52",
+    "Speed": 7.4374243304818375,
+    "Distance": 0.012398004292153857,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13923625834286,
+    "Longitude": -84.51347197405994,
+    "Elevation": 231.39999389648438,
+    "Time": "11/25/2020, 22:46:58",
+    "Speed": 6.380048653484308,
+    "Distance": 0.010635384922958183,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13908337242901,
+    "Longitude": -84.51344414614141,
+    "Elevation": 230.60000610351562,
+    "Time": "11/25/2020, 22:47:04",
+    "Speed": 6.325719168657984,
+    "Distance": 0.005272409500864174,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.139007180929184,
+    "Longitude": -84.513437775895,
+    "Elevation": 230.0,
+    "Time": "11/25/2020, 22:47:07",
+    "Speed": 5.82405840795988,
+    "Distance": 0.008090468995171993,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13889125920832,
+    "Longitude": -84.5134636759758,
+    "Elevation": 229.39999389648438,
+    "Time": "11/25/2020, 22:47:12",
+    "Speed": 5.2494560863367505,
+    "Distance": 0.0043753573951091085,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.1388285625726,
+    "Longitude": -84.51347775757313,
+    "Elevation": 229.0,
+    "Time": "11/25/2020, 22:47:15",
+    "Speed": 5.744311339601278,
+    "Distance": 0.006383750922297302,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.138736529275775,
+    "Longitude": -84.51349024660885,
+    "Elevation": 228.60000610351562,
+    "Time": "11/25/2020, 22:47:19",
+    "Speed": 6.101488534440603,
+    "Distance": 0.006780688015741364,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.138640221208334,
+    "Longitude": -84.51351991854608,
+    "Elevation": 227.8000030517578,
+    "Time": "11/25/2020, 22:47:23",
+    "Speed": 5.801440921282565,
+    "Distance": 0.00322361999919572,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.138594288378954,
+    "Longitude": -84.51353282667696,
+    "Elevation": 227.60000610351562,
+    "Time": "11/25/2020, 22:47:25",
+    "Speed": 7.086776918723952,
+    "Distance": 0.013782397580626096,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13839563727379,
+    "Longitude": -84.51356073841453,
+    "Elevation": 227.39999389648438,
+    "Time": "11/25/2020, 22:47:32",
+    "Speed": 6.917535456955273,
+    "Distance": 0.001921893711127943,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.138368144631386,
+    "Longitude": -84.51355403289199,
+    "Elevation": 226.8000030517578,
+    "Time": "11/25/2020, 22:47:33",
+    "Speed": 7.120740350810048,
+    "Distance": 0.003956699950135232,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13831106387079,
+    "Longitude": -84.51354674063623,
+    "Elevation": 226.1999969482422,
+    "Time": "11/25/2020, 22:47:35",
+    "Speed": 7.302109870929149,
+    "Distance": 0.0040574794668507465,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13825255818665,
+    "Longitude": -84.51355453580618,
+    "Elevation": 225.8000030517578,
+    "Time": "11/25/2020, 22:47:37",
+    "Speed": 7.571561590105093,
+    "Distance": 0.006310803910145373,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13816253654659,
+    "Longitude": -84.51357884332538,
+    "Elevation": 225.39999389648438,
+    "Time": "11/25/2020, 22:47:40",
+    "Speed": 6.14564668551459,
+    "Distance": 0.011952083010547268,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13798961788416,
+    "Longitude": -84.51358387246728,
+    "Elevation": 225.0,
+    "Time": "11/25/2020, 22:47:47",
+    "Speed": 6.866385258032584,
+    "Distance": 0.013353778826862665,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13779725320637,
+    "Longitude": -84.51361279003322,
+    "Elevation": 225.39999389648438,
+    "Time": "11/25/2020, 22:47:54",
+    "Speed": 7.040976066836678,
+    "Distance": 0.013693323865243016,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13759960792959,
+    "Longitude": -84.51363500207663,
+    "Elevation": 225.8000030517578,
+    "Time": "11/25/2020, 22:48:01",
+    "Speed": 7.642379259633721,
+    "Distance": 0.00212327652363194,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13756934925914,
+    "Longitude": -84.5136433839798,
+    "Elevation": 225.8000030517578,
+    "Time": "11/25/2020, 22:48:02",
+    "Speed": 6.516518478553372,
+    "Distance": 0.012673356244024546,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13738612085581,
+    "Longitude": -84.5136314816773,
+    "Elevation": 225.8000030517578,
+    "Time": "11/25/2020, 22:48:09",
+    "Speed": 4.800695408302423,
+    "Distance": 0.001333773620918771,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.137366842478514,
+    "Longitude": -84.51363064348698,
+    "Elevation": 226.0,
+    "Time": "11/25/2020, 22:48:10",
+    "Speed": 6.461910017173129,
+    "Distance": 0.01256715344765597,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13718696683645,
+    "Longitude": -84.513672972098,
+    "Elevation": 226.1999969482422,
+    "Time": "11/25/2020, 22:48:17",
+    "Speed": 7.754261620267775,
+    "Distance": 0.012926164298109302,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.137000469490886,
+    "Longitude": -84.51369560323656,
+    "Elevation": 226.60000610351562,
+    "Time": "11/25/2020, 22:48:23",
+    "Speed": 6.884859150216904,
+    "Distance": 0.0019128152772241148,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13697280921042,
+    "Longitude": -84.51369434595108,
+    "Elevation": 226.60000610351562,
+    "Time": "11/25/2020, 22:48:24",
+    "Speed": 7.000005320289925,
+    "Distance": 0.01361364376178294,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13677583448589,
+    "Longitude": -84.51369040645659,
+    "Elevation": 226.39999389648438,
+    "Time": "11/25/2020, 22:48:31",
+    "Speed": 8.20035254329201,
+    "Distance": 0.0022782978244280288,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.136742893606424,
+    "Longitude": -84.51368856243789,
+    "Elevation": 226.39999389648438,
+    "Time": "11/25/2020, 22:48:32",
+    "Speed": 7.576947132062842,
+    "Distance": 0.010525487822414378,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13659118115902,
+    "Longitude": -84.51370985247195,
+    "Elevation": 225.8000030517578,
+    "Time": "11/25/2020, 22:48:37",
+    "Speed": 7.42366214103732,
+    "Distance": 0.008250042039497118,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13647257722914,
+    "Longitude": -84.51373131014407,
+    "Elevation": 225.60000610351562,
+    "Time": "11/25/2020, 22:48:41",
+    "Speed": 7.792377813286101,
+    "Distance": 0.012989703058793562,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.136284654960036,
+    "Longitude": -84.51372519135475,
+    "Elevation": 225.60000610351562,
+    "Time": "11/25/2020, 22:48:47",
+    "Speed": 7.7384931025943855,
+    "Distance": 0.006449939282579065,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13619136437774,
+    "Longitude": -84.51372066512704,
+    "Elevation": 226.1999969482422,
+    "Time": "11/25/2020, 22:48:50",
+    "Speed": 6.881248595601046,
+    "Distance": 0.013382685116716714,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13599799387157,
+    "Longitude": -84.51373709365726,
+    "Elevation": 226.8000030517578,
+    "Time": "11/25/2020, 22:48:57",
+    "Speed": 6.722449720658121,
+    "Distance": 0.0018676931866704529,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13597175851464,
+    "Longitude": -84.51374731957912,
+    "Elevation": 227.0,
+    "Time": "11/25/2020, 22:48:58",
+    "Speed": 8.185366897614475,
+    "Distance": 0.006822403121034765,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13587394170463,
+    "Longitude": -84.51372619718313,
+    "Elevation": 227.1999969482422,
+    "Time": "11/25/2020, 22:49:01",
+    "Speed": 6.07393798918544,
+    "Distance": 0.0016875176565173157,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13585684262216,
+    "Longitude": -84.5136986207217,
+    "Elevation": 227.1999969482422,
+    "Time": "11/25/2020, 22:49:02",
+    "Speed": 4.828797279990198,
+    "Distance": 0.0013415811429479288,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.13585332222283,
+    "Longitude": -84.51366836205125,
+    "Elevation": 227.1999969482422,
+    "Time": "11/25/2020, 22:49:03",
+    "Speed": 5.742729928715201,
+    "Distance": 0.004786495105105752,
+    "Street": "Bishop Street"
+  },
+  {
+    "Latitude": 39.1358323674649,
+    "Longitude": -84.51356375589967,
+    "Elevation": 228.0,
+    "Time": "11/25/2020, 22:49:06",
+    "Speed": 5.912137869913545,
+    "Distance": 0.0016425648501857276,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13582448847592,
+    "Longitude": -84.51352821663022,
+    "Elevation": 228.1999969482422,
+    "Time": "11/25/2020, 22:49:07",
+    "Speed": 5.156269480019787,
+    "Distance": 0.008595374998678565,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13579976186156,
+    "Longitude": -84.51333509758115,
+    "Elevation": 229.1999969482422,
+    "Time": "11/25/2020, 22:49:13",
+    "Speed": 4.987876274320146,
+    "Distance": 0.005543111764674339,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13578609935939,
+    "Longitude": -84.51320987194777,
+    "Elevation": 229.8000030517578,
+    "Time": "11/25/2020, 22:49:17",
+    "Speed": 4.345957909973032,
+    "Distance": 0.0036223027238433056,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13576874881983,
+    "Longitude": -84.51313150115311,
+    "Elevation": 230.0,
+    "Time": "11/25/2020, 22:49:20",
+    "Speed": 0.1741561193470348,
+    "Distance": 0.002612825888779915,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.135730946436524,
+    "Longitude": -84.51312999241054,
+    "Elevation": 232.0,
+    "Time": "11/25/2020, 22:50:14",
+    "Speed": 3.276288824540508,
+    "Distance": 0.0009102488779283573,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.135718205943704,
+    "Longitude": -84.51313527300954,
+    "Elevation": 232.0,
+    "Time": "11/25/2020, 22:50:15",
+    "Speed": 6.417518682177003,
+    "Distance": 0.008914872119608,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.135589292272925,
+    "Longitude": -84.51314264908433,
+    "Elevation": 232.0,
+    "Time": "11/25/2020, 22:50:20",
+    "Speed": 7.347903636139931,
+    "Distance": 0.008165850324090526,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13547127507627,
+    "Longitude": -84.51315178535879,
+    "Elevation": 232.0,
+    "Time": "11/25/2020, 22:50:24",
+    "Speed": 6.99426123051535,
+    "Distance": 0.005829631126529846,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13538737222552,
+    "Longitude": -84.51316561549902,
+    "Elevation": 232.0,
+    "Time": "11/25/2020, 22:50:27",
+    "Speed": 6.909380867942448,
+    "Distance": 0.011517768766506096,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13522208109498,
+    "Longitude": -84.5131993945688,
+    "Elevation": 231.8000030517578,
+    "Time": "11/25/2020, 22:50:33",
+    "Speed": 6.694062763156841,
+    "Distance": 0.005579419378387751,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13514195010066,
+    "Longitude": -84.51321506872773,
+    "Elevation": 231.8000030517578,
+    "Time": "11/25/2020, 22:50:36",
+    "Speed": 6.523931630781925,
+    "Distance": 0.010875234323884882,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13498470559716,
+    "Longitude": -84.51320534572005,
+    "Elevation": 231.8000030517578,
+    "Time": "11/25/2020, 22:50:42",
+    "Speed": 6.42612986541008,
+    "Distance": 0.01249756803770881,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.134803991764784,
+    "Longitude": -84.51321624219418,
+    "Elevation": 232.1999969482422,
+    "Time": "11/25/2020, 22:50:49",
+    "Speed": 5.550141477269991,
+    "Distance": 0.001541991662696947,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13478286936879,
+    "Longitude": -84.51322764158249,
+    "Elevation": 232.1999969482422,
+    "Time": "11/25/2020, 22:50:50",
+    "Speed": 6.84214665543262,
+    "Distance": 0.0038018969933777285,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13473299704492,
+    "Longitude": -84.51326443813741,
+    "Elevation": 232.39999389648438,
+    "Time": "11/25/2020, 22:50:52",
+    "Speed": 6.309755996382414,
+    "Distance": 0.007012139189546967,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13465672172606,
+    "Longitude": -84.51337046921253,
+    "Elevation": 232.39999389648438,
+    "Time": "11/25/2020, 22:50:56",
+    "Speed": 7.015633366860861,
+    "Distance": 0.01169488908116175,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.134540716186166,
+    "Longitude": -84.5135656837374,
+    "Elevation": 232.39999389648438,
+    "Time": "11/25/2020, 22:51:02",
+    "Speed": 6.634470235129696,
+    "Distance": 0.011059499471368216,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.134429823607206,
+    "Longitude": -84.51374849304557,
+    "Elevation": 232.39999389648438,
+    "Time": "11/25/2020, 22:51:08",
+    "Speed": 7.580160754250067,
+    "Distance": 0.002105990402735748,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13440886884928,
+    "Longitude": -84.51378352940083,
+    "Elevation": 232.39999389648438,
+    "Time": "11/25/2020, 22:51:09",
+    "Speed": 5.6442610570345435,
+    "Distance": 0.009408845011619446,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13434642367065,
+    "Longitude": -84.51397522352636,
+    "Elevation": 232.8000030517578,
+    "Time": "11/25/2020, 22:51:15",
+    "Speed": 3.7340949009948683,
+    "Distance": 0.005187203991676886,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13435019552708,
+    "Longitude": -84.5140939950943,
+    "Elevation": 232.8000030517578,
+    "Time": "11/25/2020, 22:51:20",
+    "Speed": 4.970734549187158,
+    "Distance": 0.006905077342367541,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.134371066465974,
+    "Longitude": -84.51424880884588,
+    "Elevation": 233.0,
+    "Time": "11/25/2020, 22:51:25",
+    "Speed": 4.367811481749924,
+    "Distance": 0.002427011605622444,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1343661211431,
+    "Longitude": -84.51430387794971,
+    "Elevation": 233.0,
+    "Time": "11/25/2020, 22:51:27",
+    "Speed": 4.508528343443656,
+    "Distance": 0.007515606380588275,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.134397553279996,
+    "Longitude": -84.51446883380413,
+    "Elevation": 233.1999969482422,
+    "Time": "11/25/2020, 22:51:33",
+    "Speed": 3.690262190549721,
+    "Distance": 0.006151576734716772,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13443921133876,
+    "Longitude": -84.51459347270429,
+    "Elevation": 232.8000030517578,
+    "Time": "11/25/2020, 22:51:39",
+    "Speed": 17.032042016059663,
+    "Distance": 0.004731999516593676,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13437835872173,
+    "Longitude": -84.5146431773901,
+    "Elevation": 232.8000030517578,
+    "Time": "11/25/2020, 22:51:40",
+    "Speed": 8.882675148945582,
+    "Distance": 0.007403601013531325,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13429403677583,
+    "Longitude": -84.51474786736071,
+    "Elevation": 232.8000030517578,
+    "Time": "11/25/2020, 22:51:43",
+    "Speed": 6.962934710380921,
+    "Distance": 0.011607041710862964,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13413000293076,
+    "Longitude": -84.51480503194034,
+    "Elevation": 233.0,
+    "Time": "11/25/2020, 22:51:49",
+    "Speed": 8.036243350759143,
+    "Distance": 0.011163517449981904,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133981643244624,
+    "Longitude": -84.51490628533065,
+    "Elevation": 233.60000610351562,
+    "Time": "11/25/2020, 22:51:54",
+    "Speed": 7.874900062054334,
+    "Distance": 0.00218787760456016,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13395507261157,
+    "Longitude": -84.51493361033499,
+    "Elevation": 234.0,
+    "Time": "11/25/2020, 22:51:55",
+    "Speed": 5.940903863932537,
+    "Distance": 0.00825278442413155,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133843341842294,
+    "Longitude": -84.51500041410327,
+    "Elevation": 235.0,
+    "Time": "11/25/2020, 22:52:00",
+    "Speed": 5.718244292903733,
+    "Distance": 0.00158869554245293,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133820375427604,
+    "Longitude": -84.51500167138875,
+    "Elevation": 235.1999969482422,
+    "Time": "11/25/2020, 22:52:01",
+    "Speed": 5.1228135677230915,
+    "Distance": 0.005693069874582976,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13373873569071,
+    "Longitude": -84.51498415321112,
+    "Elevation": 235.8000030517578,
+    "Time": "11/25/2020, 22:52:05",
+    "Speed": 6.802481702919571,
+    "Distance": 0.0018899284125474276,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133712416514754,
+    "Longitude": -84.51497233472764,
+    "Elevation": 236.1999969482422,
+    "Time": "11/25/2020, 22:52:06",
+    "Speed": 6.477118900950843,
+    "Distance": 0.008997665541019466,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13359733298421,
+    "Longitude": -84.51487585902214,
+    "Elevation": 236.8000030517578,
+    "Time": "11/25/2020, 22:52:11",
+    "Speed": 9.232917715632867,
+    "Distance": 0.010260698541238466,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133450565859675,
+    "Longitude": -84.51491139829159,
+    "Elevation": 237.39999389648438,
+    "Time": "11/25/2020, 22:52:15",
+    "Speed": 9.924760124652794,
+    "Distance": 0.0027573886952534797,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133412931114435,
+    "Longitude": -84.51493243686855,
+    "Elevation": 237.39999389648438,
+    "Time": "11/25/2020, 22:52:16",
+    "Speed": 9.101546231455488,
+    "Distance": 0.01264337896973618,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.133237078785896,
+    "Longitude": -84.5150124002248,
+    "Elevation": 237.60000610351562,
+    "Time": "11/25/2020, 22:52:21",
+    "Speed": 6.651631871876987,
+    "Distance": 0.001848017916618714,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13321344181895,
+    "Longitude": -84.51503226533532,
+    "Elevation": 237.60000610351562,
+    "Time": "11/25/2020, 22:52:22",
+    "Speed": 7.406821996513262,
+    "Distance": 0.010289159125473056,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13307346403599,
+    "Longitude": -84.51511264778674,
+    "Elevation": 237.8000030517578,
+    "Time": "11/25/2020, 22:52:27",
+    "Speed": 6.799571955476885,
+    "Distance": 0.01322383999711563,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13288445211947,
+    "Longitude": -84.51515992172062,
+    "Elevation": 238.1999969482422,
+    "Time": "11/25/2020, 22:52:34",
+    "Speed": 7.0424574603315495,
+    "Distance": 0.011739604188328588,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13272217847407,
+    "Longitude": -84.51523954980075,
+    "Elevation": 238.39999389648438,
+    "Time": "11/25/2020, 22:52:40",
+    "Speed": 9.018237580009577,
+    "Distance": 0.015033181281103324,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13250483572483,
+    "Longitude": -84.51525388285518,
+    "Elevation": 239.0,
+    "Time": "11/25/2020, 22:52:46",
+    "Speed": 4.196664208678971,
+    "Distance": 0.004663824334874235,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13245680741966,
+    "Longitude": -84.5153289847076,
+    "Elevation": 239.39999389648438,
+    "Time": "11/25/2020, 22:52:50",
+    "Speed": 4.478836844875909,
+    "Distance": 0.003733055689659091,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132482623681426,
+    "Longitude": -84.51540417037904,
+    "Elevation": 240.1999969482422,
+    "Time": "11/25/2020, 22:52:53",
+    "Speed": 3.045718306926528,
+    "Distance": 0.004230948215859061,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13247407414019,
+    "Longitude": -84.51550022698939,
+    "Elevation": 240.39999389648438,
+    "Time": "11/25/2020, 22:52:58",
+    "Speed": 3.3044642849054995,
+    "Distance": 0.002754230535134287,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13244943134487,
+    "Longitude": -84.51554984785616,
+    "Elevation": 240.8000030517578,
+    "Time": "11/25/2020, 22:53:01",
+    "Speed": 3.007589563529931,
+    "Distance": 0.0033423854514488447,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13241087459028,
+    "Longitude": -84.51559611596167,
+    "Elevation": 241.60000610351562,
+    "Time": "11/25/2020, 22:53:05",
+    "Speed": 3.583649842741178,
+    "Distance": 0.001991285520256769,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13238346576691,
+    "Longitude": -84.515610197559,
+    "Elevation": 242.0,
+    "Time": "11/25/2020, 22:53:07",
+    "Speed": 6.443009142195776,
+    "Distance": 0.01253039493577572,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.132228903472424,
+    "Longitude": -84.51576040126383,
+    "Elevation": 242.8000030517578,
+    "Time": "11/25/2020, 22:53:14",
+    "Speed": 5.527749470965963,
+    "Distance": 0.003071541016608334,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13219931535423,
+    "Longitude": -84.51581295579672,
+    "Elevation": 243.0,
+    "Time": "11/25/2020, 22:53:16",
+    "Speed": 5.284222777444985,
+    "Distance": 0.007340558344344612,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13213795982301,
+    "Longitude": -84.5159503351897,
+    "Elevation": 243.8000030517578,
+    "Time": "11/25/2020, 22:53:21",
+    "Speed": 6.741710593961007,
+    "Distance": 0.003746088841438681,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13213946856558,
+    "Longitude": -84.51603616587818,
+    "Elevation": 243.8000030517578,
+    "Time": "11/25/2020, 22:53:23",
+    "Speed": 5.710351612409214,
+    "Distance": 0.0015865027249240941,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13213049992919,
+    "Longitude": -84.51606960967183,
+    "Elevation": 244.0,
+    "Time": "11/25/2020, 22:53:24",
+    "Speed": 8.448671605649936,
+    "Distance": 0.00704186437235727,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13212572224438,
+    "Longitude": -84.51623087748885,
+    "Elevation": 244.39999389648438,
+    "Time": "11/25/2020, 22:53:27",
+    "Speed": 11.461109687688008,
+    "Distance": 0.006368463094516682,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1320969723165,
+    "Longitude": -84.51636959798634,
+    "Elevation": 244.60000610351562,
+    "Time": "11/25/2020, 22:53:29",
+    "Speed": 8.753674454556867,
+    "Distance": 0.0024320268379049302,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13207911886275,
+    "Longitude": -84.51641762629151,
+    "Elevation": 244.8000030517578,
+    "Time": "11/25/2020, 22:53:30",
+    "Speed": 11.145139933071583,
+    "Distance": 0.012385783624990055,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.131945595145226,
+    "Longitude": -84.51660705730319,
+    "Elevation": 245.0,
+    "Time": "11/25/2020, 22:53:34",
+    "Speed": 8.142398795592673,
+    "Distance": 0.002262196577975051,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13192204199731,
+    "Longitude": -84.51664309948683,
+    "Elevation": 245.0,
+    "Time": "11/25/2020, 22:53:35",
+    "Speed": 8.999589193176275,
+    "Distance": 0.012501745730634362,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1318036057055,
+    "Longitude": -84.51685977168381,
+    "Elevation": 245.0,
+    "Time": "11/25/2020, 22:53:40",
+    "Speed": 5.8955861431732455,
+    "Distance": 0.004913898888910733,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13175314664841,
+    "Longitude": -84.51693914830685,
+    "Elevation": 245.0,
+    "Time": "11/25/2020, 22:53:43",
+    "Speed": 5.832454525074181,
+    "Distance": 0.003240852971966851,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13171676918864,
+    "Longitude": -84.51698600314558,
+    "Elevation": 245.0,
+    "Time": "11/25/2020, 22:53:45",
+    "Speed": 4.2890381305006535,
+    "Distance": 0.005958101307243111,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13164300844073,
+    "Longitude": -84.51705674640834,
+    "Elevation": 244.60000610351562,
+    "Time": "11/25/2020, 22:53:50",
+    "Speed": 2.4021085658900656,
+    "Distance": 0.0026695041174462776,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13161417469382,
+    "Longitude": -84.51709748245776,
+    "Elevation": 244.8000030517578,
+    "Time": "11/25/2020, 22:53:54",
+    "Speed": 4.26330324751718,
+    "Distance": 0.0023689407162478045,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13158223964274,
+    "Longitude": -84.51711717993021,
+    "Elevation": 244.8000030517578,
+    "Time": "11/25/2020, 22:53:56",
+    "Speed": 5.877395878808766,
+    "Distance": 0.011430387561156849,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13142533041537,
+    "Longitude": -84.51720007695258,
+    "Elevation": 244.60000610351562,
+    "Time": "11/25/2020, 22:54:03",
+    "Speed": 8.89451458666066,
+    "Distance": 0.00741346903995323,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13132533431053,
+    "Longitude": -84.51726160012186,
+    "Elevation": 244.39999389648438,
+    "Time": "11/25/2020, 22:54:06",
+    "Speed": 9.131921246649242,
+    "Distance": 0.007611344585218351,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.131226846948266,
+    "Longitude": -84.51733971945941,
+    "Elevation": 244.8000030517578,
+    "Time": "11/25/2020, 22:54:09",
+    "Speed": 8.056610927696493,
+    "Distance": 0.008953448794758909,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13109759800136,
+    "Longitude": -84.51735388487577,
+    "Elevation": 245.39999389648438,
+    "Time": "11/25/2020, 22:54:13",
+    "Speed": 9.846631398515173,
+    "Distance": 0.0054713644992087,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13102878257632,
+    "Longitude": -84.5172918587923,
+    "Elevation": 245.39999389648438,
+    "Time": "11/25/2020, 22:54:15",
+    "Speed": 10.86414524719045,
+    "Distance": 0.015091886812348914,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.130825186148286,
+    "Longitude": -84.51716671697795,
+    "Elevation": 245.60000610351562,
+    "Time": "11/25/2020, 22:54:20",
+    "Speed": 11.524878391241081,
+    "Distance": 0.0032019483585545103,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13077900186181,
+    "Longitude": -84.51716093346477,
+    "Elevation": 245.60000610351562,
+    "Time": "11/25/2020, 22:54:21",
+    "Speed": 8.822316681582153,
+    "Distance": 0.0049021953131772765,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.130708426237106,
+    "Longitude": -84.51714945025742,
+    "Elevation": 245.8000030517578,
+    "Time": "11/25/2020, 22:54:23",
+    "Speed": 6.390741507359835,
+    "Distance": 0.00532660482430481,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13063173182309,
+    "Longitude": -84.51713721267879,
+    "Elevation": 246.8000030517578,
+    "Time": "11/25/2020, 22:54:26",
+    "Speed": 6.044163604051739,
+    "Distance": 0.0016792454613262342,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13060742430389,
+    "Longitude": -84.51713897287846,
+    "Elevation": 247.0,
+    "Time": "11/25/2020, 22:54:27",
+    "Speed": 5.809102014081434,
+    "Distance": 0.004841815425870377,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13053818978369,
+    "Longitude": -84.51715607196093,
+    "Elevation": 248.0,
+    "Time": "11/25/2020, 22:54:30",
+    "Speed": 6.624454508489237,
+    "Distance": 0.0018404672500402814,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.130512457340956,
+    "Longitude": -84.51716688461602,
+    "Elevation": 248.1999969482422,
+    "Time": "11/25/2020, 22:54:31",
+    "Speed": 7.461725169468587,
+    "Distance": 0.012438513195864767,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13033610209823,
+    "Longitude": -84.51722388155758,
+    "Elevation": 249.39999389648438,
+    "Time": "11/25/2020, 22:54:37",
+    "Speed": 6.745890463290563,
+    "Distance": 0.0037484114213886645,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13028195500374,
+    "Longitude": -84.51722882688046,
+    "Elevation": 250.0,
+    "Time": "11/25/2020, 22:54:39",
+    "Speed": 5.807268588167599,
+    "Distance": 0.0032268581918747717,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13023526780307,
+    "Longitude": -84.51722807250917,
+    "Elevation": 250.60000610351562,
+    "Time": "11/25/2020, 22:54:41",
+    "Speed": 6.20252063085265,
+    "Distance": 0.005169725027542034,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13016226142645,
+    "Longitude": -84.5172022562474,
+    "Elevation": 251.1999969482422,
+    "Time": "11/25/2020, 22:54:44",
+    "Speed": 5.245846381173456,
+    "Distance": 0.007287247916729927,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.130085315555334,
+    "Longitude": -84.51708801090717,
+    "Elevation": 251.60000610351562,
+    "Time": "11/25/2020, 22:54:49",
+    "Speed": 5.425149255213027,
+    "Distance": 0.009043591001798988,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1300403047353,
+    "Longitude": -84.5168932992965,
+    "Elevation": 251.60000610351562,
+    "Time": "11/25/2020, 22:54:55",
+    "Speed": 5.348637360480906,
+    "Distance": 0.010402055470657019,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.129976937547326,
+    "Longitude": -84.51667696237564,
+    "Elevation": 251.8000030517578,
+    "Time": "11/25/2020, 22:55:02",
+    "Speed": 6.648617650869271,
+    "Distance": 0.01108308286707999,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.12990225479007,
+    "Longitude": -84.51645207591355,
+    "Elevation": 251.39999389648438,
+    "Time": "11/25/2020, 22:55:08",
+    "Speed": 6.376414892688801,
+    "Distance": 0.003543109177555286,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.12988582625985,
+    "Longitude": -84.51637513004243,
+    "Elevation": 251.39999389648438,
+    "Time": "11/25/2020, 22:55:10",
+    "Speed": 5.743899124100005,
+    "Distance": 0.007979116025246907,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.12981399334967,
+    "Longitude": -84.51623188331723,
+    "Elevation": 251.60000610351562,
+    "Time": "11/25/2020, 22:55:15",
+    "Speed": 6.340452779249345,
+    "Distance": 0.008807816308256758,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.12975783459842,
+    "Longitude": -84.51605058275163,
+    "Elevation": 251.39999389648438,
+    "Time": "11/25/2020, 22:55:20",
+    "Speed": 6.470616700501816,
+    "Distance": 0.010786359640247482,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.129731096327305,
+    "Longitude": -84.51580692082644,
+    "Elevation": 251.39999389648438,
+    "Time": "11/25/2020, 22:55:26",
+    "Speed": 6.099871358676808,
+    "Distance": 0.0016947227052003266,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.12972246296704,
+    "Longitude": -84.51577054336667,
+    "Elevation": 251.39999389648438,
+    "Time": "11/25/2020, 22:55:27",
+    "Speed": 5.899123848949742,
+    "Distance": 0.011472644221206594,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.12970603443682,
+    "Longitude": -84.51550877653062,
+    "Elevation": 251.1999969482422,
+    "Time": "11/25/2020, 22:55:34",
+    "Speed": 5.405638610019565,
+    "Distance": 0.010512911772858182,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.12970067001879,
+    "Longitude": -84.51526788063347,
+    "Elevation": 250.8000030517578,
+    "Time": "11/25/2020, 22:55:41",
+    "Speed": 4.571834069173779,
+    "Distance": 0.006350946229723365,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1297572478652,
+    "Longitude": -84.51515313237906,
+    "Elevation": 250.8000030517578,
+    "Time": "11/25/2020, 22:55:46",
+    "Speed": 6.206881949074872,
+    "Distance": 0.008622266888163546,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.129876689985394,
+    "Longitude": -84.51509596779943,
+    "Elevation": 250.8000030517578,
+    "Time": "11/25/2020, 22:55:51",
+    "Speed": 7.566678873538282,
+    "Distance": 0.012613468451301863,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.130057571455836,
+    "Longitude": -84.5150573272258,
+    "Elevation": 250.8000030517578,
+    "Time": "11/25/2020, 22:55:57",
+    "Speed": 7.267284284877287,
+    "Distance": 0.004038128333709211,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13011599332094,
+    "Longitude": -84.51505514793098,
+    "Elevation": 250.8000030517578,
+    "Time": "11/25/2020, 22:55:59",
+    "Speed": 7.7620676923342495,
+    "Distance": 0.010782647357627441,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13027172908187,
+    "Longitude": -84.51503997668624,
+    "Elevation": 250.39999389648438,
+    "Time": "11/25/2020, 22:56:04",
+    "Speed": 7.827988198137033,
+    "Distance": 0.0065245323493022455,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13036594167352,
+    "Longitude": -84.51503033749759,
+    "Elevation": 250.1999969482422,
+    "Time": "11/25/2020, 22:56:07",
+    "Speed": 7.524673266338989,
+    "Distance": 0.012543446132390066,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13054673932493,
+    "Longitude": -84.51500494033098,
+    "Elevation": 249.8000030517578,
+    "Time": "11/25/2020, 22:56:13",
+    "Speed": 7.100919735760204,
+    "Distance": 0.0019728432283870937,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13057515397668,
+    "Longitude": -84.5150004979223,
+    "Elevation": 249.60000610351562,
+    "Time": "11/25/2020, 22:56:14",
+    "Speed": 7.068293608206027,
+    "Distance": 0.003927557471457088,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13062837906182,
+    "Longitude": -84.51496889814734,
+    "Elevation": 249.39999389648438,
+    "Time": "11/25/2020, 22:56:16",
+    "Speed": 6.553724708635006,
+    "Distance": 0.0054624493276684925,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13069115951657,
+    "Longitude": -84.51489279046655,
+    "Elevation": 249.0,
+    "Time": "11/25/2020, 22:56:19",
+    "Speed": 5.302626446826963,
+    "Distance": 0.007366123732962416,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13074589334428,
+    "Longitude": -84.51474786736071,
+    "Elevation": 248.8000030517578,
+    "Time": "11/25/2020, 22:56:24",
+    "Speed": 4.993524420479645,
+    "Distance": 0.011098777291191773,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13079719059169,
+    "Longitude": -84.51450672000647,
+    "Elevation": 248.60000610351562,
+    "Time": "11/25/2020, 22:56:32",
+    "Speed": 5.26125624773695,
+    "Distance": 0.0029234617901355334,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.130804650485516,
+    "Longitude": -84.5144407544285,
+    "Elevation": 248.39999389648438,
+    "Time": "11/25/2020, 22:56:34",
+    "Speed": 5.167016907794839,
+    "Distance": 0.00717774224807046,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.130832981318235,
+    "Longitude": -84.5142824202776,
+    "Elevation": 248.1999969482422,
+    "Time": "11/25/2020, 22:56:39",
+    "Speed": 4.095262701499945,
+    "Distance": 0.007964486450822865,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13082401268184,
+    "Longitude": -84.51410036534071,
+    "Elevation": 248.0,
+    "Time": "11/25/2020, 22:56:46",
+    "Speed": 6.790776874666657,
+    "Distance": 0.011320058813118969,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13088059052825,
+    "Longitude": -84.51385678723454,
+    "Elevation": 248.1999969482422,
+    "Time": "11/25/2020, 22:56:52",
+    "Speed": 5.251559725528607,
+    "Distance": 0.010213258422796736,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.130891654640436,
+    "Longitude": -84.51362326741219,
+    "Elevation": 248.8000030517578,
+    "Time": "11/25/2020, 22:56:59",
+    "Speed": 7.442055171304522,
+    "Distance": 0.012405723790443154,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.130848068743944,
+    "Longitude": -84.51334733515978,
+    "Elevation": 249.60000610351562,
+    "Time": "11/25/2020, 22:57:05",
+    "Speed": 8.574079462251122,
+    "Distance": 0.0023821300952846323,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13083893246949,
+    "Longitude": -84.51329469680786,
+    "Elevation": 249.8000030517578,
+    "Time": "11/25/2020, 22:57:06",
+    "Speed": 6.370541500630304,
+    "Distance": 0.00884961394323657,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.130859300494194,
+    "Longitude": -84.51309436932206,
+    "Elevation": 250.39999389648438,
+    "Time": "11/25/2020, 22:57:11",
+    "Speed": 6.752943923589464,
+    "Distance": 0.0056284961049084346,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13093825802207,
+    "Longitude": -84.51306268572807,
+    "Elevation": 250.60000610351562,
+    "Time": "11/25/2020, 22:57:14",
+    "Speed": 6.692190978660075,
+    "Distance": 0.0018592864229733882,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13096516393125,
+    "Longitude": -84.51306209899485,
+    "Elevation": 250.8000030517578,
+    "Time": "11/25/2020, 22:57:15",
+    "Speed": 7.135767197828662,
+    "Distance": 0.0019825248727552195,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.1309938300401,
+    "Longitude": -84.51306042261422,
+    "Elevation": 251.0,
+    "Time": "11/25/2020, 22:57:16",
+    "Speed": 6.077797945769005,
+    "Distance": 0.008442950326864734,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13110966794193,
+    "Longitude": -84.51299889944494,
+    "Elevation": 251.1999969482422,
+    "Time": "11/25/2020, 22:57:21",
+    "Speed": 7.302696610257314,
+    "Distance": 0.010144513733874184,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13125291466713,
+    "Longitude": -84.51294810511172,
+    "Elevation": 251.8000030517578,
+    "Time": "11/25/2020, 22:57:26",
+    "Speed": 7.722773499943801,
+    "Distance": 0.012873674372352545,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13142214529216,
+    "Longitude": -84.51282472349703,
+    "Elevation": 251.1999969482422,
+    "Time": "11/25/2020, 22:57:32",
+    "Speed": 8.0364678362337,
+    "Distance": 0.0022327658586281675,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.131450140848756,
+    "Longitude": -84.51279915869236,
+    "Elevation": 251.0,
+    "Time": "11/25/2020, 22:57:33",
+    "Speed": 6.9289357585565785,
+    "Distance": 0.0038501220968199263,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13149917498231,
+    "Longitude": -84.5127572491765,
+    "Elevation": 250.60000610351562,
+    "Time": "11/25/2020, 22:57:35",
+    "Speed": 4.607443670970903,
+    "Distance": 0.005120330540098293,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.131573271006346,
+    "Longitude": -84.51275624334812,
+    "Elevation": 249.8000030517578,
+    "Time": "11/25/2020, 22:57:39",
+    "Speed": 6.353385676295853,
+    "Distance": 0.0017651563987816225,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.131598584353924,
+    "Longitude": -84.51275079511106,
+    "Elevation": 249.60000610351562,
+    "Time": "11/25/2020, 22:57:40",
+    "Speed": 4.870646088884249,
+    "Distance": 0.006766039831385772,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13169363513589,
+    "Longitude": -84.51271357946098,
+    "Elevation": 249.0,
+    "Time": "11/25/2020, 22:57:45",
+    "Speed": 5.3111144534595995,
+    "Distance": 0.0059023318525511246,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.131760857999325,
+    "Longitude": -84.51263009570539,
+    "Elevation": 248.60000610351562,
+    "Time": "11/25/2020, 22:57:49",
+    "Speed": 5.343127737399973,
+    "Distance": 0.001484477189912679,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.131764797493815,
+    "Longitude": -84.51259665191174,
+    "Elevation": 248.60000610351562,
+    "Time": "11/25/2020, 22:57:50",
+    "Speed": 6.226786969986657,
+    "Distance": 0.006919934298923336,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13175566121936,
+    "Longitude": -84.51243865303695,
+    "Elevation": 247.60000610351562,
+    "Time": "11/25/2020, 22:57:54",
+    "Speed": 7.657854900037972,
+    "Distance": 0.004255152218501579,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13175834342837,
+    "Longitude": -84.51234117150307,
+    "Elevation": 247.1999969482422,
+    "Time": "11/25/2020, 22:57:56",
+    "Speed": 6.8769937335415365,
+    "Distance": 0.009553150171908985,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13174250163138,
+    "Longitude": -84.51212357729673,
+    "Elevation": 246.39999389648438,
+    "Time": "11/25/2020, 22:58:01",
+    "Speed": 7.202695695401926,
+    "Distance": 0.012006717403588817,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.131817016750574,
+    "Longitude": -84.51187488622963,
+    "Elevation": 246.1999969482422,
+    "Time": "11/25/2020, 22:58:07",
+    "Speed": 7.040322411785105,
+    "Distance": 0.001956007519111209,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13182849995792,
+    "Longitude": -84.51183389872313,
+    "Elevation": 246.0,
+    "Time": "11/25/2020, 22:58:08",
+    "Speed": 5.783025888559125,
+    "Distance": 0.008033468824028125,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13183503784239,
+    "Longitude": -84.51164999976754,
+    "Elevation": 245.39999389648438,
+    "Time": "11/25/2020, 22:58:13",
+    "Speed": 5.930228035313959,
+    "Distance": 0.003295181654664328,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.13181860931218,
+    "Longitude": -84.51157908886671,
+    "Elevation": 245.39999389648438,
+    "Time": "11/25/2020, 22:58:15",
+    "Speed": 6.580718238533386,
+    "Distance": 0.010969896208881011,
+    "Street": "West Charlton Street"
+  },
+  {
+    "Latitude": 39.131808718666434,
+    "Longitude": -84.51132805086672,
+    "Elevation": 245.1999969482422,
+    "Time": "11/25/2020, 22:58:21",
+    "Speed": 6.580718238533386,
+    "Distance": 0,
+    "Street": "West Charlton Street"
+  }
+]
